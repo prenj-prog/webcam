@@ -1,0 +1,2006 @@
+#NAME Prenj SF Ver. 734 - 27.08.2025.
+#SERVICE 1:64:1:0:0:0:0:0:0:0::=== HRVATSKA ===
+#DESCRIPTION === HRVATSKA ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_monperin03.m3u8:Bale Mon Perin @
+#DESCRIPTION Bale Mon Perin @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_monperin01.m3u8:Bale Mon Perin plaža 201
+#DESCRIPTION Bale Mon Perin plaža 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8:Bale Trg La Musa 403
+#DESCRIPTION Bale Trg La Musa 403
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_baskavoda5.m3u8:Baška Voda Borik 45
+#DESCRIPTION Baška Voda Borik 45
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_baskavoda4.m3u8:Baška Voda HD 44 @
+#DESCRIPTION Baška Voda HD 44 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_baskavoda3.m3u8:Baška Voda marina 13
+#DESCRIPTION Baška Voda marina 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_baskavoda2.m3u8:Baška Voda panorama 22
+#DESCRIPTION Baška Voda panorama 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_baskavoda1.m3u8:Baška Voda plaža Nikolina 51
+#DESCRIPTION Baška Voda plaža Nikolina 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_baskavoda6.m3u8:Baška Voda plaža Podluka 46
+#DESCRIPTION Baška Voda plaža Podluka 46
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_promajna01.m3u8:Baška Voda Promajna 201
+#DESCRIPTION Baška Voda Promajna 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bednja01.m3u8:Bednja centar 401
+#DESCRIPTION Bednja centar 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_biograd1.m3u8:Biograd na Moru gradski trg 51
+#DESCRIPTION Biograd na Moru gradski trg 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_biograd2.m3u8:Biograd na Moru riva i marina 62
+#DESCRIPTION Biograd na Moru riva i marina 62
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_postira01.m3u8:Brač Postira uvala Prja 201
+#DESCRIPTION Brač Postira uvala Prja 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_brela.m3u8:Brela marina riva 60
+#DESCRIPTION Brela marina riva 60
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_brela02.m3u8:Brela panoramska 702 @
+#DESCRIPTION Brela panoramska 702 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_brinje01.m3u8:Brinje centar 501
+#DESCRIPTION Brinje centar 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_istralandia01.m3u8:Brtonigla Aquapark Istralandia 501
+#DESCRIPTION Brtonigla Aquapark Istralandia 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_cres01.m3u8:Cres centar Mandrač i trg 201
+#DESCRIPTION Cres centar Mandrač i trg 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_mlosinj05.m3u8:Cres Mali Lošinj centar 405
+#DESCRIPTION Cres Mali Lošinj centar 405
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_ilovik01.m3u8:Cres Mali Lošinj Ilovik Sveti Petar 601
+#DESCRIPTION Cres Mali Lošinj Ilovik Sveti Petar 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-007.whatsupcams.com/hls/hr_mlosinj01.m3u8:Cres Mali Lošinj marina 701
+#DESCRIPTION Cres Mali Lošinj marina 701
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_osor01.m3u8:Cres Mali Lošinj Osor 401
+#DESCRIPTION Cres Mali Lošinj Osor 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_mlosinj02.m3u8:Cres Mali Lošinj panorama 202
+#DESCRIPTION Cres Mali Lošinj panorama 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_mlosinj06.m3u8:Cres Mali Lošinj panorama Škverić 606
+#DESCRIPTION Cres Mali Lošinj panorama Škverić 606
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_mlosinj04.m3u8:Cres Mali Lošinj Sunčana uvala 504
+#DESCRIPTION Cres Mali Lošinj Sunčana uvala 504
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_mlosinj07.m3u8:Cres Mali Lošinj Vidikovac 207
+#DESCRIPTION Cres Mali Lošinj Vidikovac 207
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_martinscica02.m3u8:Cres Martinšćica panorama 102
+#DESCRIPTION Cres Martinšćica panorama 102
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_nerezine01.m3u8:Cres Nerezine marina 401
+#DESCRIPTION Cres Nerezine marina 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_merag01.m3u8:Cres Trajektna luka Merag-Krk 201
+#DESCRIPTION Cres Trajektna luka Merag-Krk 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_vlosinj06.m3u8:Cres Veli Lošinj Kula 406
+#DESCRIPTION Cres Veli Lošinj Kula 406
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_vlosinj02.m3u8:Cres Veli Lošinj Lučica 502
+#DESCRIPTION Cres Veli Lošinj Lučica 502
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_vlosinj01.m3u8:Cres Veli Lošinj marina 301
+#DESCRIPTION Cres Veli Lošinj marina 301
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_rovenska01.m3u8:Cres Veli Lošinj Rovenska 401
+#DESCRIPTION Cres Veli Lošinj Rovenska 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_crikvenica1.m3u8:Crikvenica Trg Stjepana Radića 41 @
+#DESCRIPTION Crikvenica Trg Stjepana Radića 41 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_cazma01.m3u8:Čazma centar 601
+#DESCRIPTION Čazma centar 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_evecazma01.m3u8:Čazma klizalište 601
+#DESCRIPTION Čazma klizalište 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hrdaruvar.m3u8:Daruvar Trg kralja Tomislava 10
+#DESCRIPTION Daruvar Trg kralja Tomislava 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_delnice01.m3u8:Delnice panorama Petehovac 401
+#DESCRIPTION Delnice panorama Petehovac 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_drage03.m3u8:Drage Kornati Vrgada 403 @
+#DESCRIPTION Drage Kornati Vrgada 403 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_drvenik01.m3u8:Drvenik Donja Vala trajekt za Hvar 201
+#DESCRIPTION Drvenik Donja Vala trajekt za Hvar 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_drvenik02.m3u8:Drvenik Gornja Vala 302
+#DESCRIPTION Drvenik Gornja Vala 302
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.luci.xyz/hls/LTV.m3u8:Dubrovnik Libertas TV i webcam @@
+#DESCRIPTION Dubrovnik Libertas TV i webcam @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_dubrovnik07.m3u8:Dubrovnik Stradun 407 @
+#DESCRIPTION Dubrovnik Stradun 407 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_djakovo01.m3u8:Đakovo Katedrala Sv. Petra 101
+#DESCRIPTION Đakovo Katedrala Sv. Petra 101
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_djakovo02.m3u8:Đakovo korzo 202
+#DESCRIPTION Đakovo korzo 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_bivillage01.m3u8:Fažana Brijuni BiVillage 201
+#DESCRIPTION Fažana Brijuni BiVillage 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_fazana01.m3u8:Fažana pogled na Brijune 601
+#DESCRIPTION Fažana pogled na Brijune 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_fuzine01.m3u8:Fužine Gorski kotar 201
+#DESCRIPTION Fužine Gorski kotar 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_fuzine03.m3u8:Fužine jezero Bajer 303
+#DESCRIPTION Fužine jezero Bajer 303
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_fuzine04.m3u8:Fužine Sanjkalište 604
+#DESCRIPTION Fužine Sanjkalište 604
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/ggazg0ll/g98s254r.m3u8:Hvar Jelsa 1
+#DESCRIPTION Hvar Jelsa 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/ggazg0ll/9itrcth2.m3u8:Hvar Jelsa 2
+#DESCRIPTION Hvar Jelsa 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/ggazg0ll/taelb29k.m3u8:Hvar Jelsa 3
+#DESCRIPTION Hvar Jelsa 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/ggazg0ll/qk6kk8xt.m3u8:Hvar Jelsa 4
+#DESCRIPTION Hvar Jelsa 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_jelsa01.m3u8:Hvar Jelsa 401
+#DESCRIPTION Hvar Jelsa 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_jelsadolac01.m3u8:Hvar Jelsa Ivan Dolac plaža 201
+#DESCRIPTION Hvar Jelsa Ivan Dolac plaža 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_jelsa06.m3u8:Hvar Jelsa okretna 406 @
+#DESCRIPTION Hvar Jelsa okretna 406 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_jelsa07.m3u8:Hvar Jelsa panoramski pogled 207
+#DESCRIPTION Hvar Jelsa panoramski pogled 207
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_jelsazavala01.m3u8:Hvar Jelsa Zavala 401
+#DESCRIPTION Hvar Jelsa Zavala 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_vira01.m3u8:Hvar Vela Garška plaža Vira 701
+#DESCRIPTION Hvar Vela Garška plaža Vira 701
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_vrboska02.m3u8:Hvar Vrboska marina 702
+#DESCRIPTION Hvar Vrboska marina 702
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_vrboska03.m3u8:Hvar Vrboska marina 703 @
+#DESCRIPTION Hvar Vrboska marina 703 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_igrane1.m3u8:Igrane panorama 61
+#DESCRIPTION Igrane panorama 61
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_igrane3.m3u8:Igrane plaža 73
+#DESCRIPTION Igrane plaža 73
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_igrane2.m3u8:Igrane Porat 22
+#DESCRIPTION Igrane Porat 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_kapela01.m3u8:Kapela muzej 401
+#DESCRIPTION Kapela muzej 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kapela02.m3u8:Kapela panorama 202
+#DESCRIPTION Kapela panorama 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_karlovac3.m3u8:Karlovac Kupalište Foginovo Korana 43
+#DESCRIPTION Karlovac Kupalište Foginovo Korana 43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_karlovac2.m3u8:Karlovac Paviljon 22
+#DESCRIPTION Karlovac Paviljon 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_karlovac1.m3u8:Karlovac Trg bana Petra Zrinskog 41
+#DESCRIPTION Karlovac Trg bana Petra Zrinskog 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kastel2.m3u8:Kaštel Sućurac Ribarska zadruga 22
+#DESCRIPTION Kaštel Sućurac Ribarska zadruga 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kastel3.m3u8:Kaštel Sućurac Ribarska zadruga 23
+#DESCRIPTION Kaštel Sućurac Ribarska zadruga 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_koprivnica01.m3u8:Koprivnica 201
+#DESCRIPTION Koprivnica 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_lumbarda01.m3u8:Korčula plaža Prvi Žal Lumbarda 501
+#DESCRIPTION Korčula plaža Prvi Žal Lumbarda 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_racisce01.m3u8:Korčula Račišće 401
+#DESCRIPTION Korčula Račišće 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_korc3.m3u8:Korčula Tri Žala 53
+#DESCRIPTION Korčula Tri Žala 53
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_vluka01.m3u8:Korčula Vela Luka 601
+#DESCRIPTION Korčula Vela Luka 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_korcula.m3u8:Korčula Veliki Revelin 10
+#DESCRIPTION Korčula Veliki Revelin 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_kraljevica01.m3u8:Kraljevica 801 @
+#DESCRIPTION Kraljevica 801 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_krapina01.m3u8:Krapina 101
+#DESCRIPTION Krapina 101
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_krizevci01.m3u8:Križevci 401
+#DESCRIPTION Križevci 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webcam.marina-punat.hr/webcam/A3North/stream.m3u8:Krk Punat marina A3North
+#DESCRIPTION Krk Punat marina A3North
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webcam.marina-punat.hr/webcam/B1North/stream.m3u8:Krk Punat marina B1North
+#DESCRIPTION Krk Punat marina B1North
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webcam.marina-punat.hr/webcam/B1East/stream.m3u8:Krk Punat marina B1East
+#DESCRIPTION Krk Punat marina B1East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webcam.marina-punat.hr/webcam/B6South/stream.m3u8:Krk Punat marina B6South
+#DESCRIPTION Krk Punat marina B6South
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_krk02.m3u8:Krk riva 302
+#DESCRIPTION Krk riva 302
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_krk03.m3u8:Krk Vela Placa 103
+#DESCRIPTION Krk Vela Placa 103
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_labin01.m3u8:Labin Stari grad 401
+#DESCRIPTION Labin Stari grad 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_makarska02.m3u8:Makarska panoramska 102 @
+#DESCRIPTION Makarska panoramska 102 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_makarskariva02.m3u8:Makarska Plaža Donja Luka 302
+#DESCRIPTION Makarska Plaža Donja Luka 302
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_makarskariva01.m3u8:Makarska Riva 201
+#DESCRIPTION Makarska Riva 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_makarska.m3u8:Makarska trg i marina 40
+#DESCRIPTION Makarska trg i marina 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_medulin02.m3u8:Medulin panorama marine 402
+#DESCRIPTION Medulin panorama marine 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_medulin01.m3u8:Medulin šetnica 401
+#DESCRIPTION Medulin šetnica 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_metajna01.m3u8:Metajna Riva 601
+#DESCRIPTION Metajna Riva 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_metkovic01.m3u8:Metković VK Neretvanski Gusar 201
+#DESCRIPTION Metković VK Neretvanski Gusar 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_mlini01.m3u8:Mlini 201
+#DESCRIPTION Mlini 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_murter02.m3u8:Murter Centar Uvala Hramina 302
+#DESCRIPTION Murter Centar Uvala Hramina 302
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_murter01.m3u8:Murter marina Nautika 601
+#DESCRIPTION Murter marina Nautika 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_nasice01.m3u8:Našice 701
+#DESCRIPTION Našice 701
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_nin.m3u8:Nin plaža pokojnog jajca 40
+#DESCRIPTION Nin plaža pokojnog jajca 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_nin02.m3u8:Nin Spomenik knezu Branimiru 602
+#DESCRIPTION Nin Spomenik knezu Branimiru 602
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_novivinodolski1.m3u8:Novi Vinodolski glavni trg 21
+#DESCRIPTION Novi Vinodolski glavni trg 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_novivinodolski3.m3u8:Novi Vinodolski gradska plaža 33
+#DESCRIPTION Novi Vinodolski gradska plaža 33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_novivinodolski2.m3u8:Novi Vinodolski marina i lučica 62
+#DESCRIPTION Novi Vinodolski marina i lučica 62
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_klenovica1.m3u8:Novi Vinodolski Marina Klenovica 31
+#DESCRIPTION Novi Vinodolski Marina Klenovica 31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_buildnavitech02.m3u8:Novi Vinodolski Mitan Marina 2 302
+#DESCRIPTION Novi Vinodolski Mitan Marina 2 302
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_buildnavitech01.m3u8:Novi Vinodolski Mitan Marina 401
+#DESCRIPTION Novi Vinodolski Mitan Marina 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_novivinodolski4.m3u8:Novi Vinodolski panoramska 34 @
+#DESCRIPTION Novi Vinodolski panoramska 34 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_povile01.m3u8:Novi Vinodolski Povile Plaža 201
+#DESCRIPTION Novi Vinodolski Povile Plaža 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_evenovigrad01.m3u8:Novigrad Fešta svetog Pelagija 601
+#DESCRIPTION Novigrad Fešta svetog Pelagija 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_novigrad1.m3u8:Novigrad Mandrač 41
+#DESCRIPTION Novigrad Mandrač 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_novigrad4.m3u8:Novigrad plaža Karpinjan 24
+#DESCRIPTION Novigrad plaža Karpinjan 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_novigrad3.m3u8:Novigrad Porporela 13
+#DESCRIPTION Novigrad Porporela 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_novigrad2.m3u8:Novigrad Veliki Trg 12
+#DESCRIPTION Novigrad Veliki Trg 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_novska01.m3u8:Novska 401
+#DESCRIPTION Novska 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_ogulin03.m3u8:Ogulin centar 403
+#DESCRIPTION Ogulin centar 403
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_ogulin01.m3u8:Ogulin centar i Park kralja Tomislava 301
+#DESCRIPTION Ogulin centar i Park kralja Tomislava 301
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_ogulin07.m3u8:Ogulin Đulin ponor 207
+#DESCRIPTION Ogulin Đulin ponor 207
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_ogulin04.m3u8:Ogulin planina Klek 104
+#DESCRIPTION Ogulin planina Klek 104
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_omis01.m3u8:Omiš ušće Cetine 201
+#DESCRIPTION Omiš ušće Cetine 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_opatija01.m3u8:Opatija 201
+#DESCRIPTION Opatija 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Odbojka/Odbojka.stream/playlist.m3u8:Opatija Ičići Odbojka
+#DESCRIPTION Opatija Ičići Odbojka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Icici/Icici.stream/playlist.m3u8:Opatija Ičići Privezište @
+#DESCRIPTION Opatija Ičići Privezište @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Ika_Boat/Ika_Boat.stream/playlist.m3u8:Opatija Ika luka @
+#DESCRIPTION Opatija Ika luka @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/M_Tita_101/M_Tita_101.stream/playlist.m3u8:Opatija Kvarner ulaz
+#DESCRIPTION Opatija Kvarner ulaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Centar/Lovran_Centar.stream/playlist.m3u8:Opatija Lovran centar
+#DESCRIPTION Opatija Lovran centar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Medveja/Medveja.stream/playlist.m3u8:Opatija Lovran Medveja luka @
+#DESCRIPTION Opatija Lovran Medveja luka @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Lucica/Lovran_Lucica.stream/playlist.m3u8:Opatija Lovran luka @
+#DESCRIPTION Opatija Lovran luka @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Centar2/Lovran_Centar2.stream/playlist.m3u8:Opatija Lovran stari grad
+#DESCRIPTION Opatija Lovran stari grad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Zert_Mul/Zert_Mul.stream/playlist.m3u8:Opatija Luka @
+#DESCRIPTION Opatija Luka @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Park_Jakov/Park_Jakov.stream/playlist.m3u8:Opatija Lungomare Park Sv. Jakov @
+#DESCRIPTION Opatija Lungomare Park Sv. Jakov @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mdraga04.m3u8:Opatija Mošćenička Draga centar 704
+#DESCRIPTION Opatija Mošćenička Draga centar 704
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/MDraga_Mul/MDraga_Mul.stream/playlist.m3u8:Opatija Mošćenička Draga luka @
+#DESCRIPTION Opatija Mošćenička Draga luka @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_brsec01.m3u8:Opatija Mošćenička Draga plaža Brseč 201
+#DESCRIPTION Opatija Mošćenička Draga plaža Brseč 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_mdraga02.m3u8:Opatija Mošćenička Draga plaža Sipar 302
+#DESCRIPTION Opatija Mošćenička Draga plaža Sipar 302
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_mdraga03.m3u8:Opatija Mošćenička Draga plaža Sv. Ivan 603
+#DESCRIPTION Opatija Mošćenička Draga plaža Sv. Ivan 603
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_mdraga01.m3u8:Opatija Mošćenička Draga pogled na lučicu i Sipar 401
+#DESCRIPTION Opatija Mošćenička Draga pogled na lučicu i Sipar 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Advent_Opatija2/Advent_Opatija2.stream/playlist.m3u8:Opatija Park Angiolina muzički paviljon
+#DESCRIPTION Opatija Park Angiolina muzički paviljon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Ucka_Poklon/Ucka_Poklon.stream/playlist.m3u8:Opatija Poklon Učka @
+#DESCRIPTION Opatija Poklon Učka @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Preluk/Preluk.stream/playlist.m3u8:Opatija Preluk Ribolovno društvo @
+#DESCRIPTION Opatija Preluk Ribolovno društvo @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Slatina_Palace/Slatina_Palace.stream/playlist.m3u8:Opatija Slatina hotel Palace Bellevue
+#DESCRIPTION Opatija Slatina hotel Palace Bellevue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Slatina_Promet/Slatina_Promet.stream/playlist.m3u8:Opatija Šetalište Lungomare Pančera
+#DESCRIPTION Opatija Šetalište Lungomare Pančera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Madona/Madona.stream/playlist.m3u8:Opatija Šetalište Lungomare Slatina
+#DESCRIPTION Opatija Šetalište Lungomare Slatina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Trznica_Op/Trznica_Op.stream/playlist.m3u8:Opatija Tržnica
+#DESCRIPTION Opatija Tržnica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Veprinac/Veprinac.stream/playlist.m3u8:Opatija Veprinac crkva Sv.Marko
+#DESCRIPTION Opatija Veprinac crkva Sv.Marko
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Park_Angiolina/Park_Angiolina.stream/playlist.m3u8:Opatija Villa Angiolina
+#DESCRIPTION Opatija Villa Angiolina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/VoloskoSvjetionik/VoloskoSvjetionik.stream/playlist.m3u8:Opatija Volosko Črnikovica @
+#DESCRIPTION Opatija Volosko Črnikovica @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/VoloskoMul/VoloskoMul.stream/playlist.m3u8:Opatija Volosko luka @
+#DESCRIPTION Opatija Volosko luka @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Volosko_Surfing/Volosko_Surfing.stream/playlist.m3u8:Opatija Volosko Preluk @
+#DESCRIPTION Opatija Volosko Preluk @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Preluk/Preluk.stream/chunklist.m3u8:Opatija Volosko Preluk privezište @
+#DESCRIPTION Opatija Volosko Preluk privezište @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_opuzen1.m3u8:Opuzen - Neretva 51
+#DESCRIPTION Opuzen - Neretva 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_otok01.m3u8:Otok kod Sinja 601 @
+#DESCRIPTION Otok kod Sinja 601 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_gajac1.m3u8:Pag Gajac 61
+#DESCRIPTION Pag Gajac 61
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_pag01.m3u8:Pag gradski most Katine 301
+#DESCRIPTION Pag gradski most Katine 301
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_pag02.m3u8:Pag gradski Trg 602
+#DESCRIPTION Pag gradski Trg 602
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_simuni.m3u8:Pag kamp Šimuni 30 @
+#DESCRIPTION Pag kamp Šimuni 30 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kolan01.m3u8:Pag Kolan 201
+#DESCRIPTION Pag Kolan 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kolan02.m3u8:Pag Kolan 202
+#DESCRIPTION Pag Kolan 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_pag03.m3u8:Pag lučica 103
+#DESCRIPTION Pag lučica 103
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mandre1.m3u8:Pag Mandre Kolan 71
+#DESCRIPTION Pag Mandre Kolan 71
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_mandre2.m3u8:Pag Mandre Villa Violeta 32
+#DESCRIPTION Pag Mandre Villa Violeta 32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_metajna01.m3u8:Pag Metajna Riva 601
+#DESCRIPTION Pag Metajna Riva 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_nov8.m3u8:Pag Novalja Ruža Vjetrova 38 @
+#DESCRIPTION Pag Novalja Ruža Vjetrova 38 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_novalja.m3u8:Pag Novalja Slastičarna 20
+#DESCRIPTION Pag Novalja Slastičarna 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_nov2.m3u8:Pag Novalja šetalište hrvatskih mornara i pogled na plažu Lokunje 22
+#DESCRIPTION Pag Novalja šetalište hrvatskih mornara i pogled na plažu Lokunje 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_nov6.m3u8:Pag Novalja šetnica 36
+#DESCRIPTION Pag Novalja šetnica 36
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_nov5.m3u8:Pag Novalja Trg Loža 45
+#DESCRIPTION Pag Novalja Trg Loža 45
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_povljana01.m3u8:Pag Povljana riva i lučica 201
+#DESCRIPTION Pag Povljana riva i lučica 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_povljana02.m3u8:Pag Povljana Trg 402
+#DESCRIPTION Pag Povljana Trg 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pakos4.m3u8:Pakoštane Drage Vransko jezero 24 @
+#DESCRIPTION Pakoštane Drage Vransko jezero 24 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_pakos1.m3u8:Pakoštane Panorama 11
+#DESCRIPTION Pakoštane Panorama 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pakos2.m3u8:Pakoštane Villa Ljubica 22
+#DESCRIPTION Pakoštane Villa Ljubica 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pasman01.m3u8:Pašman lučica otok Galešnjak 401
+#DESCRIPTION Pašman lučica otok Galešnjak 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_tkon02.m3u8:Pašman Tkon lučica 102
+#DESCRIPTION Pašman Tkon lučica 102
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_tkon01.m3u8:Pašman Tkon marina 201
+#DESCRIPTION Pašman Tkon marina 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_tkon05.m3u8:Pašman Tkon panoramska kamera 605 @
+#DESCRIPTION Pašman Tkon panoramska kamera 605 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_tkon08.m3u8:Pašman Tkon parkiralište 408
+#DESCRIPTION Pašman Tkon parkiralište 408
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_tkon06.m3u8:Pašman Tkon pogled prema mjestu 506
+#DESCRIPTION Pašman Tkon pogled prema mjestu 506
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_tkon07.m3u8:Pašman Tkon pristanište 207
+#DESCRIPTION Pašman Tkon pristanište 207
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_tkon04.m3u8:Pašman Tkon Trajekt 704
+#DESCRIPTION Pašman Tkon Trajekt 704
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_viganj1.m3u8:Pelješac Viganj 21
+#DESCRIPTION Pelješac Viganj 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_viganj3.m3u8:Pelješac Viganj AntonyBoy 63
+#DESCRIPTION Pelješac Viganj AntonyBoy 63
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_viganj2.m3u8:Pelješac Viganj panorama 62
+#DESCRIPTION Pelješac Viganj panorama 62
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_viganj4.m3u8:Pelješac Viganj Surf plaža 44
+#DESCRIPTION Pelješac Viganj Surf plaža 44
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_buildpetrinja03.m3u8:Petrinja Gradski park 403
+#DESCRIPTION Petrinja Gradski park 403
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_buildpetrinja01.m3u8:Petrinja Srednja škola 101
+#DESCRIPTION Petrinja Srednja škola 101
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pirovac01.m3u8:Pirovac centar i riva 401
+#DESCRIPTION Pirovac centar i riva 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakPark/PlatakPark.stream/playlist.m3u8:Platak Parking
+#DESCRIPTION Platak Parking
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakBaby/PlatakBaby.stream/playlist.m3u8:Platak Pribenis dolina
+#DESCRIPTION Platak Pribenis dolina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevo/PlatakRadesevo.stream/playlist.m3u8:Platak Radeševo dno
+#DESCRIPTION Platak Radeševo dno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevoVrh/PlatakRadesevoVrh.stream/playlist.m3u8:Platak Radeševo vrh
+#DESCRIPTION Platak Radeševo vrh
+#SERVICE 4097:0:1:6BE2:445F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/hrvatska/licko-senjska-zupanija/plitvicka-jezera/plitvice-lakes-national-park.html:Plitvice @ SC
+#DESCRIPTION Plitvice @ SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_ploce02.m3u8:Ploče Sportski centar Močvara 202
+#DESCRIPTION Ploče Sportski centar Močvara 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_drasnice01.m3u8:Podgora Drašnice panorama 601
+#DESCRIPTION Podgora Drašnice panorama 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_podgora1.m3u8:Podgora panorama 41
+#DESCRIPTION Podgora panorama 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_podgora2.m3u8:Podgora plaža 22 @
+#DESCRIPTION Podgora plaža 22 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_porec02.m3u8:Poreč Saint & Sinner bar 702
+#DESCRIPTION Poreč Saint & Sinner bar 702
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pozega01.m3u8:Požega Trg Svetog Trojstva 201
+#DESCRIPTION Požega Trg Svetog Trojstva 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pula03.m3u8:Pula Arena Amfiteatar 203
+#DESCRIPTION Pula Arena Amfiteatar 203
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pula04.m3u8:Pula Forum 404
+#DESCRIPTION Pula Forum 404
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_buildpula03.m3u8:Pula Gradilište Sveučilište 103
+#DESCRIPTION Pula Gradilište Sveučilište 103
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pula01.m3u8:Pula Korzo Giardini 401
+#DESCRIPTION Pula Korzo Giardini 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pula06.m3u8:Pula rotor Koparska ulica 406
+#DESCRIPTION Pula rotor Koparska ulica 406
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_banjole.m3u8:Pula uvala Banjole 60
+#DESCRIPTION Pula uvala Banjole 60
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_rab03.m3u8:Rab Banjol panorama 503
+#DESCRIPTION Rab Banjol panorama 503
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_everab01.m3u8:Rab Trg Municipium Arba ulaz u luku 601
+#DESCRIPTION Rab Trg Municipium Arba ulaz u luku 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_everab02.m3u8:Rab Trg Sv. Kristofora 402
+#DESCRIPTION Rab Trg Sv. Kristofora 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_rakovica01.m3u8:Rakovica 601 @
+#DESCRIPTION Rakovica 601 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_ribotel01.m3u8:Rijeka Botel
+#DESCRIPTION Rijeka Botel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_rijeka03.m3u8:Rijeka Gradski toranj Korzo 403
+#DESCRIPTION Rijeka Gradski toranj Korzo 403
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_grobnik01.m3u8:Rijeka Grobnik 601
+#DESCRIPTION Rijeka Grobnik 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_rekajadranskitrg.m3u8:Rijeka Korzo Jadranski trg 50
+#DESCRIPTION Rijeka Korzo Jadranski trg 50
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_rijeka09.m3u8:Rijeka luka i riva 609 @
+#DESCRIPTION Rijeka luka i riva 609 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_rijeka08.m3u8:Rijeka plaža Ploče 408
+#DESCRIPTION Rijeka plaža Ploče 408
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_rijeka07.m3u8:Rijeka pogled na HNK 607
+#DESCRIPTION Rijeka pogled na HNK 607
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_rijeka02.m3u8:Rijeka pogled na korzo 202
+#DESCRIPTION Rijeka pogled na korzo 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_rijeka04.m3u8:Rijeka pogled na Trsat i Sušak 704
+#DESCRIPTION Rijeka pogled na Trsat i Sušak 704
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_rijeka05.m3u8:Rijeka Titov Trg i Fiumara 405
+#DESCRIPTION Rijeka Titov Trg i Fiumara 405
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_trsat01.m3u8:Rijeka Trsat Svetište 101
+#DESCRIPTION Rijeka Trsat Svetište 101
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Brajda/RiProm_Brajda.stream/chunklist.m3u8:Rijeka Brajda
+#DESCRIPTION Rijeka Brajda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Brajdica/RiProm_Brajdica.stream/chunklist.m3u8:Rijeka Brajdica
+#DESCRIPTION Rijeka Brajdica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Delta/RiProm_Delta.stream/chunklist.m3u8:Rijeka Delta
+#DESCRIPTION Rijeka Delta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Diracje/RiProm_Diracje.stream/chunklist.m3u8:Rijeka Diračje
+#DESCRIPTION Rijeka Diračje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Fiumara_Fasizma/RiProm_Fiumara_Fasizma.stream/chunklist.m3u8:Rijeka Fiumara Žrtava fašizma
+#DESCRIPTION Rijeka Fiumara Žrtava fašizma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Guver/RiProm_Guver.stream/chunklist.m3u8:Rijeka Guvernerova palača
+#DESCRIPTION Rijeka Guvernerova palača
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_JadranskiTrg/RiProm_JadranskiTrg.stream/chunklist.m3u8:Rijeka Jadranski trg Adamićeva
+#DESCRIPTION Rijeka Jadranski trg Adamićeva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Kantrida/RiProm_Kantrida.stream/chunklist.m3u8:Rijeka Kantrida
+#DESCRIPTION Rijeka Kantrida
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Kresimir_Tesla/RiProm_Kresimir_Tesla.stream/chunklist.m3u8:Rijeka Krešimirova Nikole Tesle
+#DESCRIPTION Rijeka Krešimirova Nikole Tesle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Osjecka_Tizian/RiProm_Osjecka_Tizian.stream/chunklist.m3u8:Rijeka Osječka Tizianova
+#DESCRIPTION Rijeka Osječka Tizianova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Osjecka_Obilaz/RiProm_Osjecka_Obilaz.stream/chunklist.m3u8:Rijeka Osječka Zaobilaznica
+#DESCRIPTION Rijeka Osječka Zaobilaznica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Palazzo/RiProm_Palazzo.stream/chunklist.m3u8:Rijeka Palazzo Modello
+#DESCRIPTION Rijeka Palazzo Modello
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Strossmayer/RiProm_Strossmayer.stream/chunklist.m3u8:Rijeka Strossmayerova
+#DESCRIPTION Rijeka Strossmayerova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Zajca/RiProm_Zajca.stream/chunklist.m3u8:Rijeka Ul Ivana Zajca
+#DESCRIPTION Rijeka Ul Ivana Zajca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Kolodvor/RiProm_Kolodvor.stream/chunklist.m3u8:Rijeka Žabica autobusni kolodvor
+#DESCRIPTION Rijeka Žabica autobusni kolodvor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_dive01.m3u8:Rogoznica akvarij 601
+#DESCRIPTION Rogoznica akvarij 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_rogoznica01.m3u8:Rogoznica panoramska 501 @
+#DESCRIPTION Rogoznica panoramska 501 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_rovinj4.m3u8:Rovinj Balbijev luk 64
+#DESCRIPTION Rovinj Balbijev luk 64
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_rovinj6.m3u8:Rovinj centar 66
+#DESCRIPTION Rovinj centar 66
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_rovinj1.m3u8:Rovinj okretna 21 @
+#DESCRIPTION Rovinj okretna 21 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_rovinj2.m3u8:Rovinj panorama grada 22
+#DESCRIPTION Rovinj panorama grada 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_rovinj3.m3u8:Rovinj Trg Maršala Tita 43
+#DESCRIPTION Rovinj Trg Maršala Tita 43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_samobor2.m3u8:Samobor centar 32
+#DESCRIPTION Samobor centar 32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_samobor1.m3u8:Samobor Trg kralja Tomislava 51
+#DESCRIPTION Samobor Trg kralja Tomislava 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_selce5.m3u8:Selce centar novouređeni trg 15
+#DESCRIPTION Selce centar novouređeni trg 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_selce1.m3u8:Selce Plaža Ronilački centar Mihurić 41
+#DESCRIPTION Selce Plaža Ronilački centar Mihurić 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_senj04.m3u8:Senj centar Pavlinski trg 604
+#DESCRIPTION Senj centar Pavlinski trg 604
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_senj03.m3u8:Senj centar riva 403
+#DESCRIPTION Senj centar riva 403
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_raca02.m3u8:Senj Jadranska magistrala D8 uživo 202
+#DESCRIPTION Senj Jadranska magistrala D8 uživo 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_raca01.m3u8:Senj Kamp Rača 201
+#DESCRIPTION Senj Kamp Rača 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_senj05.m3u8:Senj Nehaj plaža 705 @
+#DESCRIPTION Senj Nehaj plaža 705 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_senj01.m3u8:Senj Riva 201
+#DESCRIPTION Senj Riva 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_senj02.m3u8:Senj Ulaz u Senj rotor 502
+#DESCRIPTION Senj Ulaz u Senj rotor 502
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_sinj01.m3u8:Sinj 701 @
+#DESCRIPTION Sinj 701 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_sisak02.m3u8:Sisak šetnica uz Kupu 402
+#DESCRIPTION Sisak šetnica uz Kupu 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_skrad01.m3u8:Skrad Zeleni Vir 301
+#DESCRIPTION Skrad Zeleni Vir 301
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_slano01.m3u8:Slano 40
+#DESCRIPTION Slano 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_slano02.m3u8:Slano riva Trg hrvatskih velikana 402
+#DESCRIPTION Slano riva Trg hrvatskih velikana 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_split06.m3u8:Split HD panorama 206 @
+#DESCRIPTION Split HD panorama 206 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_kastel1.m3u8:Split Marina Kaštela 61
+#DESCRIPTION Split Marina Kaštela 61
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_split.m3u8:Split Matejuška 70
+#DESCRIPTION Split Matejuška 70
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_splitbacvice01.m3u8:Split Plaža Bačvice 401
+#DESCRIPTION Split Plaža Bačvice 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_split07.m3u8:Split Prokurative Riva 607 @
+#DESCRIPTION Split Prokurative Riva 607 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_split04.m3u8:Split Riva Hrvatskog preporoda 404
+#DESCRIPTION Split Riva Hrvatskog preporoda 404
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_buildznjan02.m3u8:Split Žnjan 202
+#DESCRIPTION Split Žnjan 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildznjan01.m3u8:Split Žnjan 601
+#DESCRIPTION Split Žnjan 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_svfjakov01.m3u8:Sveti Filip i Jakov 401 @
+#DESCRIPTION Sveti Filip i Jakov 401 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_svetvincenat01.m3u8:Svetvinčenat Gradski Trg panorama 601
+#DESCRIPTION Svetvinčenat Gradski Trg panorama 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_svetvincenat02.m3u8:Svetvinčenat Morosini-Grimani 602
+#DESCRIPTION Svetvinčenat Morosini-Grimani 602
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_sibenik02.m3u8:Šibenik gradska plaža Banj 502
+#DESCRIPTION Šibenik gradska plaža Banj 502
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_sibenik03.m3u8:Šibenik panoramska 103 @
+#DESCRIPTION Šibenik panoramska 103 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.envoguebeachclub.com/index.m3u8:Šibenik Tratorija panorama
+#DESCRIPTION Šibenik Tratorija panorama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildsibenik01.m3u8:Šibenik Trg Poljana 601
+#DESCRIPTION Šibenik Trg Poljana 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_trakoscan01.m3u8:Trakošćan Dvorac 201
+#DESCRIPTION Trakošćan Dvorac 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_tribunj01.m3u8:Tribunj 401
+#DESCRIPTION Tribunj 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_sovlje01.m3u8:Tribunj Sovlje ANTIC zaljev 401
+#DESCRIPTION Tribunj Sovlje ANTIC zaljev 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_trilj01.m3u8:Trilj pogled na Cetinu 301
+#DESCRIPTION Trilj pogled na Cetinu 301
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream2.envoguebeachclub.com/index.m3u8:Trogir Belvedere panorama
+#DESCRIPTION Trogir Belvedere panorama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_trogir01.m3u8:Trogir Katedrala sv. Lovre 501
+#DESCRIPTION Trogir Katedrala sv. Lovre 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildtrogir01.m3u8:Trogir stari čiovski most 601
+#DESCRIPTION Trogir stari čiovski most 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_ugljan01.m3u8:Ugljan Preko trajekt 601
+#DESCRIPTION Ugljan Preko trajekt 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_umag5.m3u8:Umag Hotel Zlatna Vala 65
+#DESCRIPTION Umag Hotel Zlatna Vala 65
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_umag7.m3u8:Umag Lovrečica plaža 27
+#DESCRIPTION Umag Lovrečica plaža 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_umag6.m3u8:Umag panoramska kamera 56 @
+#DESCRIPTION Umag panoramska kamera 56 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_golfadriatic2.m3u8:Umag Savudrija Adriatic Skiper Resort 22
+#DESCRIPTION Umag Savudrija Adriatic Skiper Resort 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_umag2.m3u8:Umag Trg 1. svibnja 22
+#DESCRIPTION Umag Trg 1. svibnja 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_umag3.m3u8:Umag Trg Slobode 43
+#DESCRIPTION Umag Trg Slobode 43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_unije03.m3u8:Unije mol 603
+#DESCRIPTION Unije mol 603
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_unije02.m3u8:Unije pogled na mol 202
+#DESCRIPTION Unije pogled na mol 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_varazdin1.m3u8:Varaždin Trg kralja Tomislava 61
+#DESCRIPTION Varaždin Trg kralja Tomislava 61
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_vgorica01.m3u8:Velika Gorica centar 401
+#DESCRIPTION Velika Gorica centar 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_vir1.m3u8:Vir glavni trg 71 @
+#DESCRIPTION Vir glavni trg 71 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_vir3.m3u8:Vir plaža HD 33 @
+#DESCRIPTION Vir plaža HD 33 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_vir2.m3u8:Vir plaža i lučica 22
+#DESCRIPTION Vir plaža i lučica 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_visnjan01.m3u8:Višnjan zvjezdarnica 201
+#DESCRIPTION Višnjan zvjezdarnica 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_visnjan02.m3u8:Višnjan zvjezdarnica nebo 402
+#DESCRIPTION Višnjan zvjezdarnica nebo 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_vodice4.m3u8:Vodice HD 44 @
+#DESCRIPTION Vodice HD 44 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_vodice3.m3u8:Vodice centar 23
+#DESCRIPTION Vodice centar 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_vranskojezero01.m3u8:Vransko jezero 201
+#DESCRIPTION Vransko jezero 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kamacnik01.m3u8:Vrbovsko Kamačnik 201
+#DESCRIPTION Vrbovsko Kamačnik 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_vukovar01.m3u8:Vukovar Vodotoranj 201
+#DESCRIPTION Vukovar Vodotoranj 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zadar7.m3u8:Zadar Gaženica luka 67
+#DESCRIPTION Zadar Gaženica luka 67
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_zadar2.m3u8:Zadar most 72
+#DESCRIPTION Zadar most 72
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_zadar4.m3u8:Zadar narodni trg 44
+#DESCRIPTION Zadar narodni trg 44
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zadar3.m3u8:Zadar Trg Petra Zoranića 23
+#DESCRIPTION Zadar Trg Petra Zoranića 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_zagreb7.m3u8:Zagreb Ban Jelačić i Katedrala 77 @
+#DESCRIPTION Zagreb Ban Jelačić i Katedrala 77 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_ivanjareka01.m3u8:Zagreb Ivanja Reka crkva 401
+#DESCRIPTION Zagreb Ivanja Reka crkva 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zgjarun.m3u8:Zagreb Jarun veslačka staza 20
+#DESCRIPTION Zagreb Jarun veslačka staza 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_buildzagreb17.m3u8:Zagreb KLARA home by NOVI KVADRAT 217
+#DESCRIPTION Zagreb KLARA home by NOVI KVADRAT 217
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_buildzagreb20.m3u8:Zagreb KLARA home by NOVI KVADRAT 220
+#DESCRIPTION Zagreb KLARA home by NOVI KVADRAT 220
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kuglanazg1.m3u8:Zagreb Kuglana 21
+#DESCRIPTION Zagreb Kuglana 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zgmaksimir01.m3u8:Zagreb Maksimir pogled s Vidikovca 601
+#DESCRIPTION Zagreb Maksimir pogled s Vidikovca 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zagreb6.m3u8:Zagreb Manduševac Johann Franck 66
+#DESCRIPTION Zagreb Manduševac Johann Franck 66
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zgzoo02.m3u8:Zagreb Morski Lav ZOO 202
+#DESCRIPTION Zagreb Morski Lav ZOO 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_zagreb5.m3u8:Zagreb Panoramski pogled Vrapče 15 @
+#DESCRIPTION Zagreb Panoramski pogled Vrapče 15 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_zagrebpetlja01.m3u8:Zagreb Petlja Držićeva 501
+#DESCRIPTION Zagreb Petlja Držićeva 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_buildzagreb22.m3u8:Zagreb Siget Gradilište 222
+#DESCRIPTION Zagreb Siget Gradilište 222
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zgvzpenjaca.m3u8:Zagreb Uspinjača 20
+#DESCRIPTION Zagreb Uspinjača 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_sljeme1.m3u8:Zagreb Sljeme 21
+#DESCRIPTION Zagreb Sljeme 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_sljeme3.m3u8:Zagreb Sljeme Bistra Gornja i Donja 73
+#DESCRIPTION Zagreb Sljeme Bistra Gornja i Donja 73
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_sljeme2.m3u8:Zagreb Sljeme Vidikovac 52
+#DESCRIPTION Zagreb Sljeme Vidikovac 52
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildsljeme01.m3u8:Zagreb Sljeme žičara 1.030m 601
+#DESCRIPTION Zagreb Sljeme žičara 1.030m 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zlarin1.m3u8:Zlarin marina 61
+#DESCRIPTION Zlarin marina 61
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_blatozivogosce.m3u8:Živogošće Blato marina 40
+#DESCRIPTION Živogošće Blato marina 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zivogosce.m3u8:Živogošće Lučica 20
+#DESCRIPTION Živogošće Lučica 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_zivogosce02.m3u8:Živogošće Mala Duba plaža 402
+#DESCRIPTION Živogošće Mala Duba plaža 402
+#SERVICE 1:64:2:0:0:0:0:0:0:0::=== Hrvatska Autoceste ===
+#DESCRIPTION === Hrvatska Autoceste ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_azm07.m3u8:Đurmanec sjever A2 207
+#DESCRIPTION Đurmanec sjever A2 207
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_azm03.m3u8:Krapina jug A2 403
+#DESCRIPTION Krapina jug A2 403
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_azm04.m3u8:Krapina sjever A2 604
+#DESCRIPTION Krapina sjever A2 604
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_azm05.m3u8:Trakošćan jug A2 205
+#DESCRIPTION Trakošćan jug A2 205
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_azm06.m3u8:Trakošćan sjever A2 406
+#DESCRIPTION Trakošćan sjever A2 406
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_azm09.m3u8:Zabok jug A2 609
+#DESCRIPTION Zabok jug A2 609
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_azm08.m3u8:Začretje Jug A2 408
+#DESCRIPTION Začretje Jug A2 408
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_azm02.m3u8:Zaprešić sjever A2 302
+#DESCRIPTION Zaprešić sjever A2 302
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_azm01.m3u8:Zaprešić jug A2 201
+#DESCRIPTION Zaprešić jug A2 201
+#SERVICE 1:64:3:0:0:0:0:0:0:0::=== BiH ===
+#DESCRIPTION === BiH ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/banja_luka_cam.m3u8:Banja Luka @
+#DESCRIPTION Banja Luka @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/bihac_panorama_cam.m3u8:Bihać panorama @
+#DESCRIPTION Bihać panorama @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/bjelasnica.m3u8:Bjelašnica @
+#DESCRIPTION Bjelašnica @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/bjelasnica2.m3u8:Bjelašnica 2 ski staza @
+#DESCRIPTION Bjelašnica 2 ski staza @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//potok-skiba-telemach.denelop.com/streaming/Bjelasnica%20Hotel%20Han/playlist.m3u8:Bjelašnica Babin Do Hotel Han 1.290 mnv @
+#DESCRIPTION Bjelašnica Babin Do Hotel Han 1.290 mnv @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/blagaj_cam.m3u8:Blagaj @
+#DESCRIPTION Blagaj @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/brcko_cam.m3u8:Brčko @
+#DESCRIPTION Brčko @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/fojnica_cam.m3u8:Fojnica @
+#DESCRIPTION Fojnica @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/gracanica_cam.m3u8:Gračanica @
+#DESCRIPTION Gračanica @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/gradacac_cam.m3u8:Gradačac @
+#DESCRIPTION Gradačac @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/jablanica_cam.m3u8:Jablanica @
+#DESCRIPTION Jablanica @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/jablanicko_jezero_cam.m3u8:Jablaničko jezero @
+#DESCRIPTION Jablaničko jezero @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/jahorina.m3u8:Jahorina @
+#DESCRIPTION Jahorina @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//potok-skiba-telemach.denelop.com/streaming/Jahorina%20Hotel%20Sport/playlist.m3u8:Jahorina Hotel Sport
+#DESCRIPTION Jahorina Hotel Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/kakanj_cam.m3u8:Kakanj @
+#DESCRIPTION Kakanj @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/kladanj_cam.m3u8:Kladanj @
+#DESCRIPTION Kladanj @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/konjic_cam.m3u8:Konjic 1 @
+#DESCRIPTION Konjic 1 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/konjic_cam2.m3u8:Konjic 2 @
+#DESCRIPTION Konjic 2 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kameredubica.duckdns.org%3a1935/live/cam1.stream/playlist.m3u8:Kozarska Dubica 1
+#DESCRIPTION Kozarska Dubica 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kameredubica.duckdns.org%3a1935/live/cam2.stream/playlist.m3u8:Kozarska Dubica 2
+#DESCRIPTION Kozarska Dubica 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/ba_ljubuski01.m3u8:Ljubuški Paragliding 601
+#DESCRIPTION Ljubuški Paragliding 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/maglaj_cam.m3u8:Maglaj @
+#DESCRIPTION Maglaj @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/ba_mostar01.m3u8:Mostar 501
+#DESCRIPTION Mostar 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/mostar_cam.m3u8:Mostar @
+#DESCRIPTION Mostar @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/mostar_cam_pan.m3u8:Mostar panorama @
+#DESCRIPTION Mostar panorama @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/mostar_rujiste.m3u8:Mostar Rujište @
+#DESCRIPTION Mostar Rujište @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/neum.m3u8:Neum @
+#DESCRIPTION Neum @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/panonska_cam.m3u8:Panonska Jezera @
+#DESCRIPTION Panonska Jezera @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//potok-skiba-telemach.denelop.com/streaming/Ravna%20Planina/stream.m3u8:Ravna planina kod Pala 900m bez radia
+#DESCRIPTION Ravna planina kod Pala 900m bez radia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/ravna_planina_cam.m3u8:Ravna planina kod Pala 900m @
+#DESCRIPTION Ravna planina kod Pala 900m @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/sarajevo_cam.m3u8:Sarajevo @
+#DESCRIPTION Sarajevo @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/malta.m3u8:Sarajevo Dolac Malta @
+#DESCRIPTION Sarajevo Dolac Malta @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/skenderija_cam.m3u8:Sarajevo Skenderija @
+#DESCRIPTION Sarajevo Skenderija @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/trg_bih_cam.m3u8:Sarajevo Trg BiH @
+#DESCRIPTION Sarajevo Trg BiH @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/vjecna_vatra_cam.m3u8:Sarajevo Vječna vatra
+#DESCRIPTION Sarajevo Vječna vatra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/stolac_cam.m3u8:Stolac @
+#DESCRIPTION Stolac @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/tesanj_cam.m3u8:Tešanj @
+#DESCRIPTION Tešanj @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/travnik_cam.m3u8:Travnik @
+#DESCRIPTION Travnik @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/trebevic_zicara.m3u8:Trebević žičara @
+#DESCRIPTION Trebević žičara @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/trebinje_cam.m3u8:Trebinje @
+#DESCRIPTION Trebinje @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/tuzla_cam.m3u8:Tuzla @
+#DESCRIPTION Tuzla @
+#SERVICE 4097:0:1:6BE2:445F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/bosnia-and-herzegovina/republika-srpska/ugljevik/ugljevik.html:Ugljevik SC
+#DESCRIPTION Ugljevik SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/kanjon_une_cam.m3u8:Una kanjon @
+#DESCRIPTION Una kanjon @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/vlasic.m3u8:Vlašić @
+#DESCRIPTION Vlašić @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/zavidovici_cam.m3u8:Zavidovići @
+#DESCRIPTION Zavidovići @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/zenica_cam.m3u8:Zenica @
+#DESCRIPTION Zenica @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/smetovi_cam.m3u8:Zenica Smetovi @
+#DESCRIPTION Zenica Smetovi @
+#SERVICE 1:64:4:0:0:0:0:0:0:0::=== Sjeverna Makedonija ===
+#DESCRIPTION === Sjeverna Makedonija ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/mk_ohrid01.m3u8:Ohrid Stari grad i centar 701
+#DESCRIPTION Ohrid Stari grad i centar 701
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/bogorodica.stream/playlist.m3u8:Bogorodica GP MKGR
+#DESCRIPTION Bogorodica GP MKGR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/deve_bair.stream/playlist.m3u8:Deve Bair GP MKBG
+#DESCRIPTION Deve Bair GP MKBG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/glumovo_1.stream/playlist.m3u8:Glumovo NS TESK
+#DESCRIPTION Glumovo NS TESK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/glumovo_2.stream/playlist.m3u8:Glumovo NS TESK
+#DESCRIPTION Glumovo NS TESK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/gostivar_1.stream/playlist.m3u8:Gostivar NS TEGV
+#DESCRIPTION Gostivar NS TEGV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/gradsko_1.stream/playlist.m3u8:Gradsko NS VEGR
+#DESCRIPTION Gradsko NS VEGR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/gradsko_2.stream/playlist.m3u8:Gradsko NS GRVE
+#DESCRIPTION Gradsko NS GRVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/kafasan.m3u8:Kafasan prema Albaniji
+#DESCRIPTION Kafasan prema Albaniji
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/medzitlija.stream/playlist.m3u8:Меџитлија kod Bitola
+#DESCRIPTION Меџитлија kod Bitola
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/miladinovci_1.stream/playlist.m3u8:Miladinovci NS SKMI
+#DESCRIPTION Miladinovci NS SKMI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/otovica_2.stream/playlist.m3u8:Otovica 2
+#DESCRIPTION Otovica 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/petrovec_1.stream/playlist.m3u8:Petrovec NS VESK
+#DESCRIPTION Petrovec NS VESK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kamere.amss.org.rs/presevo1/presevo1.m3u8:Preševo 1
+#DESCRIPTION Preševo 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kamere.amss.org.rs/presevo2/presevo2.m3u8:Preševo 2
+#DESCRIPTION Preševo 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/romanovce_4.stream/playlist.m3u8:Romanovce 4
+#DESCRIPTION Romanovce 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/tabanovce.stream/playlist.m3u8:Tabanovce GP MKSRB
+#DESCRIPTION Tabanovce GP MKSRB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/tetovo_1.stream/playlist.m3u8:Tetovo NS GVTE
+#DESCRIPTION Tetovo NS GVTE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/tetovo_2.stream/playlist.m3u8:Tetovo NS GVTE
+#DESCRIPTION Tetovo NS GVTE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/zelino_1.stream/playlist.m3u8:Zelino NS SKTE
+#DESCRIPTION Zelino NS SKTE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.neotel.net.mk%3a1935/live/zelino_2.stream/playlist.m3u8:Zelino NS TESK
+#DESCRIPTION Zelino NS TESK
+#SERVICE 1:64:5:0:0:0:0:0:0:0::=== Slovenija ===
+#DESCRIPTION === Slovenija ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_ankaran01.m3u8:Ankaran 501 @
+#DESCRIPTION Ankaran 501 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/si_bled1.m3u8:Bledsko jezero panorama 11 @
+#DESCRIPTION Bledsko jezero panorama 11 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_vogel4.m3u8:Bohinjsko jezero Ribčev Laz 64 @
+#DESCRIPTION Bohinjsko jezero Ribčev Laz 64 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_vogel1.m3u8:Bohinj Skijalište Vogel 411
+#DESCRIPTION Bohinj Skijalište Vogel 411
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_vogel2.m3u8:Bohinj Vogel snežni park 42
+#DESCRIPTION Bohinj Vogel snežni park 42
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_kozjihrbet01.m3u8:Bohinjska Bistrica Kozji hrbet 501
+#DESCRIPTION Bohinjska Bistrica Kozji hrbet 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_kanin02.m3u8:Bovec Kanin panorama 402
+#DESCRIPTION Bovec Kanin panorama 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_logmangart01.m3u8:Bovec Log pod Mangartom 301
+#DESCRIPTION Bovec Log pod Mangartom 301
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_logmangart02.m3u8:Bovec Log pod Mangartom 502
+#DESCRIPTION Bovec Log pod Mangartom 502
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_kanin01.m3u8:Bovec Skijalište Kanin Prestreljenik 601
+#DESCRIPTION Bovec Skijalište Kanin Prestreljenik 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_hse4_2.m3u8:Brežice Hidroelektrarna HSE 54_2
+#DESCRIPTION Brežice Hidroelektrarna HSE 54_2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_celjskoca02.m3u8:Celje Koča 402
+#DESCRIPTION Celje Koča 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_cerkno04.m3u8:Cerkno Alpska Perla Skijalište 704
+#DESCRIPTION Cerkno Alpska Perla Skijalište 704
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_cerkno03.m3u8:Cerkno Skijalište Lom 603
+#DESCRIPTION Cerkno Skijalište Lom 603
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_cerkno06.m3u8:Cerkno ulaz u grad 506
+#DESCRIPTION Cerkno ulaz u grad 506
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_crna02.m3u8:Črne na Koroškem @
+#DESCRIPTION Črne na Koroškem @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_sempeter01.m3u8:Gorica Šempeter 501
+#DESCRIPTION Gorica Šempeter 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_struska01.m3u8:Jesenice Struška 601
+#DESCRIPTION Jesenice Struška 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_kanal01.m3u8:Kanal ob Soči 601
+#DESCRIPTION Kanal ob Soči 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_kobarid03.m3u8:Kobarid 503
+#DESCRIPTION Kobarid 503
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_kobarid05.m3u8:Kobarid Pogled na kosturnicu iz 1. svjetskog rata 705
+#DESCRIPTION Kobarid Pogled na kosturnicu iz 1. svjetskog rata 705
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_kobarid02.m3u8:Kobarid slijetanje padobranom Ozben 302
+#DESCRIPTION Kobarid slijetanje padobranom Ozben 302
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_crnikal01.m3u8:Koper Črni Kal Viadukt 401
+#DESCRIPTION Koper Črni Kal Viadukt 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_koper04.m3u8:Koper Ukmarjev trg 604 @
+#DESCRIPTION Koper Ukmarjev trg 604 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza1.arnes.si/35678496-2022-05-27-p1S_Y1hl/arnes/chunklist.m3u8:Kranj Rode
+#DESCRIPTION Kranj Rode
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_kranjskagora9.m3u8:Kranjska Gora Bike Park @
+#DESCRIPTION Kranjska Gora Bike Park @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_kranjskagora5.m3u8:Kranjska Gora Cilj veleslaloma 75 @
+#DESCRIPTION Kranjska Gora Cilj veleslaloma 75 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_kranjskagora3.m3u8:Kranjska Gora Plaža 43
+#DESCRIPTION Kranjska Gora Plaža 43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_kranjskagora8.m3u8:Kranjska Gora Skijalište 58 @
+#DESCRIPTION Kranjska Gora Skijalište 58 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_kranjskagora2.m3u81:Kranjska Gora Skijalište Mojca 22
+#DESCRIPTION Kranjska Gora Skijalište Mojca 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_kranjskagora14.m3u8:Kranjska Gora Velika Dolina 714 @
+#DESCRIPTION Kranjska Gora Velika Dolina 714 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_kranjskagora10.m3u8:Kranjska Gora Vitranc 1 gornja postaja 710 @
+#DESCRIPTION Kranjska Gora Vitranc 1 gornja postaja 710 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_vrsic02.m3u8:Kranjska Gora Vršič Erjavčeva kuća 202
+#DESCRIPTION Kranjska Gora Vršič Erjavčeva kuća 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_vrsic01.m3u8:Kranjska Gora Vršič Erjavčeva kuća 501
+#DESCRIPTION Kranjska Gora Vršič Erjavčeva kuća 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_krvavec2.m3u8:Krvavec 42
+#DESCRIPTION Krvavec 42
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_krvavec7.m3u8:Krvavec RTC 67 @
+#DESCRIPTION Krvavec RTC 67 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_krvavec3.m3u8:Krvavec vrh gore 53
+#DESCRIPTION Krvavec vrh gore 53
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_krim01.m3u8:Ljubljana planinska koliba Krim 501
+#DESCRIPTION Ljubljana planinska koliba Krim 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_krim02.m3u8:Ljubljana planinska koliba Krim 702
+#DESCRIPTION Ljubljana planinska koliba Krim 702
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_ljzoo10.m3u8:Ljubljana zoološki vrt lavovi 510
+#DESCRIPTION Ljubljana zoološki vrt lavovi 510
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_mbpohorje11.m3u8:Maribor Pohorje Areh Ruška 711 @
+#DESCRIPTION Maribor Pohorje Areh Ruška 711 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_mbpohorje10.m3u8:Maribor Pohorje Bellevue 410 @
+#DESCRIPTION Maribor Pohorje Bellevue 410 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_mbpohorje06.m3u8:Maribor Pohorje Donja stanica uspinjače 606
+#DESCRIPTION Maribor Pohorje Donja stanica uspinjače 606
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_mbpohorje05.m3u8:Maribor Pohorje Trikotna Jasa 705
+#DESCRIPTION Maribor Pohorje Trikotna Jasa 705
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_medvode01.m3u8:Medvode panorama 401 @
+#DESCRIPTION Medvode panorama 401 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_medvode02.m3u8:Medvode Sava i Zibiljsko jezero 602
+#DESCRIPTION Medvode Sava i Zibiljsko jezero 602
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_mostnasoci03.m3u8:Most na Soči 503
+#DESCRIPTION Most na Soči 503
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/si_golte1.m3u8:Mozirje Skijalište Golte Hotel Montis 11
+#DESCRIPTION Mozirje Skijalište Golte Hotel Montis 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_ngorica05.m3u8:Nova Gorica panorama 705 @
+#DESCRIPTION Nova Gorica panorama 705 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_solkan02.m3u8:Nova Gorica Pješački most preko Soče 202
+#DESCRIPTION Nova Gorica Pješački most preko Soče 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_ngsk1.m3u8:Nova Gorica Skate park 41
+#DESCRIPTION Nova Gorica Skate park 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_ngsk3.m3u8:Nova Gorica Skate park 63
+#DESCRIPTION Nova Gorica Skate park 63
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_solkankajak.m3u8:Nova Gorica Soča Solkan Kayak Center 50
+#DESCRIPTION Nova Gorica Soča Solkan Kayak Center 50
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/go25_01.m3u8:Nova Gorica Trg Evropa 701
+#DESCRIPTION Nova Gorica Trg Evropa 701
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_fiesa01.m3u8:Piran Hotel Barbara 301 @
+#DESCRIPTION Piran Hotel Barbara 301 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_piran06.m3u8:Piran Mandrač 306
+#DESCRIPTION Piran Mandrač 306
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_piran04.m3u8:Piran Punta i Mandrač 604
+#DESCRIPTION Piran Punta i Mandrač 604
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_strunjan01.m3u8:Piran park Strunjan 301 @
+#DESCRIPTION Piran park Strunjan 301 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_piran05.m3u8:Piran Villa Piranesi 205
+#DESCRIPTION Piran Villa Piranesi 205
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_rogla1.m3u8:Planja 31
+#DESCRIPTION Planja 31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_polhovgradec01.m3u8:Polhov Gradec 601 @
+#DESCRIPTION Polhov Gradec 601 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_portoroz04.m3u8:Portorož Panorama 304 @
+#DESCRIPTION Portorož Panorama 304 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_portoroz05.m3u8:Portorož Plaža 305 @
+#DESCRIPTION Portorož Plaža 305 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_ljpz1.m3u8:Portorož Zračna luka 41
+#DESCRIPTION Portorož Zračna luka 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_predjama01.m3u8:Postojna Predjamski dvorac 201
+#DESCRIPTION Postojna Predjamski dvorac 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_dandi01.m3u8:Rogla apartmani Dandi Jurgovo @
+#DESCRIPTION Rogla apartmani Dandi Jurgovo @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_rogla9.m3u8:Rogla Hotel Natura Skijaško trčanje 39
+#DESCRIPTION Rogla Hotel Natura Skijaško trčanje 39
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_rudno02.m3u8:Rudno 602
+#DESCRIPTION Rudno 602
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_solinesecovlje.m3u8:Sečovlje Solana 50
+#DESCRIPTION Sečovlje Solana 50
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_sorica04.m3u8:Sorica Skijalište Sorška planina 604
+#DESCRIPTION Sorica Skijalište Sorška planina 604
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_sempeter02.m3u8:Šempeter pri Gorici 702 @
+#DESCRIPTION Šempeter pri Gorici 702 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_bukovnik.m3u8:Šentjanž pri Dravogradu Skijalište Bukovnik 60
+#DESCRIPTION Šentjanž pri Dravogradu Skijalište Bukovnik 60
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_brda01.m3u8:Šmartno Brda Hotel San Martin 501 @
+#DESCRIPTION Šmartno Brda Hotel San Martin 501 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_prazor01.m3u8:Tolmin Razor 601
+#DESCRIPTION Tolmin Razor 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-007.whatsupcams.com/hls/si_prazor02.m3u8:Tolmin Razor Planinarski dom 1.315m 702
+#DESCRIPTION Tolmin Razor Planinarski dom 1.315m 702
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_trenta01.m3u8:Trenta Pogled na Šplevt Pihavec i Prisojnik 201
+#DESCRIPTION Trenta Pogled na Šplevt Pihavec i Prisojnik 201
+#SERVICE 1:64:6:0:0:0:0:0:0:0::=== Srbija ===
+#DESCRIPTION === Srbija ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/autobuska-stanica/playlist.m3u8:Beograd Autobuska Stanica
+#DESCRIPTION Beograd Autobuska Stanica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/autokomanda/playlist.m3u8:Beograd Autokomanda
+#DESCRIPTION Beograd Autokomanda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/idea/playlist.m3u8:Beograd Bežanijska kosa
+#DESCRIPTION Beograd Bežanijska kosa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zemun-glavna/playlist.m3u8:Beograd Glavna ulica u Zemunu
+#DESCRIPTION Beograd Glavna ulica u Zemunu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/adamost-mkonak/playlist.m3u8:Beograd Isključenje sa Mosta na Adi
+#DESCRIPTION Beograd Isključenje sa Mosta na Adi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/jur1-gargarina/playlist.m3u8:Beograd Jurija Gagarina
+#DESCRIPTION Beograd Jurija Gagarina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/jur2-gargarina/playlist.m3u8:Beograd Jurija Gagarina ka Mostu na Adi
+#DESCRIPTION Beograd Jurija Gagarina ka Mostu na Adi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/juzni_bulevar/playlist.m3u8:Beograd Južni Bulevar
+#DESCRIPTION Beograd Južni Bulevar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/london-1/playlist.m3u8:Beograd Kneza Miloša
+#DESCRIPTION Beograd Kneza Miloša
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/london-2/playlist.m3u8:Beograd Kralja Milana (London)
+#DESCRIPTION Beograd Kralja Milana (London)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/camera-sc2/playlist.m3u8:Beograd Kružni tok Opština Novi Beograd
+#DESCRIPTION Beograd Kružni tok Opština Novi Beograd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija/playlist.m3u8:Beograd Kružni tok Slavija
+#DESCRIPTION Beograd Kružni tok Slavija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/bip-pivara/playlist.m3u8:Beograd Mostarska petlja Gazela
+#DESCRIPTION Beograd Mostarska petlja Gazela
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija2/playlist.m3u8:Beograd Nemanjina ulica
+#DESCRIPTION Beograd Nemanjina ulica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/posta-lakat/playlist.m3u8:Beograd Lakat krivina Nova Galenika
+#DESCRIPTION Beograd Lakat krivina Nova Galenika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/bubanj-potok/playlist.m3u8:Beograd Obilaznica Bubanj potok
+#DESCRIPTION Beograd Obilaznica Bubanj potok
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/pancevac/playlist.m3u8:Beograd Pančevački most
+#DESCRIPTION Beograd Pančevački most
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/dobanovci-petlja/playlist.m3u8:Beograd Petlja Dobanovci
+#DESCRIPTION Beograd Petlja Dobanovci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/postanska-stedionica/playlist.m3u8:Beograd Poštanska štedionica
+#DESCRIPTION Beograd Poštanska štedionica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/rakovica/playlist.m3u8:Beograd Rakovički bulevar
+#DESCRIPTION Beograd Rakovički bulevar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/sc-usce/playlist.m3u8:Beograd Sava Centar Milentija Popovića
+#DESCRIPTION Beograd Sava Centar Milentija Popovića
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/camera-sc/playlist.m3u8:Beograd Sava Centar most Gazela
+#DESCRIPTION Beograd Sava Centar most Gazela
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/savski-trg/playlist.m3u8:Beograd Savski Trg
+#DESCRIPTION Beograd Savski Trg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/trg-republike/playlist.m3u8:Beograd Trg Republike
+#DESCRIPTION Beograd Trg Republike
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zarkovo/playlist.m3u8:Beograd Trgovačka ulica Žarkovo
+#DESCRIPTION Beograd Trgovačka ulica Žarkovo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zeleni-venac/playlist.m3u8:Beograd Zeleni venac
+#DESCRIPTION Beograd Zeleni venac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zmaj-pumpa/playlist.m3u8:Beograd Zmaj
+#DESCRIPTION Beograd Zmaj
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/autokomanda.m3u8:Beograd Autokomanda
+#DESCRIPTION Beograd Autokomanda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/genex.m3u8:Beograd Autoput Novi Beograd ~ Genex
+#DESCRIPTION Beograd Autoput Novi Beograd ~ Genex
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/bogoslovija.m3u8:Beograd Bogoslovija
+#DESCRIPTION Beograd Bogoslovija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/brankov.m3u8:Beograd Brankov most ~ Terazijski tunel
+#DESCRIPTION Beograd Brankov most ~ Terazijski tunel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/despotastefana.m3u8:Beograd Bulevar Despota Stefana
+#DESCRIPTION Beograd Bulevar Despota Stefana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/pupina.m3u8:Beograd Bulevar Mihajla Pupina
+#DESCRIPTION Beograd Bulevar Mihajla Pupina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/ada.m3u8:Beograd Bulevar Milutina Milankovica ~ Most na Adi
+#DESCRIPTION Beograd Bulevar Milutina Milankovica ~ Most na Adi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/gagarina.m3u8:Beograd Jurija Gagarina
+#DESCRIPTION Beograd Jurija Gagarina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/opstinanbg.m3u8:Beograd Kružni tok Novi Beograd ~ Opština NBG
+#DESCRIPTION Beograd Kružni tok Novi Beograd ~ Opština NBG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/gazela.m3u8:Beograd Most Gazela
+#DESCRIPTION Beograd Most Gazela
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/pancevac.m3u8:Beograd Pancevacki most
+#DESCRIPTION Beograd Pancevacki most
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/slavija.m3u8:Beograd Slavija
+#DESCRIPTION Beograd Slavija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/zeleznicka.m3u8:Beograd Stara železnicka stanica
+#DESCRIPTION Beograd Stara železnicka stanica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/takovska.m3u8:Beograd Takovska
+#DESCRIPTION Beograd Takovska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/trgnikole.m3u8:Beograd Trg Nikole Pašica
+#DESCRIPTION Beograd Trg Nikole Pašica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/trgrepublike.m3u8:Beograd Trg Republike
+#DESCRIPTION Beograd Trg Republike
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/vuk.m3u8:Beograd Vukov spomenik
+#DESCRIPTION Beograd Vukov spomenik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/skituljko/playlist.m3u8:Kopaonik Bife Skituljko 1.794m @
+#DESCRIPTION Kopaonik Bife Skituljko 1.794m @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/camera_2/playlist.m3u8:Kopaonik Crna duboka staza
+#DESCRIPTION Kopaonik Crna duboka staza
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/jaram/playlist.m3u8:Kopaonik Crown Peaks 1.801mnv @
+#DESCRIPTION Kopaonik Crown Peaks 1.801mnv @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/dolinasportova/playlist.m3u8:Kopaonik Dolina sportova 1.726m @
+#DESCRIPTION Kopaonik Dolina sportova 1.726m @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/grand/playlist.m3u8:Kopaonik Grand Hotel & Spa Kopaonik 1.726m
+#DESCRIPTION Kopaonik Grand Hotel & Spa Kopaonik 1.726m
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/green/playlist.m3u8:Kopaonik Green SKI bar
+#DESCRIPTION Kopaonik Green SKI bar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/junior/playlist.m3u8:Kopaonik Hotel Junior mnv @
+#DESCRIPTION Kopaonik Hotel Junior mnv @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/jat/playlist.m3u8:Kopaonik Jat apartmani 1.725m
+#DESCRIPTION Kopaonik Jat apartmani 1.725m
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/kopkonaci/playlist.m3u8:Kopaonik KOP Konaci 1.723m
+#DESCRIPTION Kopaonik KOP Konaci 1.723m
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/cardaci/playlist.m3u8:Kopaonik Kraljevi čardaci 1.381m @
+#DESCRIPTION Kopaonik Kraljevi čardaci 1.381m @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/camera_7/playlist.m3u8:Kopaonik Krčmar 1.978m
+#DESCRIPTION Kopaonik Krčmar 1.978m
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/camera_6/playlist.m3u8:Kopaonik Malo jezero
+#DESCRIPTION Kopaonik Malo jezero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/camera_1/playlist.m3u8:Kopaonik Pančić Express
+#DESCRIPTION Kopaonik Pančić Express
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/gondola/playlist.m3u8:Kopaonik Restoran Livello izlaz gondole 1.912m
+#DESCRIPTION Kopaonik Restoran Livello izlaz gondole 1.912m
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/suvorudiste/playlist.m3u8:Kopaonik Suvo rudište 1.978m @
+#DESCRIPTION Kopaonik Suvo rudište 1.978m @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/posta-ns2/playlist.m3u8:Novi Sad Bulevar Mihajla Pupina
+#DESCRIPTION Novi Sad Bulevar Mihajla Pupina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/juzni-bul1/playlist.m3u8:Novi Sad Mišeluk
+#DESCRIPTION Novi Sad Mišeluk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/most-slobode1/playlist.m3u8:Novi Sad Most Slobode
+#DESCRIPTION Novi Sad Most Slobode
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/posta-ns1/playlist.m3u8:Novi Sad Pupinova palata
+#DESCRIPTION Novi Sad Pupinova palata
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/trg-slobodens/playlist.m3u8:Novi Sad Trg Slobode
+#DESCRIPTION Novi Sad Trg Slobode
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/petrovaradin/playlist.m3u8:Novi Sad Varadinski most Most Duga
+#DESCRIPTION Novi Sad Varadinski most Most Duga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/japanX/japanX.m3u8:Vrnjačka Banja Japanski vrt
+#DESCRIPTION Vrnjačka Banja Japanski vrt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/tocak4/jezero.m3u8:Vrnjačka Banja Jezero
+#DESCRIPTION Vrnjačka Banja Jezero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/tocak3/tocak.m3u8:Vrnjačka Banja Panoramski točak
+#DESCRIPTION Vrnjačka Banja Panoramski točak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/h139/h139.m3u8:Vrnjačka Banja Parea & DiMilano @
+#DESCRIPTION Vrnjačka Banja Parea & DiMilano @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/fontana/fontana0.m3u8:Vrnjačka Banja Park
+#DESCRIPTION Vrnjačka Banja Park
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/ptice/ptice.m3u8:Vrnjačka Banja Plato raspevanih kućica
+#DESCRIPTION Vrnjačka Banja Plato raspevanih kućica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/goc/goc.m3u8:Vrnjačka Banja Banja pogled sa Goča
+#DESCRIPTION Vrnjačka Banja Banja pogled sa Goča
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/staza/staza.m3u8:Vrnjačka Banja staza ispod letnje pozornice
+#DESCRIPTION Vrnjačka Banja staza ispod letnje pozornice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/trg/trg.m3u8:Vrnjačka Banja Trg
+#DESCRIPTION Vrnjačka Banja Trg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/h138/h138.m3u8:Vrnjačka Banja Trg vodopad
+#DESCRIPTION Vrnjačka Banja Trg vodopad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/brdo1/brdo.m3u8:Vrnjačka Banja Vidikovac
+#DESCRIPTION Vrnjačka Banja Vidikovac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/t1/t1.m3u8:Vrnjačka Banja Zepter
+#DESCRIPTION Vrnjačka Banja Zepter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/zoo8/zoo8.m3u8:Vrnjačka Banja ZOO Vrt u Vrnjcima nadomak Vrnjačke banje
+#DESCRIPTION Vrnjačka Banja ZOO Vrt u Vrnjcima nadomak Vrnjačke banje
+#SERVICE 1:64:7:0:0:0:0:0:0:0::=== Granični prelazi ===
+#DESCRIPTION === Granični prelazi ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kotroman/kotroman2.m3u8:Kotroman ulaz
+#DESCRIPTION Kotroman ulaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kotroman/kotroman1.m3u8:Kotroman izlaz
+#DESCRIPTION Kotroman izlaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/MaliZvornik/malizvornik1.m3u8:Mali Zvornik ulaz
+#DESCRIPTION Mali Zvornik ulaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/MaliZvornik/malizvornik2.m3u8:Mali Zvornik izlaz
+#DESCRIPTION Mali Zvornik izlaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/SremskaRaca/sremskaraca1.m3u8:Sremska Rača ulaz
+#DESCRIPTION Sremska Rača ulaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/SremskaRaca/sremskaraca2.m3u8:Sremska Rača izlaz
+#DESCRIPTION Sremska Rača izlaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Trbusnica/trbusnica1.m3u8:Trbušnica ulaz
+#DESCRIPTION Trbušnica ulaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Trbusnica/trbusnica2.m3u8:Trbušnica izlaz
+#DESCRIPTION Trbušnica izlaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Batrovci/batrovci1.m3u8:Batrovci ulaz
+#DESCRIPTION Batrovci ulaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Batrovci/batrovci2.m3u8:Batrovci izlaz
+#DESCRIPTION Batrovci izlaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Sid/sid1.m3u8:Šid ulaz
+#DESCRIPTION Šid ulaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Sid/sid2.m3u8:Šid izlaz
+#DESCRIPTION Šid izlaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Djala/djala2.m3u8:Đala  ulaz
+#DESCRIPTION Đala  ulaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Djala/djala1.m3u8:Đala  izlaz
+#DESCRIPTION Đala  izlaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Horgos/horgos1.m3u8:Horgoš  ulaz
+#DESCRIPTION Horgoš  ulaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Horgos/horgos2.m3u8:Horgoš  izlaz
+#DESCRIPTION Horgoš  izlaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kelebija/kelebija1.m3u8:Kelebija  ulaz
+#DESCRIPTION Kelebija  ulaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kelebija/kelebija2.m3u8:Kelebija  izlaz
+#DESCRIPTION Kelebija  izlaz
+#SERVICE 1:64:8:0:0:0:0:0:0:0::=== Austria ===
+#DESCRIPTION === Austria ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming15.huberwebmedia.at/LiveApp/streams/784827628780861018745117.m3u8:1 @
+#DESCRIPTION 1 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera4.stream/chunklist.m3u8:3 @
+#DESCRIPTION 3 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera2.stream/chunklist.m3u8:4 @
+#DESCRIPTION 4 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera3.stream/chunklist.m3u8:5 @
+#DESCRIPTION 5 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3asteeg.stream/chunklist.m3u8:6
+#DESCRIPTION 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5864df9ceac85.streamlock.net/limberger-rtplive/_definst_/mp4%3ampegts2.stream/chunklist_w1730464762.m3u8:БадАусзе Панорама @
+#DESCRIPTION БадАусзе Панорама @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//badbleiberg.it-wms.com/clip_current_720p.mp4:Bad Bleiberg @
+#DESCRIPTION Bad Bleiberg @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//finkenstein.it-wms.com/clip_current_720p.mp4:Finkenstein Burgarena @
+#DESCRIPTION Finkenstein Burgarena @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pacheiner.it-wms.com/clip_current_720p.mp4:Gerlitzen Pacheiner @
+#DESCRIPTION Gerlitzen Pacheiner @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5864df9ceac85.streamlock.net/limberger-rtplive/_definst_/mp4%3ampegts1.stream/playlist.m3u8:Helis Loserhütte @
+#DESCRIPTION Helis Loserhütte @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//presseggersee.it-wms.com/clip_current_720p.mp4:Hermagor Presseggersee @
+#DESCRIPTION Hermagor Presseggersee @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming18.huberwebmedia.at/LiveApp/streams/livestream.m3u8:Idalp 2.320m i Pardatschgrat 2.624m @
+#DESCRIPTION Idalp 2.320m i Pardatschgrat 2.624m @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pyramidenkogel.it-wms.com/clip_current_720p.mp4:Keutschach Pyramidenkogel @
+#DESCRIPTION Keutschach Pyramidenkogel @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8:Klagenfurt @
+#DESCRIPTION Klagenfurt @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5864df9ceac85.streamlock.net/limberger-rtplive/_definst_/mp4%3ampegts3.stream/playlist.m3u8:Krippenstein Spirale @
+#DESCRIPTION Krippenstein Spirale @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/austria/tyrol/kufstein/kufstein.html:Kufstein SC
+#DESCRIPTION Kufstein SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/at_fbleiburg01.m3u8:Langlaufarena Pirkdorf Feistritz ob Bleiburg 701
+#DESCRIPTION Langlaufarena Pirkdorf Feistritz ob Bleiburg 701
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//linz.it-wms.com/clip_current_720p.mp4:Linz-Donaulände @
+#DESCRIPTION Linz-Donaulände @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/14qraspe/2ipi4aoj.m3u8:Pfarrwerfen Das Eulersberg @
+#DESCRIPTION Pfarrwerfen Das Eulersberg @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestream.saalbach.com/SaalbachTV/SaalbachTV_LiveStream.stream/playlist.m3u8:Saalbach @@
+#DESCRIPTION Saalbach @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//schoeckl.it-wms.com/clip_current_720p.mp4:Schöckl @
+#DESCRIPTION Schöckl @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8:Servus TV Wetter panorama @@
+#DESCRIPTION Servus TV Wetter panorama @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//img.kbit.pro/vilavita/fmp4/livestream/index_1080p.m3u8:Vila Vita Pannonia
+#DESCRIPTION Vila Vita Pannonia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//villach.it-wms.com/clip_current_720p.mp4:Villach-Draubrücke @
+#DESCRIPTION Villach-Draubrücke @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/99nmes50/ami84d84.m3u8:Wagrain Markt @
+#DESCRIPTION Wagrain Markt @
+#SERVICE 1:64:9:0:0:0:0:0:0:0::=== Grčka ===
+#DESCRIPTION === Grčka ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/ellada/atiki/piraeus/port-of-piraeus.html:Hafen von Piräus 1 SC
+#DESCRIPTION Hafen von Piräus 1 SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/ellada/atiki/piraeus/piraeus.html:Hafen von Piräus 2 SC
+#DESCRIPTION Hafen von Piräus 2 SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecameras.gr%3a30443/live/kala1/chunks.m3u8:Kalathi 1
+#DESCRIPTION Kalathi 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecameras.gr%3a30443/live/kala2/chunks.m3u8:Kalathi Kalamata
+#DESCRIPTION Kalathi Kalamata
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecameras.gr%3a30443/live/kala3/chunks.m3u8:Kalathi Haikos hotel
+#DESCRIPTION Kalathi Haikos hotel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecameras.gr%3a30443/live/kala4/chunks.m3u8:Kalathi Haikos hotel
+#DESCRIPTION Kalathi Haikos hotel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecameras.gr%3a30443/live/kala6/chunks.m3u8:Kalathi pogled na Mesinski zaliv
+#DESCRIPTION Kalathi pogled na Mesinski zaliv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecameras.gr%3a30443/live/kala7/chunks.m3u8:Kalathi Kalamata NE
+#DESCRIPTION Kalathi Kalamata NE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecameras.gr%3a30443/live/palio1/chunks.m3u8:Paliochori panorama
+#DESCRIPTION Paliochori panorama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/ellada/naigaio/dodecanisa/rhodes-lindos-beach.html:Rhodos - Strand von Lindos Webcam
+#DESCRIPTION Rhodos - Strand von Lindos Webcam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-005.whatsupcams.com/hls/gr_zakynthos01.m3u8:Zakynthos Natural Park Marathias
+#DESCRIPTION Zakynthos Natural Park Marathias
+#SERVICE 1:64:A:0:0:0:0:0:0:0::=== Irska  ===
+#DESCRIPTION === Irska  ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/ie_tralee01.m3u8:Fenit Marina 401
+#DESCRIPTION Fenit Marina 401
+#SERVICE 1:64:B:0:0:0:0:0:0:0::=== Island ===
+#DESCRIPTION === Island ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bang.snerpa.is/live/live/flateyri.stream/playlist.m3u8:Flateyri
+#DESCRIPTION Flateyri
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/iceland/austurland/hofn/jokulsarlon.html:Jökulsárlón SC
+#DESCRIPTION Jökulsárlón SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bang.snerpa.is/live/live/Sundahofn.stream/playlist.m3u8:Sundahofn
+#DESCRIPTION Sundahofn
+#SERVICE 1:64:C:0:0:0:0:0:0:0::=== Italija ===
+#DESCRIPTION === Italija ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_bibione15.m3u8:Bibione Plaža @
+#DESCRIPTION Bibione Plaža @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e0add8153fcd.streamlock.net%3a1936/vedetta/colosseo.stream/playlist.m3u8:Colosseum
+#DESCRIPTION Colosseum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/it/webcam/italia/campania/napoli/napoli-vesuvio.html:Etna Volcano SC
+#DESCRIPTION Etna Volcano SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//visionenvironnement.quanteec.com/contents/encodings/live/5ec82d22-dffa-41f9-746c-7561-6665-64-9ec6-4896a57bc77ed/media_0.m3u8:Florence Ponte Vecchio
+#DESCRIPTION Florence Ponte Vecchio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/it_riopusteria02.m3u8:Gitschberg Jochtal 602
+#DESCRIPTION Gitschberg Jochtal 602
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_riopusteria01.m3u8:Gitschberg Jochtal skijališta 501
+#DESCRIPTION Gitschberg Jochtal skijališta 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_livigno04.m3u8:Livigno 504
+#DESCRIPTION Livigno 504
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_livigno05.m3u8:Livigno Hotel Primula 505
+#DESCRIPTION Livigno Hotel Primula 505
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/2/master.m3u8:meteoproject.eu 2
+#DESCRIPTION meteoproject.eu 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/11/master.m3u8:meteoproject.eu 11
+#DESCRIPTION meteoproject.eu 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/14/master.m3u8:meteoproject.eu 14
+#DESCRIPTION meteoproject.eu 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/18/master.m3u8:meteoproject.eu 18
+#DESCRIPTION meteoproject.eu 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/21/master.m3u8:Cervinia Valtournenche
+#DESCRIPTION Cervinia Valtournenche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/24/master.m3u8:meteoproject.eu 24
+#DESCRIPTION meteoproject.eu 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/31/master.m3u8:meteoproject.eu 31
+#DESCRIPTION meteoproject.eu 31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/37/master.m3u8:meteoproject.eu 37
+#DESCRIPTION meteoproject.eu 37
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/43/master.m3u8:meteoproject.eu 43
+#DESCRIPTION meteoproject.eu 43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/45/master.m3u8:meteoproject.eu 45
+#DESCRIPTION meteoproject.eu 45
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/50/master.m3u8:meteoproject.eu 50
+#DESCRIPTION meteoproject.eu 50
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/51/master.m3u8:meteoproject.eu 51
+#DESCRIPTION meteoproject.eu 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/57/master.m3u8:meteoproject.eu 57
+#DESCRIPTION meteoproject.eu 57
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/58/master.m3u8:meteoproject.eu 58
+#DESCRIPTION meteoproject.eu 58
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/59/master.m3u8:meteoproject.eu 59
+#DESCRIPTION meteoproject.eu 59
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/61/master.m3u8:meteoproject.eu 61
+#DESCRIPTION meteoproject.eu 61
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/63/master.m3u8:meteoproject.eu 63
+#DESCRIPTION meteoproject.eu 63
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/68/master.m3u8:meteoproject.eu 68
+#DESCRIPTION meteoproject.eu 68
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/69/master.m3u8:meteoproject.eu 69
+#DESCRIPTION meteoproject.eu 69
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/74/master.m3u8:meteoproject.eu 74
+#DESCRIPTION meteoproject.eu 74
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/75/master.m3u8:meteoproject.eu 75
+#DESCRIPTION meteoproject.eu 75
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/78/master.m3u8:meteoproject.eu 78
+#DESCRIPTION meteoproject.eu 78
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/79/master.m3u8:meteoproject.eu 79
+#DESCRIPTION meteoproject.eu 79
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/80/master.m3u8:meteoproject.eu 80
+#DESCRIPTION meteoproject.eu 80
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/81/master.m3u8:meteoproject.eu 81
+#DESCRIPTION meteoproject.eu 81
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/83/master.m3u8:meteoproject.eu 83
+#DESCRIPTION meteoproject.eu 83
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_pietracamela01.m3u8:Pietracamela Panorama 501
+#DESCRIPTION Pietracamela Panorama 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/it_pratiditivo02.m3u8:Pietracamela Prati di Tivo Gran Sasso 202
+#DESCRIPTION Pietracamela Prati di Tivo Gran Sasso 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/it_ponza05.m3u8:Ponza luka 205
+#DESCRIPTION Ponza luka 205
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-005.whatsupcams.com/hls/it_rosolinamare03.m3u8:Rosolina Mare Centrum @ 503
+#DESCRIPTION Rosolina Mare Centrum @ 503
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_alghero06.m3u8:Sardinija Alghero plaža Lazzaretto 706
+#DESCRIPTION Sardinija Alghero plaža Lazzaretto 706
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_giba01.m3u8:Sardinija Giba Porto Botte plaža 701
+#DESCRIPTION Sardinija Giba Porto Botte plaža 701
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_oristano04.m3u8:Sardinija Oristano Is Arutas plaža 504
+#DESCRIPTION Sardinija Oristano Is Arutas plaža 504
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_palau05.m3u8:Sardinija Palau Isola dei Gabbiani 505
+#DESCRIPTION Sardinija Palau Isola dei Gabbiani 505
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_trieste01.m3u8:Trst @
+#DESCRIPTION Trst @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_trieste02.m3u8:Trst pogled na dvorac Miramare 502
+#DESCRIPTION Trst pogled na dvorac Miramare 502
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/it_caorle04.m3u8:Veneto Caorle 204
+#DESCRIPTION Veneto Caorle 204
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_caorle01.m3u8:Veneto Caorle 501
+#DESCRIPTION Veneto Caorle 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_rosolinamare03.m3u8:Veneto Rosolina mare @
+#DESCRIPTION Veneto Rosolina mare @
+#SERVICE 1:64:D:0:0:0:0:0:0:0::=== Mađarska ===
+#DESCRIPTION === Mađarska ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront44.lexanetwork.com%3a1344/freerelay/keszthelyivcam.sdp/chunks.m3u8:2
+#DESCRIPTION 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//597898896a88d.streamlock.net/live/D1517508.stream/chunklist.m3u8:3
+#DESCRIPTION 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mms.iptv.unideb.hu/ipcam/ipcam.sport.stream/playlist.m3u8:Debrecen Universiteitsplein
+#DESCRIPTION Debrecen Universiteitsplein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//597898896a88d.streamlock.net/live/komarom-templom.stream/playlist.m3u8:Komárom Jókai Tér
+#DESCRIPTION Komárom Jókai Tér
+#SERVICE 1:64:E:0:0:0:0:0:0:0::=== Maldives ===
+#DESCRIPTION === Maldives ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/de/webcam/maldives/south-male-atoll/akasdhoo/akasdhoo.html:Maldives Akasdhoo
+#DESCRIPTION Maldives Akasdhoo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/de/webcam/maldives/noonu-atoll/manadhoo/robinson-maldives.html:Maldives Manadhoo Robinson Noonu
+#DESCRIPTION Maldives Manadhoo Robinson Noonu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/de/webcam/maldives/alif-alif-atoll/male/veligandu-maldives-resort-island.html:Maldives Resort Island
+#DESCRIPTION Maldives Resort Island
+#SERVICE 1:64:F:0:0:0:0:0:0:0::=== Njemačka ===
+#DESCRIPTION === Njemačka ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/to4d3rza/3d2d2tcm.m3u8:Bad Brückenau Kurverwaltung @
+#DESCRIPTION Bad Brückenau Kurverwaltung @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-fra-n1.livespotting.com/vpu/gu43zuoj/y9d76k31.m3u8:Bad Harzburg BaumSchwebeBahn Harz @
+#DESCRIPTION Bad Harzburg BaumSchwebeBahn Harz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/d6se1ryf/edlyww6d.m3u8:Bad Hindelang Oberjoch @
+#DESCRIPTION Bad Hindelang Oberjoch @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/xxurpmsp/xuzgt0qg.m3u8:Bad Pyrmont Friedrichstraße @
+#DESCRIPTION Bad Pyrmont Friedrichstraße @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/qzlr74we/e3vtevl8.m3u8:Bad Wildbad im Schwarzwald
+#DESCRIPTION Bad Wildbad im Schwarzwald
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/qzlr74we/wk5ju0m2.m3u8:Bad Wildbad Sommerberg
+#DESCRIPTION Bad Wildbad Sommerberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/kuih506k/i4gpp4ev.m3u8:Bad Zwischenahn Auf dem Hohen Ufer @
+#DESCRIPTION Bad Zwischenahn Auf dem Hohen Ufer @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/tchyk5bd/wvzw07rb.m3u8:Barth Hafenstraße @
+#DESCRIPTION Barth Hafenstraße @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/9hznyh2w/p5cpq5le.m3u8:Barßel Leuchtturm „Roter Sand“ @
+#DESCRIPTION Barßel Leuchtturm „Roter Sand“ @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/dslnpdtz/t6jvxnwb.m3u8:Beelitz @
+#DESCRIPTION Beelitz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/cn5r0yhi/su7qjwzh.m3u8:Bensersiel @
+#DESCRIPTION Bensersiel @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream02.blickfix.com/BI08CAM01/1080p.m3u8:Berchtesgaden Hotel Edelweiss @
+#DESCRIPTION Berchtesgaden Hotel Edelweiss @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/ehlpzb4g/nkw9elfh.m3u8:Berlin Alexanderplatz @
+#DESCRIPTION Berlin Alexanderplatz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/uyp4cqdf/55kq0hij.m3u8:Berlin Blumberger Damm 44 @
+#DESCRIPTION Berlin Blumberger Damm 44 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/h8ga2o1s/w6wqy7il.m3u8:Berlin Englische Straße @
+#DESCRIPTION Berlin Englische Straße @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/d5qak6qj/bqmqghk2.m3u8:Berlin Flatowallee I
+#DESCRIPTION Berlin Flatowallee I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/d5qak6qj/c4277ys1.m3u8:Berlin Flatowallee II @
+#DESCRIPTION Berlin Flatowallee II @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/k4s2mr06/cc225eef.m3u8:Berlin Fürstenwalder Damm @
+#DESCRIPTION Berlin Fürstenwalder Damm @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cam01.binz-kabel.de/cam1/960.m3u8:Binz Strand @
+#DESCRIPTION Binz Strand @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/47cgvfy9/lf55bibu.m3u8:Blomberg-Cappel Huxoll 14
+#DESCRIPTION Blomberg-Cappel Huxoll 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//osltv.stream24.net/osltv4/_definst_/mp4%3aboltenhagen.stream/playlist.m3u8:Boltenhagen @
+#DESCRIPTION Boltenhagen @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8:Bonn Aerodrom 1
+#DESCRIPTION Bonn Aerodrom 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/playlist.m3u8:Bonn Aerodrom 3
+#DESCRIPTION Bonn Aerodrom 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/t811tdat/77cg6wgw.m3u8:Bonn Rheinaustraße 120
+#DESCRIPTION Bonn Rheinaustraße 120
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/yoobmx27/2u3imco2.m3u8:Borkum Strandstraße 28 @
+#DESCRIPTION Borkum Strandstraße 28 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/jieh1q7f/1257o3y4.m3u8:Borkum Viktoriastraße @
+#DESCRIPTION Borkum Viktoriastraße @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/yoobmx27/yh6bdfty.m3u8:Borkum Von-Frese-Straße 46 @
+#DESCRIPTION Borkum Von-Frese-Straße 46 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/tf3h0sjr/jsw1bmyz.m3u8:Brandenburg an der Havel @
+#DESCRIPTION Brandenburg an der Havel @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/mf9kvse7/c2qumtqb.m3u8:Braunsbedra Hafenplatz 6
+#DESCRIPTION Braunsbedra Hafenplatz 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/tq8b556n/skce4kmu.m3u8:Breitscheid Auf der Hub
+#DESCRIPTION Breitscheid Auf der Hub
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/sttko2er/proylddb.m3u8:Brunsbüttel Cuxhavener Straße @
+#DESCRIPTION Brunsbüttel Cuxhavener Straße @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/tw0xvqm0/8wxtwuru.m3u8:Büsum Südstrand I @
+#DESCRIPTION Büsum Südstrand I @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/tw0xvqm0/b2gdia30.m3u8:Büsum Südstrand 9
+#DESCRIPTION Büsum Südstrand 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/9dvhd3wf/aetm7sg6.m3u8:Büsumer Deichhausen Achtern Diek 28 @
+#DESCRIPTION Büsumer Deichhausen Achtern Diek 28 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/bzxb4ugr/3pbakjix.m3u8:Cuxhaven Altenbrucher Bahnhofstraße 114 @
+#DESCRIPTION Cuxhaven Altenbrucher Bahnhofstraße 114 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/e4fffsqn/gyya3sso.m3u8:Cuxhaven Cuxhavener Straße 98
+#DESCRIPTION Cuxhaven Cuxhavener Straße 98
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/e4fffsqn/skmyljf6.m3u8:Cuxhaven Cuxhavener Straße 98
+#DESCRIPTION Cuxhaven Cuxhavener Straße 98
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/bzxb4ugr/q1do63in.m3u8:Cuxhaven Duhner Strandstraße @
+#DESCRIPTION Cuxhaven Duhner Strandstraße @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/bzxb4ugr/8nt7eblv.m3u8:Cuxhaven Hans-Claußen-Straße 18 @
+#DESCRIPTION Cuxhaven Hans-Claußen-Straße 18 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/860k6f9b/3t7235vt.m3u8:Damp Seute-Deern-Ring 30
+#DESCRIPTION Damp Seute-Deern-Ring 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/jkp3kgz3/295frhgb.m3u8:Damp Wohnmobilpark Damp
+#DESCRIPTION Damp Wohnmobilpark Damp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/860k6f9b/yofb8u0q.m3u8:Damp Zur Niebymole 1
+#DESCRIPTION Damp Zur Niebymole 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/ruzhjc51/1v82v5h3.m3u8:Dangast Nordseebad @
+#DESCRIPTION Dangast Nordseebad @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live22.deg.net/20/livestream_1.m3u8:Deggendorf Braflinger Tal
+#DESCRIPTION Deggendorf Braflinger Tal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live22.deg.net/22/livestream_1.m3u8:Deggendorf Hafen
+#DESCRIPTION Deggendorf Hafen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live22.deg.net/25/livestream_1.m3u8:Deggendorf Luitpoldplatz
+#DESCRIPTION Deggendorf Luitpoldplatz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live22.deg.net/26/livestream_1.m3u8:Deggendorf Oberer Stadtplatz
+#DESCRIPTION Deggendorf Oberer Stadtplatz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live22.deg.net/27/livestream_1.m3u8:Deggendorf Plattling Bahnhof
+#DESCRIPTION Deggendorf Plattling Bahnhof
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live22.deg.net/21/livestream_1.m3u8:Deggendorf Schachina
+#DESCRIPTION Deggendorf Schachina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live22.deg.net/24/livestream_1.m3u8:Deggendorf Stadtmitte
+#DESCRIPTION Deggendorf Stadtmitte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live22.deg.net/29/livestream_1.m3u8:Deggendorf Straubing Bahnhof
+#DESCRIPTION Deggendorf Straubing Bahnhof
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dobel.de/hls/live.stream.m3u8:Dobel @
+#DESCRIPTION Dobel @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/6jm0o5vv/1taewvfv.m3u8:Dohna Köttewitz 29a @
+#DESCRIPTION Dohna Köttewitz 29a @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/kis8j7hy/wqlm4q95.m3u8:Donaueschingen
+#DESCRIPTION Donaueschingen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8:Düsseldorf Aerodrom 3
+#DESCRIPTION Düsseldorf Aerodrom 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8:Düsseldorf Aerodrom 4
+#DESCRIPTION Düsseldorf Aerodrom 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de%3a1935/cupertino/dused0c.stream/playlist.m3u8:Düsseldorf Aerodrom 5
+#DESCRIPTION Düsseldorf Aerodrom 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/a6mam24n/4xbp4z1f.m3u8:Düsseldorf Marktplatz 2
+#DESCRIPTION Düsseldorf Marktplatz 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/a6mam24n/hvasmdro.m3u8:Düsseldorf Marktplatz 2
+#DESCRIPTION Düsseldorf Marktplatz 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/a6mam24n/fxmwsxp6.m3u8:Düsseldorf Stadtbezirk 1
+#DESCRIPTION Düsseldorf Stadtbezirk 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/qh9djbhj/fswmzjk5.m3u8:Eckernförde Jungfernstieg 110
+#DESCRIPTION Eckernförde Jungfernstieg 110
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/fbwo6fqy/remzxs6s.m3u8:Eckernförde Preußerstraße 1 @
+#DESCRIPTION Eckernförde Preußerstraße 1 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/gzj536t0/6hqi120m.m3u8:Eriskirch Schussenstraße 18 @
+#DESCRIPTION Eriskirch Schussenstraße 18 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f27cc8163c2e.streamlock.net/1044/1044.stream/playlist.m3u8:Eschwege Markt
+#DESCRIPTION Eschwege Markt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ls12.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/playlist.m3u8:Frankfurt am Main @
+#DESCRIPTION Frankfurt am Main @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/qie3q9fo/1u6y1f0z.m3u8:Friedrichskoog Koogstraße 140 @
+#DESCRIPTION Friedrichskoog Koogstraße 140 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/lckeszmq/85gh35ta.m3u8:Gaienhofen Kirchgasse 3 @
+#DESCRIPTION Gaienhofen Kirchgasse 3 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/vbo8wthh/3ek1mj46.m3u8:Graal-Müritz Ostsee Heilbad (Seebrücke) @
+#DESCRIPTION Graal-Müritz Ostsee Heilbad (Seebrücke) @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/cfibaxwe/v4z1vtoe.m3u8:Greetsiel Am Neuen Deich @
+#DESCRIPTION Greetsiel Am Neuen Deich @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/46whfv4n/z44s8a8m.m3u8:Hamburg Bei den St. Pauli Landungsbrücken 3
+#DESCRIPTION Hamburg Bei den St. Pauli Landungsbrücken 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/ae9twnah/0rv6h4hx.m3u8:Hamburg Fischertwiete 2 @
+#DESCRIPTION Hamburg Fischertwiete 2 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/snvfy5ws/8o4b2fw4.m3u8:Hamburg Große Elbstraße 59 @
+#DESCRIPTION Hamburg Große Elbstraße 59 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/e5akhxn8/to190dqd.m3u8:Hamburg Valentinskamp 70 @
+#DESCRIPTION Hamburg Valentinskamp 70 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/t3dylco6/nm41s7ks.m3u8:Heiligenhafen Seebrückenpromenade
+#DESCRIPTION Heiligenhafen Seebrückenpromenade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/3j4s8fqc/dlwkigk3.m3u8:Helgoland Am Falm 302 @
+#DESCRIPTION Helgoland Am Falm 302 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/c0i7v20r/cq62umwe.m3u8:Heringsdorf Dünenstraße 43/43a @
+#DESCRIPTION Heringsdorf Dünenstraße 43/43a @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/nndrala1/7agrtv8l.m3u8:Hohenroda Schwarzengrunder Straße @
+#DESCRIPTION Hohenroda Schwarzengrunder Straße @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/bgh4pz4b/28eljrrx.m3u8:Hörnum Rantumer Str. 23A @
+#DESCRIPTION Hörnum Rantumer Str. 23A @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/z5my1uz7/kpl2gjeg.m3u8:Juist Inselgemeinde Juist @
+#DESCRIPTION Juist Inselgemeinde Juist @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f27cc8163c2e.streamlock.net/691/691.stream/playlist.m3u8:Kaisersesch Koblenzerstraße @
+#DESCRIPTION Kaisersesch Koblenzerstraße @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.m3u8:Kampen Quermarkenfeuer @
+#DESCRIPTION Kampen Quermarkenfeuer @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv-streaming-02.nordwind-ev.de/hls/kellenhusen.m3u8:Kellenhusen Ostseebad @
+#DESCRIPTION Kellenhusen Ostseebad @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/vjy83fee/vgiy5566.m3u8:Kiel Deichweg @
+#DESCRIPTION Kiel Deichweg @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-fra-n2.livespotting.com/vpu/sttko2er/f1q161no.m3u8:Kiel Maklerstraße @
+#DESCRIPTION Kiel Maklerstraße @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/aojo8rm0/w4jwsymf.m3u8:Konstanz @
+#DESCRIPTION Konstanz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/xv8t34tm/8mr08amr.m3u8:Kröslin Marina @
+#DESCRIPTION Kröslin Marina @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/rqharwuk/at3nvjov.m3u8:Kühlungsborn Bootshafen @
+#DESCRIPTION Kühlungsborn Bootshafen @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/brgr3u26/519srew5.m3u8:Kühlungsborn Strand @
+#DESCRIPTION Kühlungsborn Strand @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/nthyfwxl/hi7flxhe.m3u8:Laboe Ehrenmal @
+#DESCRIPTION Laboe Ehrenmal @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tdt.shmhost.net/geist/livestream.m3u8:Landshut Heiliggeistkirche @
+#DESCRIPTION Landshut Heiliggeistkirche @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f27cc8163c2e.streamlock.net/1048/1048.stream/playlist.m3u8:Lausche Sonnebergbaude
+#DESCRIPTION Lausche Sonnebergbaude
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/roa1g3r5/35tw19tq.m3u8:Lembruch Seestraße
+#DESCRIPTION Lembruch Seestraße
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/pdi51ojm/v444kee7.m3u8:Letschin Karl-Marx-Straße @
+#DESCRIPTION Letschin Karl-Marx-Straße @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-fra-n15.livespotting.com/vpu/hmepsu74/vqwdkk04.m3u8:Lindau @
+#DESCRIPTION Lindau @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/s5r7oxxz/2mmubfyp.m3u8:Livespotting TV De 100 kamera @@
+#DESCRIPTION Livespotting TV De 100 kamera @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/8dm5nqqa/9qp6s1tl.m3u8:Ludwigsburg Posilipostraße @
+#DESCRIPTION Ludwigsburg Posilipostraße @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/r40g1a4o/i96ff7e1.m3u8:Markgrafenheide Budentannenweg @
+#DESCRIPTION Markgrafenheide Budentannenweg @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/tb930ow2/dklf7joy.m3u8:Meersburg Bodensee @
+#DESCRIPTION Meersburg Bodensee @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/3wun1esc/597ws9p8.m3u8:Melle @
+#DESCRIPTION Melle @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f27cc8163c2e.streamlock.net/833/833.stream/playlist.m3u8:Münster Prinzipalmarkt @
+#DESCRIPTION Münster Prinzipalmarkt @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/ialdzk0q/92q9gnt6.m3u8:Neuharlingersiel Hafen Ost
+#DESCRIPTION Neuharlingersiel Hafen Ost
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/ialdzk0q/ahvwem2t.m3u8:Neuharlingersiel Panorama @
+#DESCRIPTION Neuharlingersiel Panorama @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/4je8zz93/ht1kqlpg.m3u8:Neukirchen Marktplatz 10
+#DESCRIPTION Neukirchen Marktplatz 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/vignjhn1/r6dzr0zt.m3u8:Nonnenhorn Bodensee
+#DESCRIPTION Nonnenhorn Bodensee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/8h9zgq58/pyb3snyw.m3u8:Norden-Norddeich Hafen @
+#DESCRIPTION Norden-Norddeich Hafen @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/unbebi63/9q7kps45.m3u8:Norderney Damenpfad 17 @
+#DESCRIPTION Norderney Damenpfad 17 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/4br14zyk/g25n89pk.m3u8:Nordseebad Am Hafen Ost 9 @
+#DESCRIPTION Nordseebad Am Hafen Ost 9 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//h056.video-stream-hosting.de/stadtosnabrueck-rtplive/_definst_/mp4%3acamera2.stream/playlist.m3u8:Osnabrück Blick über den Markt
+#DESCRIPTION Osnabrück Blick über den Markt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//h056.video-stream-hosting.de/stadtosnabrueck-rtplive/_definst_/mp4%3acamera4.stream/playlist.m3u8:Osnabrück Blick über Osnabrücks Altstadt
+#DESCRIPTION Osnabrück Blick über Osnabrücks Altstadt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//h056.video-stream-hosting.de/stadtosnabrueck-rtplive/_definst_/mp4%3acamera3.stream/playlist.m3u8:Osnabrück Blick zum Hasetorwall
+#DESCRIPTION Osnabrück Blick zum Hasetorwall
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/9lq3iun1/3ubm6t46.m3u8:Ostseebad Sellin Hochuferpromenade @
+#DESCRIPTION Ostseebad Sellin Hochuferpromenade @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/hhktf8da/se71tzda.m3u8:Owingen Hauptstraße 35 @
+#DESCRIPTION Owingen Hauptstraße 35 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/ojj7axtx/3j3wr1ua.m3u8:Rathenow OT Steckelsdorf Hauptstraße 72 @
+#DESCRIPTION Rathenow OT Steckelsdorf Hauptstraße 72 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/444xb5g3/4vd3itwp.m3u8:Rostock Am Leuchtturm 9 @
+#DESCRIPTION Rostock Am Leuchtturm 9 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/oq57fxnt/mciwlhsf.m3u8:Rostock-Warnemünde Am Strom
+#DESCRIPTION Rostock-Warnemünde Am Strom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/2g1v2qai/x0etac6e.m3u8:Rostock-Warnemünde Seestraße 12 @
+#DESCRIPTION Rostock-Warnemünde Seestraße 12 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/78ki4ctv/m4mz0o8n.m3u8:Rottweil Friedrichspl. 2 @
+#DESCRIPTION Rottweil Friedrichspl. 2 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/opqd6ojg/ok0rn3i4.m3u8:Rottweil Imster Str. 2
+#DESCRIPTION Rottweil Imster Str. 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/o5wgrlg8/65is5kui.m3u8:Sassnitz Straße der Jugend 10 @
+#DESCRIPTION Sassnitz Straße der Jugend 10 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/6s4tsv0s/1bue65pk.m3u8:Sassnitz Stubbenkammer 2
+#DESCRIPTION Sassnitz Stubbenkammer 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/azcqykit/qovrg03j.m3u8:Scharbeutz Ferienwohnung Meersehen
+#DESCRIPTION Scharbeutz Ferienwohnung Meersehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/y2irrmnv/mvqnoovw.m3u8:Scharbeutz Strandallee 10
+#DESCRIPTION Scharbeutz Strandallee 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/qosnn7zz/mjpzkih7.m3u8:Scharbeutz Strandallee 124 A
+#DESCRIPTION Scharbeutz Strandallee 124 A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/3tdus7wu/9paq1se4.m3u8:Scharbeutz Strandallee 132
+#DESCRIPTION Scharbeutz Strandallee 132
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/7lbxz75q/w4gnqsqx.m3u8:Sipplingen Seestraße 1 @
+#DESCRIPTION Sipplingen Seestraße 1 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/pc00u42u/3h4he01n.m3u8:Stade Hansastraße
+#DESCRIPTION Stade Hansastraße
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/vl4lrq79/6b7jjop7.m3u8:Stechlin Zur Alten Fischerhütte 1 a
+#DESCRIPTION Stechlin Zur Alten Fischerhütte 1 a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/tcnhc5fw/3nis26zn.m3u8:Stralsund Hafenstraße 8
+#DESCRIPTION Stralsund Hafenstraße 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/mtolnnc3/l2d6q1bz.m3u8:Straßlach Tölzer Straße 95 @
+#DESCRIPTION Straßlach Tölzer Straße 95 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/drgf25ku/y7g742o6.m3u8:Stuttgart @
+#DESCRIPTION Stuttgart @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/bgh4pz4b/2ux5cw8z.m3u8:Sylt Leuchtturm Hörnum @
+#DESCRIPTION Sylt Leuchtturm Hörnum @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/i1o4wihi/ssu52skh.m3u8:Sylt Tinnum @
+#DESCRIPTION Sylt Tinnum @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/4b7r3v86/xhn7c8l2.m3u8:Sylt Westerland @
+#DESCRIPTION Sylt Westerland @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/qjkdtjva/4ctm3g1a.m3u8:Torfhaus Harz @
+#DESCRIPTION Torfhaus Harz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/6w5928fd/kz3gcwmh.m3u8:Uhldingen-Mühlhofen Strandpromenade 6 @
+#DESCRIPTION Uhldingen-Mühlhofen Strandpromenade 6 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/g6106xv4/hbh26r3r.m3u8:Wangerooge Strand @
+#DESCRIPTION Wangerooge Strand @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//osltv.stream24.net/osltv5/_definst_/mp4%3awaren.stream/playlist.m3u8:Waren Müritz @
+#DESCRIPTION Waren Müritz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/1as4m9t6/jg5qb2v1.m3u8:Waren Palais
+#DESCRIPTION Waren Palais
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/v6azyavs/dxjxvmnt.m3u8:Wasserburg am Bodensee Halbinselstraße
+#DESCRIPTION Wasserburg am Bodensee Halbinselstraße
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/nsuxqicc/fmeleqnm.m3u8:Weitnau An der Stelze
+#DESCRIPTION Weitnau An der Stelze
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5889e7d0d6e28.streamlock.net/stadtverwaltungWernigerrode-live/_definst_/mp4%3acamera1.stream/playlist.m3u8?&ref=www.wernigerode-tourismus.de&seid=244345:Wernigerode Marktplatz
+#DESCRIPTION Wernigerode Marktplatz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/zqqmmlcf/xf8ypbfa.m3u8:Wiek Am Hafen 14 @
+#DESCRIPTION Wiek Am Hafen 14 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/bdq34tj2/h2lqrt85.m3u8:Wilhelmshaven Jadeallee 50 @
+#DESCRIPTION Wilhelmshaven Jadeallee 50 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/unbebi63/yhj2mrd8.m3u8:Wittmund Flugplatz Harle
+#DESCRIPTION Wittmund Flugplatz Harle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/4br14zyk/b96keym9.m3u8:Wittmund Nordseebad Carolinensiel-Harlesiel @
+#DESCRIPTION Wittmund Nordseebad Carolinensiel-Harlesiel @
+#SERVICE 1:64:10:0:0:0:0:0:0:0::=== Luxembourg ===
+#DESCRIPTION === Luxembourg ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge.rtl.lu/cita/cita_a1/playlist.m3u8:Luxembourg @@
+#DESCRIPTION Luxembourg @@
+#SERVICE 1:64:11:0:0:0:0:0:0:0::=== Norveška ===
+#DESCRIPTION === Norveška ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/Festplassen.stream/playlist.m3u8:Bergen Festplassen
+#DESCRIPTION Bergen Festplassen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/Floyen_1.stream/playlist.m3u8:Bergen Fløyen @
+#DESCRIPTION Bergen Fløyen @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/Nygardstangen.stream/playlist.m3u8:Bergen Nygårdstangen
+#DESCRIPTION Bergen Nygårdstangen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/Puddefjordsbroen.stream/playlist.m3u8:Bergen Puddefjord Bridge
+#DESCRIPTION Bergen Puddefjord Bridge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/Torgallmenningen.stream/playlist.m3u8:Bergen Torgallmenningen
+#DESCRIPTION Bergen Torgallmenningen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/Ulriken_3.stream/playlist.m3u8:Bergen Ulriken @
+#DESCRIPTION Bergen Ulriken @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/FinseStasjon.stream/playlist.m3u8:Finse
+#DESCRIPTION Finse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//polarislive-lh.akamaized.net/hls/live/2039440/fvn/9wOObU20Nmtsqt8WRITUL/source.m3u8:Lindesnesveien @
+#DESCRIPTION Lindesnesveien @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/_definst_/VossSkitur.stream/playlist.m3u8:Skulestadmo
+#DESCRIPTION Skulestadmo
+#SERVICE 4097:0:1:B793:EC0F:EC:0:0:0:0:https%3a//svplive-lh.akamaized.net/hls/live/2039444/sa/r3DxvH89PN7RPhufi3QvC/master.m3u8:Stavanger Vågen i Stavanger @
+#DESCRIPTION Stavanger Vågen i Stavanger @
+#SERVICE 1:64:12:0:0:0:0:0:0:0::=== Rumunija  ===
+#DESCRIPTION === Rumunija  ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.camere-live.ro/WebRTCApp/streams/829793083797025394233086.m3u8:14
+#DESCRIPTION 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/alba_iulia_desktop.stream/index.m3u8:Alba Iulia Panoramview
+#DESCRIPTION Alba Iulia Panoramview
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/azuga_desktop.stream/index.m3u8:Azuga
+#DESCRIPTION Azuga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/braila_desktop.stream/index.m3u8:Brăila Bulevardul Dorobanților
+#DESCRIPTION Brăila Bulevardul Dorobanților
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/busteni_gara_desktop.stream/index.m3u8:Bușteni Gara / DN@
+#DESCRIPTION Bușteni Gara / DN@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/oradea_desktop.stream/index.m3u8:Oradea Piața Decembrie @
+#DESCRIPTION Oradea Piața Decembrie @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/caciulata_desktop.stream/index.m3u8:Păușa Căciulata
+#DESCRIPTION Păușa Căciulata
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/pitesti_nord_desktop.stream/index.m3u8:Pitești Nord
+#DESCRIPTION Pitești Nord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/pitesti_sud_desktop.stream/index.m3u8:Pitești Sud
+#DESCRIPTION Pitești Sud
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/predeal_centru_desktop.stream/index.m3u8:Predeal Centru
+#DESCRIPTION Predeal Centru
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/ramnicu_valcea_desktop.stream/index.m3u8:Râmnicu Vâlcea
+#DESCRIPTION Râmnicu Vâlcea
+#SERVICE 1:64:13:0:0:0:0:0:0:0::=== Švicarska ===
+#DESCRIPTION === Švicarska ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5889e7d0d6e28.streamlock.net/vocom-live/_definst_/livestream/chunklist.m3u8:Rhätische Bahn @@
+#DESCRIPTION Rhätische Bahn @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.idnes.cz/slow/svycarsko/playlist.m3u8:Rigi Bahn
+#DESCRIPTION Rigi Bahn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/5tv7fisb/br28pv3u.m3u8:Teufen Bootshaus Tössegg
+#DESCRIPTION Teufen Bootshaus Tössegg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hotelalexander.it-wms.com/clip_current_720p.mp4:Zürich
+#DESCRIPTION Zürich
+#SERVICE 1:64:14:0:0:0:0:0:0:0::=== USA ===
+#DESCRIPTION === USA ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-4284358-1/playlist.m3u8:64th & Sheridan Monkeys Tire & Chrome @
+#DESCRIPTION 64th & Sheridan Monkeys Tire & Chrome @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-1195868-1/playlist.m3u8:Aspen 3rd & Main Aspen Mountain Lodge
+#DESCRIPTION Aspen 3rd & Main Aspen Mountain Lodge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/butternut.stream/playlist.m3u8:Blairsville Butternut Creek Golf Course @
+#DESCRIPTION Blairsville Butternut Creek Golf Course @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-2266250-1/playlist.m3u8:Buena Vista East Main
+#DESCRIPTION Buena Vista East Main
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-1395438-1/playlist.m3u8:Buena Vista Main st  Mt Princenton  Mt Antero
+#DESCRIPTION Buena Vista Main st  Mt Princenton  Mt Antero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-2092228-1/playlist.m3u8:Crystal Falls HWY East
+#DESCRIPTION Crystal Falls HWY East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/Channels101/default.stream/playlist.m3u8:Downtown
+#DESCRIPTION Downtown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/Channels301/default.stream/playlist.m3u8:Downtown 3
+#DESCRIPTION Downtown 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/spiritmtn.stream/playlist.m3u8:Duluth Spirit Mountain
+#DESCRIPTION Duluth Spirit Mountain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.citynet.net/Snowshoe/smil%3avillage.smil/playlist.m3u8:Dunmore Snowshoe Mountain Skidder Slope
+#DESCRIPTION Dunmore Snowshoe Mountain Skidder Slope
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-2059940-1/playlist.m3u8:Elkader Iowa Turkey River
+#DESCRIPTION Elkader Iowa Turkey River
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.estesparkwebcams.com/prospect3/index.m3u8:Estes Park
+#DESCRIPTION Estes Park
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f9f690034fb0.streamlock.net%3a444/highlands1/highlands1.stream/playlist.m3u8:Highlands Dillard
+#DESCRIPTION Highlands Dillard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//reservations.palmettodunes.com/live/SCMBasin.stream/playlist.m3u8:Hilton Hed pristanište
+#DESCRIPTION Hilton Hed pristanište
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland2/cityofholland2.stream/playlist.m3u8:Holland Centennial Park
+#DESCRIPTION Holland Centennial Park
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland4/cityofholland4.stream/playlist.m3u8:Holland Civic Center
+#DESCRIPTION Holland Civic Center
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland6/cityofholland6.stream/playlist.m3u8:Holland Downtown Holland
+#DESCRIPTION Holland Downtown Holland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland5/cityofholland5.stream/playlist.m3u8:Holland Energy Park
+#DESCRIPTION Holland Energy Park
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland9/cityofholland9.stream/playlist.m3u8:Holland Herrick District Library
+#DESCRIPTION Holland Herrick District Library
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland7/cityofholland7.stream/playlist.m3u8:Holland Panoramaview
+#DESCRIPTION Holland Panoramaview
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland8/cityofholland8.stream/playlist.m3u8:Holland State Park @
+#DESCRIPTION Holland State Park @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland1/cityofholland1.stream/playlist.m3u8:Holland Windmill Island Gardens
+#DESCRIPTION Holland Windmill Island Gardens
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-1301834-1/playlist.m3u8:Idaho Springs
+#DESCRIPTION Idaho Springs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5a5f765a4fcc2.streamlock.net%3a1935/live/kbstreet.stream/playlist.m3u8:Kure Beach Street Cam
+#DESCRIPTION Kure Beach Street Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/lafollette.stream/playlist.m3u8:LaFollette West Central Avenue @
+#DESCRIPTION LaFollette West Central Avenue @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live/madelineisland.stream/playlist.m3u8:Madeline Island @
+#DESCRIPTION Madeline Island @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/wispresortmountainpark.stream/playlist.m3u8:McHenry Wisp Resort
+#DESCRIPTION McHenry Wisp Resort
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/bryceresort.stream/playlist.m3u8:Mount Jackson Bryce Resort
+#DESCRIPTION Mount Jackson Bryce Resort
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8:New York City Times Square 2
+#DESCRIPTION New York City Times Square 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/railey1.stream/playlist.m3u8:Oakland Deep Creek Lake @
+#DESCRIPTION Oakland Deep Creek Lake @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer2.brownrice.com/coralsands1/coralsands1.stream/main_playlist.m3u8:Ormond
+#DESCRIPTION Ormond
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-1260510-1/playlist.m3u8:Ouray
+#DESCRIPTION Ouray
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/202594-1354528-1/playlist.m3u8:Plaservil centar
+#DESCRIPTION Plaservil centar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58bdb48e25cf1.streamlock.net%3a19350/live/vcde002.stream/playlist.m3u8:Rehoboth Beach @
+#DESCRIPTION Rehoboth Beach @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f65c8ch4e82b.airspace-cdn.cbsivideo.com/kpix2431-56556/master/kpix2431-56556_1.m3u8:San Francisco Golden Gate
+#DESCRIPTION San Francisco Golden Gate
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f65c8ch4e82b.airspace-cdn.cbsivideo.com/kpixbf77-56555/master/kpixbf77-56555_1.m3u8:San Francisco Skyline
+#DESCRIPTION San Francisco Skyline
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-5865602-1/playlist.m3u8:Silt Colorado Hogback
+#DESCRIPTION Silt Colorado Hogback
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1-or.vdn.terrafox.net/live/downtown-silver.stream/playlist.m3u8:Silver city
+#DESCRIPTION Silver city
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.citynet.net/Snowshoe/smil%3aboathouse.smil/playlist.m3u8:Snowshoe Boathouse @
+#DESCRIPTION Snowshoe Boathouse @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1-or.vdn.terrafox.net/live/sonoma/playlist.m3u8:Sonoma
+#DESCRIPTION Sonoma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a5f765a4fcc2.streamlock.net%3a1936/live/spp.stream/chunklist.m3u8:Southport @
+#DESCRIPTION Southport @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.london.nginx.hdontap.com/hosb1/squaw-kt22_ttv.stream/chunklist.m3u8:Squaw Valley
+#DESCRIPTION Squaw Valley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//f65c8ch4e82b.airspace-cdn.cbsivideo.com/kpix8fcg-56557/master/kpix8fcg-56557_1.m3u8:Treasure Island
+#DESCRIPTION Treasure Island
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com%3a80/live/massresort3.stream/playlist.m3u8:Virginia Massanutten Resort Tubing @
+#DESCRIPTION Virginia Massanutten Resort Tubing @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5c864aa99ee04.streamlock.net%3a1935/surfcam/live.stream/playlist.m3u8:Warm Winds
+#DESCRIPTION Warm Winds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-1195916-1/playlist.m3u8:West Glenwood Springs Widland
+#DESCRIPTION West Glenwood Springs Widland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ddd47d64e730.streamlock.net%3a444/westland/westland.stream/playlist.m3u8:Westland
+#DESCRIPTION Westland
+#SERVICE 1:64:15:0:0:0:0:0:0:0::=== Vietnam ===
+#DESCRIPTION === Vietnam ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8:Vietnam 1
+#DESCRIPTION Vietnam 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/index.m3u8:Vietnam 2
+#DESCRIPTION Vietnam 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/index.m3u8:Vietnam @
+#DESCRIPTION Vietnam @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/index.m3u8:Vietnam 7
+#DESCRIPTION Vietnam 7
+#SERVICE 4097:0:1:6BE2:445F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html:Vietnam Hoàng Mai SC
+#DESCRIPTION Vietnam Hoàng Mai SC
+#SERVICE 1:64:16:0:0:0:0:0:0:0::***** YOUTUBE potrebna instalacija Streamlinkwrapper *****
+#DESCRIPTION ***** YOUTUBE potrebna instalacija Streamlinkwrapper *****
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/GBRAap37h1E:Beograd @
+#DESCRIPTION Beograd @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/ia-XIS85WUc:Bol na Braču 2 @
+#DESCRIPTION Bol na Braču 2 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/8_oxQplx7Xg:Crveni vrh @
+#DESCRIPTION Crveni vrh @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/qZm-0UhrCgQ:Galičica
+#DESCRIPTION Galičica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/wBVq_Qoegmo:Hvar @
+#DESCRIPTION Hvar @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/_Hk9_WjJU_Y:Hvar Vrboska @
+#DESCRIPTION Hvar Vrboska @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/_Rr2Fs51v6A:Kopaonik @@
+#DESCRIPTION Kopaonik @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/vWdEy1J0BuM:Malinska 1
+#DESCRIPTION Malinska 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/7YlxIx7TB7I:Malinska 2
+#DESCRIPTION Malinska 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/FNVjLibM5ko:Međugorje
+#DESCRIPTION Međugorje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/ao51cOV_M6k:NizoPole
+#DESCRIPTION NizoPole
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/f_kvIQwpzWY:Plaški @
+#DESCRIPTION Plaški @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/3CH7lD8drkQ:Ponikva 1.630m
+#DESCRIPTION Ponikva 1.630m
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/z_62SDLnwdI:Popova Šapka 1.722m
+#DESCRIPTION Popova Šapka 1.722m
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/MMdHyT6iX6c:Primošten
+#DESCRIPTION Primošten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/iSbn8x3IUhs:Rogoznica @
+#DESCRIPTION Rogoznica @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/FoNglL6eS6Y:Sjenica
+#DESCRIPTION Sjenica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Nwy3KdIK6Fo:Split
+#DESCRIPTION Split
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/NIuO6hrFTrg:Austria Feratel @@
+#DESCRIPTION Austria Feratel @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/F2-hJqSTaUk:Austria PanoCloud and EU @@
+#DESCRIPTION Austria PanoCloud and EU @@
+#SERVICE 4097:0:1:6462:A8BC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/canada/niagarafalls/thefalls/?cam=niagarafalls2:Canada Niagara Falls 1
+#DESCRIPTION Canada Niagara Falls 1
+#SERVICE 4097:0:1:D0B6:29B9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/world/canada/niagarafalls/?cam=niagarafalls_str:Canada Niagara Falls 2
+#DESCRIPTION Canada Niagara Falls 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/I-7mv4-BJ7M:Canada Port de Quebec
+#DESCRIPTION Canada Port de Quebec
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/ALA4I9vJRiM:England @@
+#DESCRIPTION England @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/QO-hO_kwwmY:England Ferry Southampton to Cowes Isle of Wight Red Funnel
+#DESCRIPTION England Ferry Southampton to Cowes Isle of Wight Red Funnel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/A6R81wOlQqs:Espana Malaga Airport
+#DESCRIPTION Espana Malaga Airport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/N09Dbf90--M:Europe @@
+#DESCRIPTION Europe @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/JnJhFYhIjFs:Finnland Helsinki Port West harbour north cam
+#DESCRIPTION Finnland Helsinki Port West harbour north cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/6hPWq2IG08M:Finnland Helsinki Port West harbour south cam @
+#DESCRIPTION Finnland Helsinki Port West harbour south cam @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/CvOB-Is_yYU:Finnland Port of Helsinki @@
+#DESCRIPTION Finnland Port of Helsinki @@
+#SERVICE 4097:0:1:7E0D:C189:EC:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/LwihxyJ4V20:Finnland Zero Point Levi Finland @
+#DESCRIPTION Finnland Zero Point Levi Finland @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Li3Dvqlo5uE:Germany @@
+#DESCRIPTION Germany @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/IRqboacDNFg:Germany Berlin Alexanderplatz @
+#DESCRIPTION Germany Berlin Alexanderplatz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/dmqHRNGXlnc:Germany Frankfurt Airport @
+#DESCRIPTION Germany Frankfurt Airport @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/OmyDLXvaus4:Germany Hamburg Michel @
+#DESCRIPTION Germany Hamburg Michel @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/qqxtfjwJf3U:Germany Laboe @
+#DESCRIPTION Germany Laboe @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/KapPI_D431Q:Germany Munich Airport @
+#DESCRIPTION Germany Munich Airport @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/R1bLDIW-IjA:Germany PanoCloud @@
+#DESCRIPTION Germany PanoCloud @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/aYtgGjMDagw:Germany Spotlight @@
+#DESCRIPTION Germany Spotlight @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/OkV0gyxx7Vk:Germany Spotlight Bodensee @@
+#DESCRIPTION Germany Spotlight Bodensee @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/5p-s-1453Us:Greece @@
+#DESCRIPTION Greece @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Gzl2M_eGpfM:Greece Kos Island Harbour
+#DESCRIPTION Greece Kos Island Harbour
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/ghEXUTFTQ7o:Greece Port Gavrio
+#DESCRIPTION Greece Port Gavrio
+#SERVICE 4097:0:1:4F98:F3FB:EC:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/IZhDwv4dz0g:Greenland Nuuk Airport North
+#DESCRIPTION Greenland Nuuk Airport North
+#SERVICE 4097:0:1:38EA:4D7:EC:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/MApnQlsX5AQ:Greenland Nuuk Airport South
+#DESCRIPTION Greenland Nuuk Airport South
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/oxx7MqjhOpw:Ireland Dublin Bay
+#DESCRIPTION Ireland Dublin Bay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/u4UZ4UvZXrg:Ireland Dublin Temple Bar
+#DESCRIPTION Ireland Dublin Temple Bar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/wMT2aNcP4Wg:Italy @@
+#DESCRIPTION Italy @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Y1qp-EVF_oU:Italy Nord @@
+#DESCRIPTION Italy Nord @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/P6JA_YjHMZs:Italy Venice Grand Canal
+#DESCRIPTION Italy Venice Grand Canal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Sa1QCmUkmPA:Japan @@
+#DESCRIPTION Japan @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/nFozEhYTEMo:Niederlande Rotterdam
+#DESCRIPTION Niederlande Rotterdam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/DP4vxBdgfGE:Norway @@
+#DESCRIPTION Norway @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/iXLaEkB3J0I:Norway Nordkapp @
+#DESCRIPTION Norway Nordkapp @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/MOiCUn9p60E:Poland @@
+#DESCRIPTION Poland @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/FNfivi9c310:Portugal Madeira Island @@
+#DESCRIPTION Portugal Madeira Island @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/yMYXGmOo5tU:Portugal Madeira Porto Moniz @
+#DESCRIPTION Portugal Madeira Porto Moniz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/3QS0NMMgDNY:Portugal Porto @
+#DESCRIPTION Portugal Porto @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/4ufxa-QuXac:Russia Siberian Baikal Lake
+#DESCRIPTION Russia Siberian Baikal Lake
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/6VGbApMVPBQ:Russia Siberian City Life
+#DESCRIPTION Russia Siberian City Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/8miQ3QXA26Q:Scotland Fort William
+#DESCRIPTION Scotland Fort William
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/6V39eDpTyas:Slovakia @@
+#DESCRIPTION Slovakia @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/enYFXf8u7Lc:Switzerland Feratel @@
+#DESCRIPTION Switzerland Feratel @@
+#SERVICE 4097:0:1:6148:BA35:EC:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/jtLh8BdmHUU:Switzerland Hotel Basel
+#DESCRIPTION Switzerland Hotel Basel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/QIt1FaDMnQc:Switzerland Luzern @
+#DESCRIPTION Switzerland Luzern @
+#SERVICE 4097:0:1:A933:2E07:EC:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/yDKJMdZTEXQ:Switzerland Verbier
+#DESCRIPTION Switzerland Verbier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/NHRDdaH4LpU:Spain @@
+#DESCRIPTION Spain @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/0jUGiYZKAMg:Tschechien Airport Prague
+#DESCRIPTION Tschechien Airport Prague
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/e2gC37ILQmk:Ukraine
+#DESCRIPTION Ukraine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/29NcCBMN72k:USA @@
+#DESCRIPTION USA @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/t0GrpAgdBFI:USA LAX AIRPORT
+#DESCRIPTION USA LAX AIRPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/0i_lTuIWf_A:USA New York Airport @
+#DESCRIPTION USA New York Airport @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/YvnIEm36tN8:USA Port Miami
+#DESCRIPTION USA Port Miami
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/rnXIjl_Rzy4:USA Times Square in 4K
+#DESCRIPTION USA Times Square in 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/z7SiAaN4ogw:World 1 @@
+#DESCRIPTION World 1 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/2BLqhS59Elc:World 2 @@
+#DESCRIPTION World 2 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Yy6jMwciGfE:World 3 @@
+#DESCRIPTION World 3 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/HfgIFGbdGJ0:World 4 Earth TV @@
+#DESCRIPTION World 4 Earth TV @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/EFum1rGUdkk:World 5 Skyline top @@
+#DESCRIPTION World 5 Skyline top @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/xWmpAcKyVXU:World 6 @@
+#DESCRIPTION World 6 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/TZikBxNaaQk:World 7 Cities @@
+#DESCRIPTION World 7 Cities @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/qOGBrnL-TMA:World 8 Airports @@
+#DESCRIPTION World 8 Airports @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/rvtygG4n6ew:Earthquake Monitoring 1
+#DESCRIPTION Earthquake Monitoring 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/faH3xrKyP_o:Iceland Volcano
+#DESCRIPTION Iceland Volcano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/b0vYIlg9BZM:Italy Etna Volcano 1
+#DESCRIPTION Italy Etna Volcano 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/nTYBKJCqjH8:Italy Etna Volcano 2
+#DESCRIPTION Italy Etna Volcano 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/xRPjKQtRXR8:NASA
+#DESCRIPTION NASA
+
