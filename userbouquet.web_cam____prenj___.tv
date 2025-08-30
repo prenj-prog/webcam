@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.737 - 29.08.2025.
+#NAME Prenj SF Ver.738 - 30.08.2025.
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== CROATIA ===
 #DESCRIPTION === CROATIA ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_monperin03.m3u8:Bale Mon Perin @
@@ -507,8 +507,8 @@
 #DESCRIPTION Senj Nehaj plaža 705 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_senj01.m3u8:Senj Riva 201
 #DESCRIPTION Senj Riva 201
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_senj02.m3u8:Senj Ulaz u Senj rotor 502
-#DESCRIPTION Senj Ulaz u Senj rotor 502
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_senj02.m3u8:Senj Ulaz u Senj rotor 802
+#DESCRIPTION Senj Ulaz u Senj rotor 802
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_sinj01.m3u8:Sinj 701 @
 #DESCRIPTION Sinj 701 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_sisak02.m3u8:Sisak šetnica uz Kupu 402
@@ -833,14 +833,10 @@
 #DESCRIPTION Bohinj Vogel snežni park 42
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_kozjihrbet01.m3u8:Bohinjska Bistrica Kozji hrbet 501
 #DESCRIPTION Bohinjska Bistrica Kozji hrbet 501
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_kanin02.m3u8:Bovec Kanin panorama 402
-#DESCRIPTION Bovec Kanin panorama 402
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_logmangart01.m3u8:Bovec Log pod Mangartom 301
 #DESCRIPTION Bovec Log pod Mangartom 301
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_logmangart02.m3u8:Bovec Log pod Mangartom 502
 #DESCRIPTION Bovec Log pod Mangartom 502
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_kanin03.m3u8:Bovec Skijalište Kanin Prestreljenik 301
-#DESCRIPTION Bovec Skijalište Kanin Prestreljenik 301
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_hse4_2.m3u8:Brežice Hidroelektrarna HSE 54_2
 #DESCRIPTION Brežice Hidroelektrarna HSE 54_2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_celjskoca02.m3u8:Celje Koča 402
@@ -1239,10 +1235,18 @@
 #DESCRIPTION Kalathi pogled na Mesinski zaliv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecameras.gr%3a30443/live/kala7/chunks.m3u8:Kalathi Kalamata NE
 #DESCRIPTION Kalathi Kalamata NE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/ellada/epirus/preveza/parga.html:Parga - Preveza SC
+#DESCRIPTION Parga - Preveza SC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecameras.gr%3a30443/live/palio1/chunks.m3u8:Paliochori panorama
 #DESCRIPTION Paliochori panorama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/ellada/naigaio/dodecanisa/rhodes-lindos-beach.html:Rhodos - Strand von Lindos Webcam SC
-#DESCRIPTION Rhodos - Strand von Lindos Webcam SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/ellada/crete/rethymno/karavostasi-underwater-cam.html:Karavostasi - Kreta Underwater camera SC
+#DESCRIPTION Karavostasi - Kreta Underwater camera SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/ellada/naigaio/dodecanisa/hippocrates-square.html:Rhodos Hippokrates-Platz SC
+#DESCRIPTION Rhodos Hippokrates-Platz SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/ellada/naigaio/dodecanisa/rhodes-lindos-beach.html:Rhodos - Strand von Lindos SC
+#DESCRIPTION Rhodos - Strand von Lindos SC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/ellada/naigaio/kyklades/santorini.html:Santorini @ SC
+#DESCRIPTION Santorini @ SC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-005.whatsupcams.com/hls/gr_zakynthos01.m3u8:Zakynthos Natural Park Marathias
 #DESCRIPTION Zakynthos Natural Park Marathias
 #SERVICE 1:64:B:0:0:0:0:0:0:0::=== Germany ===
@@ -1831,8 +1835,8 @@
 #DESCRIPTION Vietnam 7
 #SERVICE 4097:0:1:6BE2:445F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html:Vietnam Hoàng Mai SC
 #DESCRIPTION Vietnam Hoàng Mai SC
-#SERVICE 1:64:17:0:0:0:0:0:0:0::***** YOUTUBE potrebna instalacija Streamlinkwrapper *****
-#DESCRIPTION ***** YOUTUBE potrebna instalacija Streamlinkwrapper *****
+#SERVICE 1:64:17:0:0:0:0:0:0:0::***** YOUTUBE installation required Streamlinkwrapper *****
+#DESCRIPTION ***** YOUTUBE installation required Streamlinkwrapper *****
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/GBRAap37h1E:Beograd @
 #DESCRIPTION Beograd @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/ia-XIS85WUc:Bol na Braču 2 @
