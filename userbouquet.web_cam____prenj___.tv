@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.743 - 05.09.2025.
+#NAME Prenj SF Ver.744 - 06.09.2025.
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== CROATIA ===
 #DESCRIPTION === CROATIA ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_monperin03.m3u8:Bale Mon Perin @
@@ -475,6 +475,8 @@
 #DESCRIPTION Rijeka Ul Ivana Zajca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Kolodvor/RiProm_Kolodvor.stream/chunklist.m3u8:Rijeka Žabica autobusni kolodvor
 #DESCRIPTION Rijeka Žabica autobusni kolodvor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/cabar/nacionalni-park-risnjak.html:Risnjak
+#DESCRIPTION Risnjak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/rogoznica/rogoznica.html:Rogoznica
 #DESCRIPTION Rogoznica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_dive01.m3u8:Rogoznica akvarij 601
@@ -1267,7 +1269,25 @@
 #DESCRIPTION Rio de Janeiro Copacabana
 #SERVICE 1:64:C:0:0:0:0:0:0:0::=== Bulgaria ===
 #DESCRIPTION === Bulgaria ===
-#SERVICE 1:64:D:0:0:0:0:0:0:0::=== Greece ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/bulgaria/blagoevgrad/dobrinishte/pirin-mountains.html:Dobrinishte
+#DESCRIPTION Dobrinishte
+#SERVICE 1:64:D:0:0:0:0:0:0:0::=== Cyprus ===
+#DESCRIPTION === Cyprus ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-promenade.html:Larnaca
+#DESCRIPTION Larnaca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-seafront.html:Larnaca seafront
+#DESCRIPTION Larnaca seafront
+#SERVICE 1:64:E:0:0:0:0:0:0:0::=== Czech Republic ===
+#DESCRIPTION === Czech Republic ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/prague.html:Prague
+#DESCRIPTION Prague
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/old-town.html:Prague - Old Town
+#DESCRIPTION Prague - Old Town
+#SERVICE 1:64:F:0:0:0:0:0:0:0::=== Faroe Islands ===
+#DESCRIPTION === Faroe Islands ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/faroe-islands/eysturoy/eystur/sydrugota.html:Syðrugøta
+#DESCRIPTION Syðrugøta
+#SERVICE 1:64:10:0:0:0:0:0:0:0::=== Greece ===
 #DESCRIPTION === Greece ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/acharavi-beach.html:Acharavi Beach - Corfu
 #DESCRIPTION Acharavi Beach - Corfu
@@ -1423,7 +1443,7 @@
 #DESCRIPTION Vai Beach - Crete
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-005.whatsupcams.com/hls/gr_zakynthos01.m3u8:Zakynthos Natural Park Marathias
 #DESCRIPTION Zakynthos Natural Park Marathias
-#SERVICE 1:64:E:0:0:0:0:0:0:0::=== Germany ===
+#SERVICE 1:64:11:0:0:0:0:0:0:0::=== Germany ===
 #DESCRIPTION === Germany ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/to4d3rza/3d2d2tcm.m3u8:Bad Brückenau Kurverwaltung @
 #DESCRIPTION Bad Brückenau Kurverwaltung @
@@ -1715,7 +1735,7 @@
 #DESCRIPTION Wittmund Flugplatz Harle
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/4br14zyk/b96keym9.m3u8:Wittmund Nordseebad Carolinensiel-Harlesiel @
 #DESCRIPTION Wittmund Nordseebad Carolinensiel-Harlesiel @
-#SERVICE 1:64:F:0:0:0:0:0:0:0::=== Hungary ===
+#SERVICE 1:64:12:0:0:0:0:0:0:0::=== Hungary ===
 #DESCRIPTION === Hungary ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront44.lexanetwork.com%3a1344/freerelay/keszthelyivcam.sdp/chunks.m3u8:2 ##0309
 #DESCRIPTION 2 ##0309
@@ -1725,11 +1745,11 @@
 #DESCRIPTION Debrecen Universiteitsplein
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//597898896a88d.streamlock.net/live/komarom-templom.stream/playlist.m3u8:Komárom Jókai Tér ##0209
 #DESCRIPTION Komárom Jókai Tér ##0209
-#SERVICE 1:64:10:0:0:0:0:0:0:0::=== Ireland  ===
+#SERVICE 1:64:13:0:0:0:0:0:0:0::=== Ireland  ===
 #DESCRIPTION === Ireland  ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/ie_tralee01.m3u8:Fenit Marina 401
 #DESCRIPTION Fenit Marina 401
-#SERVICE 1:64:11:0:0:0:0:0:0:0::=== Island ===
+#SERVICE 1:64:14:0:0:0:0:0:0:0::=== Island ===
 #DESCRIPTION === Island ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bang.snerpa.is/live/live/flateyri.stream/playlist.m3u8:Flateyri
 #DESCRIPTION Flateyri
@@ -1737,7 +1757,7 @@
 #DESCRIPTION Jökulsárlón ##0309
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bang.snerpa.is/live/live/Sundahofn.stream/playlist.m3u8:Sundahofn
 #DESCRIPTION Sundahofn
-#SERVICE 1:64:12:0:0:0:0:0:0:0::=== Italy ===
+#SERVICE 1:64:15:0:0:0:0:0:0:0::=== Italy ===
 #DESCRIPTION === Italy ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_bibione15.m3u8:Bibione Plaža @
 #DESCRIPTION Bibione Plaža @
@@ -1833,11 +1853,11 @@
 #DESCRIPTION Veneto Caorle 501
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_rosolinamare03.m3u8:Veneto Rosolina mare @
 #DESCRIPTION Veneto Rosolina mare @
-#SERVICE 1:64:13:0:0:0:0:0:0:0::=== Luxembourg ===
+#SERVICE 1:64:16:0:0:0:0:0:0:0::=== Luxembourg ===
 #DESCRIPTION === Luxembourg ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge.rtl.lu/cita/cita_a1/playlist.m3u8:Luxembourg @@
 #DESCRIPTION Luxembourg @@
-#SERVICE 1:64:14:0:0:0:0:0:0:0::=== Maldives ===
+#SERVICE 1:64:17:0:0:0:0:0:0:0::=== Maldives ===
 #DESCRIPTION === Maldives ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/de/webcam/maldives/south-male-atoll/akasdhoo/akasdhoo.html:Maldives Akasdhoo
 #DESCRIPTION Maldives Akasdhoo
@@ -1845,7 +1865,7 @@
 #DESCRIPTION Maldives Manadhoo Robinson Noonu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/de/webcam/maldives/alif-alif-atoll/male/veligandu-maldives-resort-island.html:Maldives Resort Island
 #DESCRIPTION Maldives Resort Island
-#SERVICE 1:64:15:0:0:0:0:0:0:0::=== Norway ===
+#SERVICE 1:64:18:0:0:0:0:0:0:0::=== Norway ===
 #DESCRIPTION === Norway ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/Festplassen.stream/playlist.m3u8:Bergen Festplassen
 #DESCRIPTION Bergen Festplassen
@@ -1867,7 +1887,7 @@
 #DESCRIPTION Skulestadmo
 #SERVICE 4097:0:1:B793:EC0F:EC:0:0:0:0:https%3a//svplive-lh.akamaized.net/hls/live/2039444/sa/r3DxvH89PN7RPhufi3QvC/master.m3u8:Stavanger Vågen i Stavanger @
 #DESCRIPTION Stavanger Vågen i Stavanger @
-#SERVICE 1:64:16:0:0:0:0:0:0:0::=== Romania  ===
+#SERVICE 1:64:19:0:0:0:0:0:0:0::=== Romania  ===
 #DESCRIPTION === Romania  ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.camere-live.ro/WebRTCApp/streams/829793083797025394233086.m3u8:14 ##0209
 #DESCRIPTION 14 ##0209
@@ -1891,7 +1911,7 @@
 #DESCRIPTION Predeal Centru
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/ramnicu_valcea_desktop.stream/index.m3u8:Râmnicu Vâlcea
 #DESCRIPTION Râmnicu Vâlcea
-#SERVICE 1:64:17:0:0:0:0:0:0:0::=== Switzerland ===
+#SERVICE 1:64:1A:0:0:0:0:0:0:0::=== Switzerland ===
 #DESCRIPTION === Switzerland ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5889e7d0d6e28.streamlock.net/vocom-live/_definst_/livestream/chunklist.m3u8:Rhätische Bahn @@
 #DESCRIPTION Rhätische Bahn @@
@@ -1901,7 +1921,7 @@
 #DESCRIPTION Teufen Bootshaus Tössegg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hotelalexander.it-wms.com/clip_current_720p.mp4:Zürich
 #DESCRIPTION Zürich
-#SERVICE 1:64:18:0:0:0:0:0:0:0::=== USA ===
+#SERVICE 1:64:1B:0:0:0:0:0:0:0::=== USA ===
 #DESCRIPTION === USA ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-4284358-1/playlist.m3u8:64th & Sheridan Monkeys Tire & Chrome @
 #DESCRIPTION 64th & Sheridan Monkeys Tire & Chrome @
@@ -1997,7 +2017,7 @@
 #DESCRIPTION West Glenwood Springs Widland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ddd47d64e730.streamlock.net%3a444/westland/westland.stream/playlist.m3u8:Westland
 #DESCRIPTION Westland
-#SERVICE 1:64:19:0:0:0:0:0:0:0::=== Vietnam ===
+#SERVICE 1:64:1C:0:0:0:0:0:0:0::=== Vietnam ===
 #DESCRIPTION === Vietnam ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8:Vietnam 1
 #DESCRIPTION Vietnam 1
@@ -2009,7 +2029,7 @@
 #DESCRIPTION Vietnam 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/de/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html:Vietnam Hoàng Mai
 #DESCRIPTION Vietnam Hoàng Mai
-#SERVICE 1:64:1A:0:0:0:0:0:0:0::***** YOUTUBE - streamlink installation required *****
+#SERVICE 1:64:1D:0:0:0:0:0:0:0::***** YOUTUBE - streamlink installation required *****
 #DESCRIPTION ***** YOUTUBE - streamlink installation required *****
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=gpFqI8DD9IA:Beograd @
 #DESCRIPTION Beograd @
@@ -2061,8 +2081,6 @@
 #DESCRIPTION England Ferry Southampton to Cowes Isle of Wight Red Funnel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=A6R81wOlQqs:Espana Malaga Airport
 #DESCRIPTION Espana Malaga Airport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=QdeOMzgnQtg:Europe @@
-#DESCRIPTION Europe @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=JnJhFYhIjFs:Finnland Helsinki Port West harbour north cam
 #DESCRIPTION Finnland Helsinki Port West harbour north cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=6hPWq2IG08M:Finnland Helsinki Port West harbour south cam @
@@ -2143,8 +2161,6 @@
 #DESCRIPTION Tschechien Airport Prague
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=e2gC37ILQmk:Ukraine
 #DESCRIPTION Ukraine
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=29NcCBMN72k:USA @@
-#DESCRIPTION USA @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=t0GrpAgdBFI:USA LAX AIRPORT
 #DESCRIPTION USA LAX AIRPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=0i_lTuIWf_A:USA New York Airport @
@@ -2157,14 +2173,10 @@
 #DESCRIPTION World 1 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=2BLqhS59Elc:World 2 @@
 #DESCRIPTION World 2 @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=rVouGGzsTMw:World 3 @@
-#DESCRIPTION World 3 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=HfgIFGbdGJ0:World 4 Earth TV @@
 #DESCRIPTION World 4 Earth TV @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=EFum1rGUdkk:World 5 Skyline top @@
 #DESCRIPTION World 5 Skyline top @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=xWmpAcKyVXU:World 6 @@
-#DESCRIPTION World 6 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=TZikBxNaaQk:World 7 Cities @@
 #DESCRIPTION World 7 Cities @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=qOGBrnL-TMA:World 8 Airports @@
