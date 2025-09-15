@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.751 - 14.09.2025.
+#NAME Prenj SF Ver.752 - 15.09.2025.
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_monperin03.m3u8:Bale Mon Perin @
@@ -1889,8 +1889,6 @@
 #DESCRIPTION Bologna - Asinelli Tower and Garisenda Tower
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/liguria/imperia/bordighera.html:Bordighera
 #DESCRIPTION Bordighera
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/lombardia/sondrio/bormio-3000.html:Bormio 3000 - Cima Bianca
-#DESCRIPTION Bormio 3000 - Cima Bianca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/trento/canazei.html:Canazei
 #DESCRIPTION Canazei
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/trento/canazei-pecol.html:Canazei - Pecol
@@ -1933,10 +1931,10 @@
 #DESCRIPTION Feriolo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/liguria/la-spezia/fiascherino-lerici.html:Fiascherino - Lerici
 #DESCRIPTION Fiascherino - Lerici
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/toscana/firenze/piazza-signoria.html:Florence - Piazza della Signoria
-#DESCRIPTION Florence - Piazza della Signoria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//visionenvironnement.quanteec.com/contents/encodings/live/5ec82d22-dffa-41f9-746c-7561-6665-64-9ec6-4896a57bc77ed/media_0.m3u8:Florence Ponte Vecchio
 #DESCRIPTION Florence Ponte Vecchio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/toscana/firenze/piazza-signoria.html:Florence - Piazza della Signoria
+#DESCRIPTION Florence - Piazza della Signoria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/toscana/firenze/lungarno.html:Florence - Lungarno
 #DESCRIPTION Florence - Lungarno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/toscana/firenze/firenze-santa-maria-novella.html:Florence - Santa Maria Novella
@@ -2022,7 +2020,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/31/master.m3u8:meteoproject.eu 31
 #DESCRIPTION meteoproject.eu 31
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/37/master.m3u8:meteoproject.eu 37
-#DESCRIPTION meteoproject.eu 37 ##1409
+#DESCRIPTION meteoproject.eu 37
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/43/master.m3u8:meteoproject.eu 43
 #DESCRIPTION meteoproject.eu 43
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/45/master.m3u8:meteoproject.eu 45
@@ -2085,10 +2083,6 @@
 #DESCRIPTION Padua - Basilica of Saint Anthony
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/campania/salerno/palinuro-spiaggia.html:Palinuro
 #DESCRIPTION Palinuro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/messina/panarea.html:Panarea
-#DESCRIPTION Panarea
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/messina/panarea-stromboli.html:Panarea - Messina
-#DESCRIPTION Panarea - Messina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/calabria/cosenza/panorama-di-bianchi.html:Panorama of Bianchi
 #DESCRIPTION Panorama of Bianchi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/marche/pesaro-urbino/panoramica-fano.html:Panoramic view of Fano
@@ -2385,22 +2379,24 @@
 #DESCRIPTION Volcano Etna Southeast
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/catania/etna-piazzale-rifugio-sapienza.html:Volcano Etna - Piazzale Rifugio Sapienza
 #DESCRIPTION Volcano Etna - Piazzale Rifugio Sapienza
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-nord.html:Mount Etna - Piano Provenzana
-#DESCRIPTION Mount Etna - Piano Provenzana
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/it/webcam/italia/campania/napoli/napoli-vesuvio.html:Etna Volcano
-#DESCRIPTION Etna Volcano
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-versante-nord.html:Etna North
 #DESCRIPTION Etna North
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/it/webcam/italia/campania/napoli/napoli-vesuvio.html:Etna Volcano
+#DESCRIPTION Etna Volcano
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-sud.html:Etna - Summit craters
 #DESCRIPTION Etna - Summit craters
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/catania/etna-eruzioni-crateri-sud.html:Etna - Southern Crater Eruptions
 #DESCRIPTION Etna - Southern Crater Eruptions
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-lato-sud.html:Etna South
 #DESCRIPTION Etna South
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna.html:Mount Etna
-#DESCRIPTION Mount Etna
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-mascalucia.html:Mount Etna - Mascalucia
 #DESCRIPTION Mount Etna - Mascalucia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-nord.html:Mount Etna - Piano Provenzana
+#DESCRIPTION Mount Etna - Piano Provenzana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/messina/panarea.html:Panarea
+#DESCRIPTION Panarea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/messina/panarea-stromboli.html:Panarea - Messina
+#DESCRIPTION Panarea - Messina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/italia/lombardia/bergamo/zogno-bergamo.html:Zogno - Bergamo
 #DESCRIPTION Zogno - Bergamo
 #SERVICE 1:64:22:0:0:0:0:0:0:0::=== Kenya ===
@@ -2477,6 +2473,50 @@
 #DESCRIPTION Predeal Centru
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/ramnicu_valcea_desktop.stream/index.m3u8:Râmnicu Vâlcea
 #DESCRIPTION Râmnicu Vâlcea
+#SERVICE 1:64:28:0:0:0:0:0:0:0::=== Russia ===
+#DESCRIPTION === Russia ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/16/hls/stream.m3u8:Московская область 1
+#DESCRIPTION Московская область 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/29/hls/stream.m3u8:Московская область 3
+#DESCRIPTION Московская область 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/32/hls/stream.m3u8:Московская область 4
+#DESCRIPTION Московская область 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/14/hls/stream.m3u8:Московская область 5
+#DESCRIPTION Московская область 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/28/hls/stream.m3u8:Московская область 6
+#DESCRIPTION Московская область 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/15/hls/stream.m3u8:Московская область 7
+#DESCRIPTION Московская область 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/62/hls/stream.m3u8:Московская область 9
+#DESCRIPTION Московская область 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/72/hls/stream.m3u8:Московская область 14
+#DESCRIPTION Московская область 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/60/hls/stream.m3u8:Московская область 19
+#DESCRIPTION Московская область 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/12/hls/stream.m3u8:Московская область 20
+#DESCRIPTION Московская область 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/63/hls/stream.m3u8:Московская область 23
+#DESCRIPTION Московская область 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/71/hls/stream.m3u8:Московская область 24
+#DESCRIPTION Московская область 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/43/hls/stream.m3u8:Московская область 25
+#DESCRIPTION Московская область 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-redisson-ptz/tracks-v1/index.m3u8:Сочи 6
+#DESCRIPTION Сочи 6 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-kukuruza-plyaz/tracks-v1/index.m3u8:Сочи 14
+#DESCRIPTION Сочи 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-moskovskaya20-ulica/tracks-v1/index.m3u8:Сочи 15
+#DESCRIPTION Сочи 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-mysvidnyi-PTZ/tracks-v1/index.m3u8:Сочи 20
+#DESCRIPTION Сочи 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-batumskoye14-ptz/tracks-v1/index.m3u8:Сочи 36
+#DESCRIPTION Сочи 36
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-avtomobilist-ptz/tracks-v1a1/index.m3u8:Сочи 38
+#DESCRIPTION Сочи 38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-batumskoye14-ptz/tracks-v1/index.fmp4.m3u8:Сочи Батумское 14а PTZ @
+#DESCRIPTION Сочи Батумское 14а PTZ @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-Electronic-ptz/index.fmp4.m3u8:Сочи Санаторий Электроника @
+#DESCRIPTION Сочи Санаторий Электроника @
 #SERVICE 1:64:28:0:0:0:0:0:0:0::=== San Marino ===
 #DESCRIPTION === San Marino ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/repubblica-di-san-marino/citta-di-san-marino/citta-di-san-marino/san-marino-chiesanuova.html:Chiesanuova
@@ -2751,3 +2791,5 @@
 #DESCRIPTION === test ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija/playlist.m3u8:Beograd Kružni tok Slavija ##1009
 #DESCRIPTION Beograd Kružni tok Slavija ##1009
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.skylinewebcams.com/de/webcam/ellada/atiki/piraeus/port-of-piraeus.html
+#DESCRIPTION Hafen von Piräus
