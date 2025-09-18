@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.754 - 17.09.2025.
+#NAME Prenj SF Ver.755 - 18.09.2025.
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_monperin03.m3u8:Bale Mon Perin @
@@ -65,7 +65,7 @@
 #DESCRIPTION Cres Veli Lošinj marina 301
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_rovenska01.m3u8:Cres Veli Lošinj Rovenska 401
 #DESCRIPTION Cres Veli Lošinj Rovenska 401
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_crikvenica1.m3u8:Crikvenica Trg Stjepana Radića 41 @ ##1609
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_crikvenica1.m3u8:Crikvenica Trg Stjepana Radića 41 @
 #DESCRIPTION Crikvenica Trg Stjepana Radića 41 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_cazma01.m3u8:Čazma centar 601
 #DESCRIPTION Čazma centar 601
@@ -98,7 +98,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_fuzine03.m3u8:Fužine jezero Bajer 303 ##0809
 #DESCRIPTION Fužine jezero Bajer 303 ##0809
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_fuzine04.m3u8:Fužine Sanjkalište 604 ##1409
-#DESCRIPTION Fužine Sanjkalište 604 ##1409
+#DESCRIPTION Fužine Sanjkalište 604
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/ggazg0ll/g98s254r.m3u8:Hvar Jelsa 1
 #DESCRIPTION Hvar Jelsa 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/ggazg0ll/9itrcth2.m3u8:Hvar Jelsa 2
@@ -155,7 +155,7 @@
 #DESCRIPTION Korčula Veliki Revelin 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_kraljevica01.m3u8:Kraljevica 801 @
 #DESCRIPTION Kraljevica 801 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_krapina01.m3u8:Krapina 101
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_krapina01.m3u8:Krapina 101 ##1709
 #DESCRIPTION Krapina 101 ##1709
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_krizevci01.m3u8:Križevci 401
 #DESCRIPTION Križevci 401
@@ -180,7 +180,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_makarskariva02.m3u8:Makarska Plaža Donja Luka 302
 #DESCRIPTION Makarska Plaža Donja Luka 302
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_makarskariva01.m3u8:Makarska Riva 201
-#DESCRIPTION Makarska Riva 201
+#DESCRIPTION Makarska Riva 201 ##0809
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_makarska.m3u8:Makarska trg i marina 40
 #DESCRIPTION Makarska trg i marina 40
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/hrvatska/krapinsko-zagorska-zupanija/marija-bistrica/svetiste-majke-bozje-bistricke.html:Marija Bistrica
@@ -241,7 +241,7 @@
 #DESCRIPTION Ogulin Đulin ponor 207
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_ogulin04.m3u8:Ogulin planina Klek 104
 #DESCRIPTION Ogulin planina Klek 104
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_omis01.m3u8:Omiš ušće Cetine 201 ##1409
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_omis01.m3u8:Omiš ušće Cetine 201
 #DESCRIPTION Omiš ušće Cetine 201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_opatija01.m3u8:Opatija 201
 #DESCRIPTION Opatija 201
@@ -323,8 +323,8 @@
 #DESCRIPTION Pag lučica 103
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mandre1.m3u8:Pag Mandre Kolan 71
 #DESCRIPTION Pag Mandre Kolan 71
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_mandre2.m3u8:Pag Mandre Villa Violeta 32
-#DESCRIPTION Pag Mandre Villa Violeta 32 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_mandre2.m3u8:Pag Mandre Villa Violeta 32 ##1709
+#DESCRIPTION Pag Mandre Villa Violeta 32
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_metajna01.m3u8:Pag Metajna Riva 601
 #DESCRIPTION Pag Metajna Riva 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_nov8.m3u8:Pag Novalja Ruža Vjetrova 38 @
@@ -334,9 +334,9 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_nov2.m3u8:Pag Novalja šetalište hrvatskih mornara 22
 #DESCRIPTION Pag Novalja šetalište hrvatskih mornara 22
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_nov6.m3u8:Pag Novalja šetnica 36
-#DESCRIPTION Pag Novalja šetnica 36
+#DESCRIPTION Pag Novalja šetnica 36 ##1809
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_nov5.m3u8:Pag Novalja Trg Loža 45
-#DESCRIPTION Pag Novalja Trg Loža 45
+#DESCRIPTION Pag Novalja Trg Loža 45 ##1809
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_povljana01.m3u8:Pag Povljana riva i lučica 201
 #DESCRIPTION Pag Povljana riva i lučica 201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_povljana02.m3u8:Pag Povljana Trg 402
@@ -349,32 +349,32 @@
 #DESCRIPTION Pakoštane Villa Ljubica 22
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pasman01.m3u8:Pašman lučica otok Galešnjak 401
 #DESCRIPTION Pašman lučica otok Galešnjak 401
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_tkon02.m3u8:Pašman Tkon lučica 102
-#DESCRIPTION Pašman Tkon lučica 102 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_tkon02.m3u8:Pašman Tkon lučica 102 ##1709
+#DESCRIPTION Pašman Tkon lučica 102
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_tkon01.m3u8:Pašman Tkon marina 201 ##0209
 #DESCRIPTION Pašman Tkon marina 201 ##0209
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_tkon05.m3u8:Pašman Tkon panoramska kamera 605 @
 #DESCRIPTION Pašman Tkon panoramska kamera 605 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_tkon08.m3u8:Pašman Tkon parkiralište 408 ##0209
 #DESCRIPTION Pašman Tkon parkiralište 408 ##0209
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_tkon06.m3u8:Pašman Tkon pogled prema mjestu 506
-#DESCRIPTION Pašman Tkon pogled prema mjestu 506 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_tkon06.m3u8:Pašman Tkon pogled prema mjestu 506 ##1709
+#DESCRIPTION Pašman Tkon pogled prema mjestu 506
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_tkon07.m3u8:Pašman Tkon pristanište 207 ##0209
 #DESCRIPTION Pašman Tkon pristanište 207 ##0209
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_tkon04.m3u8:Pašman Tkon Trajekt 704
 #DESCRIPTION Pašman Tkon Trajekt 704
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_viganj1.m3u8:Pelješac Viganj 21
-#DESCRIPTION Pelješac Viganj 21 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_viganj1.m3u8:Pelješac Viganj 21 ##1709
+#DESCRIPTION Pelješac Viganj 21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_viganj3.m3u8:Pelješac Viganj AntonyBoy 63
 #DESCRIPTION Pelješac Viganj AntonyBoy 63
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_viganj2.m3u8:Pelješac Viganj panorama 62
-#DESCRIPTION Pelješac Viganj panorama 62 ##1709
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_viganj4.m3u8:Pelješac Viganj Surf plaža 44
-#DESCRIPTION Pelješac Viganj Surf plaža 44 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_viganj2.m3u8:Pelješac Viganj panorama 62 ##1709
+#DESCRIPTION Pelješac Viganj panorama 62
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_viganj4.m3u8:Pelješac Viganj Surf plaža 44 ##1709
+#DESCRIPTION Pelješac Viganj Surf plaža 44
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_buildpetrinja03.m3u8:Petrinja Gradski park 403 ##1609
-#DESCRIPTION Petrinja Gradski park 403 ##1609
+#DESCRIPTION Petrinja Gradski park 403
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_buildpetrinja01.m3u8:Petrinja Srednja škola 101 ##1609
-#DESCRIPTION Petrinja Srednja škola 101 ##1609
+#DESCRIPTION Petrinja Srednja škola 101
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pirovac01.m3u8:Pirovac centar i riva 401
 #DESCRIPTION Pirovac centar i riva 401
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakPark/PlatakPark.stream/playlist.m3u8:Platak Parking
@@ -382,7 +382,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakBaby/PlatakBaby.stream/playlist.m3u8:Platak Pribenis dolina
 #DESCRIPTION Platak Pribenis dolina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevo/PlatakRadesevo.stream/playlist.m3u8:Platak Radeševo dno
-#DESCRIPTION Platak Radeševo dno
+#DESCRIPTION Platak Radeševo dno ##1809
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevoVrh/PlatakRadesevoVrh.stream/playlist.m3u8:Platak Radeševo vrh
 #DESCRIPTION Platak Radeševo vrh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/de/webcam/hrvatska/licko-senjska-zupanija/plitvicka-jezera/plitvice-lakes-national-park.html:Plitvice @
@@ -418,7 +418,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_everab02.m3u8:Rab Trg Sv. Kristofora 402
 #DESCRIPTION Rab Trg Sv. Kristofora 402
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_rakovica01.m3u8:Rakovica 601 @
-#DESCRIPTION Rakovica 601 @
+#DESCRIPTION Rakovica 601 @ ##1809
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_ribotel01.m3u8:Rijeka Botel 101
 #DESCRIPTION Rijeka Botel 101
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_rijeka03.m3u8:Rijeka Gradski toranj Korzo 403
@@ -475,10 +475,10 @@
 #DESCRIPTION Risnjak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/rogoznica/rogoznica.html:Rogoznica
 #DESCRIPTION Rogoznica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_dive01.m3u8:Rogoznica akvarij 601
-#DESCRIPTION Rogoznica akvarij 601 ##1709
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_rogoznica01.m3u8:Rogoznica panoramska 501 @
-#DESCRIPTION Rogoznica panoramska 501 @ ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_dive01.m3u8:Rogoznica akvarij 601 ##1709
+#DESCRIPTION Rogoznica akvarij 601
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_rogoznica01.m3u8:Rogoznica panoramska 501 @ ##1709
+#DESCRIPTION Rogoznica panoramska 501 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_rovinj4.m3u8:Rovinj Balbijev luk 64
 #DESCRIPTION Rovinj Balbijev luk 64
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_rovinj6.m3u8:Rovinj centar 66
@@ -491,8 +491,8 @@
 #DESCRIPTION Rovinj Trg Maršala Tita 43
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_samobor2.m3u8:Samobor centar 32
 #DESCRIPTION Samobor centar 32
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_samobor1.m3u8:Samobor Trg kralja Tomislava 81
-#DESCRIPTION Samobor Trg kralja Tomislava 81 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_samobor1.m3u8:Samobor Trg kralja Tomislava 81 ##1709
+#DESCRIPTION Samobor Trg kralja Tomislava 81
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/crikvenica/selce.html:Selce
 #DESCRIPTION Selce
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_selce5.m3u8:Selce centar novouređeni trg 15
@@ -503,9 +503,9 @@
 #DESCRIPTION Senj centar Pavlinski trg 604
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_senj03.m3u8:Senj centar riva 703
 #DESCRIPTION Senj centar riva 703
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_raca02.m3u8:Senj Jadranska magistrala D8 uživo 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_raca02.m3u8:Senj Jadranska magistrala D8 uživo 202 ##1709
 #DESCRIPTION Senj Jadranska magistrala D8 uživo 202 ##1709
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_raca01.m3u8:Senj Kamp Rača 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_raca01.m3u8:Senj Kamp Rača 201 ##1709
 #DESCRIPTION Senj Kamp Rača 201 ##1709
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_senj05.m3u8:Senj Nehaj plaža 705 @
 #DESCRIPTION Senj Nehaj plaža 705 @
@@ -527,8 +527,8 @@
 #DESCRIPTION Split HD panorama 206 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_kastel1.m3u8:Split Marina Kaštela 61
 #DESCRIPTION Split Marina Kaštela 61
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_split.m3u8:Split Matejuška 70
-#DESCRIPTION Split Matejuška 70 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_split.m3u8:Split Matejuška 70 ##1709
+#DESCRIPTION Split Matejuška 70
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska/split/pjaca-split.html:Split Pjaca
 #DESCRIPTION Split Pjaca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_splitbacvice01.m3u8:Split Plaža Bačvice 401
@@ -549,8 +549,8 @@
 #DESCRIPTION Svetvinčenat Morosini-Grimani 602
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_sibenik02.m3u8:Šibenik gradska plaža Banj 502
 #DESCRIPTION Šibenik gradska plaža Banj 502
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_sibenik03.m3u8:Šibenik panoramska 103 @
-#DESCRIPTION Šibenik panoramska 103 @ ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_sibenik03.m3u8:Šibenik panoramska 103 @ ##1709
+#DESCRIPTION Šibenik panoramska 103 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.envoguebeachclub.com/index.m3u8:Šibenik Tratorija panorama
 #DESCRIPTION Šibenik Tratorija panorama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildsibenik01.m3u8:Šibenik Trg Poljana 601
@@ -559,8 +559,8 @@
 #DESCRIPTION Štrigova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/hrvatska/varazdinska/varazdin/dvorac-trakoscan-bednja.html:Trakošćan Dvorac
 #DESCRIPTION Trakošćan Dvorac
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_trakoscan01.m3u8:Trakošćan Dvorac 201
-#DESCRIPTION Trakošćan Dvorac 201 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_trakoscan01.m3u8:Trakošćan Dvorac 201 ##1709
+#DESCRIPTION Trakošćan Dvorac 201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_tribunj01.m3u8:Tribunj 401
 #DESCRIPTION Tribunj 401
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_sovlje01.m3u8:Tribunj Sovlje ANTIC zaljev 401
@@ -579,8 +579,8 @@
 #DESCRIPTION Umag Hotel Zlatna Vala 65 ##0209
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_umag7.m3u8:Umag Lovrečica plaža 27
 #DESCRIPTION Umag Lovrečica plaža 27
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_umag6.m3u8:Umag panoramska kamera 56 @
-#DESCRIPTION Umag panoramska kamera 56 @ ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_umag6.m3u8:Umag panoramska kamera 56 @ ##1709
+#DESCRIPTION Umag panoramska kamera 56 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_golfadriatic2.m3u8:Umag Savudrija Adriatic Skiper Resort 22
 #DESCRIPTION Umag Savudrija Adriatic Skiper Resort 22
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_umag2.m3u8:Umag Trg 1. svibnja 22
@@ -601,10 +601,10 @@
 #DESCRIPTION Vir plaža HD 33 @ ##0909
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_vir2.m3u8:Vir plaža i lučica 22 ##1009
 #DESCRIPTION Vir plaža i lučica 22 ##1009
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_visnjan01.m3u8:Višnjan zvjezdarnica 201
-#DESCRIPTION Višnjan zvjezdarnica 201 ##1709
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_visnjan02.m3u8:Višnjan zvjezdarnica nebo 402
-#DESCRIPTION Višnjan zvjezdarnica nebo 402 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_visnjan01.m3u8:Višnjan zvjezdarnica 201 ##1709
+#DESCRIPTION Višnjan zvjezdarnica 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_visnjan02.m3u8:Višnjan zvjezdarnica nebo 402 ##1709
+#DESCRIPTION Višnjan zvjezdarnica nebo 402
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_vodice4.m3u8:Vodice HD 44 @
 #DESCRIPTION Vodice HD 44 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_vodice3.m3u8:Vodice centar 23
@@ -635,8 +635,8 @@
 #DESCRIPTION Zagreb KLARA home by NOVI KVADRAT 217 ##1609
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_buildzagreb20.m3u8:Zagreb KLARA home by NOVI KVADRAT 220
 #DESCRIPTION Zagreb KLARA home by NOVI KVADRAT 220
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kuglanazg1.m3u8:Zagreb Kuglana 21
-#DESCRIPTION Zagreb Kuglana 21 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kuglanazg1.m3u8:Zagreb Kuglana 21 ##1709
+#DESCRIPTION Zagreb Kuglana 21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zgmaksimir01.m3u8:Zagreb Maksimir pogled s Vidikovca 601
 #DESCRIPTION Zagreb Maksimir pogled s Vidikovca 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zagreb6.m3u8:Zagreb Manduševac Johann Franck 66
@@ -651,8 +651,8 @@
 #DESCRIPTION Zagreb Siget 222
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zgvzpenjaca.m3u8:Zagreb Uspinjača 20
 #DESCRIPTION Zagreb Uspinjača 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_sljeme1.m3u8:Zagreb Sljeme 21
-#DESCRIPTION Zagreb Sljeme 21 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_sljeme1.m3u8:Zagreb Sljeme 21 ##1709
+#DESCRIPTION Zagreb Sljeme 21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_sljeme3.m3u8:Zagreb Sljeme Bistra Gornja i Donja 73
 #DESCRIPTION Zagreb Sljeme Bistra Gornja i Donja 73
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_sljeme2.m3u8:Zagreb Sljeme Vidikovac 52
@@ -663,8 +663,8 @@
 #DESCRIPTION Zlarin marina 61
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_blatozivogosce.m3u8:Živogošće Blato marina 40
 #DESCRIPTION Živogošće Blato marina 40
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zivogosce.m3u8:Živogošće Lučica 20
-#DESCRIPTION Živogošće Lučica 20 ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zivogosce.m3u8:Živogošće Lučica 20 ##1709
+#DESCRIPTION Živogošće Lučica 20
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_zivogosce02.m3u8:Živogošće Mala Duba plaža 402 ##1209
 #DESCRIPTION Živogošće Mala Duba plaža 402 ##1209
 #SERVICE 1:64:2:0:0:0:0:0:0:0::=== Croatia Highways ===
@@ -873,7 +873,7 @@
 #DESCRIPTION Kobarid 503
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_kobarid05.m3u8:Kobarid Pogled na kosturnicu iz 1. svjetskog rata 705
 #DESCRIPTION Kobarid Pogled na kosturnicu iz 1. svjetskog rata 705
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_kobarid02.m3u8:Kobarid slijetanje padobranom Ozben 302 ##1609
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_kobarid02.m3u8:Kobarid slijetanje padobranom Ozben 302
 #DESCRIPTION Kobarid slijetanje padobranom Ozben 302
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_crnikal01.m3u8:Koper Črni Kal Viadukt 401
 #DESCRIPTION Koper Črni Kal Viadukt 401
@@ -949,7 +949,7 @@
 #DESCRIPTION Piran Tartini Square
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_piran05.m3u8:Piran Villa Piranesi 205
 #DESCRIPTION Piran Villa Piranesi 205
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_rogla1.m3u8:Planja 31 ##1609
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_rogla1.m3u8:Planja 31
 #DESCRIPTION Planja 31
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_polhovgradec01.m3u8:Polhov Gradec 601 @
 #DESCRIPTION Polhov Gradec 601 @
@@ -979,8 +979,8 @@
 #DESCRIPTION Šempeter pri Gorici 702 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_bukovnik.m3u8:Šentjanž pri Dravogradu Skijalište Bukovnik 60
 #DESCRIPTION Šentjanž pri Dravogradu Skijalište Bukovnik 60
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_brda01.m3u8:Šmartno Brda Hotel San Martin 501 @
-#DESCRIPTION Šmartno Brda Hotel San Martin 501 @ ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_brda01.m3u8:Šmartno Brda Hotel San Martin 501 @ ##1709
+#DESCRIPTION Šmartno Brda Hotel San Martin 501 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_prazor01.m3u8:Tolmin Razor 601
 #DESCRIPTION Tolmin Razor 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-007.whatsupcams.com/hls/si_prazor02.m3u8:Tolmin Razor Planinarski dom 1.315m 702
@@ -997,8 +997,8 @@
 #DESCRIPTION Beograd Bogoslovija
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/brankov.m3u8:Beograd Brankov most ~ Terazijski tunel
 #DESCRIPTION Beograd Brankov most ~ Terazijski tunel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/despotastefana.m3u8:Beograd Bulevar Despota Stefana
-#DESCRIPTION Beograd Bulevar Despota Stefana ##1709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/despotastefana.m3u8:Beograd Bulevar Despota Stefana ##1709
+#DESCRIPTION Beograd Bulevar Despota Stefana
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/pupina.m3u8:Beograd Bulevar Mihajla Pupina
 #DESCRIPTION Beograd Bulevar Mihajla Pupina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/ada.m3u8:Beograd Bulevar Milutina Milankovica ~ Most na Adi
@@ -1143,7 +1143,7 @@
 #DESCRIPTION 1 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera4.stream/chunklist.m3u8:3 @
 #DESCRIPTION 3 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera3.stream/chunklist.m3u8:5 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera3.stream/chunklist.m3u8:5 @ ##1709
 #DESCRIPTION 5 @ ##1709
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3asteeg.stream/chunklist.m3u8:6
 #DESCRIPTION 6
@@ -1309,18 +1309,88 @@
 #DESCRIPTION San Isidro de El General
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/san-vicente.html:San Vicente
 #DESCRIPTION San Vicente
-#SERVICE 1:64:18:0:0:0:0:0:0:0::=== Czech Republic ===
-#DESCRIPTION === Czech Republic ===
+#SERVICE 1:64:18:0:0:0:0:0:0:0::=== Czechoslovakia ===
+#DESCRIPTION === Czechoslovakia ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/roznov.m3u8:1
+#DESCRIPTION 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/eroplan.m3u8:2
+#DESCRIPTION 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8082/hls/live.stream.m3u8:4
+#DESCRIPTION 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8090/hls/live.stream.m3u8:6
+#DESCRIPTION 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8091/hls/live.stream.m3u8:7
+#DESCRIPTION 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/planespotting/playlist.m3u8:Аэропорт
+#DESCRIPTION Аэропорт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/hrosi/playlist.m3u8:Бегемоты
+#DESCRIPTION Бегемоты
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.silesnet.net/webcams/jablunkov.m3u8:Jablunkov
 #DESCRIPTION Jablunkov
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/prague.html:Prague
 #DESCRIPTION Prague
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/amc/playlist.m3u8:Прага
+#DESCRIPTION Прага
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/old-town.html:Prague - Old Town
 #DESCRIPTION Prague - Old Town
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vrsovice/playlist.m3u8:Ж/д вокзал Вршовице
+#DESCRIPTION Ж/д вокзал Вршовице
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vytopna/playlist.m3u8:Ж/д вокзал Смихов
+#DESCRIPTION Ж/д вокзал Смихов
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/kralovstvizeleznic/playlist.m3u8:Ж/д королевство
+#DESCRIPTION Ж/д королевство
 #SERVICE 1:64:19:0:0:0:0:0:0:0::=== England ===
 #DESCRIPTION === England ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/ApperleyBridge_20194/tracks-v1/mono.m3u8:Apperley Bridge
+#DESCRIPTION Apperley Bridge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Bedford1_25194/tracks-v1a1/mono.m3u8:Bedford
+#DESCRIPTION Bedford
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Buckfastleigh_68389/tracks-v1/mono.m3u8:Buckfastleigh
+#DESCRIPTION Buckfastleigh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a80/Corfe_14435/tracks-v1a1/mono.m3u8:Corfe Station
+#DESCRIPTION Corfe Station
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Cramlington_54382/tracks-v1a1/mono.m3u8:Cramlington
+#DESCRIPTION Cramlington
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Crewe2_16754/tracks-v1a1/mono.m3u8:Crewe
+#DESCRIPTION Crewe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Flitwick_99123/tracks-v1a1/mono.m3u8:Flitwick
+#DESCRIPTION Flitwick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Glyndyfrdwy_389573/tracks-v1a1/mono.m3u8:Glyndyfrdwy
+#DESCRIPTION Glyndyfrdwy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Groombridge_20182/tracks-v1/mono.m3u8:Groom bridge
+#DESCRIPTION Groom bridge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Hebden_41043/tracks-v1a1/mono.m3u8:Hebden
+#DESCRIPTION Hebden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Hensall_12532/tracks-v1/mono.m3u8:Hensall
+#DESCRIPTION Hensall
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Hythe_22835/tracks-v1a1/mono.m3u8:Hythe
+#DESCRIPTION Hythe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.16.164.68%3a80/SVR-Kidderminster-C2_094871/index.m3u8:Kidderminster 2
+#DESCRIPTION Kidderminster 2
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:streamlink%3a//videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/.m3u8:London - Abbey Road
 #DESCRIPTION London - Abbey Road
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a80/Minehead_05286/tracks-v1a1/mono.m3u8:Minehead Station
+#DESCRIPTION Minehead Station
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Ribblehead_Viaduct/tracks-v1a1/mono.m3u8:Ribblehead
+#DESCRIPTION Ribblehead
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//camsecure.co/HLS/sagressholidays.m3u8:Sagress Holidays
+#DESCRIPTION Sagress Holidays
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Shrewsbury_10933/tracks-v1a1/mono.m3u8:Shrewsbury
+#DESCRIPTION Shrewsbury
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a80/Swanage_43965/tracks-v1a1/mono.m3u8:Swanage Station
+#DESCRIPTION Swanage Station
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//camsecure.co/HLS/boatq1.m3u8:Torquay
+#DESCRIPTION Torquay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Uphall_96341/tracks-v1a1/mono.m3u8:Uphall
+#DESCRIPTION Uphall
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//camsecure.co/HLS/westho.m3u8:Westward
+#DESCRIPTION Westward
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a80/Williton1_17337/tracks-v1a1/mono.m3u8:Williton Station
+#DESCRIPTION Williton Station
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Williton2_84721/tracks-v1a1/mono.m3u8:Williton Station 2
+#DESCRIPTION Williton Station 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.wildlifestreaming.io%3a1935/Marwell/marwell_flamingo.stream/playlist.m3u8:Фламинго
+#DESCRIPTION Фламинго
 #SERVICE 1:64:1A:0:0:0:0:0:0:0::=== Egypt ===
 #DESCRIPTION === Egypt ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/egypt/cairo/cairo/great-pyramid-of-giza.html:Great Pyramid of Giza - Cairo
@@ -2021,7 +2091,7 @@
 #DESCRIPTION Matera - Sasso Caveoso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/2/master.m3u8:meteoproject.eu 2
 #DESCRIPTION meteoproject.eu 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/11/master.m3u8:meteoproject.eu 11 ##1509
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/11/master.m3u8:meteoproject.eu 11
 #DESCRIPTION meteoproject.eu 11
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/14/master.m3u8:meteoproject.eu 14
 #DESCRIPTION meteoproject.eu 14
@@ -2551,7 +2621,6 @@
 #DESCRIPTION Bergen Ulriken @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/FinseStasjon.stream/playlist.m3u8:Finse
 #DESCRIPTION Finse
-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//https:Lofoten Islands - Hamnøy
 #DESCRIPTION Lofoten Islands - Hamnøy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//https:Lofoten Islands - Henningsvær
@@ -2560,7 +2629,6 @@
 #DESCRIPTION Lofoten Islands - Reinefjord
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//https:Silsand - Senja
 #DESCRIPTION Silsand - Senja
-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/_definst_/VossSkitur.stream/playlist.m3u8:Skulestadmo
 #DESCRIPTION Skulestadmo
 #SERVICE 4097:0:1:B793:EC0F:EC:0:0:0:0:https%3a//svplive-lh.akamaized.net/hls/live/2039444/sa/r3DxvH89PN7RPhufi3QvC/master.m3u8:Stavanger Vågen i Stavanger @
@@ -2661,7 +2729,7 @@
 #DESCRIPTION Sopot - Molo 2
 #SERVICE 4097:0:1:E245:5C5C:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/szrenicka_cam_ae9568/szrenicka_cam_ae9568.stream/playlist.m3u8:Szklarska Poręba - Dolna stacja
 #DESCRIPTION Szklarska Poręba - Dolna stacja
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112%3a80/ujsoly/index.m3u8:Ujsoły
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112%3a80/ujsoly/index.m3u8:Ujsoły ##1709
 #DESCRIPTION Ujsoły ##1709
 #SERVICE 4097:0:1:5627:7496:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/ustka_cam_4feffd/ustka_cam_4feffd.stream/playlist.m3u8:Ustka - Plaża
 #DESCRIPTION Ustka - Plaża
@@ -2831,7 +2899,7 @@
 #DESCRIPTION Московская область 92
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/93/hls/stream.m3u8:Московская область 93
 #DESCRIPTION Московская область 93
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/94/hls/stream.m3u8:Московская область 94
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/94/hls/stream.m3u8:Московская область 94 ##1709
 #DESCRIPTION Московская область 94 ##1709
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/95/hls/stream.m3u8:Московская область 95
 #DESCRIPTION Московская область 95
@@ -2861,7 +2929,99 @@
 #DESCRIPTION Chiesanuova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/repubblica-di-san-marino/citta-di-san-marino/citta-di-san-marino/san-marino.html:City
 #DESCRIPTION City
-#SERVICE 1:64:2D:0:0:0:0:0:0:0::=== Spain ===
+#SERVICE 1:64:2D:0:0:0:0:0:0:0::=== Slovakia ===
+#DESCRIPTION === Slovakia ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM2.stream/playlist.m3u8:2
+#DESCRIPTION 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM3.stream/playlist.m3u8:3
+#DESCRIPTION 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM5.stream/playlist.m3u8:5
+#DESCRIPTION 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM6.stream/playlist.m3u8:6
+#DESCRIPTION 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM7.stream/playlist.m3u8:7
+#DESCRIPTION 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM9.stream/playlist.m3u8:9
+#DESCRIPTION 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM12.stream/playlist.m3u8:12
+#DESCRIPTION 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM14.stream/playlist.m3u8:14
+#DESCRIPTION 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM15.stream/playlist.m3u8:15
+#DESCRIPTION 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM17.stream/playlist.m3u8:17
+#DESCRIPTION 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM18.stream/playlist.m3u8:18
+#DESCRIPTION 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM21.stream/playlist.m3u8:21
+#DESCRIPTION 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM22.stream/playlist.m3u8:22
+#DESCRIPTION 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM23.stream/playlist.m3u8:23
+#DESCRIPTION 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM25.stream/playlist.m3u8:25
+#DESCRIPTION 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM26.stream/playlist.m3u8:26
+#DESCRIPTION 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM29.stream/playlist.m3u8:29
+#DESCRIPTION 29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM31.stream/playlist.m3u8:31
+#DESCRIPTION 31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM32.stream/playlist.m3u8:32
+#DESCRIPTION 32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM33.stream/playlist.m3u8:33
+#DESCRIPTION 33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM34.stream/playlist.m3u8:34
+#DESCRIPTION 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM39.stream/playlist.m3u8:39
+#DESCRIPTION 39
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM40.stream/playlist.m3u8:40
+#DESCRIPTION 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM43.stream/playlist.m3u8:43
+#DESCRIPTION 43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM44.stream/playlist.m3u8:44
+#DESCRIPTION 44
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM46.stream/playlist.m3u8:46
+#DESCRIPTION 46
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM47.stream/playlist.m3u8:47
+#DESCRIPTION 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM48.stream/playlist.m3u8:48
+#DESCRIPTION 48
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM50.stream/playlist.m3u8:50
+#DESCRIPTION 50
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM51.stream/playlist.m3u8:51
+#DESCRIPTION 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM52.stream/playlist.m3u8:52
+#DESCRIPTION 52
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM55.stream/playlist.m3u8:55
+#DESCRIPTION 55
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kukaj.profi-net.sk%3a1935/live/PLAMIENKA2.stream/chunklist.m3u8:SK 25
+#DESCRIPTION SK 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//parksnow.zivekamery.sk%3a1935/donovaly/DONOVALY.stream/playlist.m3u8:SK 27
+#DESCRIPTION SK 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.strba.sk%3a1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8:SK 28
+#DESCRIPTION SK 28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.strba.sk%3a1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8:SK 30
+#DESCRIPTION SK 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kukaj.se/stream/1/video.m3u8:Kukaj 1
+#DESCRIPTION Kukaj 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kukaj.se/stream/2/video.m3u8:Kukaj 2
+#DESCRIPTION Kukaj 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kukaj.se/stream/3/video.m3u8:Kukaj 3
+#DESCRIPTION Kukaj 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kukaj.se/stream/4/video.m3u8:Kukaj 4
+#DESCRIPTION Kukaj 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kukaj.se/stream/7/video.m3u8:Kukaj 7
+#DESCRIPTION Kukaj 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kukaj.se/stream/11/video.m3u8:Kukaj 11
+#DESCRIPTION Kukaj 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kukaj.se/stream/15/video.m3u8:Kukaj 15
+#DESCRIPTION Kukaj 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kukaj.se/stream/18/video.m3u8:Kukaj 18
+#DESCRIPTION Kukaj 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kukaj.se/stream/27/video.m3u8:Kukaj 27
+#DESCRIPTION Kukaj 27
+#SERVICE 1:64:2E:0:0:0:0:0:0:0::=== Spain ===
 #DESCRIPTION === Spain ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-alicante.html:Benidorm - Playa de Levante @
 #DESCRIPTION Benidorm - Playa de Levante @
@@ -2897,7 +3057,7 @@
 #DESCRIPTION Sant Sebastià Beach - Barcelona
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/santiago-del-teide-puerto-de-santiago.html:Santiago del Teide - Puerto de Santiago
 #DESCRIPTION Santiago del Teide - Puerto de Santiago
-#SERVICE 1:64:2E:0:0:0:0:0:0:0::=== Switzerland ===
+#SERVICE 1:64:2F:0:0:0:0:0:0:0::=== Switzerland ===
 #DESCRIPTION === Switzerland ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5889e7d0d6e28.streamlock.net/vocom-live/_definst_/livestream/chunklist.m3u8:Rhätische Bahn @@
 #DESCRIPTION Rhätische Bahn @@
@@ -2907,7 +3067,589 @@
 #DESCRIPTION Teufen Bootshaus Tössegg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hotelalexander.it-wms.com/clip_current_720p.mp4:Zürich +
 #DESCRIPTION Zürich +
-#SERVICE 1:64:2F:0:0:0:0:0:0:0::=== USA ===
+#SERVICE 1:64:30:0:0:0:0:0:0:0::=== Turkey ===
+#DESCRIPTION === Turkey ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/2.stream/playlist.m3u8:2
+#DESCRIPTION 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/3.stream/playlist.m3u8:3
+#DESCRIPTION 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/4.stream/playlist.m3u8:4
+#DESCRIPTION 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/5.stream/playlist.m3u8:5
+#DESCRIPTION 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/6.stream/playlist.m3u8:6
+#DESCRIPTION 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/17.stream/playlist.m3u8:17
+#DESCRIPTION 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/19.stream/playlist.m3u8:19
+#DESCRIPTION 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/31.stream/playlist.m3u8:31
+#DESCRIPTION 31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/34.stream/playlist.m3u8:34
+#DESCRIPTION 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/35.stream/playlist.m3u8:35
+#DESCRIPTION 35
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/37.stream/playlist.m3u8:37
+#DESCRIPTION 37
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/43.stream/playlist.m3u8:43
+#DESCRIPTION 43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/45.stream/playlist.m3u8:45
+#DESCRIPTION 45
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/47.stream/playlist.m3u8:47
+#DESCRIPTION 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/54.stream/playlist.m3u8:54
+#DESCRIPTION 54
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/55.stream/playlist.m3u8:55
+#DESCRIPTION 55
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/58.stream/playlist.m3u8:58
+#DESCRIPTION 58
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/60.stream/playlist.m3u8:60
+#DESCRIPTION 60
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/61.stream/playlist.m3u8:61
+#DESCRIPTION 61
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/68.stream/playlist.m3u8:68
+#DESCRIPTION 68
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/69.stream/playlist.m3u8:69
+#DESCRIPTION 69
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/72.stream/playlist.m3u8:72
+#DESCRIPTION 72
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/74.stream/playlist.m3u8:74
+#DESCRIPTION 74
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/85.stream/playlist.m3u8:85
+#DESCRIPTION 85
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/88.stream/playlist.m3u8:88
+#DESCRIPTION 88
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/92.stream/playlist.m3u8:92
+#DESCRIPTION 92
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/97.stream/playlist.m3u8:97
+#DESCRIPTION 97
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/100.stream/playlist.m3u8:100
+#DESCRIPTION 100
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/101.stream/playlist.m3u8:101
+#DESCRIPTION 101
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/103.stream/playlist.m3u8:103
+#DESCRIPTION 103
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/105.stream/playlist.m3u8:105
+#DESCRIPTION 105
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/120.stream/playlist.m3u8:120
+#DESCRIPTION 120
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/124.stream/playlist.m3u8:124
+#DESCRIPTION 124
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/134.stream/playlist.m3u8:134
+#DESCRIPTION 134
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/136.stream/playlist.m3u8:136
+#DESCRIPTION 136
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/145.stream/playlist.m3u8:145
+#DESCRIPTION 145
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/108.stream/playlist.m3u8:108
+#DESCRIPTION 108
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/113.stream/playlist.m3u8:113
+#DESCRIPTION 113
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/118.stream/playlist.m3u8:118
+#DESCRIPTION 118
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/121.stream/playlist.m3u8:121
+#DESCRIPTION 121
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/135.stream/playlist.m3u8:135
+#DESCRIPTION 135
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/137.stream/playlist.m3u8:137
+#DESCRIPTION 137
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/139.stream/playlist.m3u8:139
+#DESCRIPTION 139
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/141.stream/playlist.m3u8:141
+#DESCRIPTION 141
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/143.stream/playlist.m3u8:143
+#DESCRIPTION 143
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/144.stream/playlist.m3u8:144
+#DESCRIPTION 144
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/148.stream/playlist.m3u8:148
+#DESCRIPTION 148
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/150.stream/playlist.m3u8:150
+#DESCRIPTION 150
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/202.stream/playlist.m3u8:202
+#DESCRIPTION 202
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/240.stream/playlist.m3u8:240
+#DESCRIPTION 240
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/264.stream/playlist.m3u8:264
+#DESCRIPTION 264
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/274.stream/playlist.m3u8:274
+#DESCRIPTION 274
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/293.stream/playlist.m3u8:293
+#DESCRIPTION 293
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/300.stream/playlist.m3u8:300
+#DESCRIPTION 300
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/327.stream/playlist.m3u8:327
+#DESCRIPTION 327
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/344.stream/playlist.m3u8:344
+#DESCRIPTION 344
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/376.stream/playlist.m3u8:376
+#DESCRIPTION 376
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/378.stream/playlist.m3u8:378
+#DESCRIPTION 378
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/379.stream/playlist.m3u8:379
+#DESCRIPTION 379
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/381.stream/playlist.m3u8:381
+#DESCRIPTION 381
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/386.stream/playlist.m3u8:386
+#DESCRIPTION 386
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/389.stream/playlist.m3u8:389
+#DESCRIPTION 389
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/391.stream/playlist.m3u8:391
+#DESCRIPTION 391
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/393.stream/playlist.m3u8:393
+#DESCRIPTION 393
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/394.stream/playlist.m3u8:394
+#DESCRIPTION 394
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/397.stream/playlist.m3u8:397
+#DESCRIPTION 397
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/398.stream/playlist.m3u8:398
+#DESCRIPTION 398
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/399.stream/playlist.m3u8:399
+#DESCRIPTION 399
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/400.stream/playlist.m3u8:400
+#DESCRIPTION 400
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/401.stream/playlist.m3u8:401
+#DESCRIPTION 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/402.stream/playlist.m3u8:402
+#DESCRIPTION 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/403.stream/playlist.m3u8:403
+#DESCRIPTION 403
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/408.stream/playlist.m3u8:408
+#DESCRIPTION 408
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/411.stream/playlist.m3u8:411
+#DESCRIPTION 411
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/413.stream/playlist.m3u8:413
+#DESCRIPTION 413
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/415.stream/playlist.m3u8:415
+#DESCRIPTION 415
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/417.stream/playlist.m3u8:417
+#DESCRIPTION 417
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/419.stream/playlist.m3u8:419
+#DESCRIPTION 419
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/420.stream/playlist.m3u8:420
+#DESCRIPTION 420
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/422.stream/playlist.m3u8:422
+#DESCRIPTION 422
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/423.stream/playlist.m3u8:423
+#DESCRIPTION 423
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/424.stream/playlist.m3u8:424
+#DESCRIPTION 424
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/425.stream/playlist.m3u8:425
+#DESCRIPTION 425
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/426.stream/playlist.m3u8:426
+#DESCRIPTION 426
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/427.stream/playlist.m3u8:427
+#DESCRIPTION 427
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/432.stream/playlist.m3u8:432
+#DESCRIPTION 432
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/433.stream/playlist.m3u8:433
+#DESCRIPTION 433
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/434.stream/playlist.m3u8:434
+#DESCRIPTION 434
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/435.stream/playlist.m3u8:435
+#DESCRIPTION 435
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/436.stream/playlist.m3u8:436
+#DESCRIPTION 436
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/438.stream/playlist.m3u8:438
+#DESCRIPTION 438
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/439.stream/playlist.m3u8:439
+#DESCRIPTION 439
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/447.stream/playlist.m3u8:447
+#DESCRIPTION 447
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/448.stream/playlist.m3u8:448
+#DESCRIPTION 448
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/450.stream/playlist.m3u8:450
+#DESCRIPTION 450
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/451.stream/playlist.m3u8:451
+#DESCRIPTION 451
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/454.stream/playlist.m3u8:454
+#DESCRIPTION 454
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/455.stream/playlist.m3u8:455
+#DESCRIPTION 455
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/456.stream/playlist.m3u8:456
+#DESCRIPTION 456
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/457.stream/playlist.m3u8:457
+#DESCRIPTION 457
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/460.stream/playlist.m3u8:460
+#DESCRIPTION 460
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/463.stream/playlist.m3u8:463
+#DESCRIPTION 463
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/466.stream/playlist.m3u8:466
+#DESCRIPTION 466
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/467.stream/playlist.m3u8:467
+#DESCRIPTION 467
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/468.stream/playlist.m3u8:468
+#DESCRIPTION 468
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/470.stream/playlist.m3u8:470
+#DESCRIPTION 470
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/473.stream/playlist.m3u8:473
+#DESCRIPTION 473
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/475.stream/playlist.m3u8:475
+#DESCRIPTION 475
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/476.stream/playlist.m3u8:476
+#DESCRIPTION 476
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/477.stream/playlist.m3u8:477
+#DESCRIPTION 477
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/480.stream/playlist.m3u8:480
+#DESCRIPTION 480
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/481.stream/playlist.m3u8:481
+#DESCRIPTION 481
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/482.stream/playlist.m3u8:482
+#DESCRIPTION 482
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/487.stream/playlist.m3u8:487
+#DESCRIPTION 487
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/491.stream/playlist.m3u8:491
+#DESCRIPTION 491
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/501.stream/playlist.m3u8:501
+#DESCRIPTION 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/505.stream/playlist.m3u8:505
+#DESCRIPTION 505
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/509.stream/playlist.m3u8:509
+#DESCRIPTION 509
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/511.stream/playlist.m3u8:511
+#DESCRIPTION 511
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/520.stream/playlist.m3u8:520
+#DESCRIPTION 520
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/526.stream/playlist.m3u8:526
+#DESCRIPTION 526
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/531.stream/playlist.m3u8:531
+#DESCRIPTION 531
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/535.stream/playlist.m3u8:535
+#DESCRIPTION 535
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/538.stream/playlist.m3u8:538
+#DESCRIPTION 538
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/540.stream/playlist.m3u8:540
+#DESCRIPTION 540
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/546.stream/playlist.m3u8:546
+#DESCRIPTION 546
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/547.stream/playlist.m3u8:547
+#DESCRIPTION 547
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/549.stream/playlist.m3u8:549
+#DESCRIPTION 549
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/553.stream/playlist.m3u8:553
+#DESCRIPTION 553
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/554.stream/playlist.m3u8:554
+#DESCRIPTION 554
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/556.stream/playlist.m3u8:556
+#DESCRIPTION 556
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/558.stream/playlist.m3u8:558
+#DESCRIPTION 558
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/559.stream/playlist.m3u8:559
+#DESCRIPTION 559
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/561.stream/playlist.m3u8:561
+#DESCRIPTION 561
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/562.stream/playlist.m3u8:562
+#DESCRIPTION 562
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/563.stream/playlist.m3u8:563
+#DESCRIPTION 563
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/564.stream/playlist.m3u8:564
+#DESCRIPTION 564
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/567.stream/playlist.m3u8:567
+#DESCRIPTION 567
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/569.stream/playlist.m3u8:569
+#DESCRIPTION 569
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/570.stream/playlist.m3u8:570
+#DESCRIPTION 570
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/572.stream/playlist.m3u8:572
+#DESCRIPTION 572
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/573.stream/playlist.m3u8:573
+#DESCRIPTION 573
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/578.stream/playlist.m3u8:578
+#DESCRIPTION 578
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/579.stream/playlist.m3u8:579
+#DESCRIPTION 579
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/581.stream/playlist.m3u8:581
+#DESCRIPTION 581
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/583.stream/playlist.m3u8:583
+#DESCRIPTION 583
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/584.stream/playlist.m3u8:584
+#DESCRIPTION 584
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/587.stream/playlist.m3u8:587
+#DESCRIPTION 587
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/590.stream/playlist.m3u8:590
+#DESCRIPTION 590
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/594.stream/playlist.m3u8:594
+#DESCRIPTION 594
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/595.stream/playlist.m3u8:595
+#DESCRIPTION 595
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/596.stream/playlist.m3u8:596
+#DESCRIPTION 596
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/602.stream/playlist.m3u8:602
+#DESCRIPTION 602
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/604.stream/playlist.m3u8:604
+#DESCRIPTION 604
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/607.stream/playlist.m3u8:607
+#DESCRIPTION 607
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/608.stream/playlist.m3u8:608
+#DESCRIPTION 608
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/610.stream/playlist.m3u8:610
+#DESCRIPTION 610
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/611.stream/playlist.m3u8:611
+#DESCRIPTION 611
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/612.stream/playlist.m3u8:612
+#DESCRIPTION 612
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/613.stream/playlist.m3u8:613
+#DESCRIPTION 613
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/614.stream/playlist.m3u8:614
+#DESCRIPTION 614
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/615.stream/playlist.m3u8:615
+#DESCRIPTION 615
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/616.stream/playlist.m3u8:616
+#DESCRIPTION 616
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/624.stream/playlist.m3u8:624
+#DESCRIPTION 624
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/628.stream/playlist.m3u8:628
+#DESCRIPTION 628
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/632.stream/playlist.m3u8:632
+#DESCRIPTION 632
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/635.stream/playlist.m3u8:635
+#DESCRIPTION 635
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/636.stream/playlist.m3u8:636
+#DESCRIPTION 636
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/638.stream/playlist.m3u8:638
+#DESCRIPTION 638
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/639.stream/playlist.m3u8:639
+#DESCRIPTION 639
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/640.stream/playlist.m3u8:640
+#DESCRIPTION 640
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/641.stream/playlist.m3u8:641
+#DESCRIPTION 641
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/642.stream/playlist.m3u8:642
+#DESCRIPTION 642
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/644.stream/playlist.m3u8:644
+#DESCRIPTION 644
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/647.stream/playlist.m3u8:647
+#DESCRIPTION 647
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/648.stream/playlist.m3u8:648
+#DESCRIPTION 648
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/653.stream/playlist.m3u8:653
+#DESCRIPTION 653
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/655.stream/playlist.m3u8:655
+#DESCRIPTION 655
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/659.stream/playlist.m3u8:659
+#DESCRIPTION 659
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/661.stream/playlist.m3u8:661
+#DESCRIPTION 661
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/663.stream/playlist.m3u8:663
+#DESCRIPTION 663
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/664.stream/playlist.m3u8:664
+#DESCRIPTION 664
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/666.stream/playlist.m3u8:666
+#DESCRIPTION 666
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/668.stream/playlist.m3u8:668
+#DESCRIPTION 668
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/669.stream/playlist.m3u8:669
+#DESCRIPTION 669
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/670.stream/playlist.m3u8:670
+#DESCRIPTION 670
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/671.stream/playlist.m3u8:671
+#DESCRIPTION 671
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/672.stream/playlist.m3u8:672
+#DESCRIPTION 672
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/673.stream/playlist.m3u8:673
+#DESCRIPTION 673
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/674.stream/playlist.m3u8:674
+#DESCRIPTION 674
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/675.stream/playlist.m3u8:675
+#DESCRIPTION 675
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/676.stream/playlist.m3u8:676
+#DESCRIPTION 676
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/677.stream/playlist.m3u8:677
+#DESCRIPTION 677
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/678.stream/playlist.m3u8:678
+#DESCRIPTION 678
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/679.stream/playlist.m3u8:679
+#DESCRIPTION 679
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/680.stream/playlist.m3u8:680
+#DESCRIPTION 680
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/681.stream/playlist.m3u8:681
+#DESCRIPTION 681
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/684.stream/playlist.m3u8:684
+#DESCRIPTION 684
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/686.stream/playlist.m3u8:686
+#DESCRIPTION 686
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/692.stream/playlist.m3u8:692
+#DESCRIPTION 692
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/695.stream/playlist.m3u8:695
+#DESCRIPTION 695
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/698.stream/playlist.m3u8:698
+#DESCRIPTION 698
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/700.stream/playlist.m3u8:700
+#DESCRIPTION 700
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/701.stream/playlist.m3u8:701
+#DESCRIPTION 701
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/709.stream/playlist.m3u8:709
+#DESCRIPTION 709
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/710.stream/playlist.m3u8:710
+#DESCRIPTION 710
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/713.stream/playlist.m3u8:713
+#DESCRIPTION 713
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/715.stream/playlist.m3u8:715
+#DESCRIPTION 715
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/721.stream/playlist.m3u8:721
+#DESCRIPTION 721
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/735.stream/playlist.m3u8:735
+#DESCRIPTION 735
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/738.stream/playlist.m3u8:738
+#DESCRIPTION 738
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/752.stream/playlist.m3u8:752
+#DESCRIPTION 752
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/760.stream/playlist.m3u8:760
+#DESCRIPTION 760
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/761.stream/playlist.m3u8:761
+#DESCRIPTION 761
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/764.stream/playlist.m3u8:764
+#DESCRIPTION 764
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/793.stream/playlist.m3u8:793
+#DESCRIPTION 793
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/765.stream/playlist.m3u8:765
+#DESCRIPTION 765
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/768.stream/playlist.m3u8:768
+#DESCRIPTION 768
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/771.stream/playlist.m3u8:771
+#DESCRIPTION 771
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/779.stream/playlist.m3u8:779
+#DESCRIPTION 779
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/782.stream/playlist.m3u8:782
+#DESCRIPTION 782
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/783.stream/playlist.m3u8:783
+#DESCRIPTION 783
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/788.stream/playlist.m3u8:788
+#DESCRIPTION 788
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/794.stream/playlist.m3u8:794
+#DESCRIPTION 794
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/795.stream/playlist.m3u8:795
+#DESCRIPTION 795
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/817.stream/playlist.m3u8:817
+#DESCRIPTION 817
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/819.stream/playlist.m3u8:819
+#DESCRIPTION 819
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/820.stream/playlist.m3u8:820
+#DESCRIPTION 820
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/822.stream/playlist.m3u8:822
+#DESCRIPTION 822
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/823.stream/playlist.m3u8:823
+#DESCRIPTION 823
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/824.stream/playlist.m3u8:824
+#DESCRIPTION 824
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/825.stream/playlist.m3u8:825
+#DESCRIPTION 825
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/826.stream/playlist.m3u8:826
+#DESCRIPTION 826
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/827.stream/playlist.m3u8:827
+#DESCRIPTION 827
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/830.stream/playlist.m3u8:830
+#DESCRIPTION 830
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/831.stream/playlist.m3u8:831
+#DESCRIPTION 831
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/835.stream/playlist.m3u8:835
+#DESCRIPTION 835
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/842.stream/playlist.m3u8:842
+#DESCRIPTION 842
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/845.stream/playlist.m3u8:845
+#DESCRIPTION 845
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/847.stream/playlist.m3u8:847
+#DESCRIPTION 847
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/848.stream/playlist.m3u8:848
+#DESCRIPTION 848
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/851.stream/playlist.m3u8:851
+#DESCRIPTION 851
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/852.stream/playlist.m3u8:852
+#DESCRIPTION 852
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/854.stream/playlist.m3u8:854
+#DESCRIPTION 854
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/856.stream/playlist.m3u8:856
+#DESCRIPTION 856
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/857.stream/playlist.m3u8:857
+#DESCRIPTION 857
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/860.stream/playlist.m3u8:860
+#DESCRIPTION 860
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/861.stream/playlist.m3u8:861
+#DESCRIPTION 861
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/863.stream/playlist.m3u8:863
+#DESCRIPTION 863
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/886.stream/playlist.m3u8:886
+#DESCRIPTION 886
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/889.stream/playlist.m3u8:889
+#DESCRIPTION 889
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/890.stream/playlist.m3u8:890
+#DESCRIPTION 890
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/891.stream/playlist.m3u8:891
+#DESCRIPTION 891
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/892.stream/playlist.m3u8:892
+#DESCRIPTION 892
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/894.stream/playlist.m3u8:894
+#DESCRIPTION 894
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/895.stream/playlist.m3u8:895
+#DESCRIPTION 895
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/896.stream/playlist.m3u8:896
+#DESCRIPTION 896
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/897.stream/playlist.m3u8:897
+#DESCRIPTION 897
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/898.stream/playlist.m3u8:898
+#DESCRIPTION 898
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/899.stream/playlist.m3u8:899
+#DESCRIPTION 899
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/905.stream/playlist.m3u8:905
+#DESCRIPTION 905
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/911.stream/playlist.m3u8:911
+#DESCRIPTION 911
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/912.stream/playlist.m3u8:912
+#DESCRIPTION 912
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/914.stream/playlist.m3u8:914
+#DESCRIPTION 914
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/915.stream/playlist.m3u8:915
+#DESCRIPTION 915
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/929.stream/playlist.m3u8:929
+#DESCRIPTION 929
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/930.stream/playlist.m3u8:930
+#DESCRIPTION 930
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/931.stream/playlist.m3u8:931
+#DESCRIPTION 931
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/949.stream/playlist.m3u8:949
+#DESCRIPTION 949
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/950.stream/playlist.m3u8:950
+#DESCRIPTION 950
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/951.stream/playlist.m3u8:951
+#DESCRIPTION 951
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/960.stream/playlist.m3u8:960
+#DESCRIPTION 960
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/962.stream/playlist.m3u8:962
+#DESCRIPTION 962
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/967.stream/playlist.m3u8:967
+#DESCRIPTION 967
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/975.stream/playlist.m3u8:975
+#DESCRIPTION 975
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/976.stream/playlist.m3u8:976
+#DESCRIPTION 976
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/981.stream/playlist.m3u8:981
+#DESCRIPTION 981
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/987.stream/playlist.m3u8:987
+#DESCRIPTION 987
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/1022.stream/playlist.m3u8:1022
+#DESCRIPTION 1022
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/1027.stream/playlist.m3u8:1027
+#DESCRIPTION 1027
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/1029.stream/playlist.m3u8:1029
+#DESCRIPTION 1029
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/1030.stream/playlist.m3u8:1030
+#DESCRIPTION 1030
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/1031.stream/playlist.m3u8:1031
+#DESCRIPTION 1031
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/1032.stream/playlist.m3u8:1032
+#DESCRIPTION 1032
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.skylinewebcams.com/en/webcam/turkey/anatolia-region/nevsehir/cappadocia-uchisar.html
+#DESCRIPTION Cappadocia - Uçhisar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBelediye2.stream/chunklist_w1167113497.m3u8:Denizli
+#DESCRIPTION Denizli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBozdagUst.stream/chunklist_w945652344.m3u8:Denizli Kayak MerkeziMUst Istasyon
+#DESCRIPTION Denizli Kayak MerkeziMUst Istasyon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBelediye1.stream/chunklist_w282188282.m3u8:DenizliTemmuz Deliklicinar Sehitler Meydani2
+#DESCRIPTION DenizliTemmuz Deliklicinar Sehitler Meydani2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbLaodikya.stream/chunklist_w1187384935.m3u8:DenizliLaodikeia
+#DESCRIPTION DenizliLaodikeia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbOtogar.stream/chunklist_w183105836.m3u8:DenizliUcgen Meydani
+#DESCRIPTION DenizliUcgen Meydani
+#SERVICE 1:64:31:0:0:0:0:0:0:0::=== USA ===
 #DESCRIPTION === USA ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-4284358-1/playlist.m3u8:64th & Sheridan Monkeys Tire & Chrome @
 #DESCRIPTION 64th & Sheridan Monkeys Tire & Chrome @
@@ -2999,7 +3741,7 @@
 #DESCRIPTION West Glenwood Springs Widland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ddd47d64e730.streamlock.net%3a444/westland/westland.stream/playlist.m3u8:Westland +
 #DESCRIPTION Westland +
-#SERVICE 1:64:30:0:0:0:0:0:0:0::=== Vietnam ===
+#SERVICE 1:64:32:0:0:0:0:0:0:0::=== Vietnam ===
 #DESCRIPTION === Vietnam ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8:Vietnam 1
 #DESCRIPTION Vietnam 1
@@ -3011,151 +3753,151 @@
 #DESCRIPTION Vietnam 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/de/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html:Vietnam Hoàng Mai
 #DESCRIPTION Vietnam Hoàng Mai
-#SERVICE 1:64:31:0:0:0:0:0:0:0::***** YOUTUBE *****
+#SERVICE 1:64:33:0:0:0:0:0:0:0::***** YOUTUBE *****
 #DESCRIPTION ***** YOUTUBE *****
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=gpFqI8DD9IA:Beograd @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//gpFqI8DD9IA:Beograd @
 #DESCRIPTION Beograd @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=ia-XIS85WUc:Bol na Braču 2 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//ia-XIS85WUc:Bol na Braču 2 @
 #DESCRIPTION Bol na Braču 2 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=8_oxQplx7Xg:Crveni vrh @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//8_oxQplx7Xg:Crveni vrh @
 #DESCRIPTION Crveni vrh @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=wBVq_Qoegmo:Hvar @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//wBVq_Qoegmo:Hvar @
 #DESCRIPTION Hvar @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=_Hk9_WjJU_Y:Hvar Vrboska @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//_Hk9_WjJU_Y:Hvar Vrboska @
 #DESCRIPTION Hvar Vrboska @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=_Rr2Fs51v6A:Kopaonik @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//_Rr2Fs51v6A:Kopaonik @@
 #DESCRIPTION Kopaonik @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=vWdEy1J0BuM:Malinska 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//vWdEy1J0BuM:Malinska 1
 #DESCRIPTION Malinska 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=7YlxIx7TB7I:Malinska 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//7YlxIx7TB7I:Malinska 2
 #DESCRIPTION Malinska 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=FNVjLibM5ko:Međugorje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//FNVjLibM5ko:Međugorje
 #DESCRIPTION Međugorje
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=f_kvIQwpzWY:Plaški @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//f_kvIQwpzWY:Plaški @
 #DESCRIPTION Plaški @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=MMdHyT6iX6c:Primošten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//MMdHyT6iX6c:Primošten
 #DESCRIPTION Primošten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=iSbn8x3IUhs:Rogoznica @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//iSbn8x3IUhs:Rogoznica @
 #DESCRIPTION Rogoznica @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=FoNglL6eS6Y:Sjenica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//FoNglL6eS6Y:Sjenica
 #DESCRIPTION Sjenica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=Nwy3KdIK6Fo:Split
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//Nwy3KdIK6Fo:Split
 #DESCRIPTION Split
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=NIuO6hrFTrg:Austria Feratel @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//NIuO6hrFTrg:Austria Feratel @@
 #DESCRIPTION Austria Feratel @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=F2-hJqSTaUk:Austria PanoCloud and EU @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//F2-hJqSTaUk:Austria PanoCloud and EU @@
 #DESCRIPTION Austria PanoCloud and EU @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=I-7mv4-BJ7M:Canada Port de Quebec
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//I-7mv4-BJ7M:Canada Port de Quebec
 #DESCRIPTION Canada Port de Quebec
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=ALA4I9vJRiM:England @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//0jUGiYZKAMg:Czechoslovakia Airport Prague
+#DESCRIPTION Czechoslovakia Airport Prague
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//ALA4I9vJRiM:England @@
 #DESCRIPTION England @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=QO-hO_kwwmY:England Ferry Southampton to Cowes Isle of Wight Red Funnel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//QO-hO_kwwmY:England Ferry Southampton to Cowes Isle of Wight Red Funnel
 #DESCRIPTION England Ferry Southampton to Cowes Isle of Wight Red Funnel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=A6R81wOlQqs:Espana Malaga Airport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//A6R81wOlQqs:Espana Malaga Airport
 #DESCRIPTION Espana Malaga Airport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=JnJhFYhIjFs:Finnland Helsinki Port West harbour north cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//JnJhFYhIjFs:Finnland Helsinki Port West harbour north cam
 #DESCRIPTION Finnland Helsinki Port West harbour north cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=6hPWq2IG08M:Finnland Helsinki Port West harbour south cam @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//6hPWq2IG08M:Finnland Helsinki Port West harbour south cam @
 #DESCRIPTION Finnland Helsinki Port West harbour south cam @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=CvOB-Is_yYU:Finnland Port of Helsinki @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//CvOB-Is_yYU:Finnland Port of Helsinki @@
 #DESCRIPTION Finnland Port of Helsinki @@
-#SERVICE 4097:0:1:7E0D:C189:EC:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=LwihxyJ4V20:Finnland Zero Point Levi Finland @
+#SERVICE 4097:0:1:7E0D:C189:EC:0:0:0:0:streamlink%3a//youtu.be//LwihxyJ4V20:Finnland Zero Point Levi Finland @
 #DESCRIPTION Finnland Zero Point Levi Finland @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=Li3Dvqlo5uE:Germany @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//Li3Dvqlo5uE:Germany @@
 #DESCRIPTION Germany @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=IRqboacDNFg:Germany Berlin Alexanderplatz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//IRqboacDNFg:Germany Berlin Alexanderplatz @
 #DESCRIPTION Germany Berlin Alexanderplatz @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=dmqHRNGXlnc:Germany Frankfurt Airport @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//dmqHRNGXlnc:Germany Frankfurt Airport @
 #DESCRIPTION Germany Frankfurt Airport @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=OmyDLXvaus4:Germany Hamburg Michel @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//OmyDLXvaus4:Germany Hamburg Michel @
 #DESCRIPTION Germany Hamburg Michel @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=qqxtfjwJf3U:Germany Laboe @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//qqxtfjwJf3U:Germany Laboe @
 #DESCRIPTION Germany Laboe @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=KapPI_D431Q:Germany Munich Airport @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//KapPI_D431Q:Germany Munich Airport @
 #DESCRIPTION Germany Munich Airport @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=R1bLDIW-IjA:Germany PanoCloud @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//R1bLDIW-IjA:Germany PanoCloud @@
 #DESCRIPTION Germany PanoCloud @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=aYtgGjMDagw:Germany Spotlight @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//aYtgGjMDagw:Germany Spotlight @@
 #DESCRIPTION Germany Spotlight @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=OkV0gyxx7Vk:Germany Spotlight Bodensee @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//OkV0gyxx7Vk:Germany Spotlight Bodensee @@
 #DESCRIPTION Germany Spotlight Bodensee @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=5p-s-1453Us:Greece @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//5p-s-1453Us:Greece @@
 #DESCRIPTION Greece @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=Gzl2M_eGpfM:Greece Kos Island Harbour
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//Gzl2M_eGpfM:Greece Kos Island Harbour
 #DESCRIPTION Greece Kos Island Harbour
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=ghEXUTFTQ7o:Greece Port Gavrio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//ghEXUTFTQ7o:Greece Port Gavrio
 #DESCRIPTION Greece Port Gavrio
-#SERVICE 4097:0:1:4F98:F3FB:EC:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=IZhDwv4dz0g:Greenland Nuuk Airport North
+#SERVICE 4097:0:1:4F98:F3FB:EC:0:0:0:0:streamlink%3a//youtu.be//IZhDwv4dz0g:Greenland Nuuk Airport North
 #DESCRIPTION Greenland Nuuk Airport North
-#SERVICE 4097:0:1:38EA:4D7:EC:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=MApnQlsX5AQ:Greenland Nuuk Airport South
+#SERVICE 4097:0:1:38EA:4D7:EC:0:0:0:0:streamlink%3a//youtu.be//MApnQlsX5AQ:Greenland Nuuk Airport South
 #DESCRIPTION Greenland Nuuk Airport South
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=oxx7MqjhOpw:Ireland Dublin Bay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//oxx7MqjhOpw:Ireland Dublin Bay
 #DESCRIPTION Ireland Dublin Bay
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=u4UZ4UvZXrg:Ireland Dublin Temple Bar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//u4UZ4UvZXrg:Ireland Dublin Temple Bar
 #DESCRIPTION Ireland Dublin Temple Bar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=wMT2aNcP4Wg:Italy @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//wMT2aNcP4Wg:Italy @@
 #DESCRIPTION Italy @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=Y1qp-EVF_oU:Italy Nord @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//Y1qp-EVF_oU:Italy Nord @@
 #DESCRIPTION Italy Nord @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=P6JA_YjHMZs:Italy Venice Grand Canal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//P6JA_YjHMZs:Italy Venice Grand Canal
 #DESCRIPTION Italy Venice Grand Canal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=Sa1QCmUkmPA:Japan @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//Sa1QCmUkmPA:Japan @@
 #DESCRIPTION Japan @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=nFozEhYTEMo:Niederlande Rotterdam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//nFozEhYTEMo:Niederlande Rotterdam
 #DESCRIPTION Niederlande Rotterdam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=DP4vxBdgfGE:Norway @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//DP4vxBdgfGE:Norway @@
 #DESCRIPTION Norway @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=iXLaEkB3J0I:Norway Nordkapp @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//iXLaEkB3J0I:Norway Nordkapp @
 #DESCRIPTION Norway Nordkapp @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=yMYXGmOo5tU:Portugal Madeira Porto Moniz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//yMYXGmOo5tU:Portugal Madeira Porto Moniz @
 #DESCRIPTION Portugal Madeira Porto Moniz @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=3QS0NMMgDNY:Portugal Porto @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//3QS0NMMgDNY:Portugal Porto @
 #DESCRIPTION Portugal Porto @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=6VGbApMVPBQ:Russia Siberian City Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//6VGbApMVPBQ:Russia Siberian City Life
 #DESCRIPTION Russia Siberian City Life
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=8miQ3QXA26Q:Scotland Fort William
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//8miQ3QXA26Q:Scotland Fort William
 #DESCRIPTION Scotland Fort William
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=6V39eDpTyas:Slovakia @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//6V39eDpTyas:Slovakia @@
 #DESCRIPTION Slovakia @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=enYFXf8u7Lc:Switzerland Feratel @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//enYFXf8u7Lc:Switzerland Feratel @@
 #DESCRIPTION Switzerland Feratel @@
-#SERVICE 4097:0:1:6148:BA35:EC:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=jtLh8BdmHUU:Switzerland Hotel Basel
+#SERVICE 4097:0:1:6148:BA35:EC:0:0:0:0:streamlink%3a//youtu.be//jtLh8BdmHUU:Switzerland Hotel Basel
 #DESCRIPTION Switzerland Hotel Basel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=QIt1FaDMnQc:Switzerland Luzern @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//QIt1FaDMnQc:Switzerland Luzern @
 #DESCRIPTION Switzerland Luzern @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=NHRDdaH4LpU:Spain @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//NHRDdaH4LpU:Spain @@
 #DESCRIPTION Spain @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=0jUGiYZKAMg:Tschechien Airport Prague
-#DESCRIPTION Tschechien Airport Prague
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=e2gC37ILQmk:Ukraine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//e2gC37ILQmk:Ukraine
 #DESCRIPTION Ukraine
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=t0GrpAgdBFI:USA LAX AIRPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//t0GrpAgdBFI:USA LAX AIRPORT
 #DESCRIPTION USA LAX AIRPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=0i_lTuIWf_A:USA New York Airport @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//0i_lTuIWf_A:USA New York Airport @
 #DESCRIPTION USA New York Airport @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=rnXIjl_Rzy4:USA Times Square in 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//rnXIjl_Rzy4:USA Times Square in 4K
 #DESCRIPTION USA Times Square in 4K
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=z7SiAaN4ogw:World 1 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//z7SiAaN4ogw:World 1 @@
 #DESCRIPTION World 1 @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=2BLqhS59Elc:World 2 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//2BLqhS59Elc:World 2 @@
 #DESCRIPTION World 2 @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=HfgIFGbdGJ0:World 4 Earth TV @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//HfgIFGbdGJ0:World 4 Earth TV @@
 #DESCRIPTION World 4 Earth TV @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=EFum1rGUdkk:World 5 Skyline top @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//EFum1rGUdkk:World 5 Skyline top @@
 #DESCRIPTION World 5 Skyline top @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=TZikBxNaaQk:World 7 Cities @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//TZikBxNaaQk:World 7 Cities @@
 #DESCRIPTION World 7 Cities @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=qOGBrnL-TMA:World 8 Airports @@
-#DESCRIPTION World 8 Airports @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=rvtygG4n6ew:Earthquake Monitoring 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//qOGBrnL-TMA:World 8 Airports @@
+#DESCRIPTION World 8 Airports @@ OFF 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//rvtygG4n6ew:Earthquake Monitoring 1
 #DESCRIPTION Earthquake Monitoring 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=faH3xrKyP_o:Iceland Volcano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//faH3xrKyP_o:Iceland Volcano
 #DESCRIPTION Iceland Volcano
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=xRPjKQtRXR8:NASA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//xRPjKQtRXR8:NASA
 #DESCRIPTION NASA
-#SERVICE 1:64:32:0:0:0:0:0:0:0::=== test ===
+#SERVICE 1:64:34:0:0:0:0:0:0:0::=== test ===
 #DESCRIPTION === test ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija/playlist.m3u8:Beograd Kružni tok Slavija ##1009
-#DESCRIPTION Beograd Kružni tok Slavija ##1009
+#DESCRIPTION Beograd Kružni tok Slavija ##1009 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.skylinewebcams.com/de/webcam/hrvatska/licko-senjska-zupanija/plitvicka-jezera/plitvice-lakes-national-park.html:Plitvice @
-#DESCRIPTION Plitvice @
+#DESCRIPTION Plitvice @ OFF
