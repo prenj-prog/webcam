@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.764 27.09.2025  @=is moving  @@=multiple link
+#NAME Prenj SF Ver.765 28.09.2025  @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_monperin03.m3u8:Bale Mon Perin @
@@ -2631,6 +2631,18 @@
 #DESCRIPTION Вильнюс 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.dcdn.lt/livecam/vl108.stream/playlist.m3u8:Вильнюс 2
 #DESCRIPTION Вильнюс 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ignet.lt%3a8888/live/test/index.m3u8:Игналина
+#DESCRIPTION Игналина
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.worldcam.live%3a8081/kaunas/index.m3u8:Каунас 1
+#DESCRIPTION Каунас 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.dcdn.lt/livecam/vl147.stream/playlist.m3u8:Кафедральный собор
+#DESCRIPTION Кафедральный собор
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.dcdn.lt/livecam/kl016.stream/playlist.m3u8:Клайпеда 1
+#DESCRIPTION Клайпеда 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.dcdn.lt/livecam/kl011.stream/playlist.m3u:Клайпеда 2
+#DESCRIPTION Клайпеда 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.dcdn.lt/livecam/sll50.stream/playlist.m3u8:Шилале
+#DESCRIPTION Шилале
 #SERVICE 1:64:2F:0:0:0:0:0:0:0::=== Luxembourg ===
 #DESCRIPTION === Luxembourg ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge.rtl.lu/cita/cita_a1/playlist.m3u8:Luxembourg @@
@@ -4261,5 +4273,3 @@
 #DESCRIPTION === test ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija/playlist.m3u8:Beograd Kružni tok Slavija ##1009 OFF
 #DESCRIPTION Beograd Kružni tok Slavija ##1009 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija/chunks.m3u8:Slavija
-#DESCRIPTION Slavija
