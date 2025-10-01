@@ -3215,39 +3215,39 @@
 #DESCRIPTION Красноярск 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rec.maglan.ru%3a8080/hls/101863/985606ad36895351906f/playlist.m3u8:Магадан
 #DESCRIPTION Магадан
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rec.maglan.ru%3a8080/hls/269088/a853cb2da667cc3bd89c/playlist.m3u8:Магадан 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//rec.maglan.ru%3a8080/hls/269088/a853cb2da667cc3bd89c/playlist.m3u8:Магадан 2
 #DESCRIPTION Магадан 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera12_1.m3u8:Москва 12 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera12_1.m3u8:Москва 12 1
 #DESCRIPTION Москва 12 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera12_2.m3u8:Москва 12 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera12_2.m3u8:Москва 12 2
 #DESCRIPTION Москва 12 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera12_3.m3u8:Москва 12 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera12_3.m3u8:Москва 12 3
 #DESCRIPTION Москва 12 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera12_4.m3u8:Москва 12 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera12_4.m3u8:Москва 12 4
 #DESCRIPTION Москва 12 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera12_5.m3u8:Москва 12 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera12_5.m3u8:Москва 12 5
 #DESCRIPTION Москва 12 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera12_6.m3u8:Москва 12 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera12_6.m3u8:Москва 12 6
 #DESCRIPTION Москва 12 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera12_7.m3u8:Москва 12 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera12_7.m3u8:Москва 12 7
 #DESCRIPTION Москва 12 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera12_8.m3u8:Москва 12 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera12_8.m3u8:Москва 12 8
 #DESCRIPTION Москва 12 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera12_10.m3u8:Москва 12 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera12_10.m3u8:Москва 12 10
 #DESCRIPTION Москва 12 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera12_11.m3u8:Москва 12 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera12_11.m3u8:Москва 12 11
 #DESCRIPTION Москва 12 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera12_13.m3u8:Москва 12 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera12_13.m3u8:Москва 12 13
 #DESCRIPTION Москва 12 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera44_1.m3u8:Москва 44 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera44_1.m3u8:Москва 44 1
 #DESCRIPTION Москва 44 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera45_1.m3u8:Москва 45 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera45_1.m3u8:Москва 45 1
 #DESCRIPTION Москва 45 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera45_2.m3u8:Москва 45 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera45_2.m3u8:Москва 45 2
 #DESCRIPTION Москва 45 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera45_3.m3u8:Москва 45 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera45_3.m3u8:Москва 45 3
 #DESCRIPTION Москва 45 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ipcamstream2.inetcom.ru/hls/camera45_4.m3u8:Москва 45 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:3:http%3a//ipcamstream2.inetcom.ru/hls/camera45_4.m3u8:Москва 45 4
 #DESCRIPTION Москва 45 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/1/hls/stream.m3u8:Московская область 1
 #DESCRIPTION Московская область 1
