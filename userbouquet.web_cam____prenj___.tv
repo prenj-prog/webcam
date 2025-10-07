@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.772 - 06.10.25  @=is moving  @@=multiple link
+#NAME Prenj SF Ver.773 - 07.10.25  @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_monperin03.m3u8:Bale Mon Perin @
@@ -3323,6 +3323,110 @@
 #DESCRIPTION Магадан
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rec.maglan.ru%3a8080/hls/269088/a853cb2da667cc3bd89c/playlist.m3u8:Магадан 2
 #DESCRIPTION Магадан 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/1/live.m3u8:Междуреченск 1
+#DESCRIPTION Междуреченск 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/2/live.m3u8:Междуреченск 2
+#DESCRIPTION Междуреченск 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/3/live.m3u8:Междуреченск 3
+#DESCRIPTION Междуреченск 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/4/live.m3u8:Междуреченск 4
+#DESCRIPTION Междуреченск 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/5/live.m3u8:Междуреченск 5
+#DESCRIPTION Междуреченск 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/7/live.m3u8:Междуреченск 7
+#DESCRIPTION Междуреченск 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/8/live.m3u8:Междуреченск 8
+#DESCRIPTION Междуреченск 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/9/live.m3u8:Междуреченск 9
+#DESCRIPTION Междуреченск 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/10/live.m3u8:Междуреченск 10
+#DESCRIPTION Междуреченск 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/12/live.m3u8:Междуреченск 12
+#DESCRIPTION Междуреченск 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/13/live.m3u8:Междуреченск 13
+#DESCRIPTION Междуреченск 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/14/live.m3u8:Междуреченск 14
+#DESCRIPTION Междуреченск 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/15/live.m3u8:Междуреченск 15
+#DESCRIPTION Междуреченск 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/16/live.m3u8:Междуреченск 16
+#DESCRIPTION Междуреченск 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/17/live.m3u8:Междуреченск 17
+#DESCRIPTION Междуреченск 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/23/live.m3u8:Междуреченск 23
+#DESCRIPTION Междуреченск 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/24/live.m3u8:Междуреченск 24
+#DESCRIPTION Междуреченск 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/25/live.m3u8:Междуреченск 25
+#DESCRIPTION Междуреченск 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/26/live.m3u8:Междуреченск 26
+#DESCRIPTION Междуреченск 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/27/live.m3u8:Междуреченск 27
+#DESCRIPTION Междуреченск 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/30/live.m3u8:Междуреченск 30
+#DESCRIPTION Междуреченск 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/31/live.m3u8:Междуреченск 31
+#DESCRIPTION Междуреченск 31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/32/live.m3u8:Междуреченск 32
+#DESCRIPTION Междуреченск 32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/37/live.m3u8:Междуреченск 37
+#DESCRIPTION Междуреченск 37
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/38/live.m3u8:Междуреченск 38
+#DESCRIPTION Междуреченск 38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/39/live.m3u8:Междуреченск 39
+#DESCRIPTION Междуреченск 39
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/40/live.m3u8:Междуреченск 40
+#DESCRIPTION Междуреченск 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/41/live.m3u8:Междуреченск 41
+#DESCRIPTION Междуреченск 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/44/live.m3u8:Междуреченск 44
+#DESCRIPTION Междуреченск 44
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/45/live.m3u8:Междуреченск 45
+#DESCRIPTION Междуреченск 45
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/46/live.m3u8:Междуреченск 46
+#DESCRIPTION Междуреченск 46
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/47/live.m3u8:Междуреченск 47
+#DESCRIPTION Междуреченск 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/48/live.m3u8:Междуреченск 48
+#DESCRIPTION Междуреченск 48
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/49/live.m3u8:Междуреченск 49
+#DESCRIPTION Междуреченск 49
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/50/live.m3u8:Междуреченск 50
+#DESCRIPTION Междуреченск 50
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/51/live.m3u8:Междуреченск 51
+#DESCRIPTION Междуреченск 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/52/live.m3u8:Междуреченск 52
+#DESCRIPTION Междуреченск 52
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/53/live.m3u8:Междуреченск 53
+#DESCRIPTION Междуреченск 53
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/55/live.m3u8:Междуреченск 55
+#DESCRIPTION Междуреченск 55
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/56/live.m3u8:Междуреченск 56
+#DESCRIPTION Междуреченск 56
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/57/live.m3u8:Междуреченск 57
+#DESCRIPTION Междуреченск 57
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/58/live.m3u8:Междуреченск 58
+#DESCRIPTION Междуреченск 58
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/59/live.m3u8:Междуреченск 59
+#DESCRIPTION Междуреченск 59
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/60/live.m3u8:Междуреченск 60
+#DESCRIPTION Междуреченск 60
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/62/live.m3u8:Междуреченск 62
+#DESCRIPTION Междуреченск 62
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/63/live.m3u8:Междуреченск 63
+#DESCRIPTION Междуреченск 63
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/64/live.m3u8:Междуреченск 64
+#DESCRIPTION Междуреченск 64
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/65/live.m3u8:Междуреченск 65
+#DESCRIPTION Междуреченск 65
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/66/live.m3u8:Междуреченск 66
+#DESCRIPTION Междуреченск 66
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/67/live.m3u8:Междуреченск 67
+#DESCRIPTION Междуреченск 67
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/68/live.m3u8:Междуреченск 68
+#DESCRIPTION Междуреченск 68
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/69/live.m3u8:Междуреченск 69
+#DESCRIPTION Междуреченск 69
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/1/hls/stream.m3u8:Московская область 1
 #DESCRIPTION Московская область 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/12/hls/stream.m3u8:Московская область 12
@@ -3757,10 +3861,8 @@
 #DESCRIPTION Ставрополь 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.telko.ru/Tuh30_6cam2/tracks-v1/mono.m3u8:Ставрополь 9
 #DESCRIPTION Ставрополь 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webcamsbuildpool.tltsu.ru/cam0/cam0.m3u8:Тольятти 1
-#DESCRIPTION Тольятти 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//webcamsbuildpool.tltsu.ru/cam1/cam1.m3u8:Тольятти 2
-#DESCRIPTION Тольятти 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bt12727.rtsp.me/cameras/7/streaming/main.m3u8?authorization=Basic%20d2ViYXBpOlR4R1NBeFpCUkw1bU43U0U=:Тольятти ЖК Южный бульвар
+#DESCRIPTION Тольятти ЖК Южный бульвар
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn08.vtomske.ru/hls/stream1.m3u8:Томск  Перекресток пр Ленина
 #DESCRIPTION Томск  Перекресток пр Ленина
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn08.vtomske.ru/hls/stream6.m3u8:Томск  Площадь Южная
