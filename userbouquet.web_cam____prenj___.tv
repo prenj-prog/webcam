@@ -1,27 +1,27 @@
-#NAME Prenj SF Ver.779 - 19.10.25  @=is moving  @@=multiple link
+#NAME Prenj SF Ver.781 - 23.10.25  @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_monperin03.m3u8:Bale Mon Perin @
 #DESCRIPTION Bale Mon Perin @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_monperin01.m3u8:Bale Mon Perin plaža 201
-#DESCRIPTION Bale Mon Perin plaža 201 ##1610 OFF
+#DESCRIPTION Bale Mon Perin plaža 201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8:Bale Trg La Musa 403
 #DESCRIPTION Bale Trg La Musa 403
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_baskavoda5.m3u8:Baška Voda Borik 45
-#DESCRIPTION Baška Voda Borik 45
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_baskavoda5.m3u8:Baška Voda Borik 45 ##2110 OFF
+#DESCRIPTION Baška Voda Borik 45 ##2110 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_baskavoda4.m3u8:Baška Voda HD 44 @
 #DESCRIPTION Baška Voda HD 44 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_baskavoda3.m3u8:Baška Voda marina 13
 #DESCRIPTION Baška Voda marina 13
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_baskavoda2.m3u8:Baška Voda panorama 22
-#DESCRIPTION Baška Voda panorama 22 ##1610 OFF
+#DESCRIPTION Baška Voda panorama 22
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_baskavoda1.m3u8:Baška Voda plaža Nikolina 51
 #DESCRIPTION Baška Voda plaža Nikolina 51
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_baskavoda6.m3u8:Baška Voda plaža Podluka 46
 #DESCRIPTION Baška Voda plaža Podluka 46
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_promajna01.m3u8:Baška Voda Promajna 201
 #DESCRIPTION Baška Voda Promajna 201
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bednja01.m3u8:Bednja centar 401
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bednja01.m3u8:Bednja centar 401 ##1710 OFF
 #DESCRIPTION Bednja centar 401 ##1710 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_biograd1.m3u8:Biograd na Moru gradski trg 51
 #DESCRIPTION Biograd na Moru gradski trg 51
@@ -47,9 +47,9 @@
 #DESCRIPTION Cres Mali Lošinj Osor 401
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_mlosinj02.m3u8:Cres Mali Lošinj panorama 202 ##1409 OFF
 #DESCRIPTION Cres Mali Lošinj panorama 202 ##1409 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_mlosinj06.m3u8:Cres Mali Lošinj panorama Škverić 606
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_mlosinj06.m3u8:Cres Mali Lošinj panorama Škverić 606 ##1610 OFF
 #DESCRIPTION Cres Mali Lošinj panorama Škverić 606 ##1610 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_mlosinj08.m3u8:Mali Lošinj Riva lošinjskih kapetana i brodograditelja 308
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_mlosinj08.m3u8:Cres Mali Lošinj Riva lošinjskih kapetana i brodograditelja 308
 #DESCRIPTION Cres Mali Lošinj Riva lošinjskih kapetana i brodograditelja 308
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_mlosinj04.m3u8:Cres Mali Lošinj Sunčana uvala 504
 #DESCRIPTION Cres Mali Lošinj Sunčana uvala 504
@@ -115,10 +115,10 @@
 #DESCRIPTION Hvar Jelsa okretna 406 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_jelsa07.m3u8:Hvar Jelsa panoramski pogled 207
 #DESCRIPTION Hvar Jelsa panoramski pogled 207
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_vira01.m3u8:Hvar Vela Garška plaža Vira 701
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_vira01.m3u8:Hvar Vela Garška plaža Vira 701 ##1410 OFF
 #DESCRIPTION Hvar Vela Garška plaža Vira 701 ##1410 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_vrboska02.m3u8:Hvar Vrboska ACI marina 702 @ ##2409 OFF
-#DESCRIPTION Hvar Vrboska ACI marina 702 @ ##2409 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_vrboska02.m3u8:Hvar Vrboska ACI marina 702 @
+#DESCRIPTION Hvar Vrboska ACI marina 702 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_igrane1.m3u8:Igrane panorama 61
 #DESCRIPTION Igrane panorama 61
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_igrane3.m3u8:Igrane plaža 73
@@ -129,7 +129,7 @@
 #DESCRIPTION Kapela muzej 401
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kapela02.m3u8:Kapela panorama 202
 #DESCRIPTION Kapela panorama 202
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_karlovac3.m3u8:Karlovac Kupalište Foginovo Korana 43 ##0710 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_karlovac3.m3u8:Karlovac Kupalište Foginovo Korana 43
 #DESCRIPTION Karlovac Kupalište Foginovo Korana 43
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_karlovac2.m3u8:Karlovac Paviljon 22 ##0809 OFF
 #DESCRIPTION Karlovac Paviljon 22 ##0809 OFF
@@ -144,14 +144,14 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_lumbarda01.m3u8:Korčula plaža Prvi Žal Lumbarda 501
 #DESCRIPTION Korčula plaža Prvi Žal Lumbarda 501
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_racisce01.m3u8:Korčula Račišće 401
-#DESCRIPTION Korčula Račišće 401 ##1710 OFF
+#DESCRIPTION Korčula Račišće 401
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_korc3.m3u8:Korčula Tri Žala 53
 #DESCRIPTION Korčula Tri Žala 53
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_vluka01.m3u8:Korčula Vela Luka 601
 #DESCRIPTION Korčula Vela Luka 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_korcula.m3u8:Korčula Veliki Revelin 10
 #DESCRIPTION Korčula Veliki Revelin 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_kraljevica01.m3u8:Kraljevica 801 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_kraljevica01.m3u8:Kraljevica 801 @ ##2210 OFF
 #DESCRIPTION Kraljevica 801 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_krapina01.m3u8:Krapina 101
 #DESCRIPTION Krapina 101
@@ -175,7 +175,7 @@
 #DESCRIPTION Lopar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_makarska02.m3u8:Makarska panoramska 102 @
 #DESCRIPTION Makarska panoramska 102 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_makarskariva02.m3u8:Makarska Plaža Donja Luka 302
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_makarskariva02.m3u8:Makarska Plaža Donja Luka 302 ##2210 OFF
 #DESCRIPTION Makarska Plaža Donja Luka 302
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_makarskariva01.m3u8:Makarska Riva 201
 #DESCRIPTION Makarska Riva 201
@@ -195,7 +195,7 @@
 #DESCRIPTION Murter marina Nautika 601 ##1209 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_nasice01.m3u8:Našice 701
 #DESCRIPTION Našice 701
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_nin.m3u8:Nin plaža pokojnog jajca 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_nin.m3u8:Nin plaža pokojnog jajca 40 ##1410 OFF
 #DESCRIPTION Nin plaža pokojnog jajca 40 ##1410 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_nin02.m3u8:Nin Spomenik knezu Branimiru 602
 #DESCRIPTION Nin Spomenik knezu Branimiru 602
@@ -219,7 +219,7 @@
 #DESCRIPTION Novigrad Fešta svetog Pelagija 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_novigrad1.m3u8:Novigrad Mandrač 41
 #DESCRIPTION Novigrad Mandrač 41
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_novigrad4.m3u8:Novigrad plaža Karpinjan 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_novigrad4.m3u8:Novigrad plaža Karpinjan 24 ##2210 OFF
 #DESCRIPTION Novigrad plaža Karpinjan 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_novigrad2.m3u8:Novigrad Veliki Trg 12
 #DESCRIPTION Novigrad Veliki Trg 12
@@ -271,8 +271,8 @@
 #DESCRIPTION Opatija Mošćenička Draga pogled na lučicu i Sipar 401
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Advent_Opatija2/Advent_Opatija2.stream/playlist.m3u8:Opatija Park Angiolina muzički paviljon
 #DESCRIPTION Opatija Park Angiolina muzički paviljon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Ucka_Poklon/Ucka_Poklon.stream/playlist.m3u8:Opatija Poklon Učka @
-#DESCRIPTION Opatija Poklon Učka @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Ucka_Poklon/Ucka_Poklon.stream/playlist.m3u8:Opatija Poklon Učka @ ##2210 OFF
+#DESCRIPTION Opatija Poklon Učka @ ##2210 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Preluk/Preluk.stream/playlist.m3u8:Opatija Preluk Ribolovno društvo @
 #DESCRIPTION Opatija Preluk Ribolovno društvo @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Slatina_Palace/Slatina_Palace.stream/playlist.m3u8:Opatija Slatina hotel Palace Bellevue
@@ -296,7 +296,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Preluk/Preluk.stream/chunklist.m3u8:Opatija Volosko Preluk privezište @
 #DESCRIPTION Opatija Volosko Preluk privezište @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_opuzen1.m3u8:Opuzen - Neretva 51
-#DESCRIPTION Opuzen - Neretva 51
+#DESCRIPTION Opuzen - Neretva 51 ##2310 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_orebic01.m3u8:Orebić riva, trajekt za Korčulu 701
 #DESCRIPTION Orebić riva, trajekt za Korčulu 701
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_otok01.m3u8:Otok kod Sinja 601 @
@@ -313,13 +313,13 @@
 #DESCRIPTION Pag Kolan 202
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_pag03.m3u8:Pag lučica 103
 #DESCRIPTION Pag lučica 103
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mandre1.m3u8:Pag Mandre Kolan 71
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mandre1.m3u8:Pag Mandre Kolan 71 ##1610 OFF
 #DESCRIPTION Pag Mandre Kolan 71 ##1610 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_mandre2.m3u8:Pag Mandre Villa Violeta 32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_mandre2.m3u8:Pag Mandre Villa Violeta 32 ##2210 OFF
 #DESCRIPTION Pag Mandre Villa Violeta 32
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_metajna01.m3u8:Pag Metajna Riva 601
 #DESCRIPTION Pag Metajna Riva 601
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_nov8.m3u8:Pag Novalja Ruža Vjetrova 38 @ ##0710 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_nov8.m3u8:Pag Novalja Ruža Vjetrova 38 @
 #DESCRIPTION Pag Novalja Ruža Vjetrova 38 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_novalja.m3u8:Pag Novalja Slastičarna 20
 #DESCRIPTION Pag Novalja Slastičarna 20
@@ -356,11 +356,11 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_tkon04.m3u8:Pašman Tkon Trajekt 704
 #DESCRIPTION Pašman Tkon Trajekt 704
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_viganj1.m3u8:Pelješac Viganj 21
-#DESCRIPTION Pelješac Viganj 21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_viganj2.m3u8:Pelješac Viganj panorama 62
-#DESCRIPTION Pelješac Viganj panorama 62
+#DESCRIPTION Pelješac Viganj 21 ##2310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_viganj2.m3u8:Pelješac Viganj panorama 62 ##2210 OFF
+#DESCRIPTION Pelješac Viganj panorama 62 ##2210 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_viganj4.m3u8:Pelješac Viganj Surf plaža 44
-#DESCRIPTION Pelješac Viganj Surf plaža 44
+#DESCRIPTION Pelješac Viganj Surf plaža 44 ##2310 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_buildpetrinja03.m3u8:Petrinja Gradski park 403
 #DESCRIPTION Petrinja Gradski park 403
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_buildpetrinja01.m3u8:Petrinja Srednja škola 101
@@ -375,7 +375,7 @@
 #DESCRIPTION Platak Radeševo dno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevoVrh/PlatakRadesevoVrh.stream/playlist.m3u8:Platak Radeševo vrh
 #DESCRIPTION Platak Radeševo vrh
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/de/webcam/hrvatska/licko-senjska-zupanija/plitvicka-jezera/plitvice-lakes-national-park.html:Plitvice @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/de/webcam/hrvatska/licko-senjska-zupanija/plitvicka-jezera/plitvice-lakes-national-park.html:Plitvice
 #DESCRIPTION Plitvice
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_ploce02.m3u8:Ploče Sportski centar Močvara 202
 #DESCRIPTION Ploče Sportski centar Močvara 202
@@ -411,11 +411,11 @@
 #DESCRIPTION Rab Trg Sv. Kristofora 402
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_rakovica01.m3u8:Rakovica 601 @ ##1809 OFF
 #DESCRIPTION Rakovica 601 @ ##1809 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_ribotel01.m3u8:Rijeka Botel 101 ##2309 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_ribotel01.m3u8:Rijeka Botel 101
 #DESCRIPTION Rijeka Botel 101
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_rijeka03.m3u8:Rijeka Gradski toranj Korzo 403
 #DESCRIPTION Rijeka Gradski toranj Korzo 403
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_grobnik01.m3u8:Rijeka Grobnik 601 ##0710 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_grobnik01.m3u8:Rijeka Grobnik 601
 #DESCRIPTION Rijeka Grobnik 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_rekajadranskitrg.m3u8:Rijeka Korzo Jadranski trg 50
 #DESCRIPTION Rijeka Korzo Jadranski trg 50
@@ -463,7 +463,7 @@
 #DESCRIPTION Rijeka Ul Ivana Zajca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Kolodvor/RiProm_Kolodvor.stream/chunklist.m3u8:Rijeka Žabica autobusni kolodvor
 #DESCRIPTION Rijeka Žabica autobusni kolodvor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/cabar/nacionalni-park-risnjak.html:Risnjak ##0710 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/cabar/nacionalni-park-risnjak.html:Risnjak
 #DESCRIPTION Risnjak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/rogoznica/rogoznica.html:Rogoznica
 #DESCRIPTION Rogoznica
@@ -487,19 +487,19 @@
 #DESCRIPTION Selce
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_selce5.m3u8:Selce centar novouređeni trg 15
 #DESCRIPTION Selce centar novouređeni trg 15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_selce1.m3u8:Selce Plaža Ronilački centar Mihurić 41 ##0710 OFF
-#DESCRIPTION Selce Plaža Ronilački centar Mihurić 41 ##0710 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_selce1.m3u8:Selce Plaža Ronilački centar Mihurić 31
+#DESCRIPTION Selce Plaža Ronilački centar Mihurić 31
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_senj04.m3u8:Senj centar Pavlinski trg 604
 #DESCRIPTION Senj centar Pavlinski trg 604
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_senj03.m3u8:Senj centar riva 703
 #DESCRIPTION Senj centar riva 703
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_raca02.m3u8:Senj Jadranska magistrala D8 uživo 202
-#DESCRIPTION Senj Jadranska magistrala D8 uživo 202 ##1610 OFF
+#DESCRIPTION Senj Jadranska magistrala D8 uživo 202 ##2310 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_raca01.m3u8:Senj Kamp Rača 201 ##2209 OFF
 #DESCRIPTION Senj Kamp Rača 201 ##2209 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_senj05.m3u8:Senj Nehaj plaža 705 @
 #DESCRIPTION Senj Nehaj plaža 705 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_senj01.m3u8:Senj Riva 201 ##0710 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_senj01.m3u8:Senj Riva 201
 #DESCRIPTION Senj Riva 201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_senj02.m3u8:Senj Ulaz u Senj rotor 802
 #DESCRIPTION Senj Ulaz u Senj rotor 802
@@ -509,15 +509,15 @@
 #DESCRIPTION Sisak šetnica uz Kupu 402
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_skrad01.m3u8:Skrad Zeleni Vir 301
 #DESCRIPTION Skrad Zeleni Vir 301
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_slano01.m3u8:Slano 401
-#DESCRIPTION Slano 401 ##1610 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_slano01.m3u8:Slano 401 ##2210 OFF
+#DESCRIPTION Slano 401
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_slano02.m3u8:Slano riva Trg hrvatskih velikana 402
 #DESCRIPTION Slano riva Trg hrvatskih velikana 402
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_split06.m3u8:Split HD panorama 206 @
 #DESCRIPTION Split HD panorama 206 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_kastel1.m3u8:Split Marina Kaštela 61
 #DESCRIPTION Split Marina Kaštela 61
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_split.m3u8:Split Matejuška 70
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_split.m3u8:Split Matejuška 70 ##2010 OFF
 #DESCRIPTION Split Matejuška 70
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska/split/pjaca-split.html:Split Pjaca
 #DESCRIPTION Split Pjaca
@@ -527,8 +527,8 @@
 #DESCRIPTION Split Prokurative Riva 607 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_split04.m3u8:Split Riva Hrvatskog preporoda 404
 #DESCRIPTION Split Riva Hrvatskog preporoda 404
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_buildznjan02.m3u8:Split Žnjan 202
-#DESCRIPTION Split Žnjan 202 ##1610 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_buildznjan02.m3u8:Split Žnjan 702 ##2210 OFF
+#DESCRIPTION Split Žnjan 702
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildznjan01.m3u8:Split Žnjan 601
 #DESCRIPTION Split Žnjan 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_svfjakov01.m3u8:Sveti Filip i Jakov 401 @
@@ -560,7 +560,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream2.envoguebeachclub.com/index.m3u8:Trogir Belvedere panorama
 #DESCRIPTION Trogir Belvedere panorama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_trogir01.m3u8:Trogir Katedrala sv. Lovre 501
-#DESCRIPTION Trogir Katedrala sv. Lovre 501
+#DESCRIPTION Trogir Katedrala sv. Lovre 501 ##2310 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildtrogir01.m3u8:Trogir stari čiovski most 601
 #DESCRIPTION Trogir stari čiovski most 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_ugljan01.m3u8:Ugljan Preko trajekt 601
@@ -622,19 +622,19 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_buildzagreb20.m3u8:Zagreb KLARA home by NOVI KVADRAT 220 ##0710 OFF
 #DESCRIPTION Zagreb KLARA home by NOVI KVADRAT 220 ##0710 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kuglanazg1.m3u8:Zagreb Kuglana 21
-#DESCRIPTION Zagreb Kuglana 21 ##1610 OFF
+#DESCRIPTION Zagreb Kuglana 21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zgmaksimir01.m3u8:Zagreb Maksimir pogled s Vidikovca 601
 #DESCRIPTION Zagreb Maksimir pogled s Vidikovca 601
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zagreb6.m3u8:Zagreb Manduševac Johann Franck 66
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zagreb6.m3u8:Zagreb Manduševac Johann Franck 66 ##1710 OFF
 #DESCRIPTION Zagreb Manduševac Johann Franck 66 ##1710 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zgzoo02.m3u8:Zagreb Morski Lav ZOO 202
-#DESCRIPTION Zagreb Morski Lav ZOO 202 ##1610 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_zgzoo02.m3u8:Zagreb Morski Lav ZOO 702
+#DESCRIPTION Zagreb Morski Lav ZOO 702
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_zagreb5.m3u8:Zagreb Panoramski pogled Vrapče 15 @
 #DESCRIPTION Zagreb Panoramski pogled Vrapče 15 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_zagrebpetlja01.m3u8:Zagreb Petlja Držićeva 501
 #DESCRIPTION Zagreb Petlja Držićeva 501
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_buildzagreb22.m3u8:Zagreb Siget 222
-#DESCRIPTION Zagreb Siget 222 ##1610 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_buildzagreb22.m3u8:Zagreb Siget 722
+#DESCRIPTION Zagreb Siget 722
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zgvzpenjaca.m3u8:Zagreb Uspinjača 20
 #DESCRIPTION Zagreb Uspinjača 20
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_sljeme1.m3u8:Zagreb Sljeme 21
@@ -651,8 +651,8 @@
 #DESCRIPTION Živogošće Blato marina 40
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zivogosce.m3u8:Živogošće Lučica 20
 #DESCRIPTION Živogošće Lučica 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_zivogosce02.m3u8:Živogošće Mala Duba plaža 402
-#DESCRIPTION Živogošće Mala Duba plaža 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_zivogosce02.m3u8:Živogošće Mala Duba plaža 402 ##2210 OFF
+#DESCRIPTION Živogošće Mala Duba plaža 402 ##2210 OFF
 #SERVICE 1:64:2:0:0:0:0:0:0:0::=== Croatia Highways ===
 #DESCRIPTION === Croatia Highways ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_azm07.m3u8:Đurmanec sjever A2 207
@@ -757,7 +757,7 @@
 #DESCRIPTION Trebević žičara @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/trebinje_cam.m3u8:Trebinje @
 #DESCRIPTION Trebinje @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/tuzla_cam.m3u8:Tuzla @ ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/tuzla_cam.m3u8:Tuzla @
 #DESCRIPTION Tuzla @
 #SERVICE 4097:0:1:6BE2:445F:EC:0:0:0:0:streamlink%3a//www.skylinewebcams.com/de/webcam/bosnia-and-herzegovina/republika-srpska/ugljevik/ugljevik.html:Ugljevik
 #DESCRIPTION Ugljevik
@@ -781,19 +781,19 @@
 #DESCRIPTION === Border crossings of North Macedonia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/bogorodica.m3u8:Bogorodica GP MK-GR
 #DESCRIPTION Bogorodica GP MK-GR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/deve_bair.m3u8:Deve Bair GP MK-BG ##2609 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/deve_bair.m3u8:Deve Bair GP MK-BG
 #DESCRIPTION Deve Bair GP MK-BG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/glumovo_1.m3u8:Glumovo NS TE-SK
 #DESCRIPTION Glumovo NS TE-SK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/glumovo_2.m3u8:Glumovo NS TE-SK
 #DESCRIPTION Glumovo NS TE-SK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/gostivar_1.m3u8:Gostivar NS TE-GV ##3009 OFF
-#DESCRIPTION Gostivar NS TE-GV ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/gostivar_1.m3u8:Gostivar NS TE-GV
+#DESCRIPTION Gostivar NS TE-GV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/gradsko_1.m3u8:Gradsko NS VE-GR
 #DESCRIPTION Gradsko NS VE-GR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/gradsko_2.m3u8:Gradsko NS GR-VE
 #DESCRIPTION Gradsko NS GR-VE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/kafasan.m3u8:Kafasan prema Albaniji
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/kafasan.m3u8:Kjafasan MK-SL
 #DESCRIPTION Kjafasan MK-SL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/medzitlija.m3u8:Меџитлија kod Bitola MK-GR
 #DESCRIPTION Меџитлија kod Bitola MK-GR
@@ -803,15 +803,15 @@
 #DESCRIPTION Otovica 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/petrovec_1.m3u8:Petrovec NS VE-SK
 #DESCRIPTION Petrovec NS VE-SK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.uzivokamere.com/presevo1/index.m3u8:Preševo Ulaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.uzivokamere.com/presevo1/index.m3u8:Preševo Ulaz ##1610 OFF
 #DESCRIPTION Preševo Ulaz ##1610 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.uzivokamere.com/presevo2/main_stream.m3u8:Preševo Izlaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.uzivokamere.com/presevo2/main_stream.m3u8:Preševo Izlaz ##1610 OFF
 #DESCRIPTION Preševo Izlaz ##1610 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/romanovce_4.m3u8:Romanovce 4
 #DESCRIPTION Romanovce 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/tabanovce.m3u8:Tabanovce GP MK-SRB
 #DESCRIPTION Tabanovce GP MK-SRB
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/tetovo_1.m3u8:Tetovo NS GV-TE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/tetovo_1.m3u8:Tetovo NS TE-GV
 #DESCRIPTION Tetovo NS TE-GV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming1.neotel.net.mk/stream/tetovo_2.m3u8:Tetovo NS GV-TE
 #DESCRIPTION Tetovo NS GV-TE
@@ -875,8 +875,8 @@
 #DESCRIPTION Kranjska Gora Plaža 43
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_kranjskagora8.m3u8:Kranjska Gora Skijalište 58 @
 #DESCRIPTION Kranjska Gora Skijalište 58 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_kranjskagora2.m3u81:Kranjska Gora Skijalište Mojca 22 ##2609 OFF
-#DESCRIPTION Kranjska Gora Skijalište Mojca 22 ##2609 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_kranjskagora2.m3u81:Kranjska Gora Skijalište Mojca 22 ##2110 OFF
+#DESCRIPTION Kranjska Gora Skijalište Mojca 22 ##2110 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_kranjskagora14.m3u8:Kranjska Gora Velika Dolina 714 @
 #DESCRIPTION Kranjska Gora Velika Dolina 714 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_kranjskagora10.m3u8:Kranjska Gora Vitranc 1 gornja postaja 710 @
@@ -932,7 +932,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_strunjan01.m3u8:Piran park Strunjan 301 @
 #DESCRIPTION Piran park Strunjan 301 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/slovenija/primorska/piran/trg-tartini.html:Piran Tartini Square
-#DESCRIPTION Piran Tartini Square ##1010 OFF
+#DESCRIPTION Piran Tartini Square
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_piran05.m3u8:Piran Villa Piranesi 205
 #DESCRIPTION Piran Villa Piranesi 205
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_rogla1.m3u8:Planja 31
@@ -965,8 +965,8 @@
 #DESCRIPTION Šempeter pri Gorici 702 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_bukovnik.m3u8:Šentjanž pri Dravogradu Skijalište Bukovnik 60
 #DESCRIPTION Šentjanž pri Dravogradu Skijalište Bukovnik 60
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_brda01.m3u8:Šmartno Brda Hotel San Martin 501 @
-#DESCRIPTION Šmartno Brda Hotel San Martin 501 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_brda01.m3u8:Šmartno Brda Hotel San Martin 501 @ ##2210 OFF
+#DESCRIPTION Šmartno Brda Hotel San Martin 501 @ ##2210 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_prazor01.m3u8:Tolmin Razor 601
 #DESCRIPTION Tolmin Razor 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-007.whatsupcams.com/hls/si_prazor02.m3u8:Tolmin Razor Planinarski dom 1.315m 702
@@ -1037,16 +1037,16 @@
 #DESCRIPTION Beograd Autoput Novi Beograd ~ Genex
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/bogoslovija.m3u8:Beograd Bogoslovija
 #DESCRIPTION Beograd Bogoslovija
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/brankov.m3u8:Beograd Brankov most ~ Terazijski tunel
-#DESCRIPTION Beograd Brankov most ~ Terazijski tunel ##1610 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/brankov.m3u8:Beograd Brankov most ~ Terazijski tunel ##1610 OFF
+#DESCRIPTION Beograd Brankov most ~ Terazijski tunel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/despotastefana.m3u8:Beograd Bulevar Despota Stefana
 #DESCRIPTION Beograd Bulevar Despota Stefana
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/pupina.m3u8:Beograd Bulevar Mihajla Pupina
 #DESCRIPTION Beograd Bulevar Mihajla Pupina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/ada.m3u8:Beograd Bulevar Milutina Milankovica ~ Most na Adi
 #DESCRIPTION Beograd Bulevar Milutina Milankovica ~ Most na Adi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/gagarina.m3u8:Beograd Jurija Gagarina
-#DESCRIPTION Beograd Jurija Gagarina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/gagarina.m3u8:Beograd Jurija Gagarina ##2010 OFF
+#DESCRIPTION Beograd Jurija Gagarin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/opstinanbg.m3u8:Beograd Kružni tok Novi Beograd ~ Opština NBG
 #DESCRIPTION Beograd Kružni tok Novi Beograd ~ Opština NBG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/gazela.m3u8:Beograd Most Gazela
@@ -1054,15 +1054,15 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/pancevac.m3u8:Beograd Pancevacki most
 #DESCRIPTION Beograd Pancevacki most
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/slavija.m3u8:Beograd Slavija
-#DESCRIPTION Beograd Slavija ##1610 OFF
+#DESCRIPTION Beograd Slavija
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/zeleznicka.m3u8:Beograd Stara železnicka stanica
 #DESCRIPTION Beograd Stara železnicka stanica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/takovska.m3u8:Beograd Takovska
 #DESCRIPTION Beograd Takovska
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/trgnikole.m3u8:Beograd Trg Nikole Pašica
-#DESCRIPTION Beograd Trg Nikole Pašica ##1610 OFF
+#DESCRIPTION Beograd Trg Nikole Pašica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/trgrepublike.m3u8:Beograd Trg Republike
-#DESCRIPTION Beograd Trg Republike ##1610 OFF
+#DESCRIPTION Beograd Trg Republike
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/vuk.m3u8:Beograd Vukov spomenik
 #DESCRIPTION Beograd Vukov spomenik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream5.infokop.net%3a1443/live_cameras/skituljko/playlist.m3u8:Kopaonik Bife Skituljko 1.794m @
@@ -1119,8 +1119,8 @@
 #DESCRIPTION Vrnjačka Banja Park
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/ptice/ptice.m3u8:Vrnjačka Banja Plato raspevanih kućica
 #DESCRIPTION Vrnjačka Banja Plato raspevanih kućica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/goc/goc.m3u8:Vrnjačka Banja Banja pogled sa Goča ##2609 OFF
-#DESCRIPTION Vrnjačka Banja Banja pogled sa Goča ##2609 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/goc/goc.m3u8:Vrnjačka Banja Banja pogled sa Goča
+#DESCRIPTION Vrnjačka Banja Banja pogled sa Goča
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/staza/staza.m3u8:Vrnjačka Banja staza ispod letnje pozornice
 #DESCRIPTION Vrnjačka Banja staza ispod letnje pozornice
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/trg/trg.m3u8:Vrnjačka Banja Trg
@@ -1174,7 +1174,7 @@
 #SERVICE 1:64:9:0:0:0:0:0:0:0::=== Albania ===
 #DESCRIPTION === Albania ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/albania/valona/valona/bestrove.html:Bestrovë - Vlorë
-#DESCRIPTION Bestrovë - Vlorë ##1710 OFF
+#DESCRIPTION Bestrovë - Vlorë
 #SERVICE 1:64:A:0:0:0:0:0:0:0::=== Argentina ===
 #DESCRIPTION === Argentina ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/argentina/provincia-de-mendoza/san-rafael/canon-del-atuel.html:Atuel Canyon @
@@ -1197,8 +1197,8 @@
 #DESCRIPTION 1 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera4.stream/chunklist.m3u8:3 @
 #DESCRIPTION 3 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera3.stream/chunklist.m3u8:5 @ ##1709 OFF
-#DESCRIPTION 5 @ ##1710 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera3.stream/chunklist.m3u8:5 @ ##2110 OFF
+#DESCRIPTION 5 @ ##2110 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3asteeg.stream/chunklist.m3u8:6
 #DESCRIPTION 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/austria/salzburg/altenmarkt-im-pongau/altenmarkt-im-pongau.html:Altenmarkt im Pongau
@@ -1241,13 +1241,13 @@
 #DESCRIPTION Lermoos - Austria
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//linz.it-wms.com/clip_current_720p.mp4:Linz-Donaulände @
 #DESCRIPTION Linz-Donaulände @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/austria/salzburg/obertauern/obertauern.html:Obertauern ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/austria/salzburg/obertauern/obertauern.html:Obertauern
 #DESCRIPTION Obertauern
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//schoeckl.it-wms.com/clip_current_720p.mp4:öckl @
 #DESCRIPTION öckl @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/austria/tyrol/kufstein/kufstein-panorama.html:Panorama of Kufstein
 #DESCRIPTION Panorama of Kufstein
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/14qraspe/2ipi4aoj.m3u8:Pfarrwerfen Das Eulersberg @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/14qraspe/2ipi4aoj.m3u8:Pfarrwerfen Das Eulersberg @ ##2110 OFF
 #DESCRIPTION Pfarrwerfen Das Eulersberg @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/austria/salzburg/radstadt/radstadt.html:Radstadt @
 #DESCRIPTION Radstadt @
@@ -1263,7 +1263,7 @@
 #DESCRIPTION Velden - Wörthersee
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/austria/vienna/vienna/kohlmarkt.html:Vienna - Kohlmarkt
 #DESCRIPTION Vienna - Kohlmarkt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//img.kbit.pro/vilavita/fmp4/livestream/index_1080p.m3u8:Vila Vita Pannonia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//img.kbit.pro/vilavita/fmp4/livestream/index_1080p.m3u8:Vila Vita Pannonia ##2110 OFF
 #DESCRIPTION Vila Vita Pannonia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//villach.it-wms.com/clip_current_720p.mp4:Villach-Draubrücke @
 #DESCRIPTION Villach-Draubrücke @
@@ -1282,21 +1282,21 @@
 #SERVICE 1:64:F:0:0:0:0:0:0:0::=== Bermuda ===
 #DESCRIPTION === Bermuda ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/bermuda/st-george-s-parish/st-george-s-parish/st-george-s-harbour.html:St. George's Harbour
-#DESCRIPTION St. George's Harbour ##1710 OFF
+#DESCRIPTION St. George's Harbour
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/bermuda/st-george-s-parish/st-george-s-parish/st-george-s-town-square-bermuda.html:St. George's Town Square
 #DESCRIPTION St. George's Town Square
 #SERVICE 1:64:10:0:0:0:0:0:0:0::=== Bolivia ===
 #DESCRIPTION === Bolivia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/bolivia/cercado/cochabamba/plaza-14-de-septiembre.html:Cochabamba
 #DESCRIPTION Cochabamba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/bolivia/manco-kapac/copacabana/lago-titicaca.html:Copacabana lago-titicaca ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/bolivia/manco-kapac/copacabana/lago-titicaca.html:Copacabana lago-titicaca
 #DESCRIPTION Copacabana lago-titicaca
 #SERVICE 1:64:11:0:0:0:0:0:0:0::=== Brazil ===
 #DESCRIPTION === Brazil ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8d73edc0407.streamlock.net/bnuip200/bnuip20003.stream/playlist.m3u8:1
-#DESCRIPTION 1 ##1610 OFF
+#DESCRIPTION 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b33b873179a2.streamlock.net%3a1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8:2
-#DESCRIPTION 2 ##1610 OFF
+#DESCRIPTION 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8d73edc0407.streamlock.net/bnuip20/bnuip2021.stream/playlist.m3u8:3
 #DESCRIPTION 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/playlist.m3u8:4
@@ -1325,17 +1325,17 @@
 #DESCRIPTION === Bulgaria ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/bulgaria/blagoevgrad/dobrinishte/pirin-mountains.html:Dobrinishte
 #DESCRIPTION Dobrinishte
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cams.pamporovo.me%3a1935/live/camera3.stream_720p/chunklist.m3u8:Dvata Mosta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cams.pamporovo.me%3a1935/live/camera3.stream_720p/chunklist.m3u8:Dvata Mosta ##2110 OFF
 #DESCRIPTION Dvata Mosta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.webcams.bg%3a8080/hls/hotel_rodopi.m3u8:Hotel Rodopi ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn1.webcams.bg%3a8080/hls/hotel_rodopi.m3u8:Hotel Rodopi ##2110 OFF
 #DESCRIPTION Hotel Rodopi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//office.dimitrovgrad.ddns.bulsat.com%3a82/livecam/media/kula-haskovo/output.m3u8:Kula-haskovo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//office.dimitrovgrad.ddns.bulsat.com%3a82/livecam/media/kula-haskovo/output.m3u8:Kula-haskovo ##2110 OFF
 #DESCRIPTION Kula-haskovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cams.pamporovo.me%3a1935/live/camera5.stream_720p/chunklist.m3u8:Meči Čal ##3009 OFF
-#DESCRIPTION Meči Čal ##3009 OFF
+#DESCRIPTION Meči Čal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer103.neterra.tv/radiovidin/live.m3u8:Radio Vidin
 #DESCRIPTION Radio Vidin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cams.pamporovo.me%3a1935/live/camera1.stream_720p/playlist.m3u8:Studenac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cams.pamporovo.me%3a1935/live/camera1.stream_720p/playlist.m3u8:Studenac ##2110 OFF
 #DESCRIPTION Studenac
 #SERVICE 1:64:13:0:0:0:0:0:0:0::=== Canada ===
 #DESCRIPTION === Canada ===
@@ -1347,8 +1347,8 @@
 #DESCRIPTION Campbell River - Discovery Pier
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.gpei.ca/islandcam/guild.stream/playlist.m3u8:Charlottetown
 #DESCRIPTION Charlottetown
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/canada/new-brunswick/fundy-st-martins/orange-hill.html:St. Martins Sea Caves - Orange Hill ##3009 OFF
-#DESCRIPTION St. Martins Sea Caves - Orange Hill ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/canada/new-brunswick/fundy-st-martins/orange-hill.html:St. Martins Sea Caves - Orange Hill
+#DESCRIPTION St. Martins Sea Caves - Orange Hill
 #SERVICE 1:64:14:0:0:0:0:0:0:0::=== Caribbean Netherlands ===
 #DESCRIPTION === Caribbean Netherlands ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/caribbean-netherlands/bonaire/kralendijk/bonaire.html:Bonaire - Kralendijk
@@ -1357,7 +1357,7 @@
 #DESCRIPTION === Chile ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/chile/valparaiso/algarrobo/algarrobo-chile.html:Algarrobo - San Antonio
 #DESCRIPTION Algarrobo - San Antonio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/chile/valparaiso/algarrobo/islote-pajaros-ninos.html
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/chile/valparaiso/algarrobo/islote-pajaros-ninos.html:Algarrobo - Valparaiso
 #DESCRIPTION Algarrobo - Valparaiso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/chile/valparaiso/easter-island/easter-island.html:Easter Island
 #DESCRIPTION Easter Island
@@ -1368,7 +1368,7 @@
 #SERVICE 1:64:16:0:0:0:0:0:0:0::=== China ===
 #DESCRIPTION === China ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/china/shandong/qingdao/panorama-of-qingdao.html:Downtown Qingdao
-#DESCRIPTION Downtown Qingdao ##1710 OFF
+#DESCRIPTION Downtown Qingdao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/china/shandong/qingdao/qingdao.html:Qingdao
 #DESCRIPTION Qingdao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/china/shanghai/shanghai/skyline-of-shanghai.html:Shanghai @
@@ -1397,51 +1397,51 @@
 #DESCRIPTION Larnaca seafront
 #SERVICE 1:64:19:0:0:0:0:0:0:0::=== Czech ===
 #DESCRIPTION === Czech ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/roznov.m3u8:1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/roznov.m3u8:1 ##2110 OFF
 #DESCRIPTION 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/eroplan.m3u8:2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/eroplan.m3u8:2 ##2110 OFF
 #DESCRIPTION 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8082/hls/live.stream.m3u8:4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8082/hls/live.stream.m3u8:4 ##2110 OFF
 #DESCRIPTION 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8090/hls/live.stream.m3u8:6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8090/hls/live.stream.m3u8:6 ##2110 OFF
 #DESCRIPTION 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8091/hls/live.stream.m3u8:7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8091/hls/live.stream.m3u8:7 ##2110 OFF
 #DESCRIPTION 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.mycrony.cz/webcam/miniareal.m3u8:8
 #DESCRIPTION 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kamery2.wolfnet.cz/andelka2.m3u8:9
 #DESCRIPTION 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kamery2.wolfnet.cz/ZS_Nejdek.m3u8:10 ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kamery2.wolfnet.cz/ZS_Nejdek.m3u8:10
 #DESCRIPTION 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/DBecva.m3u8:11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/DBecva.m3u8:11 ##2110 OFF
 #DESCRIPTION 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/raliska.m3u8:12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/raliska.m3u8:12 ##2110 OFF
 #DESCRIPTION 12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kamery2.wolfnet.cz/bozi_vyhlidka1.m3u8:13
 #DESCRIPTION 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/hutisko.m3u8:14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/hutisko.m3u8:14 ##2110 OFF
 #DESCRIPTION 14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/raliska2.m3u8:15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/raliska2.m3u8:15 ##2110 OFF
 #DESCRIPTION 15
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kamery2.wolfnet.cz/bozi_vyhlidka2.m3u8:16 @
 #DESCRIPTION 16 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/DbecvaK.m3u8:17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/DbecvaK.m3u8:17 ##2110 OFF
 #DESCRIPTION 17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/planespotting/playlist.m3u8:Аэропорт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/planespotting/playlist.m3u8:Аэропорт ##2110 OFF
 #DESCRIPTION Аэропорт
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/hrosi/playlist.m3u8:Бегемоты
 #DESCRIPTION Бегемоты
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.silesnet.net/webcams/jablunkov.m3u8:Jablunkov
 #DESCRIPTION Jablunkov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/prague.html:Prague
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/prague.html:Prague ##2110 OFF
 #DESCRIPTION Prague
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/amc/playlist.m3u8:Prague
 #DESCRIPTION Prague
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/old-town.html:Prague - Old Town
 #DESCRIPTION Prague - Old Town
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vrsovice/playlist.m3u8:Ж/д вокзал Вршовице
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vrsovice/playlist.m3u8:Ж/д вокзал Вршовице ##2110 OFF
 #DESCRIPTION Ж/д вокзал Вршовице
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vytopna/playlist.m3u8:Ж/д вокзал Смихов
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vytopna/playlist.m3u8:Ж/д вокзал Смихов ##2110 OFF
 #DESCRIPTION Ж/д вокзал Смихов
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/kralovstvizeleznic/playlist.m3u8:Ж/д королевство
 #DESCRIPTION Ж/д королевство
@@ -1453,8 +1453,8 @@
 #DESCRIPTION Storebaelt 2
 #SERVICE 1:64:1B:0:0:0:0:0:0:0::=== Ecuador ===
 #DESCRIPTION === Ecuador ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/montanita.html:Beach of Montañita ##3009 OFF
-#DESCRIPTION Beach of Montañita ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/montanita.html:Beach of Montañita
+#DESCRIPTION Beach of Montañita
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/ayangue-beach.html:Ecuador - Ayangue Beach
 #DESCRIPTION Ecuador - Ayangue Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ecuador/galapagos/santa-cruz-island/galapagos-ecuador.html:Galápagos Islands
@@ -1511,17 +1511,17 @@
 #DESCRIPTION Hereford - High Town
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Hythe_22835/tracks-v1a1/mono.m3u8:Hythe
 #DESCRIPTION Hythe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.16.164.68%3a80/SVR-Kidderminster-C2_094871/index.m3u8:Kidderminster 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.16.164.68%3a80/SVR-Kidderminster-C2_094871/index.m3u8:Kidderminster 2 ##1710 OFF
 #DESCRIPTION Kidderminster 2 ##1710 OFF
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:streamlink%3a//videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/.m3u8:London - Abbey Road
 #DESCRIPTION London - Abbey Road
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a80/Minehead_05286/tracks-v1a1/mono.m3u8:Minehead Station
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a80/Minehead_05286/tracks-v1a1/mono.m3u8:Minehead Station ##1710 OFF
 #DESCRIPTION Minehead Station ##1710 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-kingdom/england/hereford/old-wye-bridge-hereford.html:Old Wye Bridge - Hereford
 #DESCRIPTION Old Wye Bridge - Hereford
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a8080/BlueAnchor_68938/tracks-v1/mono.m3u8:Railcam Blue Anchor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a8080/BlueAnchor_68938/tracks-v1/mono.m3u8:Railcam Blue Anchor ##1710 OFF
 #DESCRIPTION Railcam Blue Anchor ##1710 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a8080/Minehead2_43582/tracks-v1/mono.m3u8:Railcam Minehead 2 - Seaward way crossing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a8080/Minehead2_43582/tracks-v1/mono.m3u8:Railcam Minehead 2 - Seaward way crossing ##1710 OFF
 #DESCRIPTION Railcam Minehead 2 - Seaward way crossing ##1710 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Ribblehead_Viaduct/tracks-v1a1/mono.m3u8:Ribblehead
 #DESCRIPTION Ribblehead
@@ -1529,7 +1529,7 @@
 #DESCRIPTION Sagress Holidays
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Shrewsbury_10933/tracks-v1a1/mono.m3u8:Shrewsbury
 #DESCRIPTION Shrewsbury
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-kingdom/england/st-ives/st-ives.html:St. Ives Live ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-kingdom/england/st-ives/st-ives.html:St. Ives Live
 #DESCRIPTION St. Ives Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-kingdom/england/st-ives/porthmeor-beach.html:St. Ives - Porthmeor Beach @
 #DESCRIPTION St. Ives - Porthmeor Beach @
@@ -1545,8 +1545,8 @@
 #DESCRIPTION Williton Station ##3009 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Williton2_84721/tracks-v1a1/mono.m3u8:Williton Station 2 ##3009 OFF
 #DESCRIPTION Williton Station 2 ##3009 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.wildlifestreaming.io%3a1935/Marwell/marwell_flamingo.stream/playlist.m3u8:Фламинго
-#DESCRIPTION Фламинго ##1710 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.wildlifestreaming.io%3a1935/Marwell/marwell_flamingo.stream/playlist.m3u8:Фламинго ##1710 OFF
+#DESCRIPTION Фламинго
 #SERVICE 1:64:1E:0:0:0:0:0:0:0::=== Egypt ===
 #DESCRIPTION === Egypt ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/egypt/cairo/cairo/great-pyramid-of-giza.html:Great Pyramid of Giza - Cairo
@@ -1615,7 +1615,7 @@
 #DESCRIPTION Agios Nikolaos - Schisma Eloundas Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/agios-stefanos-avliotes.html:Agios Stefanos Avliotes - Corfu
 #DESCRIPTION Agios Stefanos Avliotes - Corfu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/old-port-of-rhodes.html:Entrance to the Old Port of Rhodes @ ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/old-port-of-rhodes.html:Entrance to the Old Port of Rhodes @
 #DESCRIPTION Entrance to the Old Port of Rhodes @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/peloponnese/patras/beach.html:EOT Plaz Beach - Patras
 #DESCRIPTION EOT Plaz Beach - Patras
@@ -1643,7 +1643,7 @@
 #DESCRIPTION Kalathi Kalamata NE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/kanoni-corfu-airstrip.html:Kanoni - Corfu Airstrip
 #DESCRIPTION Kanoni - Corfu Airstrip
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/thessalia/larissa/kato-sotiritsa.html:Kato Sotiritsa ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/thessalia/larissa/kato-sotiritsa.html:Kato Sotiritsa
 #DESCRIPTION Kato Sotiritsa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/crete/lasithi/mount-dikti.html:Lasithi - Mount Dikti
 #DESCRIPTION Lasithi - Mount Dikti
@@ -1739,10 +1739,10 @@
 #DESCRIPTION Syros - Miaouli Square
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/atiki/athina/acropolis-athens.html:The legendary Acropolis - Athens
 #DESCRIPTION The legendary Acropolis - Athens
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a/www.skylinewebcams.com/en/webcam/ellada/makedonia/thessaloniki/thessaloniki.html:Thessaloniki ##3009 OFF
-#DESCRIPTION Thessaloniki ##3009 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/makedonia/thessaloniki/old-port.html:Thessaloniki - Old Port and Eleftherias Square ##3009 OFF
-#DESCRIPTION Thessaloniki - Old Port and Eleftherias Square ##3009 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a/www.skylinewebcams.com/en/webcam/ellada/makedonia/thessaloniki/thessaloniki.html:Thessaloniki
+#DESCRIPTION Thessaloniki
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/makedonia/thessaloniki/old-port.html:Thessaloniki - Old Port and Eleftherias Square
+#DESCRIPTION Thessaloniki - Old Port and Eleftherias Square
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/peloponnese/arcadia/tyros.html:Tyros - Arcadia
 #DESCRIPTION Tyros - Arcadia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/ellada/crete/lasithi/vai-beach.html:Vai Beach - Crete
@@ -1795,8 +1795,8 @@
 #DESCRIPTION Berlin Fürstenwalder Damm @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cam01.binz-kabel.de/cam1/960.m3u8:Binz Strand @
 #DESCRIPTION Binz Strand @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/47cgvfy9/lf55bibu.m3u8:Blomberg-Cappel Huxoll ##2609 OFF
-#DESCRIPTION Blomberg-Cappel Huxoll ##2609 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/47cgvfy9/lf55bibu.m3u8:Blomberg-Cappel Huxoll
+#DESCRIPTION Blomberg-Cappel Huxoll
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//osltv.stream24.net/osltv4/_definst_/mp4%3aboltenhagen.stream/playlist.m3u8:Boltenhagen @
 #DESCRIPTION Boltenhagen @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8:Bonn Aerodrom 1
@@ -1809,8 +1809,8 @@
 #DESCRIPTION Borkum Strandstraße @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/jieh1q7f/1257o3y4.m3u8:Borkum Viktoriastraße @
 #DESCRIPTION Borkum Viktoriastraße @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/yoobmx27/yh6bdfty.m3u8:Borkum Von-Frese-Straße @ ##2609 OFF
-#DESCRIPTION Borkum Von-Frese-Straße @ ##2609 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/yoobmx27/yh6bdfty.m3u8:Borkum Von-Frese-Straße @
+#DESCRIPTION Borkum Von-Frese-Straße @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/tf3h0sjr/jsw1bmyz.m3u8:Brandenburg an der Havel @
 #DESCRIPTION Brandenburg an der Havel @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/mf9kvse7/c2qumtqb.m3u8:Braunsbedra Hafenplatz
@@ -1923,8 +1923,8 @@
 #DESCRIPTION Juist Inselgemeinde Juist @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f27cc8163c2e.streamlock.net/691/691.stream/playlist.m3u8:Kaisersesch Koblenzerstraße @
 #DESCRIPTION Kaisersesch Koblenzerstraße @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.m3u8:Kampen Quermarkenfeuer @ ##2609 OFF
-#DESCRIPTION Kampen Quermarkenfeuer @ ##2609 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.m3u8:Kampen Quermarkenfeuer @
+#DESCRIPTION Kampen Quermarkenfeuer @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv-streaming-02.nordwind-ev.de/hls/kellenhusen.m3u8:Kellenhusen Ostseebad @
 #DESCRIPTION Kellenhusen Ostseebad @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/vjy83fee/vgiy5566.m3u8:Kiel Deichweg @
@@ -2035,11 +2035,11 @@
 #DESCRIPTION Straßlach Tölzer Straße @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/drgf25ku/y7g742o6.m3u8:Stuttgart @
 #DESCRIPTION Stuttgart @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/bgh4pz4b/2ux5cw8z.m3u8:Sylt Leuchtturm Hörnum @ ##2609 OFF
-#DESCRIPTION Sylt Leuchtturm Hörnum @ ##2609 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/bgh4pz4b/2ux5cw8z.m3u8:Sylt Leuchtturm Hörnum @
+#DESCRIPTION Sylt Leuchtturm Hörnum @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/i1o4wihi/ssu52skh.m3u8:Sylt Tinnum @
 #DESCRIPTION Sylt Tinnum @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/4b7r3v86/xhn7c8l2.m3u8:Sylt Westerland @ ##0210 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/4b7r3v86/xhn7c8l2.m3u8:Sylt Westerland @
 #DESCRIPTION Sylt Westerland @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/deutschland/sachsen-anhalt/oberharz-am-brocken/tanne-im-harz.html:Tanne im Harz
 #DESCRIPTION Tanne im Harz
@@ -2081,8 +2081,8 @@
 #DESCRIPTION West End Beach - Roatán
 #SERVICE 1:64:26:0:0:0:0:0:0:0::=== Hungary ===
 #DESCRIPTION === Hungary ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront44.lexanetwork.com%3a1344/freerelay/keszthelyivcam.sdp/chunks.m3u8:2
-#DESCRIPTION 2 ##1610 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront44.lexanetwork.com%3a1344/freerelay/keszthelyivcam.sdp/chunks.m3u8:2 ##1610 OFF
+#DESCRIPTION 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//597898896a88d.streamlock.net/live/D1517508.stream/chunklist.m3u8:3
 #DESCRIPTION 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mms.iptv.unideb.hu/ipcam/ipcam.sport.stream/playlist.m3u8:Debrecen Universiteitsplein
@@ -2149,8 +2149,8 @@
 #DESCRIPTION Beach of Tirrenia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/liguria/genova/spiaggia-di-zoagli.html:Beach of Zoagli
 #DESCRIPTION Beach of Zoagli
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/bellaria-igea-marina.html:Bellaria-Igea Marina ##0310 OFF
-#DESCRIPTION Bellaria-Igea Marina ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/bellaria-igea-marina.html:Bellaria-Igea Marina
+#DESCRIPTION Bellaria-Igea Marina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_bibione16.m3u8:Bibione Plaža @ ##0310 OFF
 #DESCRIPTION Bibione Plaža @ ##0310 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/emilia-romagna/bologna/bologna-torre-degli-asinelli.html:Bologna - Asinelli Tower and Garisenda Tower
@@ -2161,7 +2161,7 @@
 #DESCRIPTION Bordighera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/veneto/verona/bosco-chiesanuova.html:Bosco Chiesanuova - Verona
 #DESCRIPTION Bosco Chiesanuova - Verona
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/liguria/genova/camogli.html:Camogli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/liguria/genova/camogli.html:Camogli ##1010 OFF
 #DESCRIPTION Camogli ##1010 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/lazio/roma/campo-de-fiori.html:Campo de' Fiori - Rome
 #DESCRIPTION Campo de' Fiori - Rome
@@ -2177,7 +2177,7 @@
 #DESCRIPTION Caorle beach @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/capo-vaticano-spiaggia-grotticelle.html:Capo Vaticano - Grotticelle Beach @ ##2609 OFF
 #DESCRIPTION Capo Vaticano - Grotticelle Beach @ ##2609 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/capo-vaticano.html:Capo Vaticano @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/capo-vaticano.html:Capo Vaticano @ ##1010 OFF
 #DESCRIPTION Capo Vaticano @ ##1010 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/calabria/catanzaro/catanzaro-lido.html:Catanzaro Lido
 #DESCRIPTION Catanzaro Lido
@@ -2223,7 +2223,7 @@
 #DESCRIPTION Fano - Piazza XX Settembre
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/feriolo.html:Feriolo
 #DESCRIPTION Feriolo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/liguria/la-spezia/fiascherino-lerici.html:Fiascherino - Lerici ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/liguria/la-spezia/fiascherino-lerici.html:Fiascherino - Lerici
 #DESCRIPTION Fiascherino - Lerici
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/toscana/firenze/lungarno.html:Florence - Lungarno
 #DESCRIPTION Florence - Lungarno
@@ -2305,7 +2305,7 @@
 #DESCRIPTION Marmolada - Dolomites
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/basilicata/matera/matera.html:Matera - Sasso Caveoso
 #DESCRIPTION Matera - Sasso Caveoso
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/veneto/venezia/mestre.html:Mestre - Venice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/veneto/venezia/mestre.html:Mestre - Venice ##1010 OFF
 #DESCRIPTION Mestre - Venice ##1010 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/11/master.m3u8:meteoproject.eu 11
 #DESCRIPTION meteoproject.eu 11
@@ -2336,7 +2336,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/59/master.m3u8:meteoproject.eu 59
 #DESCRIPTION meteoproject.eu 59
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/61/master.m3u8:meteoproject.eu 61
-#DESCRIPTION meteoproject.eu 61
+#DESCRIPTION meteoproject.eu 61 ##2310 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/63/master.m3u8:meteoproject.eu 63
 #DESCRIPTION meteoproject.eu 63
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/68/master.m3u8:meteoproject.eu 68
@@ -2347,7 +2347,7 @@
 #DESCRIPTION meteoproject.eu 74
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/75/master.m3u8:meteoproject.eu 75
 #DESCRIPTION meteoproject.eu 75
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/78/master.m3u8:meteoproject.eu 78
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/78/master.m3u8:meteoproject.eu 78 ##1710 OFF
 #DESCRIPTION meteoproject.eu 78 ##1710 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/79/master.m3u8:meteoproject.eu 79
 #DESCRIPTION meteoproject.eu 79
@@ -2360,7 +2360,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/lombardia/milano/piazza-cinque-giornate.html:Milan - Piazza Cinque Giornate
 #DESCRIPTION Milan - Piazza Cinque Giornate
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/lombardia/milano/piazza-duca-dsosta.html:Milan - Piazza Duca d'Aosta ##0310 OFF
-#DESCRIPTION Milan - Piazza Duca d'Aosta ##0310 OFF
+#DESCRIPTION Milan - Piazza Duca d'Aosta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/lombardia/milano/duomo-milano.html:Milan Cathedral
 #DESCRIPTION Milan Cathedral
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/emilia-romagna/ravenna/milano-marittima.html:Milano Marittima - Cervia
@@ -2381,7 +2381,7 @@
 #DESCRIPTION Moritzino - Alta Badia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/moritzino-alta-badia.html:Moritzino - Piz La Ila
 #DESCRIPTION Moritzino - Piz La Ila
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-nord.html:Mount Etna - Piano Provenzana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-nord.html:Mount Etna - Piano Provenzana ##1010 OFF
 #DESCRIPTION Mount Etna - Piano Provenzana ##1010 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/friuli-venezia-giulia/udine/tarvisio-monte-lussari.html:Mount Lussari - Tarvisio
 #DESCRIPTION Mount Lussari - Tarvisio
@@ -2411,13 +2411,13 @@
 #DESCRIPTION Panarea - Messina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/calabria/cosenza/panorama-di-bianchi.html:Panorama of Bianchi
 #DESCRIPTION Panorama of Bianchi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/veneto/verona/panorama-di-verona.html:Panorama of Verona
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/veneto/verona/panorama-di-verona.html:Panorama of Verona ##1010 OFF
 #DESCRIPTION Panorama of Verona ##1010 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/marche/pesaro-urbino/panoramica-fano.html:Panoramic view of Fano @
 #DESCRIPTION Panoramic view of Fano @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/sicilia/trapani/castello-pantelleria.html:Pantelleria
 #DESCRIPTION Pantelleria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/toscana/livorno/rosignano-solvay.html:Passage to the sea in Rosignano Solvay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/toscana/livorno/rosignano-solvay.html:Passage to the sea in Rosignano Solvay ##1010 OFF
 #DESCRIPTION Passage to the sea in Rosignano Solvay ##1010 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/veneto/belluno/passo-campolongo.html:Passo Campolongo - Sella Ronda @
 #DESCRIPTION Passo Campolongo - Sella Ronda @
@@ -2477,7 +2477,7 @@
 #DESCRIPTION Praiano - Amalfi Coast
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/campania/salerno/praiano-costiera.html:Praiano - Divina Costiera
 #DESCRIPTION Praiano - Divina Costiera
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/abruzzo/teramo/prati-di-tivo-gran-sasso.html:Prati di Tivo - Corno Piccolo - Gran Sasso ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/abruzzo/teramo/prati-di-tivo-gran-sasso.html:Prati di Tivo - Corno Piccolo - Gran Sasso
 #DESCRIPTION Prati di Tivo - Corno Piccolo - Gran Sasso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/campania/napoli/procida-porto.html:Procida
 #DESCRIPTION Procida
@@ -2517,7 +2517,7 @@
 #DESCRIPTION Salerno - Old Town
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/lombardia/brescia/salo-lago-di-garda.html:Salò - Lake Garda
 #DESCRIPTION Salò - Lake Garda
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/alta-badia-san-cassiano.html:San Cassiano ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/alta-badia-san-cassiano.html:San Cassiano
 #DESCRIPTION San Cassiano
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/san-cassiano-dolomiti.html:San Cassiano - Dolomites
 #DESCRIPTION San Cassiano - Dolomites
@@ -2545,7 +2545,7 @@
 #DESCRIPTION Sardinija Alghero plaža Lazzaretto 706
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_giba01.m3u8:Sardinija Giba Porto Botte plaža 701
 #DESCRIPTION Sardinija Giba Porto Botte plaža 701
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_oristano04.m3u8:Sardinija Oristano Is Arutas plaža 504
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_oristano04.m3u8:Sardinija Oristano Is Arutas plaža 504 ##2110 OFF
 #DESCRIPTION Sardinija Oristano Is Arutas plaža 504
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_palau05.m3u8:Sardinija Palau Isola dei Gabbiani 505 @
 #DESCRIPTION Sardinija Palau Isola dei Gabbiani 505 @
@@ -2599,13 +2599,13 @@
 #DESCRIPTION The Spanish Steps
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/veneto/vicenza/campanile-del-duomo-di-thiene-vista-nord.html:Thiene - Cathedral's bell tower
 #DESCRIPTION Thiene - Cathedral's bell tower
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/puglia/lecce/torre-san-giovanni-ugento.html:Torre San Giovanni - Ugento ##2609 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/puglia/lecce/torre-san-giovanni-ugento.html:Torre San Giovanni - Ugento
 #DESCRIPTION Torre San Giovanni - Ugento
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/lombardia/como/tremezzina-lago-di-como.html:Tremezzina - Lake Como
 #DESCRIPTION Tremezzina - Lake Como
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/lazio/roma/fontana-di-trevi.html:Trevi Fountain - Rome
 #DESCRIPTION Trevi Fountain - Rome
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/tropea.html:Tropea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/tropea.html:Tropea ##1010 OFF
 #DESCRIPTION Tropea ##1010 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_trieste01.m3u8:Trst 701 @
 #DESCRIPTION Trst 701 @
@@ -2621,7 +2621,7 @@
 #DESCRIPTION Veneto Caorle 204
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_caorle01.m3u8:Veneto Caorle 501
 #DESCRIPTION Veneto Caorle 501
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_rosolinamare03.m3u8:Veneto Rosolina mare @ ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_rosolinamare03.m3u8:Veneto Rosolina mare @
 #DESCRIPTION Veneto Rosolina mare @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/veneto/venezia/ponte-di-calatrava.html:Venice - Calatrava Bridge
 #DESCRIPTION Venice - Calatrava Bridge
@@ -2668,11 +2668,11 @@
 #SERVICE 1:64:2C:0:0:0:0:0:0:0::=== Kazakhstan ===
 #DESCRIPTION === Kazakhstan ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.13.18.225%3a8080/hls/41645/739afa6a30317e043b0d/playlist.m3u8:Шахтинск 1
-#DESCRIPTION Шахтинск 1
+#DESCRIPTION Шахтинск 1+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.13.18.225%3a8080/hls/41571/cb185e076efb16645f3b/playlist.m3u8:Шахтинск 2
-#DESCRIPTION Шахтинск 2
+#DESCRIPTION Шахтинск 2+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.13.18.225%3a8080/hls/41567/83b147da59f31400ebbf/playlist.m3u8:Шахтинск 3
-#DESCRIPTION Шахтинск 3
+#DESCRIPTION Шахтинск 3+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ipcam.kz/cam1/tracks-v1/mono.m3u8:Шымбулак 1
 #DESCRIPTION Шымбулак 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ipcam.kz/cam2/tracks-v1/mono.m3u8:Шымбулак 2
@@ -2685,7 +2685,7 @@
 #DESCRIPTION === Kenya ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/kenya/kwale-county/diani-beach/diani-beach.html:Diani Beach
 #DESCRIPTION Diani Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/kenya/taita-taveta-county/voi/tsavo-east-national-park.html:Voi Wildlife Lodge Tsavo East National Park ##0210 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/kenya/taita-taveta-county/voi/tsavo-east-national-park.html:Voi Wildlife Lodge Tsavo East National Park
 #DESCRIPTION Voi Wildlife Lodge Tsavo East National Park
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/kenya/malindi/watamu/watamu-beach.html:Watamu Beach
 #DESCRIPTION Watamu Beach
@@ -2709,7 +2709,7 @@
 #DESCRIPTION Вильнюс 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.dcdn.lt/livecam/vl108.stream/playlist.m3u8:Вильнюс 2
 #DESCRIPTION Вильнюс 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ignet.lt%3a8888/live/test/index.m3u8:Игналина
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ignet.lt%3a8888/live/test/index.m3u8:Игналина ##2210 OFF
 #DESCRIPTION Игналина
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.worldcam.live%3a8081/kaunas/index.m3u8:Каунас 1
 #DESCRIPTION Каунас 1
@@ -2719,7 +2719,7 @@
 #DESCRIPTION Клайпеда 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.dcdn.lt/livecam/kl011.stream/playlist.m3u:Клайпеда 2
 #DESCRIPTION Клайпеда 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.dcdn.lt/livecam/sll50.stream/playlist.m3u8:Шилале ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.dcdn.lt/livecam/sll50.stream/playlist.m3u8:Шилале
 #DESCRIPTION Шилале
 #SERVICE 1:64:30:0:0:0:0:0:0:0::=== Luxembourg ===
 #DESCRIPTION === Luxembourg ===
@@ -2747,7 +2747,7 @@
 #DESCRIPTION Nika Island Resort
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/de/webcam/maldives/alif-alif-atoll/male/veligandu-maldives-resort-island.html:Resort Island
 #DESCRIPTION Resort Island
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/maldives/gaafu-alif-atoll/funamadua/robinson-maldives-funamadua.html:Robinson Maldives
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/maldives/gaafu-alif-atoll/funamadua/robinson-maldives-funamadua.html:Robinson Maldives @
 #DESCRIPTION Robinson Maldives @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/maldives/alif-alif-atoll/male/veligandu-maldives-resort-island.html:Sunset Beach - Veligandu
 #DESCRIPTION Sunset Beach - Veligandu
@@ -2763,7 +2763,7 @@
 #DESCRIPTION Birżebbuġa Beach and Pretty Bay
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam3.html:Crossing Mdina-Chetcuti from Tiles&Marble Showroom ##0310 OFF
 #DESCRIPTION Crossing Mdina-Chetcuti from Tiles&Marble Showroom ##0310 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/cirkewwa/cirkewwa-bay.html:Ċirkewwa Bay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/cirkewwa/cirkewwa-bay.html:Ċirkewwa Bay ##1010 OFF
 #DESCRIPTION Ċirkewwa Bay ##1010 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/cirkewwa/ferry-terminal-bus.html:Ċirkewwa - Ferry Terminal, Bus Terminus
 #DESCRIPTION Ċirkewwa - Ferry Terminal, Bus Terminus
@@ -2779,7 +2779,7 @@
 #DESCRIPTION Floriana - The Triton Fountain
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/gozo/gharb/gharb-parish-church.html:Għarb, Gozo
 #DESCRIPTION Għarb, Gozo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/gozo/mgarr/gozo-mgarr.html:Gozo - Mġarr ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/gozo/mgarr/gozo-mgarr.html:Gozo - Mġarr
 #DESCRIPTION Gozo - Mġarr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/gozo/munxar/gozo-munxar.html:Gozo - Munxar
 #DESCRIPTION Gozo - Munxar
@@ -2797,7 +2797,7 @@
 #DESCRIPTION Marsa - JCR Furniture
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam18.html:Marsa - Traffic monitoring
 #DESCRIPTION Marsa - Traffic monitoring
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam2.html:Marsa-Hamrun By Pass from DigitalZone Showroom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam2.html:Marsa-Hamrun By Pass from DigitalZone Showroom ##1010 OFF
 #DESCRIPTION Marsa-Hamrun By Pass from DigitalZone Showroom ##1010 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/marsaxlokk/marsaxlokk-harbour.html:Marsaxlokk
 #DESCRIPTION Marsaxlokk
@@ -2839,7 +2839,7 @@
 #DESCRIPTION St. Paul's Bay
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/valletta/grand-harbour-entrance.html:Valletta - Grand Harbour Entrance
 #DESCRIPTION Valletta - Grand Harbour Entrance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/valletta/valletta-republic-street.html:Valletta - Republic Street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/valletta/valletta-republic-street.html:Valletta - Republic Street ##1010 OFF
 #DESCRIPTION Valletta - Republic Street ##1010 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/malta/malta/valletta/st-george-square-valletta.html:Valletta - St. George's Square
 #DESCRIPTION Valletta - St. George's Square
@@ -2859,7 +2859,7 @@
 #DESCRIPTION Akumal Bay - Quintana Roo
 #SERVICE 1:64:34:0:0:0:0:0:0:0::=== Netherlands ===
 #DESCRIPTION === Netherlands ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b8d2cbe62ad6.streamlock.net/live/wilhelmina3.stream/playlist.m3u8:Binnenvaart - Zeilboot Wilhelmina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b8d2cbe62ad6.streamlock.net/live/wilhelmina3.stream/playlist.m3u8:Binnenvaart - Zeilboot Wilhelmina ##1010 OFF
 #DESCRIPTION Binnenvaart - Zeilboot Wilhelmina ##1010 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.rtvnoord.nl/live/rtvnoord/webcam/index.m3u8:Groningen - Panorama Gasunie
 #DESCRIPTION Groningen - Panorama Gasunie
@@ -2915,14 +2915,14 @@
 #DESCRIPTION Barranco - Plaza de Armas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/ascope-province/playa-de-chicama.html:Beach of Chicama
 #DESCRIPTION Beach of Chicama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/trujillo/playa-huanchaco.html:Beach of Huanchaco - Trujillo ##0210 OFF
-#DESCRIPTION Beach of Huanchaco - Trujillo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/trujillo/playa-huanchaco.html:Beach of Huanchaco - Trujillo ##1810 OFF
+#DESCRIPTION Beach of Huanchaco - Trujillo ##1810 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/pacasmayo/playa-de-pacasmayo.html:Beach of Pacasmayo
 #DESCRIPTION Beach of Pacasmayo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/piura/talara/cabo-blanco.html:Cabo Blanco
-#DESCRIPTION Cabo Blanco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/cajamarca/cajamarca/laguna-san-nicolas.html:Cajamarca - Laguna San Nicolás ##0310 OFF
-#DESCRIPTION Cajamarca - Laguna San Nicolás ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/piura/talara/cabo-blanco.html:Cabo Blanco ##1810 OFF
+#DESCRIPTION Cabo Blanco ##1810 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/cajamarca/cajamarca/laguna-san-nicolas.html:Cajamarca - Laguna San Nicolás
+#DESCRIPTION Cajamarca - Laguna San Nicolás
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/amazonas/chachapoyas/plaza-mayor.html:Chachapoyas - Amazonas
 #DESCRIPTION Chachapoyas - Amazonas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/lima/lima/chorrillos-playa-la-herradura.html:Chorrillos - Playa La Herradura
@@ -2934,7 +2934,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/trujillo/huanchaco-playa-sunkella.html:Huanchaco - Playa Sunkella
 #DESCRIPTION Huanchaco - Playa Sunkella
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/piura/talara/mancora.html:Máncora - Playa Pocitas
-#DESCRIPTION Máncora - Playa Pocitas ##1010 OFF
+#DESCRIPTION Máncora - Playa Pocitas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/lima/lima/miraflores-kennedy-park.html:Lima - Kennedy Park
 #DESCRIPTION Lima - Kennedy Park
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/peru/lima/lima/miraflores.html:Lima - Miraflores
@@ -3018,7 +3018,7 @@
 #SERVICE 4097:0:1:A59C:8244:EC:0:0:0:0:https%3a//hls1.webcamera.pl/miedzyzdroje_cam_52898b/miedzyzdroje_cam_52898b.stream/playlist.m3u8:Międzyzdroje - Plaża
 #DESCRIPTION Międzyzdroje - Plaża
 #SERVICE 4097:0:1:69BE:51A1:EC:0:0:0:0:https%3a//hls15.webcamera.pl/mrzezyno_cam_905068/mrzezyno_cam_905068.stream/playlist.m3u8:Mrzeżyno - Plaża
-#DESCRIPTION Mrzeżyno - Plaża
+#DESCRIPTION Mrzeżyno - Plaża ##2310 OFF
 #SERVICE 4097:0:1:55F3:3ED4:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/airnet_cam_4279f5/airnet_cam_4279f5.stream/playlist.m3u8:Mrzeżyno - Port
 #DESCRIPTION Mrzeżyno - Port
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/nowy-targ-county/niedzica.html:Niedzica
@@ -3052,9 +3052,9 @@
 #SERVICE 4097:0:1:E245:5C5C:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/szrenicka_cam_ae9568/szrenicka_cam_ae9568.stream/playlist.m3u8:Szklarska Poręba - Dolna stacja
 #DESCRIPTION Szklarska Poręba - Dolna stacja
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112%3a80/ujsoly/index.m3u8:Ujsoły
-#DESCRIPTION Ujsoły
+#DESCRIPTION Ujsoły ##2310 OFF
 #SERVICE 4097:0:1:5627:7496:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/ustka_cam_4feffd/ustka_cam_4feffd.stream/playlist.m3u8:Ustka - Plaża
-#DESCRIPTION Ustka - Plaża
+#DESCRIPTION Ustka - Plaża ##2310 OFF
 #SERVICE 4097:0:1:E79F:9D56:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/nocowanie_cam_a470d8/nocowanie_cam_a470d8.stream/playlist.m3u8:Ustroń - Rynek
 #DESCRIPTION Ustroń - Rynek
 #SERVICE 4097:0:1:6D2C:4D14:EC:0:0:0:0:https%3a//hoktastream1.webcamera.pl/um_wejherowo_cam_47c4b7/um_wejherowo_cam_47c4b7.stream/playlist.m3u8:Wejherowo @
@@ -3062,9 +3062,9 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/wierzchoslawice/wierzchoslawice-rondo.html:Wierzchosławice
 #DESCRIPTION Wierzchosławice
 #SERVICE 4097:0:1:1ECC:7145:EC:0:0:0:0:https%3a//hoktastream2.webcamera.pl/wladyslawowo_cam_459a14/wladyslawowo_cam_459a14.stream/playlist.m3u8:Władysławowo
-#DESCRIPTION Władysławowo
+#DESCRIPTION Władysławowo ##2310 OFF
 #SERVICE 4097:0:1:9B0E:20A3:EC:0:0:0:0:https%3a//imageserver.webcamera.pl/rec/krupowkidolne/latest.mp4:Zacopane - Krupówki
-#DESCRIPTION Zacopane - Krupówki
+#DESCRIPTION Zacopane - Krupówki ##2310 OFF
 #SERVICE 4097:0:1:7BF3:DD5D:EC:0:0:0:0:https%3a//hls8.webcamera.pl/pkl_cam_c9ee88/pkl_cam_c9ee88.stream/playlist.m3u8:Zakopane - Kasprowy Hala Gąsienicowa @
 #DESCRIPTION Zakopane - Kasprowy Hala Gąsienicowa @
 #SERVICE 4097:0:1:DE1:EED7:EC:0:0:0:0:https%3a//hls13.webcamera.pl/pkl_cam_72b29d/pkl_cam_72b29d.stream/playlist.m3u8:Zakopane - Kasprowy Wierch
@@ -3091,10 +3091,10 @@
 #DESCRIPTION Fârdea - Lake Surduc
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/braila_desktop.stream/index.m3u8:Brăila Bulevardul Dorobanților
 #DESCRIPTION Brăila Bulevardul Dorobanților
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/busteni_gara_desktop.stream/index.m3u8:Bușteni Gara ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/busteni_gara_desktop.stream/index.m3u8:Bușteni Gara
 #DESCRIPTION Bușteni Gara
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/oradea_desktop.stream/index.m3u8:Oradea Piața Decembrie @ ##0310 OFF
-#DESCRIPTION Oradea Piața Decembrie @ ##0310 OFF
+#DESCRIPTION Oradea Piața Decembrie @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/caciulata_desktop.stream/index.m3u8:Păușa Căciulata
 #DESCRIPTION Păușa Căciulata
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/pitesti_nord_desktop.stream/index.m3u8:Pitești Nord
@@ -3102,7 +3102,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/pitesti_sud_desktop.stream/index.m3u8:Pitești Sud
 #DESCRIPTION Pitești Sud
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/predeal_centru_desktop.stream/index.m3u8:Predeal Centru
-#DESCRIPTION Predeal Centru ##1010 OFF
+#DESCRIPTION Predeal Centru
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/ramnicu_valcea_desktop.stream/index.m3u8:Râmnicu Vâlcea
 #DESCRIPTION Râmnicu Vâlcea
 #SERVICE 1:64:3B:0:0:0:0:0:0:0::=== Russia ===
@@ -3175,9 +3175,9 @@
 #DESCRIPTION Верхняя Пышма - пр.Успенский 91
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.forpost96.ru%3a8443/hls/174502/60f2084f19ee1aa968dd/playlist.m3u8:Верхняя Салда 2
 #DESCRIPTION Верхняя Салда 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.forpost96.ru%3a8443/hls/174489/6940afef2ee7e311d510/playlist.m3u8:Верхняя Салда 3 ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.forpost96.ru%3a8443/hls/174489/6940afef2ee7e311d510/playlist.m3u8:Верхняя Салда 3
 #DESCRIPTION Верхняя Салда 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.forpost96.ru%3a8443/hls/174581/dd2ba6343435c6c39864/playlist.m3u8:Верхняя Салда 4 ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.forpost96.ru%3a8443/hls/174581/dd2ba6343435c6c39864/playlist.m3u8:Верхняя Салда 4
 #DESCRIPTION Верхняя Салда 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.154.111.110/cam1/index.m3u8:Владивосток 1
 #DESCRIPTION Владивосток 1
@@ -3264,7 +3264,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/sotnikova1/tracks-v1/index.m3u8:Всеволожск  мкр.Южный
 #DESCRIPTION Всеволожск  мкр.Южный
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/alexandrovskaya80/tracks-v1/index.m3u8:Всеволожск  ул.Александровская
-#DESCRIPTION Всеволожск  ул.Александровская
+#DESCRIPTION Всеволожск  ул.Александровская ##2310 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gaj-pobeda.camsh.gts.tv/hls/gaj-voichenko.m3u8:Гай 1
 #DESCRIPTION Гай 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gaj-krug.camsh.gts.tv/hls/gaj-krug.m3u8:Гай 4
@@ -3283,8 +3283,6 @@
 #DESCRIPTION Екатеринбург 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/7e7cb479-4f36-4ebf-9177-f1fea1050d8d/mono.m3u8:Екатеринбург 5
 #DESCRIPTION Екатеринбург 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001049.m3u8:Кондопога - ледовый дворец
-#DESCRIPTION Кондопога - ледовый дворец
 #SERVICE 4097:0:1:D8C8:30A1:EC:0:0:0:0:http%3a//krkvideo5.orionnet.online/cam2064/index.m3u8:Красноярск 1
 #DESCRIPTION Красноярск 1
 #SERVICE 4097:0:1:3ACE:1F76:EC:0:0:0:0:http%3a//krkvideo7.orionnet.online/cam2090/index.m3u8:Красноярск 2
@@ -3349,7 +3347,7 @@
 #DESCRIPTION Междуреченск 30
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/31/live.m3u8:Междуреченск 31
 #DESCRIPTION Междуреченск 31
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/32/live.m3u8:Междуреченск 32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/32/live.m3u8:Междуреченск 32 @
 #DESCRIPTION Междуреченск 32 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/37/live.m3u8:Междуреченск 37
 #DESCRIPTION Междуреченск 37
@@ -3407,7 +3405,7 @@
 #DESCRIPTION Междуреченск 67
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/68/live.m3u8:Междуреченск 68
 #DESCRIPTION Междуреченск 68
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/69/live.m3u8:Междуреченск 69
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/69/live.m3u8:Междуреченск 69 @
 #DESCRIPTION Междуреченск 69 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/1/hls/stream.m3u8:Московская область 1
 #DESCRIPTION Московская область 1
@@ -3493,856 +3491,6 @@
 #DESCRIPTION Озерск 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ozersk.fpst.ru%3a18080/hls/208/e0f4564a272570b23bd9/playlist.m3u8:Озерск 6
 #DESCRIPTION Озерск 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091011.m3u8:Петрозаводск 1011
-#DESCRIPTION Петрозаводск 1011
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001037.m3u8:Петрозаводск 1037
-#DESCRIPTION Петрозаводск 1037
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001039.m3u8:Петрозаводск 1039
-#DESCRIPTION Петрозаводск 1039
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001049.m3u8:Петрозаводск 1049
-#DESCRIPTION Петрозаводск 1049
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091097.m3u8:Петрозаводск 1097
-#DESCRIPTION Петрозаводск 1097
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091167.m3u8:Петрозаводск 1167
-#DESCRIPTION Петрозаводск 1167
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001199.m3u8:Петрозаводск 1199
-#DESCRIPTION Петрозаводск 1199
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001201.m3u8:Петрозаводск 1201
-#DESCRIPTION Петрозаводск 1201
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001203.m3u8:Петрозаводск 1203
-#DESCRIPTION Петрозаводск 1203
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001213.m3u8:Петрозаводск 1213
-#DESCRIPTION Петрозаводск 1213
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091223.m3u8:Петрозаводск 1223
-#DESCRIPTION Петрозаводск 1223
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001235.m3u8:Петрозаводск 1235
-#DESCRIPTION Петрозаводск 1235
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001239.m3u8:Петрозаводск 1239
-#DESCRIPTION Петрозаводск 1239
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000001241.m3u8:Петрозаводск 1241
-#DESCRIPTION Петрозаводск 1241
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001265.m3u8:Петрозаводск 1265
-#DESCRIPTION Петрозаводск 1265
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001267.m3u8:Петрозаводск 1267
-#DESCRIPTION Петрозаводск 1267
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001269.m3u8:Петрозаводск 1269
-#DESCRIPTION Петрозаводск 1269
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001271.m3u8:Петрозаводск 1271
-#DESCRIPTION Петрозаводск 1271
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001277.m3u8:Петрозаводск 1277
-#DESCRIPTION Петрозаводск 1277
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001281.m3u8:Петрозаводск 1281
-#DESCRIPTION Петрозаводск 1281
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001299.m3u8:Петрозаводск 1299
-#DESCRIPTION Петрозаводск 1299
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000001301.m3u8:Петрозаводск 1301
-#DESCRIPTION Петрозаводск 1301
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001307.m3u8:Петрозаводск 1307
-#DESCRIPTION Петрозаводск 1307
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001321.m3u8:Петрозаводск 1321
-#DESCRIPTION Петрозаводск 1321
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001339.m3u8:Петрозаводск 1339
-#DESCRIPTION Петрозаводск 1339
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001341.m3u8:Петрозаводск 1341
-#DESCRIPTION Петрозаводск 1341
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001343.m3u8:Петрозаводск 1343
-#DESCRIPTION Петрозаводск 1343
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001345.m3u8:Петрозаводск 1345
-#DESCRIPTION Петрозаводск 1345
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001347.m3u8:Петрозаводск 1347
-#DESCRIPTION Петрозаводск 1347
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001349.m3u8:Петрозаводск 1349
-#DESCRIPTION Петрозаводск 1349
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001351.m3u8:Петрозаводск 1351
-#DESCRIPTION Петрозаводск 1351
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001355.m3u8:Петрозаводск 1355
-#DESCRIPTION Петрозаводск 1355
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001357.m3u8:Петрозаводск 1357
-#DESCRIPTION Петрозаводск 1357
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001359.m3u8:Петрозаводск 1359
-#DESCRIPTION Петрозаводск 1359
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001363.m3u8:Петрозаводск 1363
-#DESCRIPTION Петрозаводск 1363
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001365.m3u8:Петрозаводск 1365
-#DESCRIPTION Петрозаводск 1365
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001369.m3u8:Петрозаводск 1369
-#DESCRIPTION Петрозаводск 1369
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001379.m3u8:Петрозаводск 1379
-#DESCRIPTION Петрозаводск 1379
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000001381.m3u8:Петрозаводск 1381
-#DESCRIPTION Петрозаводск 1381
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001383.m3u8:Петрозаводск 1383
-#DESCRIPTION Петрозаводск 1383
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001385.m3u8:Петрозаводск 1385
-#DESCRIPTION Петрозаводск 1385
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001391.m3u8:Петрозаводск 1391
-#DESCRIPTION Петрозаводск 1391
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001425.m3u8:Петрозаводск 1425
-#DESCRIPTION Петрозаводск 1425
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001427.m3u8:Петрозаводск 1427
-#DESCRIPTION Петрозаводск 1427
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001429.m3u8:Петрозаводск 1429
-#DESCRIPTION Петрозаводск 1429
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001431.m3u8:Петрозаводск 1431
-#DESCRIPTION Петрозаводск 1431
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001471.m3u8:Петрозаводск 1471
-#DESCRIPTION Петрозаводск 1471
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091481.m3u8:Петрозаводск 1481
-#DESCRIPTION Петрозаводск 1481
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091519.m3u8:Петрозаводск 1519
-#DESCRIPTION Петрозаводск 1519
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000001533.m3u8:Петрозаводск 1533
-#DESCRIPTION Петрозаводск 1533
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091545.m3u8:Петрозаводск 1545
-#DESCRIPTION Петрозаводск 1545
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091555.m3u8:Петрозаводск 1555
-#DESCRIPTION Петрозаводск 1555
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091581.m3u8:Петрозаводск 1581
-#DESCRIPTION Петрозаводск 1581
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091583.m3u8:Петрозаводск 1583
-#DESCRIPTION Петрозаводск 1583
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091585.m3u8:Петрозаводск 1585
-#DESCRIPTION Петрозаводск 1585
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001615.m3u8:Петрозаводск 1615
-#DESCRIPTION Петрозаводск 1615
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091639.m3u8:Петрозаводск 1639
-#DESCRIPTION Петрозаводск 1639
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091645.m3u8:Петрозаводск 1645
-#DESCRIPTION Петрозаводск 1645
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091649.m3u8:Петрозаводск 1649
-#DESCRIPTION Петрозаводск 1649
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091651.m3u8:Петрозаводск 1651
-#DESCRIPTION Петрозаводск 1651
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001657.m3u8:Петрозаводск 1657
-#DESCRIPTION Петрозаводск 1657
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091661.m3u8:Петрозаводск 1661
-#DESCRIPTION Петрозаводск 1661
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091707.m3u8:Петрозаводск 1707
-#DESCRIPTION Петрозаводск 1707
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091709.m3u8:Петрозаводск 1709
-#DESCRIPTION Петрозаводск 1709
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000091767.m3u8:Петрозаводск 1767
-#DESCRIPTION Петрозаводск 1767
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000091858.m3u8:Петрозаводск 1858
-#DESCRIPTION Петрозаводск 1858
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000091859.m3u8:Петрозаводск 1859
-#DESCRIPTION Петрозаводск 1859
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000091929.m3u8:Петрозаводск 1929
-#DESCRIPTION Петрозаводск 1929
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000091944.m3u8:Петрозаводск 1944
-#DESCRIPTION Петрозаводск 1944
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001987.m3u8:Петрозаводск 1987
-#DESCRIPTION Петрозаводск 1987
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001993.m3u8:Петрозаводск 1993
-#DESCRIPTION Петрозаводск 1993
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001995.m3u8:Петрозаводск 1995
-#DESCRIPTION Петрозаводск 1995
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000001997.m3u8:Петрозаводск 1997
-#DESCRIPTION Петрозаводск 1997
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092013.m3u8:Петрозаводск 2013
-#DESCRIPTION Петрозаводск 2013
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092016.m3u8:Петрозаводск 2016
-#DESCRIPTION Петрозаводск 2016
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092019.m3u8:Петрозаводск 2019
-#DESCRIPTION Петрозаводск 2019
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092020.m3u8:Петрозаводск 2020
-#DESCRIPTION Петрозаводск 2020
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092021.m3u8:Петрозаводск 2021
-#DESCRIPTION Петрозаводск 2021
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092028.m3u8:Петрозаводск 2028
-#DESCRIPTION Петрозаводск 2028
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092029.m3u8:Петрозаводск 2029
-#DESCRIPTION Петрозаводск 2029
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092030.m3u8:Петрозаводск 2030
-#DESCRIPTION Петрозаводск 2030
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092031.m3u8:Петрозаводск 2031
-#DESCRIPTION Петрозаводск 2031
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092032.m3u8:Петрозаводск 2032
-#DESCRIPTION Петрозаводск 2032
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092033.m3u8:Петрозаводск 2033
-#DESCRIPTION Петрозаводск 2033
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092034.m3u8:Петрозаводск 2034
-#DESCRIPTION Петрозаводск 2034
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092044.m3u8:Петрозаводск 2044
-#DESCRIPTION Петрозаводск 2044
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000002045.m3u8:Петрозаводск 2045
-#DESCRIPTION Петрозаводск 2045
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000002047.m3u8:Петрозаводск 2047
-#DESCRIPTION Петрозаводск 2047
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092060.m3u8:Петрозаводск 2060
-#DESCRIPTION Петрозаводск 2060
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000002063.m3u8:Петрозаводск 2063
-#DESCRIPTION Петрозаводск 2063
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000002077.m3u8:Петрозаводск 2077
-#DESCRIPTION Петрозаводск 2077
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000002079.m3u8:Петрозаводск 2079
-#DESCRIPTION Петрозаводск 2079
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000002081.m3u8:Петрозаводск 2081
-#DESCRIPTION Петрозаводск 2081
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092099.m3u8:Петрозаводск 2099
-#DESCRIPTION Петрозаводск 2099
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000002123.m3u8:Петрозаводск 2123
-#DESCRIPTION Петрозаводск 2123
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000002173.m3u8:Петрозаводск 2173
-#DESCRIPTION Петрозаводск 2173
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000002179.m3u8:Петрозаводск 2179
-#DESCRIPTION Петрозаводск 2179
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000002201.m3u8:Петрозаводск 2201
-#DESCRIPTION Петрозаводск 2201
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092324.m3u8:Петрозаводск 2324
-#DESCRIPTION Петрозаводск 2324
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092335.m3u8:Петрозаводск 2335
-#DESCRIPTION Петрозаводск 2335
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092339.m3u8:Петрозаводск 2339
-#DESCRIPTION Петрозаводск 2339
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092422.m3u8:Петрозаводск 2422
-#DESCRIPTION Петрозаводск 2422
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092429.m3u8:Петрозаводск 2429
-#DESCRIPTION Петрозаводск 2429
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092430.m3u8:Петрозаводск 2430
-#DESCRIPTION Петрозаводск 2430
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000002503.m3u8:Петрозаводск 2503
-#DESCRIPTION Петрозаводск 2503
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000002505.m3u8:Петрозаводск 2505
-#DESCRIPTION Петрозаводск 2505
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000002517.m3u8:Петрозаводск 2517
-#DESCRIPTION Петрозаводск 2517
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092577.m3u8:Петрозаводск 2577
-#DESCRIPTION Петрозаводск 2577
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092611.m3u8:Петрозаводск 2611
-#DESCRIPTION Петрозаводск 2611
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092612.m3u8:Петрозаводск 2612
-#DESCRIPTION Петрозаводск 2612
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092613.m3u8:Петрозаводск 2613
-#DESCRIPTION Петрозаводск 2613
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092614.m3u8:Петрозаводск 2614
-#DESCRIPTION Петрозаводск 2614
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092629.m3u8:Петрозаводск 2629
-#DESCRIPTION Петрозаводск 2629
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092660.m3u8:Петрозаводск 2660
-#DESCRIPTION Петрозаводск 2660
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000002691.m3u8:Петрозаводск 2691
-#DESCRIPTION Петрозаводск 2691
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000002697.m3u8:Петрозаводск 2697
-#DESCRIPTION Петрозаводск 2697
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000002701.m3u8:Петрозаводск 2701
-#DESCRIPTION Петрозаводск 2701
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092777.m3u8:Петрозаводск 2777
-#DESCRIPTION Петрозаводск 2777
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000002837.m3u8:Петрозаводск 2837
-#DESCRIPTION Петрозаводск 2837
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000002865.m3u8:Петрозаводск 2865
-#DESCRIPTION Петрозаводск 2865
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000002915.m3u8:Петрозаводск 2915
-#DESCRIPTION Петрозаводск 2915
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092931.m3u8:Петрозаводск 2931
-#DESCRIPTION Петрозаводск 2931
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000092932.m3u8:Петрозаводск 2932
-#DESCRIPTION Петрозаводск 2932
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000002971.m3u8:Петрозаводск 2971
-#DESCRIPTION Петрозаводск 2971
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000003023.m3u8:Петрозаводск 3023
-#DESCRIPTION Петрозаводск 3023
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000003029.m3u8:Петрозаводск 3029
-#DESCRIPTION Петрозаводск 3029
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000003031.m3u8:Петрозаводск 3031
-#DESCRIPTION Петрозаводск 3031
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093049.m3u8:Петрозаводск 3049
-#DESCRIPTION Петрозаводск 3049
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093074.m3u8:Петрозаводск 3074
-#DESCRIPTION Петрозаводск 3074
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093123.m3u8:Петрозаводск 3123
-#DESCRIPTION Петрозаводск 3123
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000003171.m3u8:Петрозаводск 3171
-#DESCRIPTION Петрозаводск 3171
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000003173.m3u8:Петрозаводск 3173
-#DESCRIPTION Петрозаводск 3173
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093182.m3u8:Петрозаводск 3182
-#DESCRIPTION Петрозаводск 3182
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093183.m3u8:Петрозаводск 3183
-#DESCRIPTION Петрозаводск 3183
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093193.m3u8:Петрозаводск 3193
-#DESCRIPTION Петрозаводск 3193
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000003201.m3u8:Петрозаводск 3201
-#DESCRIPTION Петрозаводск 3201
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000003285.m3u8:Петрозаводск 3285
-#DESCRIPTION Петрозаводск 3285
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000003357.m3u8:Петрозаводск 3357
-#DESCRIPTION Петрозаводск 3357
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000003359.m3u8:Петрозаводск 3359
-#DESCRIPTION Петрозаводск 3359
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000003361.m3u8:Петрозаводск 3361
-#DESCRIPTION Петрозаводск 3361
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093372.m3u8:Петрозаводск 3372
-#DESCRIPTION Петрозаводск 3372
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000003387.m3u8:Петрозаводск 3387
-#DESCRIPTION Петрозаводск 3387
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093403.m3u8:Петрозаводск 3403
-#DESCRIPTION Петрозаводск 3403
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093404.m3u8:Петрозаводск 3404
-#DESCRIPTION Петрозаводск 3404
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000003417.m3u8:Петрозаводск 3417
-#DESCRIPTION Петрозаводск 3417
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093442.m3u8:Петрозаводск 3442
-#DESCRIPTION Петрозаводск 3442
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093448.m3u8:Петрозаводск 3448
-#DESCRIPTION Петрозаводск 3448
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093479.m3u8:Петрозаводск 3479
-#DESCRIPTION Петрозаводск 3479
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093480.m3u8:Петрозаводск 3480
-#DESCRIPTION Петрозаводск 3480
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093486.m3u8:Петрозаводск 3486
-#DESCRIPTION Петрозаводск 3486
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093487.m3u8:Петрозаводск 3487
-#DESCRIPTION Петрозаводск 3487
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000003711.m3u8:Петрозаводск 3711
-#DESCRIPTION Петрозаводск 3711
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000003773.m3u8:Петрозаводск 3773
-#DESCRIPTION Петрозаводск 3773
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000003775.m3u8:Петрозаводск 3775
-#DESCRIPTION Петрозаводск 3775
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000093797.m3u8:Петрозаводск 3797
-#DESCRIPTION Петрозаводск 3797
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000003807.m3u8:Петрозаводск 3807
-#DESCRIPTION Петрозаводск 3807
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000093818.m3u8:Петрозаводск 3818
-#DESCRIPTION Петрозаводск 3818
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000003831.m3u8:Петрозаводск 3831
-#DESCRIPTION Петрозаводск 3831
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000093837.m3u8:Петрозаводск 3837
-#DESCRIPTION Петрозаводск 3837
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000003847.m3u8:Петрозаводск 3847
-#DESCRIPTION Петрозаводск 3847
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000003849.m3u8:Петрозаводск 3849
-#DESCRIPTION Петрозаводск 3849
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000003851.m3u8:Петрозаводск 3851
-#DESCRIPTION Петрозаводск 3851
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000093883.m3u8:Петрозаводск 3883
-#DESCRIPTION Петрозаводск 3883
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000093918.m3u8:Петрозаводск 3918
-#DESCRIPTION Петрозаводск 3918
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093944.m3u8:Петрозаводск 3944
-#DESCRIPTION Петрозаводск 3944
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000003947.m3u8:Петрозаводск 3947
-#DESCRIPTION Петрозаводск 3947
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093967.m3u8:Петрозаводск 3967
-#DESCRIPTION Петрозаводск 3967
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000093977.m3u8:Петрозаводск 3977
-#DESCRIPTION Петрозаводск 3977
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000004051.m3u8:Петрозаводск 4051
-#DESCRIPTION Петрозаводск 4051
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000004053.m3u8:Петрозаводск 4053
-#DESCRIPTION Петрозаводск 4053
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000094099.m3u8:Петрозаводск 4099
-#DESCRIPTION Петрозаводск 4099
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000094125.m3u8:Петрозаводск 4125
-#DESCRIPTION Петрозаводск 4125
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000094134.m3u8:Петрозаводск 4134
-#DESCRIPTION Петрозаводск 4134
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000094135.m3u8:Петрозаводск 4135
-#DESCRIPTION Петрозаводск 4135
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000094137.m3u8:Петрозаводск 4137
-#DESCRIPTION Петрозаводск 4137
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004179.m3u8:Петрозаводск 4179
-#DESCRIPTION Петрозаводск 4179
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004285.m3u8:Петрозаводск 4285
-#DESCRIPTION Петрозаводск 4285
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004303.m3u8:Петрозаводск 4303
-#DESCRIPTION Петрозаводск 4303
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004345.m3u8:Петрозаводск 4345
-#DESCRIPTION Петрозаводск 4345
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000094352.m3u8:Петрозаводск 4352
-#DESCRIPTION Петрозаводск 4352
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004393.m3u8:Петрозаводск 4393
-#DESCRIPTION Петрозаводск 4393
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004417.m3u8:Петрозаводск 4417
-#DESCRIPTION Петрозаводск 4417
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004501.m3u8:Петрозаводск 4501
-#DESCRIPTION Петрозаводск 4501
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004505.m3u8:Петрозаводск 4505
-#DESCRIPTION Петрозаводск 4505
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000004561.m3u8:Петрозаводск 4561
-#DESCRIPTION Петрозаводск 4561
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004635.m3u8:Петрозаводск 4635
-#DESCRIPTION Петрозаводск 4635
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000004639.m3u8:Петрозаводск 4639
-#DESCRIPTION Петрозаводск 4639
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004667.m3u8:Петрозаводск 4667
-#DESCRIPTION Петрозаводск 4667
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004673.m3u8:Петрозаводск 4673
-#DESCRIPTION Петрозаводск 4673
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004695.m3u8:Петрозаводск 4695
-#DESCRIPTION Петрозаводск 4695
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000004767.m3u8:Петрозаводск 4767
-#DESCRIPTION Петрозаводск 4767
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000004849.m3u8:Петрозаводск 4849
-#DESCRIPTION Петрозаводск 4849
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000004851.m3u8:Петрозаводск 4851
-#DESCRIPTION Петрозаводск 4851
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000004887.m3u8:Петрозаводск 4887
-#DESCRIPTION Петрозаводск 4887
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000095047.m3u8:Петрозаводск 5047
-#DESCRIPTION Петрозаводск 5047
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000095076.m3u8:Петрозаводск 5076
-#DESCRIPTION Петрозаводск 5076
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000095272.m3u8:Петрозаводск 5272
-#DESCRIPTION Петрозаводск 5272
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000095278.m3u8:Петрозаводск 5278
-#DESCRIPTION Петрозаводск 5278
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000095373.m3u8:Петрозаводск 5373
-#DESCRIPTION Петрозаводск 5373
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000095374.m3u8:Петрозаводск 5374
-#DESCRIPTION Петрозаводск 5374
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000095399.m3u8:Петрозаводск 5399
-#DESCRIPTION Петрозаводск 5399
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000005943.m3u8:Петрозаводск 5943
-#DESCRIPTION Петрозаводск 5943
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000005947.m3u8:Петрозаводск 5947
-#DESCRIPTION Петрозаводск 5947
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000006111.m3u8:Петрозаводск 6111
-#DESCRIPTION Петрозаводск 6111
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000006113.m3u8:Петрозаводск 6113
-#DESCRIPTION Петрозаводск 6113
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000006207.m3u8:Петрозаводск 6207
-#DESCRIPTION Петрозаводск 6207
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000006359.m3u8:Петрозаводск 6359
-#DESCRIPTION Петрозаводск 6359
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000006403.m3u8:Петрозаводск 6403
-#DESCRIPTION Петрозаводск 6403
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000006435.m3u8:Петрозаводск 6435
-#DESCRIPTION Петрозаводск 6435
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000006437.m3u8:Петрозаводск 6437
-#DESCRIPTION Петрозаводск 6437
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000006563.m3u8:Петрозаводск 6563
-#DESCRIPTION Петрозаводск 6563
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000006567.m3u8:Петрозаводск 6567
-#DESCRIPTION Петрозаводск 6567
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000006579.m3u8:Петрозаводск 6579
-#DESCRIPTION Петрозаводск 6579
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000006821.m3u8:Петрозаводск 6821
-#DESCRIPTION Петрозаводск 6821
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000006841.m3u8:Петрозаводск 6841
-#DESCRIPTION Петрозаводск 6841
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000006959.m3u8:Петрозаводск 6959
-#DESCRIPTION Петрозаводск 6959
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000006961.m3u8:Петрозаводск 6961
-#DESCRIPTION Петрозаводск 6961
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000006971.m3u8:Петрозаводск 6971
-#DESCRIPTION Петрозаводск 6971
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000006983.m3u8:Петрозаводск 6983
-#DESCRIPTION Петрозаводск 6983
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000006985.m3u8:Петрозаводск 6985
-#DESCRIPTION Петрозаводск 6985
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000006999.m3u8:Петрозаводск 6999
-#DESCRIPTION Петрозаводск 6999
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007001.m3u8:Петрозаводск 7001
-#DESCRIPTION Петрозаводск 7001
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000007005.m3u8:Петрозаводск 7005
-#DESCRIPTION Петрозаводск 7005
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000007011.m3u8:Петрозаводск 7011
-#DESCRIPTION Петрозаводск 7011
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000007013.m3u8:Петрозаводск 7013
-#DESCRIPTION Петрозаводск 7013
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000007015.m3u8:Петрозаводск 7015
-#DESCRIPTION Петрозаводск 7015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000007019.m3u8:Петрозаводск 7019
-#DESCRIPTION Петрозаводск 7019
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007051.m3u8:Петрозаводск 7051
-#DESCRIPTION Петрозаводск 7051
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007053.m3u8:Петрозаводск 7053
-#DESCRIPTION Петрозаводск 7053
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007055.m3u8:Петрозаводск 7055
-#DESCRIPTION Петрозаводск 7055
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000007077.m3u8:Петрозаводск 7077
-#DESCRIPTION Петрозаводск 7077
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000007079.m3u8:Петрозаводск 7079
-#DESCRIPTION Петрозаводск 7079
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000007081.m3u8:Петрозаводск 7081
-#DESCRIPTION Петрозаводск 7081
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007083.m3u8:Петрозаводск 7083
-#DESCRIPTION Петрозаводск 7083
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000007101.m3u8:Петрозаводск 7101
-#DESCRIPTION Петрозаводск 7101
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007103.m3u8:Петрозаводск 7103
-#DESCRIPTION Петрозаводск 7103
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007105.m3u8:Петрозаводск 7105
-#DESCRIPTION Петрозаводск 7105
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000007119.m3u8:Петрозаводск 7119
-#DESCRIPTION Петрозаводск 7119
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000007157.m3u8:Петрозаводск 7157
-#DESCRIPTION Петрозаводск 7157
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007275.m3u8:Петрозаводск 7275
-#DESCRIPTION Петрозаводск 7275
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007277.m3u8:Петрозаводск 7277
-#DESCRIPTION Петрозаводск 7277
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007283.m3u8:Петрозаводск 7283
-#DESCRIPTION Петрозаводск 7283
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007311.m3u8:Петрозаводск 7311
-#DESCRIPTION Петрозаводск 7311
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007313.m3u8:Петрозаводск 7313
-#DESCRIPTION Петрозаводск 7313
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000007317.m3u8:Петрозаводск 7317
-#DESCRIPTION Петрозаводск 7317
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007611.m3u8:Петрозаводск 7611
-#DESCRIPTION Петрозаводск 7611
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000007615.m3u8:Петрозаводск 7615
-#DESCRIPTION Петрозаводск 7615
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000008043.m3u8:Петрозаводск 8043
-#DESCRIPTION Петрозаводск 8043
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000008047.m3u8:Петрозаводск 8047
-#DESCRIPTION Петрозаводск 8047
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000008049.m3u8:Петрозаводск 8049
-#DESCRIPTION Петрозаводск 8049
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000008055.m3u8:Петрозаводск 8055
-#DESCRIPTION Петрозаводск 8055
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000008057.m3u8:Петрозаводск 8057
-#DESCRIPTION Петрозаводск 8057
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000008083.m3u8:Петрозаводск 8083
-#DESCRIPTION Петрозаводск 8083
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000008085.m3u8:Петрозаводск 8085
-#DESCRIPTION Петрозаводск 8085
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088265.m3u8:Петрозаводск 8265
-#DESCRIPTION Петрозаводск 8265
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088357.m3u8:Петрозаводск 8357
-#DESCRIPTION Петрозаводск 8357
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088375.m3u8:Петрозаводск 8375
-#DESCRIPTION Петрозаводск 8375
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088377.m3u8:Петрозаводск 8377
-#DESCRIPTION Петрозаводск 8377
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088381.m3u8:Петрозаводск 8381
-#DESCRIPTION Петрозаводск 8381
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088383.m3u8:Петрозаводск 8383
-#DESCRIPTION Петрозаводск 8383
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088385.m3u8:Петрозаводск 8385
-#DESCRIPTION Петрозаводск 8385
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088391.m3u8:Петрозаводск 8391
-#DESCRIPTION Петрозаводск 8391
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000008407.m3u8:Петрозаводск 8407
-#DESCRIPTION Петрозаводск 8407
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000008409.m3u8:Петрозаводск 8409
-#DESCRIPTION Петрозаводск 8409
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000008539.m3u8:Петрозаводск 8539
-#DESCRIPTION Петрозаводск 8539
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088549.m3u8:Петрозаводск 8549
-#DESCRIPTION Петрозаводск 8549
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088615.m3u8:Петрозаводск 8615
-#DESCRIPTION Петрозаводск 8615
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088617.m3u8:Петрозаводск 8617
-#DESCRIPTION Петрозаводск 8617
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088619.m3u8:Петрозаводск 8619
-#DESCRIPTION Петрозаводск 8619
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000008621.m3u8:Петрозаводск 8621
-#DESCRIPTION Петрозаводск 8621
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088665.m3u8:Петрозаводск 8665
-#DESCRIPTION Петрозаводск 8665
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088667.m3u8:Петрозаводск 8667
-#DESCRIPTION Петрозаводск 8667
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088727.m3u8:Петрозаводск 8727
-#DESCRIPTION Петрозаводск 8727
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088729.m3u8:Петрозаводск 8729
-#DESCRIPTION Петрозаводск 8729
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088731.m3u8:Петрозаводск 8731
-#DESCRIPTION Петрозаводск 8731
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088733.m3u8:Петрозаводск 8733
-#DESCRIPTION Петрозаводск 8733
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000088749.m3u8:Петрозаводск 8749
-#DESCRIPTION Петрозаводск 8749
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.moidom-stream.ru/s/public/0000008833.m3u8:Петрозаводск 8833
-#DESCRIPTION Петрозаводск 8833
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000008951.m3u8:Петрозаводск 8951
-#DESCRIPTION Петрозаводск 8951
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000008953.m3u8:Петрозаводск 8953
-#DESCRIPTION Петрозаводск 8953
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000009097.m3u8:Петрозаводск 9097
-#DESCRIPTION Петрозаводск 9097
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000009169.m3u8:Петрозаводск 9169
-#DESCRIPTION Петрозаводск 9169
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000009195.m3u8:Петрозаводск 9195
-#DESCRIPTION Петрозаводск 9195
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000009309.m3u8:Петрозаводск 9309
-#DESCRIPTION Петрозаводск 9309
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000009311.m3u8:Петрозаводск 9311
-#DESCRIPTION Петрозаводск 9311
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000009341.m3u8:Петрозаводск 9341
-#DESCRIPTION Петрозаводск 9341
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000009343.m3u8:Петрозаводск 9343
-#DESCRIPTION Петрозаводск 9343
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000009345.m3u8:Петрозаводск 9345
-#DESCRIPTION Петрозаводск 9345
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000009347.m3u8:Петрозаводск 9347
-#DESCRIPTION Петрозаводск 9347
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000009365.m3u8:Петрозаводск 9365
-#DESCRIPTION Петрозаводск 9365
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s2.moidom-stream.ru/s/public/0000009859.m3u8:Петрозаводск 9859
-#DESCRIPTION Петрозаводск 9859
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.moidom-stream.ru/s/public/0000009861.m3u8:Петрозаводск 9861
-#DESCRIPTION Петрозаводск 9861
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088265.m3u8:Saint Petersburg 88265
-#DESCRIPTION Saint Petersburg 88265
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088357.m3u8:Saint Petersburg 88357
-#DESCRIPTION Saint Petersburg 88357
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088377.m3u8:Saint Petersburg 88377
-#DESCRIPTION Saint Petersburg 88377
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088383.m3u8:Saint Petersburg 88383
-#DESCRIPTION Saint Petersburg 88383
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088385.m3u8:Saint Petersburg 88385
-#DESCRIPTION Saint Petersburg 88385
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088391.m3u8:Saint Petersburg 88391
-#DESCRIPTION Saint Petersburg 88391
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088549.m3u8:Saint Petersburg 88549
-#DESCRIPTION Saint Petersburg 88549
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088617.m3u8:Saint Petersburg 88617
-#DESCRIPTION Saint Petersburg 88617
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088619.m3u8:Saint Petersburg 88619
-#DESCRIPTION Saint Petersburg 88619
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088665.m3u8:Saint Petersburg 88665
-#DESCRIPTION Saint Petersburg 88665
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088667.m3u8:Saint Petersburg 88667
-#DESCRIPTION Saint Petersburg 88667
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088727.m3u8:Saint Petersburg 88727
-#DESCRIPTION Saint Petersburg 88727
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088729.m3u8:Saint Petersburg 88729
-#DESCRIPTION Saint Petersburg 88729
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088731.m3u8:Saint Petersburg 88731
-#DESCRIPTION Saint Petersburg 88731
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000088749.m3u8:Saint Petersburg 88749
-#DESCRIPTION Saint Petersburg 88749
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089131.m3u8:Saint Petersburg 89131
-#DESCRIPTION Saint Petersburg 89131
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089203.m3u8:Saint Petersburg 89203
-#DESCRIPTION Saint Petersburg 89203
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089297.m3u8:Saint Petersburg 89297
-#DESCRIPTION Saint Petersburg 89297
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089395.m3u8:Saint Petersburg 89395
-#DESCRIPTION Saint Petersburg 89395
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089397.m3u8:Saint Petersburg 89397
-#DESCRIPTION Saint Petersburg 89397
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089433.m3u8:Saint Petersburg 89433
-#DESCRIPTION Saint Petersburg 89433
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089435.m3u8:Saint Petersburg 89435
-#DESCRIPTION Saint Petersburg 89435
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089437.m3u8:Saint Petersburg 89437
-#DESCRIPTION Saint Petersburg 89437
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089441.m3u8:Saint Petersburg 89441
-#DESCRIPTION Saint Petersburg 89441
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089443.m3u8:Saint Petersburg 89443
-#DESCRIPTION Saint Petersburg 89443
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089581.m3u8:Saint Petersburg 89581
-#DESCRIPTION Saint Petersburg 89581
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089629.m3u8:Saint Petersburg 89629
-#DESCRIPTION Saint Petersburg 89629
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089631.m3u8:Saint Petersburg 89631
-#DESCRIPTION Saint Petersburg 89631
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089789.m3u8:Saint Petersburg 89789
-#DESCRIPTION Saint Petersburg 89789
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000089845.m3u8:Saint Petersburg 89845
-#DESCRIPTION Saint Petersburg 89845
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090035.m3u8:Saint Petersburg 90035
-#DESCRIPTION Saint Petersburg 90035
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090037.m3u8:Saint Petersburg 90037
-#DESCRIPTION Saint Petersburg 90037
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090353.m3u8:Saint Petersburg 90353
-#DESCRIPTION Saint Petersburg 90353
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090439.m3u8:Saint Petersburg 90439
-#DESCRIPTION Saint Petersburg 90439
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090549.m3u8:Saint Petersburg 90549
-#DESCRIPTION Saint Petersburg 90549
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090563.m3u8:Saint Petersburg 90563
-#DESCRIPTION Saint Petersburg 90563
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090597.m3u8:Saint Petersburg 90597
-#DESCRIPTION Saint Petersburg 90597
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090615.m3u8:Saint Petersburg 90615
-#DESCRIPTION Saint Petersburg 90615
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090617.m3u8:Saint Petersburg 90617
-#DESCRIPTION Saint Petersburg 90617
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090619.m3u8:Saint Petersburg 90619
-#DESCRIPTION Saint Petersburg 90619
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090621.m3u8:Saint Petersburg 90621
-#DESCRIPTION Saint Petersburg 90621
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090623.m3u8:Saint Petersburg 90623
-#DESCRIPTION Saint Petersburg 90623
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090625.m3u8:Saint Petersburg 90625
-#DESCRIPTION Saint Petersburg 90625
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090627.m3u8:Saint Petersburg 90627
-#DESCRIPTION Saint Petersburg 90627
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090649.m3u8:Saint Petersburg 90649
-#DESCRIPTION Saint Petersburg 90649
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090653.m3u8:Saint Petersburg 90653
-#DESCRIPTION Saint Petersburg 90653
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090685.m3u8:Saint Petersburg 90685
-#DESCRIPTION Saint Petersburg 90685
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090687.m3u8:Saint Petersburg 90687
-#DESCRIPTION Saint Petersburg 90687
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090689.m3u8:Saint Petersburg 90689
-#DESCRIPTION Saint Petersburg 90689
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090691.m3u8:Saint Petersburg 90691
-#DESCRIPTION Saint Petersburg 90691
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090693.m3u8:Saint Petersburg 90693
-#DESCRIPTION Saint Petersburg 90693
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090695.m3u8:Saint Petersburg 90695
-#DESCRIPTION Saint Petersburg 90695
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090703.m3u8:Saint Petersburg 90703
-#DESCRIPTION Saint Petersburg 90703
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090707.m3u8:Saint Petersburg 90707
-#DESCRIPTION Saint Petersburg 90707
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090711.m3u8:Saint Petersburg 90711
-#DESCRIPTION Saint Petersburg 90711
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090713.m3u8:Saint Petersburg 90713
-#DESCRIPTION Saint Petersburg 90713
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090715.m3u8:Saint Petersburg 90715
-#DESCRIPTION Saint Petersburg 90715
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090717.m3u8:Saint Petersburg 90717
-#DESCRIPTION Saint Petersburg 90717
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090725.m3u8:Saint Petersburg 90725
-#DESCRIPTION Saint Petersburg 90725
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090727.m3u8:Saint Petersburg 90727
-#DESCRIPTION Saint Petersburg 90727
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090729.m3u8:Saint Petersburg 90729
-#DESCRIPTION Saint Petersburg 90729
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090731.m3u8:Saint Petersburg 90731
-#DESCRIPTION Saint Petersburg 90731
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090735.m3u8:Saint Petersburg 90735
-#DESCRIPTION Saint Petersburg 90735
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090743.m3u8:Saint Petersburg 90743
-#DESCRIPTION Saint Petersburg 90743
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090745.m3u8:Saint Petersburg 90745
-#DESCRIPTION Saint Petersburg 90745
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090747.m3u8:Saint Petersburg 90747
-#DESCRIPTION Saint Petersburg 90747
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090749.m3u8:Saint Petersburg 90749
-#DESCRIPTION Saint Petersburg 90749
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090751.m3u8:Saint Petersburg 90751
-#DESCRIPTION Saint Petersburg 90751
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090753.m3u8:Saint Petersburg 90753
-#DESCRIPTION Saint Petersburg 90753
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090755.m3u8:Saint Petersburg 90755
-#DESCRIPTION Saint Petersburg 90755
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090757.m3u8:Saint Petersburg 90757
-#DESCRIPTION Saint Petersburg 90757
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090759.m3u8:Saint Petersburg 90759
-#DESCRIPTION Saint Petersburg 90759
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090761.m3u8:Saint Petersburg 90761
-#DESCRIPTION Saint Petersburg 90761
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090763.m3u8:Saint Petersburg 90763
-#DESCRIPTION Saint Petersburg 90763
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090765.m3u8:Saint Petersburg 90765
-#DESCRIPTION Saint Petersburg 90765
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090769.m3u8:Saint Petersburg 90769
-#DESCRIPTION Saint Petersburg 90769
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090785.m3u8:Saint Petersburg 90785
-#DESCRIPTION Saint Petersburg 90785
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090789.m3u8:Saint Petersburg 90789
-#DESCRIPTION Saint Petersburg 90789
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090793.m3u8:Saint Petersburg 90793
-#DESCRIPTION Saint Petersburg 90793
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090799.m3u8:Saint Petersburg 90799
-#DESCRIPTION Saint Petersburg 90799
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090801.m3u8:Saint Petersburg 90801
-#DESCRIPTION Saint Petersburg 90801
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090803.m3u8:Saint Petersburg 90803
-#DESCRIPTION Saint Petersburg 90803
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090807.m3u8:Saint Petersburg 90807
-#DESCRIPTION Saint Petersburg 90807
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090833.m3u8:Saint Petersburg 90833
-#DESCRIPTION Saint Petersburg 90833
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090835.m3u8:Saint Petersburg 90835
-#DESCRIPTION Saint Petersburg 90835
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090837.m3u8:Saint Petersburg 90837
-#DESCRIPTION Saint Petersburg 90837
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090839.m3u8:Saint Petersburg 90839
-#DESCRIPTION Saint Petersburg 90839
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090843.m3u8:Saint Petersburg 90843
-#DESCRIPTION Saint Petersburg 90843
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090845.m3u8:Saint Petersburg 90845
-#DESCRIPTION Saint Petersburg 90845
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090847.m3u8:Saint Petersburg 90847
-#DESCRIPTION Saint Petersburg 90847
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090857.m3u8:Saint Petersburg 90857
-#DESCRIPTION Saint Petersburg 90857
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090901.m3u8:Saint Petersburg 90901
-#DESCRIPTION Saint Petersburg 90901
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090911.m3u8:Saint Petersburg 90911
-#DESCRIPTION Saint Petersburg 90911
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090913.m3u8:Saint Petersburg 90913
-#DESCRIPTION Saint Petersburg 90913
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000090917.m3u8:Saint Petersburg 90917
-#DESCRIPTION Saint Petersburg 90917
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091011.m3u8:Saint Petersburg 91011
-#DESCRIPTION Saint Petersburg 91011
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091077.m3u8:Saint Petersburg 91077
-#DESCRIPTION Saint Petersburg 91077
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091097.m3u8:Saint Petersburg 91097
-#DESCRIPTION Saint Petersburg 91097
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091131.m3u8:Saint Petersburg 91131
-#DESCRIPTION Saint Petersburg 91131
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091167.m3u8:Saint Petersburg 91167
-#DESCRIPTION Saint Petersburg 91167
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091223.m3u8:Saint Petersburg 91223
-#DESCRIPTION Saint Petersburg 91223
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091447.m3u8:Saint Petersburg 91447
-#DESCRIPTION Saint Petersburg 91447
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091481.m3u8:Saint Petersburg 91481
-#DESCRIPTION Saint Petersburg 91481
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091519.m3u8:Saint Petersburg 91519
-#DESCRIPTION Saint Petersburg 91519
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091545.m3u8:Saint Petersburg 91545
-#DESCRIPTION Saint Petersburg 91545
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091555.m3u8:Saint Petersburg 91555
-#DESCRIPTION Saint Petersburg 91555
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091581.m3u8:Saint Petersburg 91581
-#DESCRIPTION Saint Petersburg 91581
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091583.m3u8:Saint Petersburg 91583
-#DESCRIPTION Saint Petersburg 91583
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091585.m3u8:Saint Petersburg 91585
-#DESCRIPTION Saint Petersburg 91585
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091639.m3u8:Saint Petersburg 91639
-#DESCRIPTION Saint Petersburg 91639
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091645.m3u8:Saint Petersburg 91645
-#DESCRIPTION Saint Petersburg 91645
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091649.m3u8:Saint Petersburg 91649
-#DESCRIPTION Saint Petersburg 91649
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091651.m3u8:Saint Petersburg 91651
-#DESCRIPTION Saint Petersburg 91651
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091661.m3u8:Saint Petersburg 91661
-#DESCRIPTION Saint Petersburg 91661
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091707.m3u8:Saint Petersburg 91707
-#DESCRIPTION Saint Petersburg 91707
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091709.m3u8:Saint Petersburg 91709
-#DESCRIPTION Saint Petersburg 91709
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000091767.m3u8:Saint Petersburg 91767
-#DESCRIPTION Saint Petersburg 91767
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000093797.m3u8:Saint Petersburg 93797
-#DESCRIPTION Saint Petersburg 93797
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000093818.m3u8:Saint Petersburg 93818
-#DESCRIPTION Saint Petersburg 93818
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000093823.m3u8:Saint Petersburg 93823
-#DESCRIPTION Saint Petersburg 93823
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000093837.m3u8:Saint Petersburg 93837
-#DESCRIPTION Saint Petersburg 93837
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000093847.m3u8:Saint Petersburg 93847
-#DESCRIPTION Saint Petersburg 93847
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000093857.m3u8:Saint Petersburg 93857
-#DESCRIPTION Saint Petersburg 93857
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000093858.m3u8:Saint Petersburg 93858
-#DESCRIPTION Saint Petersburg 93858
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000093883.m3u8:Saint Petersburg 93883
-#DESCRIPTION Saint Petersburg 93883
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000093918.m3u8:Saint Petersburg 93918
-#DESCRIPTION Saint Petersburg 93918
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000094135.m3u8:Saint Petersburg 94135
-#DESCRIPTION Saint Petersburg 94135
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000094137.m3u8:Saint Petersburg 94137
-#DESCRIPTION Saint Petersburg 94137
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000094352.m3u8:Saint Petersburg 94352
-#DESCRIPTION Saint Petersburg 94352
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000095047.m3u8:Saint Petersburg 95047
-#DESCRIPTION Saint Petersburg 95047
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000095272.m3u8:Saint Petersburg 95272
-#DESCRIPTION Saint Petersburg 95272
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000095373.m3u8:Saint Petersburg 95373
-#DESCRIPTION Saint Petersburg 95373
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.moidom-stream.ru/s/public/0000095374.m3u8:Saint Petersburg 95374
-#DESCRIPTION Saint Petersburg 95374
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-avtomobilist-ptz/index.m3u8:Сочи  Адлер @
 #DESCRIPTION Сочи  Адлер @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-batumskoye14-ptz/index.m3u8:Сочи  Батумское 14а PTZ @
@@ -4403,7 +3551,7 @@
 #DESCRIPTION УланУдэ 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam6_site/tracks-v1/mono.m3u8:УланУдэ 2
 #DESCRIPTION УланУдэ 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam11_site/tracks-v1/mono.m3u8:УланУдэ 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam11_site/tracks-v1/mono.m3u8:УланУдэ 4 @
 #DESCRIPTION УланУдэ 4 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//restreamer.simdev.ru/ab4b9ca61a3e8709/stream.m3u8:Ульяновск 1
 #DESCRIPTION Ульяновск 1
@@ -4557,14 +3705,14 @@
 #DESCRIPTION Шарыпово
 #SERVICE 1:64:3C:0:0:0:0:0:0:0::=== San Marino ===
 #DESCRIPTION === San Marino ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/repubblica-di-san-marino/citta-di-san-marino/citta-di-san-marino/san-marino-chiesanuova.html:Chiesanuova ##2609 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/repubblica-di-san-marino/citta-di-san-marino/citta-di-san-marino/san-marino-chiesanuova.html:Chiesanuova
 #DESCRIPTION Chiesanuova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/repubblica-di-san-marino/citta-di-san-marino/citta-di-san-marino/san-marino.html:City
 #DESCRIPTION City
 #SERVICE 1:64:3D:0:0:0:0:0:0:0::=== Senegal ===
 #DESCRIPTION === Senegal ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/senegal/thies/popenguine-ndayane/plage-popenguine.html:Popenguine-Ndayane
-#DESCRIPTION Popenguine-Ndayane ##1210 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/senegal/thies/popenguine-ndayane/plage-popenguine.html:Popenguine-Ndayane ##1210 OFF
+#DESCRIPTION Popenguine-Ndayane
 #SERVICE 1:64:3E:0:0:0:0:0:0:0::=== Seychelles ===
 #DESCRIPTION === Seychelles ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/seychelles/la-digue/anse-gaulettes/anse-gaulettes.html:Anse Gaulettes
@@ -4595,7 +3743,7 @@
 #DESCRIPTION 6 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM7.stream/playlist.m3u8:7 @
 #DESCRIPTION 7 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM9.stream/playlist.m3u8:9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM9.stream/playlist.m3u8:9 @
 #DESCRIPTION 9 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM12.stream/playlist.m3u8:12 @
 #DESCRIPTION 12 @
@@ -4631,7 +3779,7 @@
 #DESCRIPTION 39 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM40.stream/playlist.m3u8:40
 #DESCRIPTION 40
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM43.stream/playlist.m3u8:43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM43.stream/playlist.m3u8:43 ##1310 OFF
 #DESCRIPTION 43 ##1310 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM44.stream/playlist.m3u8:44
 #DESCRIPTION 44
@@ -4647,7 +3795,7 @@
 #DESCRIPTION 51
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM52.stream/playlist.m3u8:52
 #DESCRIPTION 52
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM55.stream/playlist.m3u8:55 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM55.stream/playlist.m3u8:55 @ ##1310 OFF
 #DESCRIPTION 55 @ ##1310 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kukaj.profi-net.sk%3a1935/live/PLAMIENKA2.stream/chunklist.m3u8:SK 25
 #DESCRIPTION SK 25
@@ -4841,78 +3989,6 @@
 #DESCRIPTION Zürich
 #SERVICE 1:64:44:0:0:0:0:0:0:0::=== Turkey ===
 #DESCRIPTION === Turkey ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/4.stream/playlist.m3u8:4 ##0310 OFF
-#DESCRIPTION 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/25.stream/playlist.m3u8:25
-#DESCRIPTION 25
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/381.stream/playlist.m3u8:381
-#DESCRIPTION 381
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/386.stream/playlist.m3u8:386
-#DESCRIPTION 386
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/399.stream/playlist.m3u8:399
-#DESCRIPTION 399
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/400.stream/playlist.m3u8:400
-#DESCRIPTION 400
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/420.stream/playlist.m3u8:420
-#DESCRIPTION 420
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/423.stream/playlist.m3u8:423
-#DESCRIPTION 423
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/434.stream/playlist.m3u8:434
-#DESCRIPTION 434
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/447.stream/playlist.m3u8:447
-#DESCRIPTION 447
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/468.stream/playlist.m3u8:468
-#DESCRIPTION 468
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/469.stream/playlist.m3u8:469
-#DESCRIPTION 469
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/473.stream/playlist.m3u8:473
-#DESCRIPTION 473 ##1310 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/476.stream/playlist.m3u8:476
-#DESCRIPTION 476
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/491.stream/playlist.m3u8:491
-#DESCRIPTION 491
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/505.stream/playlist.m3u8:505
-#DESCRIPTION 505
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/531.stream/playlist.m3u8:531
-#DESCRIPTION 531
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/558.stream/playlist.m3u8:558
-#DESCRIPTION 558
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/570.stream/playlist.m3u8:570
-#DESCRIPTION 570
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/573.stream/playlist.m3u8:573
-#DESCRIPTION 573
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/580.stream/playlist.m3u8:580
-#DESCRIPTION 580
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/581.stream/playlist.m3u8:581
-#DESCRIPTION 581
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/635.stream/playlist.m3u8:635
-#DESCRIPTION 635
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/644.stream/playlist.m3u8:644
-#DESCRIPTION 644
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/673.stream/playlist.m3u8:673
-#DESCRIPTION 673 ##1310 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/674.stream/playlist.m3u8:674
-#DESCRIPTION 674 ##1310 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/677.stream/playlist.m3u8:677
-#DESCRIPTION 677
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/679.stream/playlist.m3u8:679
-#DESCRIPTION 679
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/713.stream/playlist.m3u8:713
-#DESCRIPTION 713
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/725.stream/playlist.m3u8:725
-#DESCRIPTION 725
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/764.stream/playlist.m3u8:764
-#DESCRIPTION 764
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/771.stream/playlist.m3u8:771
-#DESCRIPTION 771
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/794.stream/playlist.m3u8:794
-#DESCRIPTION 794
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/831.stream/playlist.m3u8:831
-#DESCRIPTION 831
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/851.stream/playlist.m3u8:851
-#DESCRIPTION 851
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/930.stream/playlist.m3u8:930
-#DESCRIPTION 930
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/turkey/anatolia-region/nevsehir/cappadocia-uchisar.html:Cappadocia - Uçhisar
 #DESCRIPTION Cappadocia - Uçhisar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBelediye2.stream/chunklist_w1167113497.m3u8:Denizli @
@@ -4966,7 +4042,7 @@
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//videos-3.earthcam.com/fecnetwork/8891.flv/chunklist_w796582151.m3u8?t=82J1EfLnjug9P2bfgSnpge5qcBEEf3p0flRliFkJ+WLns4hot9ZEheY54aZ+5mbv:Florida Marina
 #DESCRIPTION Florida Marina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-states/florida/fort-myers-beach/fort-myers-beach.html:Fort Myers Beach - Florida
-#DESCRIPTION Fort Myers Beach - Florida ##1210 OFF
+#DESCRIPTION Fort Myers Beach - Florida
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-states/michigan/grand-rapids/thornapple-river.html:Grand Rapids - Michigan
 #DESCRIPTION Grand Rapids - Michigan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-states/rhode-island/east-greenwich/greenwich-cove-marina.html:Greenwich Cove Marina - Rhode Island
@@ -5029,17 +4105,17 @@
 #DESCRIPTION San Francisco Skyline
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-states/california/santa-barbara/santa-barbara.html:Santa Barbara
 #DESCRIPTION Santa Barbara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-5865602-1/playlist.m3u8:Silt Colorado Hogback
-#DESCRIPTION Silt Colorado Hogback
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-5865602-1/playlist.m3u8:Silt Colorado Hogback @
+#DESCRIPTION Silt Colorado Hogback @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1-or.vdn.terrafox.net/live/downtown-silver.stream/playlist.m3u8:Silver city
 #DESCRIPTION Silver city
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.citynet.net/Snowshoe/smil%3aboathouse.smil/playlist.m3u8:Snowshoe Boathouse @
-#DESCRIPTION Snowshoe Boathouse @ ##1210 OFF
+#DESCRIPTION Snowshoe Boathouse @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1-or.vdn.terrafox.net/live/sonoma/playlist.m3u8:Sonoma
 #DESCRIPTION Sonoma
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a5f765a4fcc2.streamlock.net%3a1936/live/spp.stream/chunklist.m3u8:Southport @
 #DESCRIPTION Southport @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-states/florida/st-james-city/sanibel-island.html:St. James City - Florida ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-states/florida/st-james-city/sanibel-island.html:St. James City - Florida
 #DESCRIPTION St. James City - Florida
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-states/florida/stuart/sunset-bay-marina.html:Sunset Bay Marina - Stuart
 #DESCRIPTION Sunset Bay Marina - Stuart
@@ -5067,7 +4143,7 @@
 #DESCRIPTION === Venezuela ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/venezuela/vargas/la-guaira/playa-la-poza.html:La Guaira - Playa la Poza
 #DESCRIPTION La Guaira - Playa la Poza
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/venezuela/nueva-esparta/margarita-island/venezuela-isla-de-margarita.html:Margarita Island @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/venezuela/nueva-esparta/margarita-island/venezuela-isla-de-margarita.html:Margarita Island @ ##1810 OFF
 #DESCRIPTION Margarita Island @
 #SERVICE 1:64:49:0:0:0:0:0:0:0::=== Vietnam ===
 #DESCRIPTION === Vietnam ===
@@ -5079,14 +4155,14 @@
 #DESCRIPTION 3 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/index.m3u8:7
 #DESCRIPTION 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/de/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html:Hoàng Mai ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/de/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html:Hoàng Mai
 #DESCRIPTION Hoàng Mai
 #SERVICE 1:64:4A:0:0:0:0:0:0:0::=== Zambia ===
 #DESCRIPTION === Zambia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/zambia/lusaka-province/mafuta/zambezi-national-park.html:Lower Zambezi National Park 1 @
 #DESCRIPTION Lower Zambezi National Park 1 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/zambia/lusaka-province/mafuta/lower-zambezi-national-park.html:Lower Zambezi National Park 2
-#DESCRIPTION Lower Zambezi National Park 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/zambia/lusaka-province/mafuta/lower-zambezi-national-park.html:Lower Zambezi National Park 2 ##1810 OFF
+#DESCRIPTION Lower Zambezi National Park 2 ##1810 OFF
 #SERVICE 1:64:4B:0:0:0:0:0:0:0::=== Zanzibar ===
 #DESCRIPTION === Zanzibar ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-central-south/bwejuu/zanzibar-bwejuu.html:Bwejuu
@@ -5167,8 +4243,6 @@
 #DESCRIPTION Germany Hamburg Michel @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//qqxtfjwJf3U:Germany Laboe @
 #DESCRIPTION Germany Laboe @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//KapPI_D431Q:Germany Munich Airport @
-#DESCRIPTION Germany Munich Airport @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//R1bLDIW-IjA:Germany PanoCloud @@
 #DESCRIPTION Germany PanoCloud @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//aYtgGjMDagw:Germany Spotlight @@
@@ -5207,7 +4281,7 @@
 #DESCRIPTION Norway @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//iXLaEkB3J0I:Norway Nordkapp @
 #DESCRIPTION Norway Nordkapp @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//tAWFO8_O_7M:Norway Railway WINTER @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//tAWFO8_O_7M:Norway Railway Winter @
 #DESCRIPTION Norway Railway Winter @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//yMYXGmOo5tU:Portugal Madeira Porto Moniz @
 #DESCRIPTION Portugal Madeira Porto Moniz @
@@ -5217,10 +4291,10 @@
 #DESCRIPTION Russia Frozen Town on Lake Baikal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//LsTvSf2ZqBY:Russia г. Усть-Кут, Иркутская обл.,станция Лена
 #DESCRIPTION Russia г. Усть-Кут, Иркутская обл.,станция Лена
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//YFBE9l_Cn1k:Russia Samara
-#DESCRIPTION Russia Samara
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//WHJCbPYDNxI:Russia Life in Siberia
 #DESCRIPTION Russia Life in Siberia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//YFBE9l_Cn1k:Russia Samara @
+#DESCRIPTION Russia Samara @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//8miQ3QXA26Q:Scotland Fort William
 #DESCRIPTION Scotland Fort William
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//6V39eDpTyas:Slovakia @@
@@ -5235,14 +4309,14 @@
 #DESCRIPTION Switzerland Hotel Basel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//QIt1FaDMnQc:Switzerland Luzern @
 #DESCRIPTION Switzerland Luzern @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//-TG1P5BSyqw:Thailand Crystal Bay Yacht Club
-#DESCRIPTION Thailand Crystal Bay Yacht Club
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//rzbWGXOOdbM:Thailand Lamai Koh Samui
 #DESCRIPTION Thailand Lamai Koh Samui
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//LQtPCvVkvHc:Thailand Soi Buakhao Pattaya @
 #DESCRIPTION Thailand Soi Buakhao Pattaya @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//e2gC37ILQmk:Ukraine
 #DESCRIPTION Ukraine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//K87Ij5ymlM4:Ukraine 2
+#DESCRIPTION Ukraine 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//t0GrpAgdBFI:USA LAX AIRPORT
 #DESCRIPTION USA LAX AIRPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//0i_lTuIWf_A:USA New York Airport @
@@ -5269,4 +4343,3 @@
 #DESCRIPTION NASA
 #SERVICE 1:64:4D:0:0:0:0:0:0:0::=== test ===
 #DESCRIPTION === test ===
-
