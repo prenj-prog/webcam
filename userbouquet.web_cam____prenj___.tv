@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #NAME Prenj SF Ver.788 - 13.11.25  @=is moving  @@=multiple link
+=======
+#NAME Prenj SF Ver.788 - 10.11.25  @=is moving  @@=multiple link
+>>>>>>> 3c412f2ffa50f49e2213530e08eb52ef6d06043d
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_monperin03.m3u8:Bale Mon Perin @ ##2410 OFF
@@ -76,13 +80,13 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hrdaruvar.m3u8:Daruvar Trg kralja Tomislava 10
 #DESCRIPTION Daruvar Trg kralja Tomislava 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_delnice01.m3u8:Delnice panorama Petehovac 401
-#DESCRIPTION Delnice panorama Petehovac 401
+#DESCRIPTION Delnice panorama Petehovac 401 ##1011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_drage03.m3u8:Drage Kornati Vrgada 403 @
 #DESCRIPTION Drage Kornati Vrgada 403 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_drvenik01.m3u8:Drvenik Donja Vala trajekt za Hvar 201
 #DESCRIPTION Drvenik Donja Vala trajekt za Hvar 201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_drvenik02.m3u8:Drvenik Gornja Vala 302
-#DESCRIPTION Drvenik Gornja Vala 302
+#DESCRIPTION Drvenik Gornja Vala 302 ##1011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.luci.xyz/hls/LTV.m3u8:Dubrovnik Libertas TV i webcam @@
 #DESCRIPTION Dubrovnik Libertas TV i webcam @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_dubrovnik07.m3u8:Dubrovnik Stradun 407 @
@@ -166,7 +170,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webcam.marina-punat.hr/webcam/B6South/stream.m3u8:Krk Punat marina B6South
 #DESCRIPTION Krk Punat marina B6South
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_krk02.m3u8:Krk riva 302
-#DESCRIPTION Krk riva 302
+#DESCRIPTION Krk riva 302 ##1011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_krk03.m3u8:Krk Vela Placa 103
 #DESCRIPTION Krk Vela Placa 103
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_labin01.m3u8:Labin Stari grad 401
@@ -220,7 +224,11 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_novigrad1.m3u8:Novigrad Mandrač 41
 #DESCRIPTION Novigrad Mandrač 41
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_novigrad4.m3u8:Novigrad plaža Karpinjan 24
+<<<<<<< HEAD
 #DESCRIPTION Novigrad plaža Karpinjan 24
+=======
+#DESCRIPTION Novigrad plaža Karpinjan 24 ##1011 OFF
+>>>>>>> 3c412f2ffa50f49e2213530e08eb52ef6d06043d
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_novigrad2.m3u8:Novigrad Veliki Trg 12
 #DESCRIPTION Novigrad Veliki Trg 12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_novska01.m3u8:Novska 401
@@ -336,7 +344,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_povljana02.m3u8:Pag Povljana Trg 402
 #DESCRIPTION Pag Povljana Trg 402
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pakos4.m3u8:Pakoštane Drage Vransko jezero 24 @
-#DESCRIPTION Pakoštane Drage Vransko jezero 24 @
+#DESCRIPTION Pakoštane Drage Vransko jezero 24 @ ##1011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_pakos1.m3u8:Pakoštane Panorama 11
 #DESCRIPTION Pakoštane Panorama 11
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pakos2.m3u8:Pakoštane Villa Ljubica 22
@@ -598,7 +606,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_visnjan01.m3u8:Višnjan zvjezdarnica 201
 #DESCRIPTION Višnjan zvjezdarnica 201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_visnjan02.m3u8:Višnjan zvjezdarnica nebo 402
-#DESCRIPTION Višnjan zvjezdarnica nebo 402
+#DESCRIPTION Višnjan zvjezdarnica nebo 402 ##1011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_vodice4.m3u8:Vodice HD 44 @
 #DESCRIPTION Vodice HD 44 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_vodice3.m3u8:Vodice centar 23
@@ -630,7 +638,11 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_buildzagreb20.m3u8:Zagreb KLARA home by NOVI KVADRAT 220 ##0710 OFF
 #DESCRIPTION Zagreb KLARA home by NOVI KVADRAT 220 ##0710 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_kuglanazg1.m3u8:Zagreb Kuglana 21
+<<<<<<< HEAD
 #DESCRIPTION Zagreb Kuglana 21
+=======
+#DESCRIPTION Zagreb Kuglana 21 ##1011 OFF
+>>>>>>> 3c412f2ffa50f49e2213530e08eb52ef6d06043d
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zgmaksimir01.m3u8:Zagreb Maksimir pogled s Vidikovca 601
 #DESCRIPTION Zagreb Maksimir pogled s Vidikovca 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zagreb6.m3u8:Zagreb Manduševac Johann Franck 66 ##1710 OFF
@@ -948,7 +960,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_portoroz05.m3u8:Portorož Plaža 305 @
 #DESCRIPTION Portorož Plaža 305 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_portoroz04.m3u8:Portorož Panorama 304 @
-#DESCRIPTION Portorož Panorama 304 @
+#DESCRIPTION Portorož Panorama 304 @ ##1011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_ljpz1.m3u8:Portorož Zračna luka 41
 #DESCRIPTION Portorož Zračna luka 41
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_predjama01.m3u8:Postojna Predjamski dvorac 201
@@ -1520,7 +1532,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-kingdom/england/hereford/hereford-high-town.html:Hereford - High Town
 #DESCRIPTION Hereford - High Town
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Hythe_22835/tracks-v1a1/mono.m3u8:Hythe
-#DESCRIPTION Hythe
+#DESCRIPTION Hythe ##1011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.16.164.68%3a80/SVR-Kidderminster-C2_094871/index.m3u8:Kidderminster 2 ##1710 OFF
 #DESCRIPTION Kidderminster 2 ##1710 OFF
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:streamlink%3a//videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/.m3u8:London - Abbey Road
@@ -1556,7 +1568,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Williton2_84721/tracks-v1a1/mono.m3u8:Williton Station 2 ##3009 OFF
 #DESCRIPTION Williton Station 2 ##3009 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.wildlifestreaming.io%3a1935/Marwell/marwell_flamingo.stream/playlist.m3u8:Фламинго
-#DESCRIPTION Фламинго
+#DESCRIPTION Фламинго ##1011 OFF
 #SERVICE 1:64:1E:0:0:0:0:0:0:0::=== Egypt ===
 #DESCRIPTION === Egypt ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/egypt/cairo/cairo/great-pyramid-of-giza.html:Great Pyramid of Giza - Cairo
@@ -1808,7 +1820,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cam01.binz-kabel.de/cam1/960.m3u8:Binz Strand @
 #DESCRIPTION Binz Strand @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/47cgvfy9/lf55bibu.m3u8:Blomberg-Cappel Huxoll
-#DESCRIPTION Blomberg-Cappel Huxoll
+#DESCRIPTION Blomberg-Cappel Huxoll ##1011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//osltv.stream24.net/osltv4/_definst_/mp4%3aboltenhagen.stream/playlist.m3u8:Boltenhagen @
 #DESCRIPTION Boltenhagen @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8:Bonn Aerodrom 1
@@ -2446,7 +2458,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-venezia.html:Piazza Venezia, Altare della Patria - Rome
 #DESCRIPTION Piazza Venezia, Altare della Patria - Rome
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_pietracamela01.m3u8:Pietracamela Panorama 501
-#DESCRIPTION Pietracamela Panorama 501
+#DESCRIPTION Pietracamela Panorama 501 ##1011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/it_pratiditivo02.m3u8:Pietracamela Prati di Tivo Gran Sasso 202
 #DESCRIPTION Pietracamela Prati di Tivo Gran Sasso 202
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/toscana/pisa/pisa.html:Pisa @
@@ -2556,7 +2568,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_giba01.m3u8:Sardinija Giba Porto Botte plaža 701
 #DESCRIPTION Sardinija Giba Porto Botte plaža 701
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_oristano04.m3u8:Sardinija Oristano Is Arutas plaža 504
-#DESCRIPTION Sardinija Oristano Is Arutas plaža 504
+#DESCRIPTION Sardinija Oristano Is Arutas plaža 504 ##1011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_palau05.m3u8:Sardinija Palau Isola dei Gabbiani 505 @
 #DESCRIPTION Sardinija Palau Isola dei Gabbiani 505 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/lombardia/bergamo/sarnico.html:Sarnico
@@ -2618,7 +2630,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/tropea.html:Tropea
 #DESCRIPTION Tropea
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_trieste01.m3u8:Trst 701 @
-#DESCRIPTION Trst 701 @
+#DESCRIPTION Trst 701 @ ##1011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_trieste02.m3u8:Trst view of Miramare Castle 502
 #DESCRIPTION Trst view of Miramare Castle 502
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/friuli-venezia-giulia/trieste/piazza-unita-italia.html:Unity of Italy Square - Trieste
@@ -4247,7 +4259,11 @@
 #DESCRIPTION Rogoznica @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//FoNglL6eS6Y:Sjenica
 #DESCRIPTION Sjenica
+<<<<<<< HEAD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//pqgjhJKvGAY:Zlatibor
+=======
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//fGbhegtvgmw:Zlatibor
+>>>>>>> 3c412f2ffa50f49e2213530e08eb52ef6d06043d
 #DESCRIPTION Zlatibor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//NIuO6hrFTrg:Austria Feratel @@
 #DESCRIPTION Austria Feratel @@
