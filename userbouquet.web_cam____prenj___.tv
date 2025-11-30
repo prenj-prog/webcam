@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.799 - 28.11.25  @=is moving  @@=multiple link
+#NAME Prenj SF Ver.800 - 30.11.25  @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8:Bale Trg La Musa 403
@@ -503,6 +503,8 @@
 #DESCRIPTION Slano 401
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_slano02.m3u8:Slano riva Trg hrvatskih velikana 402
 #DESCRIPTION Slano riva Trg hrvatskih velikana 402
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_rastoke2.m3u8:Slunj Rastoke Slunjčica 42
+#DESCRIPTION Slunj Rastoke Slunjčica 42
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_split06.m3u8:Split HD panorama 206 @
 #DESCRIPTION Split HD panorama 206 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_kastel1.m3u8:Split Marina Kaštela 61
@@ -1147,7 +1149,7 @@
 #DESCRIPTION Ushuaia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/argentina/tierra-del-fuego/ushuaia/tren-del-fin-del-mundo.html:Ushuaia Train of the End of the World
 #DESCRIPTION Ushuaia Train of the End of the World
-#SERVICE 1:64:B:0:0:0:0:0:0:0::=== Australia (Sydney GMT+10) ===
+#SERVICE 1:64:B:0:0:0:0:0:0:0::=== Australia (Sydney GMT+10)===
 #DESCRIPTION === Australia (Sydney GMT+10)===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/australia/queensland/brisbane/brisbane-river.html:Brisbane River
 #DESCRIPTION Brisbane River
@@ -1329,7 +1331,7 @@
 #DESCRIPTION Toronto Tower West Blick
 #SERVICE 1:64:14:0:0:0:0:0:0:0::=== Caribbean Netherlands GMT-4 ===
 #DESCRIPTION === Caribbean Netherlands GMT-4 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/caribbean-netherlands/bonaire/kralendijk/bonaire.html:Bonaire - Kralendijk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/caribbean-netherlands/bonaire/kralendijk/bonaire.html:Bonaire Kralendijk
 #DESCRIPTION Bonaire Kralendijk
 #SERVICE 1:64:15:0:0:0:0:0:0:0::=== Chile GMT-3 ===
 #DESCRIPTION === Chile GMT-3 ===
@@ -1839,7 +1841,7 @@
 #DESCRIPTION Düsseldorf Stadtbezirk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/fbwo6fqy/remzxs6s.m3u8:Eckernförde Preußerstraße @
 #DESCRIPTION Eckernförde Preußerstraße @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//video1.earthcam.com/myearthcam/cd70a0c7e180019851c5b23b294d1f3f.flv/playlist.m3u8:DE - Elbtalblick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//video1.earthcam.com/myearthcam/cd70a0c7e180019851c5b23b294d1f3f.flv/playlist.m3u8:Elbtalblick
 #DESCRIPTION Elbtalblick
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/gzj536t0/6hqi120m.m3u8:Eriskirch Schussenstraße @
 #DESCRIPTION Eriskirch Schussenstraße @
@@ -1857,11 +1859,11 @@
 #DESCRIPTION Graal-Müritz Ostsee Heilbad (Seebrücke) @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/cfibaxwe/v4z1vtoe.m3u8:Greetsiel Am Neuen Deich @
 #DESCRIPTION Greetsiel Am Neuen Deich @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/deutschland/bayern/gunzenhausen/frankisches-seenland.html:Gunzenhausen - Franconian Lake District
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/deutschland/bayern/gunzenhausen/frankisches-seenland.html:Gunzenhausen Franconian Lake District
 #DESCRIPTION Gunzenhausen Franconian Lake District
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/46whfv4n/z44s8a8m.m3u8:Hamburg Bei den St. Pauli Landungsbrücken
 #DESCRIPTION Hamburg Bei den St. Pauli Landungsbrücken
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livespotting.tv/deutschland/hamburg/l2mucuq9:DE - Hamburg - Englische Planke
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livespotting.tv/deutschland/hamburg/l2mucuq9:Hamburg Englische Planke @
 #DESCRIPTION Hamburg Englische Planke @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/ae9twnah/0rv6h4hx.m3u8:Hamburg Fischertwiete @
 #DESCRIPTION Hamburg Fischertwiete @
@@ -2053,8 +2055,10 @@
 #DESCRIPTION Pápa
 #SERVICE 1:64:27:0:0:0:0:0:0:0::=== Iceland ===
 #DESCRIPTION === Iceland ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bang.snerpa.is/live/live/holtabrun2.stream/playlist.m3u8:1
-#DESCRIPTION 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s149.ipcamlive.com/streams/95vtdksgflklxhz9z/stream.m3u8:Akranes Seaport
+#DESCRIPTION Akranes Seaport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bang.snerpa.is/live/live/holtabrun2.stream/playlist.m3u8:Bolungarvik
+#DESCRIPTION Bolungarvik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bang.snerpa.is/live/live/flateyri.stream/playlist.m3u8:Flateyri
 #DESCRIPTION Flateyri
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/iceland/austurland/hofn/jokulsarlon.html:Jökulsárlón
@@ -2065,7 +2069,9 @@
 #DESCRIPTION Reykjavík - Hallgrímskirkja Church
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bang.snerpa.is/live/live/Sundahofn.stream/playlist.m3u8:Sundahofn
 #DESCRIPTION Sundahofn
-#SERVICE 1:64:28:0:0:0:0:0:0:0::=== Ireland  GMT ===
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s4.ipcamlive.com/streams/04zbawy5gyl7xodnl/stream.m3u8:Vestmannaeyjar
+#DESCRIPTION Vestmannaeyjar
+#SERVICE 1:64:28:0:0:0:0:0:0:0::=== Ireland GMT ===
 #DESCRIPTION === Ireland GMT ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/ie_tralee01.m3u8:Fenit Marina 401
 #DESCRIPTION Fenit Marina 401
@@ -2249,13 +2255,13 @@
 #DESCRIPTION Cosenza Panorama of Bianchi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/lombardia/cremona/duomo.html:Cremona Crema Cathedral
 #DESCRIPTION Cremona Crema Cathedral
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/it/webcam/italia/calabria/crotone/isola-capo-rizzuto-le-castella.html:Crotone,Porto di Le Castella a Isola Capo Rizzuto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/it/webcam/italia/calabria/crotone/isola-capo-rizzuto-le-castella.html:Crotone Porto di Le Castella a Isola Capo Rizzuto
 #DESCRIPTION Crotone Porto di Le Castella a Isola Capo Rizzuto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/it/webcam/italia/piemonte/cuneo/artesina-ski.html:Cuneo,Artesina Mondolè Ski - Piste del Colletto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/it/webcam/italia/piemonte/cuneo/artesina-ski.html:Cuneo Artesina Mondolè Ski Piste del Colletto
 #DESCRIPTION Cuneo Artesina Mondolè Ski Piste del Colletto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/it/webcam/italia/piemonte/cuneo/artesina-mondole-ski.html:Cuneo,Artesina Mondolè Ski - Piste del Pian della Turra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/it/webcam/italia/piemonte/cuneo/artesina-mondole-ski.html:Cuneo Artesina Mondolè Ski Piste del Pian della Turra
 #DESCRIPTION Cuneo Artesina Mondolè Ski Piste del Pian della Turra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/it/webcam/italia/piemonte/cuneo/frabosa-sottana-prato-nevoso.html:Cuneo,Frabosa Sottana - Prato Nevoso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/it/webcam/italia/piemonte/cuneo/frabosa-sottana-prato-nevoso.html:Cuneo Frabosa Sottana Prato Nevoso
 #DESCRIPTION Cuneo Frabosa Sottana Prato Nevoso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/italia/marche/fermo/porto-san-giorgio.html:Fermo Porto San Giorgio Beach Adriatic Sea
 #DESCRIPTION Fermo Porto San Giorgio Beach Adriatic Sea
@@ -2705,7 +2711,7 @@
 #DESCRIPTION Petra Visitor Center
 #SERVICE 1:64:2C:0:0:0:0:0:0:0::=== Kazakhstan GMT+5 ===
 #DESCRIPTION === Kazakhstan GMT+5 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cameras.smarty.kz/rtplive/camera2.stream/playlist.m3u8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cameras.smarty.kz/rtplive/camera2.stream/playlist.m3u8:Астана ТРЦ Хан Шатыр
 #DESCRIPTION Астана ТРЦ Хан Шатыр
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.13.18.225%3a8080/hls/41645/739afa6a30317e043b0d/playlist.m3u8:Шахтинск 1
 #DESCRIPTION Шахтинск 1
@@ -2933,7 +2939,7 @@
 #DESCRIPTION Tromsø
 #SERVICE 1:64:36:0:0:0:0:0:0:0::=== Panama GMT-5 ===
 #DESCRIPTION === Panama GMT-5 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/panama/panama/panama/panama.html:Panama City ##1711 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/panama/panama/panama/panama.html:Panama City
 #DESCRIPTION Panama City
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/panama/los-santos/pedasi/panama-pedasi.html:Panama - Pedasí
 #DESCRIPTION Panama - Pedasí
@@ -2999,9 +3005,9 @@
 #DESCRIPTION Trujillo Huanchaco Playa Sunkella
 #SERVICE 1:64:38:0:0:0:0:0:0:0::=== Philippines GMT+8 ===
 #DESCRIPTION === Philippines GMT+8 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/de/webcam/philippines/mimaropa/palawan/el-nido.html:Philippinen - El Nido
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/de/webcam/philippines/mimaropa/palawan/el-nido.html:Palawan Philippinen El Nido
 #DESCRIPTION Palawan Philippinen El Nido
-#SERVICE 1:64:38:0:0:0:0:0:0:0::=== Poland  ===
+#SERVICE 1:64:39:0:0:0:0:0:0:0::=== Poland  ===
 #DESCRIPTION === Poland  ===
 #SERVICE 4097:0:1:4884:476E:EC:0:0:0:0:http%3a//hoktastream4.webcamera.pl/skywind_cam_4b0f1c/skywind_cam_4b0f1c.stream/playlist.m3u8:Bukowina Tatrzańska - Hotel Bania
 #DESCRIPTION Bukowina Tatrzańska - Hotel Bania
@@ -3117,13 +3123,13 @@
 #DESCRIPTION Zakopane Polana Szymoszkowa @
 #SERVICE 4097:0:1:DD86:1985:EC:0:0:0:0:https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8:-  Panorama - Slide show - pokaz slajdów @@
 #DESCRIPTION -  Panorama - Slide show - pokaz slajdów @@
-#SERVICE 1:64:39:0:0:0:0:0:0:0::=== Portugal  ===
+#SERVICE 1:64:3A:0:0:0:0:0:0:0::=== Portugal  ===
 #DESCRIPTION === Portugal  ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/portugal/algarve/faro/faro-portugal.html:Faro
 #DESCRIPTION Faro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/portugal/algarve/lagos/lagos-portugal.html:Lagos
 #DESCRIPTION Lagos
-#SERVICE 1:64:3A:0:0:0:0:0:0:0::=== Romania  ===
+#SERVICE 1:64:3B:0:0:0:0:0:0:0::=== Romania  ===
 #DESCRIPTION === Romania  ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/alba_iulia_desktop.stream/index.m3u8:Alba Iulia Panoramview
 #DESCRIPTION Alba Iulia Panoramview
@@ -3149,7 +3155,7 @@
 #DESCRIPTION Predeal Centru
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/ramnicu_valcea_desktop.stream/index.m3u8:Râmnicu Vâlcea
 #DESCRIPTION Râmnicu Vâlcea
-#SERVICE 1:64:3B:0:0:0:0:0:0:0::=== Russia GMT+2/+12(Moscow GMT+3)===
+#SERVICE 1:64:3C:0:0:0:0:0:0:0::=== Russia GMT+2/+12(Moscow GMT+3) ===
 #DESCRIPTION === Russia GMT+2/+12(Moscow GMT+3) ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cmirit.ru%3a443/live/200pobeda_1920x1080.stream/playlist.m3u8:200
 #DESCRIPTION 200
@@ -3449,18 +3455,20 @@
 #DESCRIPTION Междуреченск 67
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/68/live.m3u8:Междуреченск 68
 #DESCRIPTION Междуреченск 68
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/69/live.m3u8:Междуреченск 69 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.m-ten.ru%3a8080/hls/69/live.m3u8:Междуреченск 69
 #DESCRIPTION Междуреченск 69
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam411/tracks-v1a1/mono.ts.m3u8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam411/tracks-v1a1/mono.ts.m3u8:Moscow Алтуфьевское 53
 #DESCRIPTION Moscow Алтуфьевское 53
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam262/tracks-v1a1/mono.ts.m3u8
-#DESCRIPTION Moscow Бусиновский парк 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtsp2.videocam.online/live/Dubininsky5.stream/chunklist_w1253433445.m3u8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam262/tracks-v1a1/mono.ts.m3u8:Moscow Бусиновский парк
+#DESCRIPTION Moscow Бусиновский парк
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtsp2.videocam.online/live/Dubininsky5.stream/chunklist_w1253433445.m3u8:Moscow Павелецкая Сити
 #DESCRIPTION Moscow Павелецкая Сити
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsp2.videocam.online/live/Slava.stream/playlist.m3u8:Междуреченск 69 @
-#DESCRIPTION Moscow Slava 
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsp2.videocam.online/live/JOIS2.stream/chunklist.m3u8
-#DESCRIPTION Moscow ЖК JOIS 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsp2.videocam.online/live/Slava.stream/playlist.m3u8:Moscow Slava
+#DESCRIPTION Moscow Slava
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsp2.videocam.online/live/Slava.stream/playlist.m3u8:Moscow Slava
+#DESCRIPTION Moscow Slava
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsp2.videocam.online/live/JOIS2.stream/chunklist.m3u8:Moscow ЖК JOIS
+#DESCRIPTION Moscow ЖК JOIS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/1/hls/stream.m3u8:Московская область 1 ##0811 OFF
 #DESCRIPTION Московская область 1 ##0811 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/2/hls/stream.m3u8:Московская область 2
@@ -3761,17 +3769,17 @@
 #DESCRIPTION Череповец  школа № 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.211.56.203%3a8081/sibmf/sharipovo/chunks.m3u8:Шарыпово
 #DESCRIPTION Шарыпово
-#SERVICE 1:64:3C:0:0:0:0:0:0:0::=== San Marino ===
+#SERVICE 1:64:3D:0:0:0:0:0:0:0::=== San Marino ===
 #DESCRIPTION === San Marino ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/repubblica-di-san-marino/citta-di-san-marino/citta-di-san-marino/san-marino-chiesanuova.html:Chiesanuova
 #DESCRIPTION Chiesanuova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/repubblica-di-san-marino/citta-di-san-marino/citta-di-san-marino/san-marino.html:City
 #DESCRIPTION City
-#SERVICE 1:64:3D:0:0:0:0:0:0:0::=== Senegal GMT ===
+#SERVICE 1:64:3E:0:0:0:0:0:0:0::=== Senegal GMT ===
 #DESCRIPTION === Senegal GMT ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/senegal/thies/popenguine-ndayane/plage-popenguine.html:Popenguine-Ndayane
 #DESCRIPTION Popenguine-Ndayane
-#SERVICE 1:64:3E:0:0:0:0:0:0:0::=== Seychelles GMT+4 ===
+#SERVICE 1:64:3F:0:0:0:0:0:0:0::=== Seychelles GMT+4 ===
 #DESCRIPTION === Seychelles GMT+4 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/seychelles/la-digue/anse-gaulettes/anse-gaulettes.html:Anse Gaulettes
 #DESCRIPTION Anse Gaulettes
@@ -3783,13 +3791,13 @@
 #DESCRIPTION Beau Vallon @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/seychelles/mahe/anse-etoile/quincy-village.html:Quincy Village
 #DESCRIPTION Quincy Village
-#SERVICE 1:64:3F:0:0:0:0:0:0:0::=== Sint Maarten GMT-4 ===
+#SERVICE 1:64:40:0:0:0:0:0:0:0::=== Sint Maarten GMT-4 ===
 #DESCRIPTION === Sint Maarten GMT-4 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/sint-maarten/saint-martin/simpson-bay/princess-juliana-international-airport.html:Princess Juliana International Airport
 #DESCRIPTION Princess Juliana International Airport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/sint-maarten/saint-martin/simpson-bay/beacon-hill-beach.html:Simpson Bay - Beacon Hill Beach
 #DESCRIPTION Simpson Bay - Beacon Hill Beach
-#SERVICE 1:64:40:0:0:0:0:0:0:0::=== Slovakia ===
+#SERVICE 1:64:41:0:0:0:0:0:0:0::=== Slovakia ===
 #DESCRIPTION === Slovakia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM2.stream/playlist.m3u8:2 @
 #DESCRIPTION 2 @
@@ -3881,7 +3889,7 @@
 #DESCRIPTION Kukaj 18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.kukaj.se/stream/27/video.m3u8:Kukaj 27
 #DESCRIPTION Kukaj 27
-#SERVICE 1:64:41:0:0:0:0:0:0:0::=== South Africa GMT+2 ===
+#SERVICE 1:64:42:0:0:0:0:0:0:0::=== South Africa GMT+2 ===
 #DESCRIPTION === South Africa GMT+2 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/south-africa/kwazulu-natal/kwadukuza/ballito-beach.html:Ballito
 #DESCRIPTION Ballito
@@ -3897,7 +3905,7 @@
 #DESCRIPTION Cape Town Zeekoevlei
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/south-africa/kwazulu-natal/kwadukuza/zinkwazi-beach.html:Zinkwazi Beach
 #DESCRIPTION Zinkwazi Beach
-#SERVICE 1:64:42:0:0:0:0:0:0:0::=== Spain ===
+#SERVICE 1:64:43:0:0:0:0:0:0:0::=== Spain ===
 #DESCRIPTION === Spain ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-alicante.html:Alicante Benidorm Playa de Levante @
 #DESCRIPTION Alicante Benidorm Playa de Levante @
@@ -3923,7 +3931,7 @@
 #DESCRIPTION Cadiz El Bosque
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/espana/andalucia/cadiz/zahara.html:Cadiz Zahara
 #DESCRIPTION Cadiz Zahara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/espana/andalucia/cadiz/grazalema.html:CadizGrazalema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/espana/andalucia/cadiz/grazalema.html:Cadiz Grazalema
 #DESCRIPTION Cadiz Grazalema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/de/webcam/espana/comunidad-valenciana/castellon/benicasim.html:Castellon Benicàssim @
 #DESCRIPTION Castellon Benicàssim @
@@ -4031,7 +4039,7 @@
 #DESCRIPTION Tarragona Calafell
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/espana/cantabria/torrelavega/torrelavega.html:Torrelavega
 #DESCRIPTION Torrelavega
-#SERVICE 1:64:43:0:0:0:0:0:0:0::=== Switzerland ===
+#SERVICE 1:64:44:0:0:0:0:0:0:0::=== Switzerland ===
 #DESCRIPTION === Switzerland ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/schweiz/kanton-tessin/locarno/ascona.html:Ascona
 #DESCRIPTION Ascona
@@ -4059,7 +4067,7 @@
 #DESCRIPTION Unterseen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hotelalexander.it-wms.com/clip_current_720p.mp4:Zürich
 #DESCRIPTION Zürich
-#SERVICE 1:64:44:0:0:0:0:0:0:0::=== Turkey GMT+3 ===
+#SERVICE 1:64:45:0:0:0:0:0:0:0::=== Turkey GMT+3 ===
 #DESCRIPTION === Turkey GMT+3 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/turkey/anatolia-region/nevsehir/cappadocia-uchisar.html:Cappadocia - Uçhisar
 #DESCRIPTION Cappadocia - Uçhisar
@@ -4073,21 +4081,21 @@
 #DESCRIPTION DenizliLaodikeia @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbOtogar.stream/chunklist_w183105836.m3u8:DenizliUcgen Meydani @
 #DESCRIPTION DenizliUcgen Meydani @
-#SERVICE 1:64:45:0:0:0:0:0:0:0::=== United Arab Emirates GMT+4 ===
+#SERVICE 1:64:46:0:0:0:0:0:0:0::=== United Arab Emirates GMT+4 ===
 #DESCRIPTION === United Arab Emirates GMT+4 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-arab-emirates/dubai/dubai/dubai-marina.html:Dubai Marina
 #DESCRIPTION Dubai Marina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-arab-emirates/dubai/dubai/dubai.html:Dubai Princess Tower @
 #DESCRIPTION Dubai Princess Tower @
-#SERVICE 1:64:46:0:0:0:0:0:0:0::=== Uruguay GMT-3 ===
+#SERVICE 1:64:47:0:0:0:0:0:0:0::=== Uruguay GMT-3 ===
 #DESCRIPTION === Uruguay GMT-3 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/uruguay/maldonado/punta-del-este/punta-del-este-uruguay.html:Punta del Este
 #DESCRIPTION Punta del Este
-#SERVICE 1:64:47:0:0:0:0:0:0:0::=== US Virgin Islands GMT-4 ===
+#SERVICE 1:64:48:0:0:0:0:0:0:0::=== US Virgin Islands GMT-4 ===
 #DESCRIPTION === US Virgin Islands GMT-4 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/us-virgin-islands/st-thomas/water-island/water-island.html:Water Island - USVI
 #DESCRIPTION Water Island - USVI
-#SERVICE 1:64:48:0:0:0:0:0:0:0::=== USA GMT-5/-8 ===
+#SERVICE 1:64:49:0:0:0:0:0:0:0::=== USA GMT-5/-8 ===
 #DESCRIPTION === USA GMT-5/-8 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/usa/arizona/prescott/?cam=prescott:Arizona Prescott
 #DESCRIPTION Arizona Prescott
@@ -4339,7 +4347,7 @@
 #DESCRIPTION South Carolina Myrtle Beach Cam Volleyball
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/usa/southcarolina/spartanburg/?cam=pacoletriver:South Carolina Pacolet River
 #DESCRIPTION South Carolina Pacolet River
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-states/tennessee/gatlinburg/tennessee-gatlinburg.html:Tennessee Gatlinburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/united-states/tennessee/gatlinburg/tennessee-gatlinburg.html:Tennessee Gatlinburg ##2811 OFF
 #DESCRIPTION Tennessee Gatlinburg ##2811 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/lafollette.stream/playlist.m3u8:Tennessee LaFollette West Central Avenue @
 #DESCRIPTION Tennessee LaFollette West Central Avenue @
@@ -4371,13 +4379,13 @@
 #DESCRIPTION Wisconsin Egg Harbor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live/madelineisland.stream/playlist.m3u8:Wisconsin Madeline Island @
 #DESCRIPTION Wisconsin Madeline Island @
-#SERVICE 1:64:49:0:0:0:0:0:0:0::=== Venezuela GMT-4 ===
+#SERVICE 1:64:4A:0:0:0:0:0:0:0::=== Venezuela GMT-4 ===
 #DESCRIPTION === Venezuela GMT-4 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/venezuela/vargas/la-guaira/playa-la-poza.html:La Guaira - Playa la Poza
 #DESCRIPTION La Guaira - Playa la Poza
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/venezuela/nueva-esparta/margarita-island/venezuela-isla-de-margarita.html:Margarita Island @
 #DESCRIPTION Margarita Island @
-#SERVICE 1:64:4A:0:0:0:0:0:0:0::=== Vietnam GMT+7 ===
+#SERVICE 1:64:4B:0:0:0:0:0:0:0::=== Vietnam GMT+7 ===
 #DESCRIPTION === Vietnam GMT+7 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8:1
 #DESCRIPTION 1
@@ -4389,13 +4397,13 @@
 #DESCRIPTION 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/de/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html:Hoàng Mai
 #DESCRIPTION Hoàng Mai
-#SERVICE 1:64:4B:0:0:0:0:0:0:0::=== Zambia GMT+2 ===
+#SERVICE 1:64:4C:0:0:0:0:0:0:0::=== Zambia GMT+2 ===
 #DESCRIPTION === Zambia GMT+2 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/zambia/lusaka-province/mafuta/zambezi-national-park.html:Lower Zambezi National Park 1 @
 #DESCRIPTION Lower Zambezi National Park 1 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/zambia/lusaka-province/mafuta/lower-zambezi-national-park.html:Lower Zambezi National Park 2
 #DESCRIPTION Lower Zambezi National Park 2
-#SERVICE 1:64:4C:0:0:0:0:0:0:0::=== Zanzibar +3 ===
+#SERVICE 1:64:4D:0:0:0:0:0:0:0::=== Zanzibar GMT+3 ===
 #DESCRIPTION === Zanzibar GMT+3 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-central-south/bwejuu/zanzibar-bwejuu.html:Bwejuu ##1811 OFF
 #DESCRIPTION Bwejuu ##1811 OFF
@@ -4421,7 +4429,7 @@
 #DESCRIPTION Nungwi Beach @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-central-south/paje/unguja.html:Paje ##1811 OFF
 #DESCRIPTION Paje ##1811 OFF
-#SERVICE 1:64:4D:0:0:0:0:0:0:0::***** YOUTUBE *****
+#SERVICE 1:64:4E:0:0:0:0:0:0:0::***** YOUTUBE *****
 #DESCRIPTION ***** YOUTUBE *****
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//gpFqI8DD9IA:Beograd @
 #DESCRIPTION Beograd @
@@ -4467,7 +4475,7 @@
 #DESCRIPTION England Ferry Southampton to Cowes Isle of Wight Red Funnel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//A6R81wOlQqs:Espana Malaga Airport
 #DESCRIPTION Espana Malaga Airport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//w9ICwT2WZy8:Europe @@ ##2411 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//w9ICwT2WZy8:Europe @@
 #DESCRIPTION Europe @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//JnJhFYhIjFs:Finnland Helsinki Port West harbour north cam
 #DESCRIPTION Finnland Helsinki Port West harbour north cam
@@ -4549,14 +4557,16 @@
 #DESCRIPTION Portugal Porto @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//YFBE9l_Cn1k:Russia Samara @
 #DESCRIPTION Russia Samara @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//fUsJZTHeZn4:Russia St. Petersburg
+#DESCRIPTION Russia St. Petersburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//8miQ3QXA26Q:Scotland Fort William
 #DESCRIPTION Scotland Fort William
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//6V39eDpTyas:Slovakia @@
 #DESCRIPTION Slovakia @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//NHRDdaH4LpU:Spain @@
 #DESCRIPTION Spain @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//ObNWMadSjug:Sweden @@ ##2511 OFF
-#DESCRIPTION Sweden @@ ##2811 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//Km7Wb-uiKbo:Sweden
+#DESCRIPTION Sweden
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//agY6ZaM1G_o:Sweden Stockholm
 #DESCRIPTION Sweden Stockholm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//enYFXf8u7Lc:Switzerland Feratel @@
@@ -4575,6 +4585,10 @@
 #DESCRIPTION Ukraine 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//V_0az0lQ6Ww:Ukraine 2
 #DESCRIPTION Ukraine 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//Y-_MTam64Jk:Ukraine 3
+#DESCRIPTION Ukraine 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//R-qCsZ1obbc:Ukraine 4
+#DESCRIPTION Ukraine 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//t0GrpAgdBFI:USA LAX AIRPORT
 #DESCRIPTION USA LAX AIRPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//0i_lTuIWf_A:USA New York Airport @
@@ -4587,6 +4601,8 @@
 #DESCRIPTION World 1 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//2BLqhS59Elc:World 2 @@
 #DESCRIPTION World 2 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//HVGwLboIdYc:World 3 @@
+#DESCRIPTION World 3 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//HfgIFGbdGJ0:World 4 Earth TV @@
 #DESCRIPTION World 4 Earth TV @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//EFum1rGUdkk:World 5 Skyline top @@
@@ -4597,7 +4613,7 @@
 #DESCRIPTION World 7 Cities 1 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:streamlink%3a//youtu.be//_q0yBz6h4Lg:World 8 Cities 2 @@
 #DESCRIPTION World 8 Cities 2 @@
-#SERVICE 1:64:4E:0:0:0:0:0:0:0::=== test ===
+#SERVICE 1:64:4F:0:0:0:0:0:0:0::=== test ===
 #DESCRIPTION === test ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=6erj7ooA6CM:Nepal ANNAPURNA BASE CAMP 2
 #DESCRIPTION Nepal ANNAPURNA BASE CAMP 2
