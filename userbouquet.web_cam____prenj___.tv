@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.809 - 27.12.25  @=is moving  @@=multiple link
+#NAME Prenj SF Ver.810 - 29.12.25  @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8:Bale Trg La Musa 403
@@ -72,7 +72,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hrdaruvar.m3u8:Daruvar Trg kralja Tomislava 10
 #DESCRIPTION Daruvar Trg kralja Tomislava 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_delnice01.m3u8:Delnice panorama Petehovac 401
-#DESCRIPTION Delnice panorama Petehovac 401
+#DESCRIPTION Delnice panorama Petehovac 401 ## 2912 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_drage03.m3u8:Drage Kornati Vrgada 403 @
 #DESCRIPTION Drage Kornati Vrgada 403 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_drvenik01.m3u8:Drvenik Donja Vala trajekt za Hvar 201
@@ -159,8 +159,8 @@
 #DESCRIPTION Krk Punat marina B6South
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_krk02.m3u8:Krk riva 302
 #DESCRIPTION Krk riva 302
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_krk03.m3u8:Krk Vela Placa 103 ##2211 OFF
-#DESCRIPTION Krk Vela Placa 103 ##2211 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_krk03.m3u8:Krk - Vela Placa 603
+#DESCRIPTION Krk - Vela Placa 603
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_labin01.m3u8:Labin Stari grad 401
 #DESCRIPTION Labin Stari grad 401
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_makarska02.m3u8:Makarska panoramska 102 @
@@ -203,12 +203,12 @@
 #DESCRIPTION Novi Vinodolski panoramska 34 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_povile01.m3u8:Novi Vinodolski Povile Plaža 201
 #DESCRIPTION Novi Vinodolski Povile Plaža 201
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_evenovigrad01.m3u8:Novigrad Fešta svetog Pelagija 601 ##0411 OFF
-#DESCRIPTION Novigrad Fešta svetog Pelagija 601 ##0411 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_evenovigrad01.m3u8:Novigrad - Fešta svetog Pelagija 601 ##0411 OFF
+#DESCRIPTION Novigrad - Fešta svetog Pelagija 601 ##0411 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_novigrad1.m3u8:Novigrad Mandrač 41 ##2112 OFF
 #DESCRIPTION Novigrad Mandrač 41 ##2112 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_novigrad4.m3u8:Novigrad plaža Karpinjan 44
-#DESCRIPTION Novigrad plaža Karpinjan 44 ##2712 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_novigrad4.m3u8:Novigrad - plaža Karpinjan 44 ##2712 OFF
+#DESCRIPTION Novigrad - plaža Karpinjan 44 ##2712 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_novigrad2.m3u8:Novigrad Veliki Trg 12
 #DESCRIPTION Novigrad Veliki Trg 12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_novska01.m3u8:Novska 401
@@ -256,7 +256,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Advent_Opatija2/Advent_Opatija2.stream/playlist.m3u8:Opatija Park Angiolina muzički paviljon
 #DESCRIPTION Opatija Park Angiolina muzički paviljon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Ucka_Poklon/Ucka_Poklon.stream/playlist.m3u8:Opatija Poklon Učka @
-#DESCRIPTION Opatija Poklon Učka @
+#DESCRIPTION Opatija Poklon Učka @ ## 2912 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Preluk/Preluk.stream/playlist.m3u8:Opatija Preluk Ribolovno društvo @
 #DESCRIPTION Opatija Preluk Ribolovno društvo @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Slatina_Palace/Slatina_Palace.stream/playlist.m3u8:Opatija Slatina hotel Palace Bellevue
@@ -319,7 +319,7 @@
 #DESCRIPTION Pag Povljana riva i lučica 201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_povljana02.m3u8:Pag Povljana Trg 402
 #DESCRIPTION Pag Povljana Trg 402
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pakos4.m3u8:Pakoštane Drage Vransko jezero 24 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pakos4.m3u8:Pakoštane Drage Vransko jezero 24 @ ##2712 OFF
 #DESCRIPTION Pakoštane Drage Vransko jezero 24 @ ##2712 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_pakos1.m3u8:Pakoštane Panorama 11
 #DESCRIPTION Pakoštane Panorama 11
@@ -539,7 +539,7 @@
 #DESCRIPTION Štrigova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/hrvatska/varazdinska/varazdin/dvorac-trakoscan-bednja.html:Trakošćan Dvorac
 #DESCRIPTION Trakošćan Dvorac
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_trakoscan01.m3u8:Trakošćan Dvorac 201 ##2611 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_trakoscan01.m3u8:Trakošćan Dvorac 201
 #DESCRIPTION Trakošćan Dvorac 201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_tribunj01.m3u8:Tribunj 401
 #DESCRIPTION Tribunj 401
@@ -621,7 +621,7 @@
 #DESCRIPTION Zagreb Siget 722
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zgvzpenjaca.m3u8:Zagreb Uspinjača 20
 #DESCRIPTION Zagreb Uspinjača 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_buildvjesnik01.m3u8:Zagreb Vjesnikov neboder 201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_buildvjesnik01.m3u8:Zagreb Vjesnikov neboder 201 ##2712 OFF
 #DESCRIPTION Zagreb Vjesnikov neboder 201 ##2712 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildzagreb23.m3u8:Zagreb Zgrada Zagorska ulica kamera 2
 #DESCRIPTION Zagreb Zgrada Zagorska ulica kamera 2
@@ -638,7 +638,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_blatozivogosce.m3u8:Živogošće Blato marina 40
 #DESCRIPTION Živogošće Blato marina 40
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_zivogosce.m3u8:Živogošće Lučica 20
-#DESCRIPTION Živogošće Lučica 20
+#DESCRIPTION Živogošće Lučica 20 ## 2912 OFF
 #SERVICE 1:64:2:0:0:0:0:0:0:0::=== Croatia Highways ===
 #DESCRIPTION === Croatia Highways ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_azm07.m3u8:Đurmanec sjever A2 207
@@ -699,7 +699,7 @@
 #DESCRIPTION Ljubuški Paragliding 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/maglaj_cam.m3u8:Maglaj @
 #DESCRIPTION Maglaj @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/ba_mostar01.m3u8:Mostar 501
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/ba_mostar01.m3u8:Mostar 501 ##2712 OFF
 #DESCRIPTION Mostar 501 ##2712 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/mostar_cam.m3u8:Mostar @
 #DESCRIPTION Mostar @
@@ -829,7 +829,7 @@
 #DESCRIPTION Črne na Koroškem @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_sempeter01.m3u8:Gorica Šempeter 501
 #DESCRIPTION Gorica Šempeter 501
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_struska01.m3u8:Jesenice Struška 601 ##2611 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_struska01.m3u8:Jesenice Struška 601
 #DESCRIPTION Jesenice Struška 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_kanal01.m3u8:Kanal ob Soči 601
 #DESCRIPTION Kanal ob Soči 601
@@ -1001,8 +1001,8 @@
 #DESCRIPTION Beograd Savski Trg ##0212 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/trg-republike/playlist.m3u8:Beograd Trg Republike ##0411 OFF
 #DESCRIPTION Beograd Trg Republike ##0411 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zarkovo/playlist.m3u8:Beograd Trgovačka ulica Žarkovo ##2612 OFF
-#DESCRIPTION Beograd Trgovačka ulica Žarkovo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zarkovo/playlist.m3u8:Beograd Trgovačka ulica Žarkovo
+#DESCRIPTION Beograd Trgovačka ulica Žarkovo ## 2912 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zeleni-venac/playlist.m3u8:Beograd Zeleni venac ##2211 OFF
 #DESCRIPTION Beograd Zeleni venac ##2211 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zmaj-pumpa/playlist.m3u8:Beograd Zmaj
@@ -1021,7 +1021,7 @@
 #DESCRIPTION Beograd Bulevar Mihajla Pupina @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/ada.m3u8:Beograd Bulevar Milutina Milankovica ~ Most na Adi
 #DESCRIPTION Beograd Bulevar Milutina Milankovica ~ Most na Adi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/gagarina.m3u8:Beograd Jurija Gagarina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/gagarina.m3u8:Beograd Jurija Gagarina ##2712 OFF
 #DESCRIPTION Beograd Jurija Gagarina ##2712 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/opstinanbg.m3u8:Beograd Kružni tok Novi Beograd ~ Opština NBG @
 #DESCRIPTION Beograd Kružni tok Novi Beograd ~ Opština NBG @
@@ -1065,7 +1065,7 @@
 #DESCRIPTION Novi Sad Bulevar Mihajla Pupina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/juzni-bul1/playlist.m3u8:Novi Sad Mišeluk
 #DESCRIPTION Novi Sad Mišeluk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/most-slobode1/playlist.m3u8:Novi Sad Most Slobode
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/most-slobode1/playlist.m3u8:Novi Sad Most Slobode ##2712 OFF
 #DESCRIPTION Novi Sad Most Slobode ##2712 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/posta-ns1/playlist.m3u8:Novi Sad Pupinova palata
 #DESCRIPTION Novi Sad Pupinova palata
@@ -1099,41 +1099,41 @@
 #DESCRIPTION Vrnjačka Banja ZOO Vrt u Vrnjcima nadomak Vrnjačke banje
 #SERVICE 1:64:8:0:0:0:0:0:0:0::=== Border crossings of Serbia ===
 #DESCRIPTION === Border crossings of Serbia ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Batrovci/batrovci2.m3u8:Batrovci izlaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Batrovci/batrovci2.m3u8:Batrovci izlaz
 #DESCRIPTION Batrovci izlaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Batrovci/batrovci1.m3u8:Batrovci ulaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Batrovci/batrovci1.m3u8:Batrovci ulaz
 #DESCRIPTION Batrovci ulaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Djala/djala1.m3u8:Đala  izlaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Djala/djala1.m3u8:Đala  izlaz
 #DESCRIPTION Đala  izlaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Djala/djala2.m3u8:Đala  ulaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Djala/djala2.m3u8:Đala  ulaz
 #DESCRIPTION Đala  ulaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Horgos/horgos2.m3u8:Horgoš  izlaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Horgos/horgos2.m3u8:Horgoš  izlaz
 #DESCRIPTION Horgoš  izlaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Horgos/horgos1.m3u8:Horgoš  ulaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Horgos/horgos1.m3u8:Horgoš  ulaz
 #DESCRIPTION Horgoš  ulaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kelebija/kelebija2.m3u8:Kelebija  izlaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kelebija/kelebija2.m3u8:Kelebija  izlaz
 #DESCRIPTION Kelebija  izlaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kelebija/kelebija1.m3u8:Kelebija  ulaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kelebija/kelebija1.m3u8:Kelebija  ulaz
 #DESCRIPTION Kelebija  ulaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kotroman/kotroman1.m3u8:Kotroman izlaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kotroman/kotroman1.m3u8:Kotroman izlaz
 #DESCRIPTION Kotroman izlaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kotroman/kotroman2.m3u8:Kotroman ulaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Kotroman/kotroman2.m3u8:Kotroman ulaz
 #DESCRIPTION Kotroman ulaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/MaliZvornik/malizvornik2.m3u8:Mali Zvornik izlaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/MaliZvornik/malizvornik2.m3u8:Mali Zvornik izlaz
 #DESCRIPTION Mali Zvornik izlaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/MaliZvornik/malizvornik1.m3u8:Mali Zvornik ulaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/MaliZvornik/malizvornik1.m3u8:Mali Zvornik ulaz
 #DESCRIPTION Mali Zvornik ulaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/SremskaRaca/sremskaraca2.m3u8:Sremska Rača izlaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/SremskaRaca/sremskaraca2.m3u8:Sremska Rača izlaz
 #DESCRIPTION Sremska Rača izlaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/SremskaRaca/sremskaraca1.m3u8:Sremska Rača ulaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/SremskaRaca/sremskaraca1.m3u8:Sremska Rača ulaz
 #DESCRIPTION Sremska Rača ulaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Sid/sid2.m3u8:Šid izlaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Sid/sid2.m3u8:Šid izlaz
 #DESCRIPTION Šid izlaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Sid/sid1.m3u8:Šid ulaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Sid/sid1.m3u8:Šid ulaz
 #DESCRIPTION Šid ulaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Trbusnica/trbusnica2.m3u8:Trbušnica izlaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Trbusnica/trbusnica2.m3u8:Trbušnica izlaz
 #DESCRIPTION Trbušnica izlaz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Trbusnica/trbusnica1.m3u8:Trbušnica ulaz +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.142.211%3a8081/Trbusnica/trbusnica1.m3u8:Trbušnica ulaz
 #DESCRIPTION Trbušnica ulaz
 #SERVICE 1:64:9:0:0:0:0:0:0:0::=== Albania GMT+1 ===
 #DESCRIPTION === Albania GMT+1 ===
@@ -1259,15 +1259,15 @@
 #DESCRIPTION Copacabana lago-titicaca ##2212 OFF
 #SERVICE 1:64:11:0:0:0:0:0:0:0::=== Brazil GMT-3 ===
 #DESCRIPTION === Brazil GMT-3 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8d73edc0407.streamlock.net/bnuip200/bnuip20003.stream/playlist.m3u8:1 ##0312 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8d73edc0407.streamlock.net/bnuip200/bnuip20003.stream/playlist.m3u8:Brazil 1 ##0312 OFF
 #DESCRIPTION Brazil 1 ##0312 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b33b873179a2.streamlock.net%3a1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8:2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b33b873179a2.streamlock.net%3a1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8:Brazil 2
 #DESCRIPTION Brazil 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8d73edc0407.streamlock.net/bnuip20/bnuip2021.stream/playlist.m3u8:3 ##0312 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8d73edc0407.streamlock.net/bnuip20/bnuip2021.stream/playlist.m3u8:Brazil 3 ##0312 OFF
 #DESCRIPTION Brazil 3 ##0312 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/playlist.m3u8:4 ##0312 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/playlist.m3u8:Brazil 4 ##0312 OFF
 #DESCRIPTION Brazil 4 ##0312 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8d73edc0407.streamlock.net/bnuip20/bnuip2005.stream/playlist.m3u8:5 ##0312 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a8d73edc0407.streamlock.net/bnuip20/bnuip2005.stream/playlist.m3u8:Brazil 5 ##0312 OFF
 #DESCRIPTION Brazil 5 ##0312 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/sao-paulo/aparecida/basilica-of-national-shrine-of-our-lady-aperecida.html:Basilica of National Shrine of Our Lady Aperecida
 #DESCRIPTION Basilica of National Shrine of Our Lady Aperecida
@@ -1308,11 +1308,11 @@
 #SERVICE 1:64:13:0:0:0:0:0:0:0::=== Canada GMT-4/-5 ===
 #DESCRIPTION === Canada GMT-4/-5 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/campbell-river.html:Campbell River British Columbia
-#DESCRIPTION Campbell River British Columbia
+#DESCRIPTION Campbell River British Columbia ## 2812 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/discovery-passage.html:Campbell River Discovery Passage
-#DESCRIPTION Campbell River Discovery Passage
+#DESCRIPTION Campbell River Discovery Passage ## 2812 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/discovery-pier.html:Campbell River Discovery Pier
-#DESCRIPTION Campbell River Discovery Pier
+#DESCRIPTION Campbell River Discovery Pier ## 2812 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.gpei.ca/islandcam/guild.stream/playlist.m3u8:Charlottetown ##2611 OFF
 #DESCRIPTION Charlottetown ##2611 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/canada/niagarafalls/thefalls/?cam=niagarafalls2:Niagara Falls
@@ -1354,7 +1354,7 @@
 #SERVICE 1:64:17:0:0:0:0:0:0:0::=== Costa Rica GMT-6 ===
 #DESCRIPTION === Costa Rica GMT-6 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/guanacaste/la-cruz/bahia-salinas.html:Bahia Salinas - Nandel Beach
-#DESCRIPTION Bahia Salinas - Nandel Beach
+#DESCRIPTION Bahia Salinas - Nandel Beach ## 2812 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/puntarenas/puntarenas/cobano.html:Cóbano Airport
 #DESCRIPTION Cóbano Airport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/irazu.html:Irazú
@@ -1374,7 +1374,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-seafront.html:Larnaca seafront
 #DESCRIPTION Larnaca seafront
 #SERVICE 1:64:19:0:0:0:0:0:0:0::=== Czech Republik GMT+1 ===
-#DESCRIPTION === Czech Republik GMT+1 ===
+#DESCRIPTION === Czech Republic GMT+1 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/roznov.m3u8:1
 #DESCRIPTION 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/eroplan.m3u8:2
@@ -1401,9 +1401,9 @@
 #DESCRIPTION 15
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kamery2.wolfnet.cz/bozi_vyhlidka2.m3u8:16 @
 #DESCRIPTION 16 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/planespotting/playlist.m3u8:Аэропорт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/planespotting/playlist.m3u8:Airport ##2712 OFF
 #DESCRIPTION Airport ##2712 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/hrosi/playlist.m3u8:Бегемоты
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/hrosi/playlist.m3u8:Hippos ##2712 OFF
 #DESCRIPTION Hippos ##2712 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.silesnet.net/webcams/jablunkov.m3u8:Jablunkov
 #DESCRIPTION Jablunkov
@@ -1413,9 +1413,9 @@
 #DESCRIPTION Prague
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/old-town.html:Prague - Old Town
 #DESCRIPTION Prague - Old Town
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vytopna/playlist.m3u8:Ж/д вокзал Смихов
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vytopna/playlist.m3u8:Smichov railway station ##2712 OFF
 #DESCRIPTION Smichov railway station ##2712 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vrsovice/playlist.m3u8:Ж/д вокзал Вршовице
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vrsovice/playlist.m3u8:Vršovice railway station
 #DESCRIPTION Vršovice railway station
 #SERVICE 1:64:1A:0:0:0:0:0:0:0::=== Denmark ===
 #DESCRIPTION === Denmark ===
@@ -1429,8 +1429,6 @@
 #DESCRIPTION Beach of Montañita
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/ayangue-beach.html:Ecuador - Ayangue Beach
 #DESCRIPTION Ecuador - Ayangue Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/galapagos/santa-cruz-island/galapagos-ecuador.html:Galápagos Islands
-#DESCRIPTION Galápagos Islands
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/montanita-santa-elena.html:Montañita - Santa Elena
 #DESCRIPTION Montañita - Santa Elena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/olon-santa-elena.html:Olon - Santa Elena
@@ -1442,7 +1440,7 @@
 #SERVICE 1:64:1C:0:0:0:0:0:0:0::=== El Salvador GMT-6 ===
 #DESCRIPTION === El Salvador GMT-6 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/la-libertad/playa-conchalio.html:La Libertad
-#DESCRIPTION La Libertad
+#DESCRIPTION La Libertad ## 2812 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/la-libertad/playa-conchalio-el-salvador.html:La Libertad - Playa Conchalio ##2212 OFF
 #DESCRIPTION La Libertad - Playa Conchalio ##2212 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/tamanique/playa-el-tunco.html:Tamanique
@@ -1533,7 +1531,7 @@
 #DESCRIPTION Le Mont-Dore - Sommet de Sancy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/ile-de-france/paris/paris-pantheon-notre-dame.html:Pantheon ##1112 OFF
 #DESCRIPTION Pantheon ##1112 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//visionenvironnement.quanteec.com/contents/encodings/live/6d6a84d6-1f60-4fe8-746c-7561-6665-64-8686-4c545fab07c7d/master.m3u8:Paris ##2212 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//visionenvironnement.quanteec.com/contents/encodings/live/6d6a84d6-1f60-4fe8-746c-7561-6665-64-8686-4c545fab07c7d/master.m3u8:Paris
 #DESCRIPTION Paris
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/nouvelle-aquitaine/saint-pierre-d-oleron/port-de-la-cotiniere.html:Saint-Pierre-d'Oléron
 #DESCRIPTION Saint-Pierre-d'Oléron
@@ -1609,7 +1607,7 @@
 #DESCRIPTION Makry Gialos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/thessalia/trikala/meteora.html:Meteora @
 #DESCRIPTION Meteora @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/mount-athos/karyes/mount-athos.html:Mount Athos ##2212 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/mount-athos/karyes/mount-athos.html:Mount Athos
 #DESCRIPTION Mount Athos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/kyklades/mouros-beach.html:Mouros Beach - Amorgos
 #DESCRIPTION Mouros Beach - Amorgos
@@ -1747,7 +1745,7 @@
 #DESCRIPTION Binz Strand @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/47cgvfy9/lf55bibu.m3u8:Blomberg-Cappel Huxoll ##1711 OFF
 #DESCRIPTION Blomberg-Cappel Huxoll ##1711 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//osltv.stream24.net/osltv4/_definst_/mp4%3aboltenhagen.stream/playlist.m3u8:Boltenhagen @ ##2611 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//osltv.stream24.net/osltv4/_definst_/mp4%3aboltenhagen.stream/playlist.m3u8:Boltenhagen @
 #DESCRIPTION Boltenhagen @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8:Bonn Aerodrom 1
 #DESCRIPTION Bonn Aerodrom 1
@@ -1878,7 +1876,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/zyk6yn5g/0w1w1gvh.m3u8:Kampen Quermarkenfeuer @
 #DESCRIPTION Kampen Quermarkenfeuer @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//srv-streaming-02.nordwind-ev.de/hls/kellenhusen.m3u8:Kellenhusen Ostseebad @
-#DESCRIPTION Kellenhusen Ostseebad @
+#DESCRIPTION Kellenhusen Ostseebad @ ## 2912 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/vjy83fee/vgiy5566.m3u8:Kiel Deichweg @
 #DESCRIPTION Kiel Deichweg @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-fra-n2.livespotting.com/vpu/sttko2er/f1q161no.m3u8:Kiel Maklerstraße @
@@ -2211,7 +2209,7 @@
 #DESCRIPTION Brescia Salò Lake Garda
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/brescia/sulzano.html:Brescia Sulzano
 #DESCRIPTION Brescia Sulzano
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/puglia/brindisi/ostuni-la-citta-bianca.html:Brindisi Panorama di Ostuni ## 1212 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/puglia/brindisi/ostuni-la-citta-bianca.html:Brindisi Panorama di Ostuni
 #DESCRIPTION Brindisi Panorama di Ostuni
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-002.whatsupcams.com/hls/it_cagliari01.m3u8:Cagliari Poetto
 #DESCRIPTION Cagliari Poetto
@@ -2677,11 +2675,11 @@
 #DESCRIPTION Petra Visitor Center
 #SERVICE 1:64:2C:0:0:0:0:0:0:0::=== Kazakhstan GMT+5 ===
 #DESCRIPTION === Kazakhstan GMT+5 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.13.18.225%3a8080/hls/41645/739afa6a30317e043b0d/playlist.m3u8:Šahtinsk 1 +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.13.18.225%3a8080/hls/41645/739afa6a30317e043b0d/playlist.m3u8:Šahtinsk 1
 #DESCRIPTION Šahtinsk 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.13.18.225%3a8080/hls/41571/cb185e076efb16645f3b/playlist.m3u8:Šahtinsk 2 +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.13.18.225%3a8080/hls/41571/cb185e076efb16645f3b/playlist.m3u8:Šahtinsk 2
 #DESCRIPTION Šahtinsk 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.13.18.225%3a8080/hls/41567/83b147da59f31400ebbf/playlist.m3u8:Šahtinsk 3 +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.13.18.225%3a8080/hls/41567/83b147da59f31400ebbf/playlist.m3u8:Šahtinsk 3
 #DESCRIPTION Šahtinsk 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ipcam.kz/cam1/tracks-v1/mono.m3u8:Šimbulak 1
 #DESCRIPTION Šimbulak 1
@@ -2773,7 +2771,7 @@
 #DESCRIPTION Birkirkara - St. Therese Church
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/malta/malta/birzebbuga/birzebbuga-beach-pretty-bay.html:Birżebbuġa Beach and Pretty Bay
 #DESCRIPTION Birżebbuġa Beach and Pretty Bay
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam3.html:Crossing Mdina-Chetcuti from Tiles&Marble Showroom ##0310 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam3.html:Crossing Mdina-Chetcuti from Tiles
 #DESCRIPTION Crossing Mdina-Chetcuti from Tiles
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/malta/malta/cirkewwa/ferry-terminal-bus.html:Ċirkewwa - Ferry Terminal, Bus Terminus
 #DESCRIPTION Ċirkewwa - Ferry Terminal, Bus Terminus
@@ -2904,7 +2902,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/panama/panama/panama/panama.html:Panama City
 #DESCRIPTION Panama City
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/panama/los-santos/pedasi/panama-pedasi.html:Panama - Pedasí
-#DESCRIPTION Panama - Pedasí
+#DESCRIPTION Panama - Pedasí ## 2812 OFF
 #SERVICE 1:64:37:0:0:0:0:0:0:0::=== Peru GMT-5 ===
 #DESCRIPTION === Peru GMT-5 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/arequipa/arequipa/plaza-mayor.html:Arequipa Plaza Mayor
@@ -2916,7 +2914,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/lima/lima/barranco-plaza-de-armas.html:Barranco Plaza de Armas
 #DESCRIPTION Barranco Plaza de Armas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/amazonas/bongara/cocachimba.html:Bongara Cocachimba Peru ##2412 OFF
-#DESCRIPTION Bongara Cocachimba Peru ##2412 OFF
+#DESCRIPTION Bongara Cocachimba Peru
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/cajamarca/cajamarca/laguna-san-nicolas.html:Cajamarca Laguna San Nicolás ##2412 OFF
 #DESCRIPTION Cajamarca Laguna San Nicolás ##2412 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/ancash/casma/balneario-de-tortugas.html:Casma Balneario de Tortugas
@@ -2941,12 +2939,10 @@
 #DESCRIPTION Lima Playa el Silencio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/lima/lima/playa-senoritas-punta-hermosa.html:Lima Playa Señoritas
 #DESCRIPTION Lima Playa Señoritas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/lima/lima/punta-hermosa.html:Lima Punta Hermosa Caballeros Beach ##2412 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/lima/lima/punta-hermosa.html:Lima Punta Hermosa Caballeros Beach
 #DESCRIPTION Lima Punta Hermosa Caballeros Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/pasco/oxapampa/plaza-de-armas.html:Oxapampa Pasco
 #DESCRIPTION Oxapampa Pasco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/pacasmayo/playa-de-pacasmayo.html:Pacasmayo Beach
-#DESCRIPTION Pacasmayo Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/ica/paracas/bahia-de-paracas.html:Paracas Bay
 #DESCRIPTION Paracas Bay
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/tacna/tacna/plaza-mayor.html:Tacna Plaza Mayor ## 1212 OFF
@@ -2957,8 +2953,8 @@
 #DESCRIPTION Talara Lobitos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/piura/talara/mancora.html:Talara Máncora Playa Pocitas
 #DESCRIPTION Talara Máncora Playa Pocitas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/trujillo/balneario-de-huanchaco.html:Trujillo Balneario de Huanchaco ##2412 OFF
-#DESCRIPTION Trujillo Balneario de Huanchaco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/trujillo/balneario-de-huanchaco.html:Trujillo Balneario de Huanchaco
+#DESCRIPTION Trujillo Balneario de Huanchaco ## 2812 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/trujillo/trujillo-huanchaco.html:Trujillo Huanchaco ## 1212 OFF
 #DESCRIPTION Trujillo Huanchaco ## 1212 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/trujillo/huanchaco-playa-sunkella.html:Trujillo Huanchaco Playa Sunkella
@@ -3322,7 +3318,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam273/playlist.m3u8:Moscow 273
 #DESCRIPTION Moscow 273
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam274/playlist.m3u8:Moscow 274
-#DESCRIPTION Moscow 274
+#DESCRIPTION Moscow 274 ## 2912 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam282/playlist.m3u8:Moscow 282
 #DESCRIPTION Moscow 282
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam286/playlist.m3u8:Moscow 286
@@ -3414,7 +3410,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam503/playlist.m3u8:Moscow 503
 #DESCRIPTION Moscow 503
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam509/playlist.m3u8:Moscow 509
-#DESCRIPTION Moscow 509
+#DESCRIPTION Moscow 509 ## 2912 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam512/playlist.m3u8:Moscow 512
 #DESCRIPTION Moscow 512
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam513/playlist.m3u8:Moscow 513
@@ -3550,15 +3546,15 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.t-tk.ru/1413/index.m3u8:Tulun 5
 #DESCRIPTION Tulun 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.t-tk.ru/cam_gidroliznij_peshehod/index.m3u8:Tulun 7
-#DESCRIPTION Tulun 7
+#DESCRIPTION Tulun 7 ## 2912 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.t-tk.ru/cam_gimnaziya_stek/index.m3u8:Tulun 8
 #DESCRIPTION Tulun 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.t-tk.ru/cam_bratskoe_kolco/index.m3u8:Tulun 9
 #DESCRIPTION Tulun 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.t-tk.ru/cam_park_mira_ploshad/index.m3u8:Tulun 10
-#DESCRIPTION Tulun 10
+#DESCRIPTION Tulun 10 ## 2912 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.t-tk.ru/park_gidro/index.m3u8:Tulun 11
-#DESCRIPTION Tulun 11
+#DESCRIPTION Tulun 11 ## 2912 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.t-tk.ru/prometey/index.m3u8:Tulun 12
 #DESCRIPTION Tulun 12
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.t-tk.ru/atrium2/index.m3u8:Tulun 13
@@ -4043,15 +4039,15 @@
 #DESCRIPTION === Turkey GMT+3 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/turkey/anatolia-region/nevsehir/cappadocia-uchisar.html:Cappadocia - Uçhisar
 #DESCRIPTION Cappadocia - Uçhisar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBelediye2.stream/chunklist_w1167113497.m3u8:Denizli @ +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBelediye2.stream/chunklist_w1167113497.m3u8:Denizli @
 #DESCRIPTION Denizli @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBozdagUst.stream/chunklist_w945652344.m3u8:Denizli Kayak MerkeziMUst Istasyon +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBozdagUst.stream/chunklist_w945652344.m3u8:Denizli Kayak MerkeziMUst Istasyon
 #DESCRIPTION Denizli Kayak MerkeziMUst Istasyon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBelediye1.stream/chunklist_w282188282.m3u8:DenizliTemmuz Deliklicinar Sehitler Meydani2 @ +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBelediye1.stream/chunklist_w282188282.m3u8:DenizliTemmuz Deliklicinar Sehitler Meydani2 @
 #DESCRIPTION DenizliTemmuz Deliklicinar Sehitler Meydani2 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbLaodikya.stream/chunklist_w1187384935.m3u8:DenizliLaodikeia @ +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbLaodikya.stream/chunklist_w1187384935.m3u8:DenizliLaodikeia @
 #DESCRIPTION DenizliLaodikeia @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbOtogar.stream/chunklist_w183105836.m3u8:DenizliUcgen Meydani @ +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbOtogar.stream/chunklist_w183105836.m3u8:DenizliUcgen Meydani @
 #DESCRIPTION DenizliUcgen Meydani @
 #SERVICE 1:64:46:0:0:0:0:0:0:0::=== United Arab Emirates GMT+4 ===
 #DESCRIPTION === United Arab Emirates GMT+4 ===
@@ -4070,7 +4066,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/arizona/prescott/?cam=prescott:Arizona Prescott
 #DESCRIPTION Arizona Prescott
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/arizona/sedona/sevenarches/?cam=sedona7:Arizona Sedona Seven Arches @
-#DESCRIPTION Arizona Sedona Seven Arches @
+#DESCRIPTION Arizona Sedona Seven Arches @ ## 2812 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/california/encinitas/encinitas-california.html:California Encinitas @
 #DESCRIPTION California Encinitas @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/202594-1354528-1/playlist.m3u8:California Plaservil centar
@@ -4083,7 +4079,7 @@
 #DESCRIPTION California San Diego Harbor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/california/santa-barbara/santa-barbara.html:California Santa Barbara
 #DESCRIPTION California Santa Barbara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1-or.vdn.terrafox.net/live/sonoma/playlist.m3u8:California Sonoma ##1212 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1-or.vdn.terrafox.net/live/sonoma/playlist.m3u8:California Sonoma
 #DESCRIPTION California Sonoma
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-4284358-1/playlist.m3u8:Colorado 64th & Sheridan Monkeys Tire & Chrome @
 #DESCRIPTION Colorado 64th & Sheridan Monkeys Tire & Chrome @
@@ -4164,7 +4160,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/hawaii/waikiki/?cam=waikiki:Hawaii Waikiki
 #DESCRIPTION Hawaii Waikiki
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/hawaii/waikiki/beach/?cam=waikiki_kuhio:Hawaii Waikiki Beach
-#DESCRIPTION Hawaii Waikiki Beach
+#DESCRIPTION Hawaii Waikiki Beach ## 2812 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/hawaii/bigisland/waikoloa/?cam=waikoloa:Hawaii Waikoloa
 #DESCRIPTION Hawaii Waikoloa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1-or.vdn.terrafox.net/live/downtown-silver.stream/playlist.m3u8:Idaho Silver city
@@ -4254,7 +4250,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/indianlake/bluemountainlake/?cam=bluemountainlake2:New York Blue Mountain Lake Pond View
 #DESCRIPTION New York Blue Mountain Lake Pond View
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/brooklynbridge/?cam=gzcchd:New York Brooklyn Bridge
-#DESCRIPTION New York Brooklyn Bridge
+#DESCRIPTION New York Brooklyn Bridge ## 2812 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/new-york/new-york/new-york-skyline.html:New York City @
 #DESCRIPTION New York City @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8:New York City Times Square
@@ -4307,8 +4303,6 @@
 #DESCRIPTION South Carolina Hilton Hed Pier
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/southcarolina/kiawahisland/?cam=kiawahisland:South Carolina Kiawah Island Beach
 #DESCRIPTION South Carolina Kiawah Island Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/southcarolina/kiawahisland/?cam=kiawah_island_hd:South Carolina Kiawah Island Golf
-#DESCRIPTION South Carolina Kiawah Island Golf
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/southcarolina/myrtlebeach/?cam=myrtlebeach_hd2:South Carolina Myrtle Beach Cam North View
 #DESCRIPTION South Carolina Myrtle Beach Cam North View
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/southcarolina/myrtlebeach/?cam=myrtlebeach_hd:South Carolina Myrtle Beach Cam Volleyball
@@ -4355,15 +4349,15 @@
 #DESCRIPTION Margarita Island @
 #SERVICE 1:64:4B:0:0:0:0:0:0:0::=== Vietnam GMT+7 ===
 #DESCRIPTION === Vietnam GMT+7 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8:1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8:Vietnam 1
 #DESCRIPTION Vietnam 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/index.m3u8:2 ##1812 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/index.m3u8:Vietnam 2 ##1812 OFF
 #DESCRIPTION Vietnam 2 ##1812 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/index.m3u8:3 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/index.m3u8:Vietnam 3 @
 #DESCRIPTION Vietnam 3 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/index.m3u8:7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/index.m3u8:Vietnam 7
 #DESCRIPTION Vietnam 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html:Hoàng Mai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html:Vietnam Hoàng Mai
 #DESCRIPTION Vietnam Hoàng Mai
 #SERVICE 1:64:4C:0:0:0:0:0:0:0::=== Zambia GMT+2 ===
 #DESCRIPTION === Zambia GMT+2 ===
@@ -4397,6 +4391,8 @@
 #DESCRIPTION Nungwi Beach @
 #SERVICE 1:64:4E:0:0:0:0:0:0:0::***** YOUTUBE *****
 #DESCRIPTION ***** YOUTUBE *****
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/1CYRZ1IBGkM
+#DESCRIPTION Barban
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/gpFqI8DD9IA:Beograd @
 #DESCRIPTION Beograd @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/8_oxQplx7Xg:Crveni vrh @
@@ -4423,6 +4419,8 @@
 #DESCRIPTION Brazil Entrada no Canal do Porto de Santos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/I-7mv4-BJ7M:Canada Port de Quebec
 #DESCRIPTION Canada Port de Quebec
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/loHbMM9JfCs:Curaçao
+#DESCRIPTION Curaçao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/0jUGiYZKAMg:Czech Republik Airport Prague
 #DESCRIPTION Czech Republik Airport Prague
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/ZOz5U5TDhlQ:Denmark @@
@@ -4471,8 +4469,8 @@
 #DESCRIPTION Greece @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/Gzl2M_eGpfM:Greece Kos Island Harbour
 #DESCRIPTION Greece Kos Island Harbour
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/HRX3xrJ0tXo:Iceland Now @@
-#DESCRIPTION Iceland Now @@ ##2712 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/HRX3xrJ0tXo:Iceland Now @@ ##2712 OFF
+#DESCRIPTION Iceland Now @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/4B-xBkUX4jM:Iceland Volcano
 #DESCRIPTION Iceland Volcano
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/oxx7MqjhOpw:Ireland Dublin Bay
@@ -4489,8 +4487,6 @@
 #DESCRIPTION Italy Venice Grand Canal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/gCu45mPX77Y:Japan @@
 #DESCRIPTION Japan @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/_DP6YkK-b_o:Japan Tokyo Walk @
-#DESCRIPTION Japan Tokyo Walk @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/ydYDqZQpim8:Namibia
 #DESCRIPTION Namibia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/vytmBNhc9ig:NASA 1
@@ -4503,8 +4499,8 @@
 #DESCRIPTION Nepal LUKLA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/nFozEhYTEMo:Niederlande Rotterdam
 #DESCRIPTION Niederlande Rotterdam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/DP4vxBdgfGE:Norway @@
-#DESCRIPTION Norway @@ ##2712 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/DP4vxBdgfGE:Norway @@ ##2712 OFF
+#DESCRIPTION Norway @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/iXLaEkB3J0I:Norway Nordkapp @
 #DESCRIPTION Norway Nordkapp @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/tAWFO8_O_7M:Norway Railway Winter @
@@ -4529,8 +4525,8 @@
 #DESCRIPTION Slovakia @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/NHRDdaH4LpU:Spain @@
 #DESCRIPTION Spain @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/Ldl6olpY64s:Sweden @@
-#DESCRIPTION Sweden @@ ##2712 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/Ldl6olpY64s:Sweden @@ ##2712 OFF
+#DESCRIPTION Sweden @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/agY6ZaM1G_o:Sweden Stockholm
 #DESCRIPTION Sweden Stockholm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/enYFXf8u7Lc:Switzerland Feratel @@
@@ -4541,10 +4537,6 @@
 #DESCRIPTION Switzerland Luzern @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/C03Itx8iSC0:Taiwan @
 #DESCRIPTION Taiwan @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/9Er6UvKB6QI:Thailand Crystal Bay Yacht Club
-#DESCRIPTION Thailand Crystal Bay Yacht Club ##2712 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/Fw9hgttWzIg:Thailand Fisherman's Village
-#DESCRIPTION Thailand Fisherman's Village
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/LErLYhpJOZY:United Kingdom @@
 #DESCRIPTION United Kingdom @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/e2gC37ILQmk:Ukraine 1
@@ -4557,13 +4549,15 @@
 #DESCRIPTION Ukraine 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/t0GrpAgdBFI:USA LAX AIRPORT
 #DESCRIPTION USA LAX AIRPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/qHW8srS0ylo:USA LAX AIRPORT
+#DESCRIPTION USA New Orleans
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/0i_lTuIWf_A:USA New York Airport @
 #DESCRIPTION USA New York Airport @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/edz0ux7JClE:USA San Diego @
 #DESCRIPTION USA San Diego @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/rnXIjl_Rzy4:USA Times Square in 4K
 #DESCRIPTION USA Times Square in 4K
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/ho7asAAqcRc:Venezuela
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/2heQSC2hqEg:Venezuela
 #DESCRIPTION Venezuela
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//youtu.be/z7SiAaN4ogw:World 1 @@
 #DESCRIPTION World 1 @@
