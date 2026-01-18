@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.818 - 17.01.26    @=is moving  @@=multiple link
+#NAME Prenj SF Ver.819 - 18.01.26    @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8:Bale Trg La Musa 403
@@ -3955,3 +3955,189 @@
 #DESCRIPTION Wisconsin Egg Harbor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live/madelineisland.stream/playlist.m3u8:Wisconsin Madeline Island @
 #DESCRIPTION Wisconsin Madeline Island @
+#SERVICE 1:64:4C:0:0:0:0:0:0:0::YOUTUBE
+#DESCRIPTION YOUTUBE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/gpFqI8DD9IA:Beograd @
+#DESCRIPTION Beograd @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/8_oxQplx7Xg:Crveni vrh @
+#DESCRIPTION Crveni vrh @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/rKhA-aECN18:Hvar @
+#DESCRIPTION Hvar @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/_Rr2Fs51v6A:Kopaonik @@
+#DESCRIPTION Kopaonik @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/58xgbwgamIA:Međugorje
+#DESCRIPTION Međugorje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/f_kvIQwpzWY:Plaški @
+#DESCRIPTION Plaški @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/idr71oXmhdc:Primošten
+#DESCRIPTION Primošten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/iSbn8x3IUhs:Rogoznica @
+#DESCRIPTION Rogoznica @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/FoNglL6eS6Y:Sjenica
+#DESCRIPTION Sjenica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/NIuO6hrFTrg:Austria Feratel @@
+#DESCRIPTION Austria Feratel @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/F2-hJqSTaUk:Austria PanoCloud and EU @@
+#DESCRIPTION Austria PanoCloud and EU @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/tMYtrEBNVAU:Entrada no Canal do Porto de Santos
+#DESCRIPTION Entrada no Canal do Porto de Santos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/I-7mv4-BJ7M:Canada Port de Quebec
+#DESCRIPTION Canada Port de Quebec
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/loHbMM9JfCs:Curaçao
+#DESCRIPTION Curaçao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/0jUGiYZKAMg:Czech Republik Airport Prague
+#DESCRIPTION Czech Republik Airport Prague
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/ZOz5U5TDhlQ:Denmark @@
+#DESCRIPTION Denmark @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/F0GOOP82094:Denmark Aarlborg Wildlife In The Forest
+#DESCRIPTION Denmark Aarlborg Wildlife In The Forest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/IZhDwv4dz0g:Denmark Greenland Nuuk Airport North
+#DESCRIPTION Denmark Greenland Nuuk Airport North
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/MApnQlsX5AQ:Denmark Greenland Nuuk Airport South
+#DESCRIPTION Denmark Greenland Nuuk Airport South
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/rvtygG4n6ew:Earthquake Monitoring
+#DESCRIPTION Earthquake Monitoring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/QO-hO_kwwmY:England Ferry Southampton to Cowes Isle of Wight Red Funnel
+#DESCRIPTION England Ferry Southampton to Cowes Isle of Wight Red Funnel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/w9ICwT2WZy8:Europe @@
+#DESCRIPTION Europe @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/JnJhFYhIjFs:Finnland Helsinki Port West harbour north
+#DESCRIPTION Finnland Helsinki Port West harbour north
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/6hPWq2IG08M:Finnland Helsinki Port West harbour south @
+#DESCRIPTION Finnland Helsinki Port West harbour south @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/1k4DEIa2cuI:Finnland Iisalmi @
+#DESCRIPTION Finnland Iisalmi @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/X7tdyNFpp1g:Finnland Kylänäkymä
+#DESCRIPTION Finnland Kylänäkymä
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/CvOB-Is_yYU:Finnland Port of Helsinki @@
+#DESCRIPTION Finnland Port of Helsinki @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Cp4RRAEgpeU:Finnland Santa Claus Village
+#DESCRIPTION Finnland Santa Claus Village
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/LwihxyJ4V20:Finnland Zero Point Levi Finland @
+#DESCRIPTION Finnland Zero Point Levi Finland @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Li3Dvqlo5uE:Germany @@
+#DESCRIPTION Germany @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/IRqboacDNFg:Germany Berlin Alexanderplatz @
+#DESCRIPTION Germany Berlin Alexanderplatz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/OmyDLXvaus4:Germany Hamburg Michel @
+#DESCRIPTION Germany Hamburg Michel @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/R1bLDIW-IjA:Germany PanoCloud @@
+#DESCRIPTION Germany PanoCloud @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/aYtgGjMDagw:Germany Spotlight @@
+#DESCRIPTION Germany Spotlight @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/OkV0gyxx7Vk:Germany Spotlight Bodensee @@
+#DESCRIPTION Germany Spotlight Bodensee @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/5p-s-1453Us:Greece @@
+#DESCRIPTION Greece @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Gzl2M_eGpfM:Greece Kos Island Harbour
+#DESCRIPTION Greece Kos Island Harbour
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/HRX3xrJ0tXo:Iceland Now @@
+#DESCRIPTION Iceland Now @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/4B-xBkUX4jM:Iceland Volcano
+#DESCRIPTION Iceland Volcano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/oxx7MqjhOpw:Ireland Dublin Bay
+#DESCRIPTION Ireland Dublin Bay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/u4UZ4UvZXrg:Ireland Dublin Temple Bar
+#DESCRIPTION Ireland Dublin Temple Bar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/wMT2aNcP4Wg:Italy @@
+#DESCRIPTION Italy @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Y1qp-EVF_oU:Italy Nord @@
+#DESCRIPTION Italy Nord @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/4jx0xcRcM3U:Italy Südtirol @@
+#DESCRIPTION Italy Südtirol @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/P6JA_YjHMZs:Italy Venice Grand Canal
+#DESCRIPTION Italy Venice Grand Canal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/gCu45mPX77Y:Japan @@
+#DESCRIPTION Japan @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/ydYDqZQpim8:Namibia
+#DESCRIPTION Namibia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/vytmBNhc9ig:NASA 1
+#DESCRIPTION NASA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/fO9e9jnhYK8:NASA 2
+#DESCRIPTION NASA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/6erj7ooA6CM:Nepal ANNAPURNA BASE CAMP
+#DESCRIPTION Nepal ANNAPURNA BASE CAMP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/kaRVui_uXa8:Nepal LUKLA
+#DESCRIPTION Nepal LUKLA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/nFozEhYTEMo:Niederlande Rotterdam
+#DESCRIPTION Niederlande Rotterdam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/DP4vxBdgfGE:Norway @@
+#DESCRIPTION Norway @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/iXLaEkB3J0I:Norway Nordkapp @
+#DESCRIPTION Norway Nordkapp @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/tAWFO8_O_7M:Norway Railway Winter @
+#DESCRIPTION Norway Railway Winter @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/uxC7Gf0_MwM:Poland Beaches @@
+#DESCRIPTION Poland Beaches @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Rn_ga4yXkME:Poland Cities @@
+#DESCRIPTION Poland Cities @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/W3Y2T66t--Y:Poland Mountains @@
+#DESCRIPTION Poland Mountains @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/K07hd6RP8cw:Portugal Madeira Porto Moniz @
+#DESCRIPTION Portugal Madeira Porto Moniz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/jSmPUv48IYc:Portugal Porto @
+#DESCRIPTION Portugal Porto @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/fUsJZTHeZn4:Russia St. Petersburg
+#DESCRIPTION Russia St. Petersburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/8miQ3QXA26Q:Scotland Fort William
+#DESCRIPTION Scotland Fort William
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/6V39eDpTyas:Slovakia @@
+#DESCRIPTION Slovakia @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/NHRDdaH4LpU:Spain @@
+#DESCRIPTION Spain @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Ldl6olpY64s:Sweden @@
+#DESCRIPTION Sweden @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/agY6ZaM1G_o:Sweden Stockholm
+#DESCRIPTION Sweden Stockholm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/enYFXf8u7Lc:Switzerland Feratel @@
+#DESCRIPTION Switzerland Feratel @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/jtLh8BdmHUU:Switzerland Hotel Basel
+#DESCRIPTION Switzerland Hotel Basel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/QIt1FaDMnQc:Switzerland Luzern @
+#DESCRIPTION Switzerland Luzern @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/C03Itx8iSC0:Taiwan 1 @
+#DESCRIPTION Taiwan 1 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Ndo_8RuefH4:Taiwan 2
+#DESCRIPTION Taiwan 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/z_fY1pj1VBw:Taiwan 3 @
+#DESCRIPTION Taiwan 3 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/fP4ecxfsJos:Taiwan 4 @
+#DESCRIPTION Taiwan 4 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/LErLYhpJOZY:United Kingdom @@
+#DESCRIPTION United Kingdom @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/e2gC37ILQmk:Ukraine 1
+#DESCRIPTION Ukraine 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/V_0az0lQ6Ww:Ukraine 2
+#DESCRIPTION Ukraine 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/aaus_iG8s9A:Ukraine 3
+#DESCRIPTION Ukraine 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/R-qCsZ1obbc:Ukraine 4
+#DESCRIPTION Ukraine 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/t0GrpAgdBFI:USA LAX AIRPORT
+#DESCRIPTION USA LAX AIRPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/qHW8srS0ylo:USA New Orleans
+#DESCRIPTION USA New Orleans
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/0i_lTuIWf_A:USA New York Airport @
+#DESCRIPTION USA New York Airport @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/edz0ux7JClE:USA San Diego @
+#DESCRIPTION USA San Diego @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/rnXIjl_Rzy4:USA Times Square
+#DESCRIPTION USA Times Square
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/2heQSC2hqEg:Venezuela
+#DESCRIPTION Venezuela
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/z7SiAaN4ogw:World 1 @@
+#DESCRIPTION World 1 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/2BLqhS59Elc:World 2 @@
+#DESCRIPTION World 2 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/HVGwLboIdYc:World 3 @@
+#DESCRIPTION World 3 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/HfgIFGbdGJ0:World 4 Earth TV @@
+#DESCRIPTION World 4 Earth TV @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/EFum1rGUdkk:World 5 Skyline top @@
+#DESCRIPTION World 5 Skyline top @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/OMebkpnYJJo:World 6 Rolling Cams Beach @@
+#DESCRIPTION World 6 Rolling Cams Beach @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/TZikBxNaaQk:World 7 Cities 1 @@
+#DESCRIPTION World 7 Cities 1 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/_q0yBz6h4Lg:World 8 Cities 2 @@
+#DESCRIPTION World 8 Cities 2 @@
