@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.819 - 18.01.26    @=is moving  @@=multiple link
+#NAME Prenj SF Ver.820 - 19.01.26    @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8:Bale Trg La Musa 403
@@ -3101,222 +3101,8 @@
 #DESCRIPTION Faro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/portugal/algarve/lagos/lagos-portugal.html:Lagos ## 0501 OFF
 #DESCRIPTION Lagos ## 0501 OFF
-#SERVICE 1:64:3C:0:0:0:0:0:0:0::=== Romania  ===
-#DESCRIPTION === Romania  ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/alba_iulia_desktop.stream/index.m3u8:Alba Iulia Panoramview
-#DESCRIPTION Alba Iulia Panoramview
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/azuga_desktop.stream/index.m3u8:Azuga
-#DESCRIPTION Azuga
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/romania/transylvania/cartisoara/balea-lake-transfagarasan-road.html:Balea Lake - Transfagarasan
-#DESCRIPTION Balea Lake - Transfagarasan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/braila_desktop.stream/index.m3u8:Brăila Bulevardul Dorobanților
-#DESCRIPTION Brăila Bulevardul Dorobanților
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/busteni_gara_desktop.stream/index.m3u8:Bușteni Gara
-#DESCRIPTION Bușteni Gara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/romania/banat/fardea/lake-surduc.html:Fârdea - Lake Surduc
-#DESCRIPTION Fârdea - Lake Surduc
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/oradea_desktop.stream/index.m3u8:Oradea Piața Decembrie @
-#DESCRIPTION Oradea Piața Decembrie @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/caciulata_desktop.stream/index.m3u8:Păușa Căciulata
-#DESCRIPTION Păușa Căciulata
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/pitesti_nord_desktop.stream/index.m3u8:Pitești Nord
-#DESCRIPTION Pitești Nord
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/pitesti_sud_desktop.stream/index.m3u8:Pitești Sud
-#DESCRIPTION Pitești Sud
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/predeal_centru_desktop.stream/index.m3u8:Predeal Centru
-#DESCRIPTION Predeal Centru
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//digilive.rcs-rds.ro/digilivedge/ramnicu_valcea_desktop.stream/index.m3u8:Râmnicu Vâlcea
-#DESCRIPTION Râmnicu Vâlcea
-#SERVICE 1:64:3D:0:0:0:0:0:0:0::=== Russia GMT+2/+12(Moscow GMT+3) ===
+#SERVICE 1:64:3C:0:0:0:0:0:0:0::=== Russia GMT+2/+12(Moscow GMT+3) ===
 #DESCRIPTION === Russia GMT+2/+12(Moscow GMT+3) ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam170/playlist.m3u8:Moscow 170
-#DESCRIPTION Moscow 170
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam188/playlist.m3u8:Moscow 188
-#DESCRIPTION Moscow 188
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam189/playlist.m3u8:Moscow 189
-#DESCRIPTION Moscow 189
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam201/playlist.m3u8:Moscow 201
-#DESCRIPTION Moscow 201
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam213/playlist.m3u8:Moscow 213
-#DESCRIPTION Moscow 213
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam215/playlist.m3u8:Moscow 215
-#DESCRIPTION Moscow 215
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam221/playlist.m3u8:Moscow 221
-#DESCRIPTION Moscow 221
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam237/playlist.m3u8:Moscow 237
-#DESCRIPTION Moscow 237
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam250/playlist.m3u8:Moscow 250
-#DESCRIPTION Moscow 250
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam259/playlist.m3u8:Moscow 259
-#DESCRIPTION Moscow 259
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam273/playlist.m3u8:Moscow 273
-#DESCRIPTION Moscow 273
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam282/playlist.m3u8:Moscow 282
-#DESCRIPTION Moscow 282
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam286/playlist.m3u8:Moscow 286
-#DESCRIPTION Moscow 286
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam307/playlist.m3u8:Moscow 307
-#DESCRIPTION Moscow 307
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam312/playlist.m3u8:Moscow 312
-#DESCRIPTION Moscow 312
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam323/playlist.m3u8:Moscow 323
-#DESCRIPTION Moscow 323
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam328/playlist.m3u8:Moscow 328
-#DESCRIPTION Moscow 328
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam356/playlist.m3u8:Moscow 356
-#DESCRIPTION Moscow 356
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam370/playlist.m3u8:Moscow 370
-#DESCRIPTION Moscow 370
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam372/playlist.m3u8:Moscow 372
-#DESCRIPTION Moscow 372
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam373/playlist.m3u8:Moscow 373
-#DESCRIPTION Moscow 373
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam375/playlist.m3u8:Moscow 375
-#DESCRIPTION Moscow 375
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam376/playlist.m3u8:Moscow 376
-#DESCRIPTION Moscow 376
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam378/playlist.m3u8:Moscow 378
-#DESCRIPTION Moscow 378
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam388/playlist.m3u8:Moscow 388
-#DESCRIPTION Moscow 388
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam389/playlist.m3u8:Moscow 389
-#DESCRIPTION Moscow 389
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam397/playlist.m3u8:Moscow 397
-#DESCRIPTION Moscow 397
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam398/playlist.m3u8:Moscow 398
-#DESCRIPTION Moscow 398
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam401/playlist.m3u8:Moscow 401
-#DESCRIPTION Moscow 401
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam409/playlist.m3u8:Moscow 409
-#DESCRIPTION Moscow 409
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam418/playlist.m3u8:Moscow 418
-#DESCRIPTION Moscow 418
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam421/playlist.m3u8:Moscow 421
-#DESCRIPTION Moscow 421
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam424/playlist.m3u8:Moscow 424
-#DESCRIPTION Moscow 424
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam426/playlist.m3u8:Moscow 426
-#DESCRIPTION Moscow 426
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam429/playlist.m3u8:Moscow 429
-#DESCRIPTION Moscow 429
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam431/playlist.m3u8:Moscow 431
-#DESCRIPTION Moscow 431
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam436/playlist.m3u8:Moscow 436
-#DESCRIPTION Moscow 436
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam438/playlist.m3u8:Moscow 438
-#DESCRIPTION Moscow 438
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam444/playlist.m3u8:Moscow 444
-#DESCRIPTION Moscow 444
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam457/playlist.m3u8:Moscow 457
-#DESCRIPTION Moscow 457
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam459/playlist.m3u8:Moscow 459
-#DESCRIPTION Moscow 459
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam462/playlist.m3u8:Moscow 462
-#DESCRIPTION Moscow 462
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam474/playlist.m3u8:Moscow 474
-#DESCRIPTION Moscow 474
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam483/playlist.m3u8:Moscow 483
-#DESCRIPTION Moscow 483
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam485/playlist.m3u8:Moscow 485
-#DESCRIPTION Moscow 485
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam487/playlist.m3u8:Moscow 487
-#DESCRIPTION Moscow 487
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam488/playlist.m3u8:Moscow 488
-#DESCRIPTION Moscow 488
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam492/playlist.m3u8:Moscow 492
-#DESCRIPTION Moscow 492
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam494/playlist.m3u8:Moscow 494
-#DESCRIPTION Moscow 494
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam496/playlist.m3u8:Moscow 496
-#DESCRIPTION Moscow 496
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam497/playlist.m3u8:Moscow 497
-#DESCRIPTION Moscow 497
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam498/playlist.m3u8:Moscow 498
-#DESCRIPTION Moscow 498
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam503/playlist.m3u8:Moscow 503
-#DESCRIPTION Moscow 503
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam509/playlist.m3u8:Moscow 509
-#DESCRIPTION Moscow 509
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam512/playlist.m3u8:Moscow 512
-#DESCRIPTION Moscow 512
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam513/playlist.m3u8:Moscow 513
-#DESCRIPTION Moscow 513
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam514/playlist.m3u8:Moscow 514
-#DESCRIPTION Moscow 514
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam516/playlist.m3u8:Moscow 516
-#DESCRIPTION Moscow 516
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam517/playlist.m3u8:Moscow 517
-#DESCRIPTION Moscow 517
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam518/playlist.m3u8:Moscow 518
-#DESCRIPTION Moscow 518
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam519/playlist.m3u8:Moscow 519
-#DESCRIPTION Moscow 519
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam520/playlist.m3u8:Moscow 520
-#DESCRIPTION Moscow 520
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam521/playlist.m3u8:Moscow 521
-#DESCRIPTION Moscow 521
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam411/playlist.m3u8:Moscow Altufevskoe 53
-#DESCRIPTION Moscow Altufevskoe 53
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-pik.cdnvideo.ru/pikcam/cam262/playlist.m3u8:Moscow Businovsky Park
-#DESCRIPTION Moscow Businovsky Park
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsp2.videocam.online/live/JOIS2.stream/chunklist.m3u8:Moscow JOIS
-#DESCRIPTION Moscow JOIS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtsp2.videocam.online/live/Dubininsky5.stream/chunklist_w1253433445.m3u8:Moscow Paveletskaya City
-#DESCRIPTION Moscow Paveletskaya City
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/2/hls/stream.m3u8:Moscow region 2
-#DESCRIPTION Moscow region 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/6/hls/stream.m3u8:Moscow region 6
-#DESCRIPTION Moscow region 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/9/hls/stream.m3u8:Moscow region 9
-#DESCRIPTION Moscow region 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/12/hls/stream.m3u8:Moscow region 12
-#DESCRIPTION Moscow region 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/14/hls/stream.m3u8:Moscow region 14
-#DESCRIPTION Moscow region 14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/15/hls/stream.m3u8:Moscow region 15
-#DESCRIPTION Moscow region 15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/16/hls/stream.m3u8:Moscow region 16
-#DESCRIPTION Moscow region 16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/17/hls/stream.m3u8:Moscow region 17
-#DESCRIPTION Moscow region 17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/23/hls/stream.m3u8:Moscow region 23
-#DESCRIPTION Moscow region 23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/26/hls/stream.m3u8:Moscow region 26
-#DESCRIPTION Moscow region 26
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/28/hls/stream.m3u8:Moscow region 28
-#DESCRIPTION Moscow region 28
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/29/hls/stream.m3u8:Moscow region 29
-#DESCRIPTION Moscow region 29
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/32/hls/stream.m3u8:Moscow region 32
-#DESCRIPTION Moscow region 32
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/40/hls/stream.m3u8:Moscow region 40
-#DESCRIPTION Moscow region 40
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/53/hls/stream.m3u8:Moscow region 53
-#DESCRIPTION Moscow region 53
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/59/hls/stream.m3u8:Moscow region 59
-#DESCRIPTION Moscow region 59
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/60/hls/stream.m3u8:Moscow region 60
-#DESCRIPTION Moscow region 60
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/62/hls/stream.m3u8:Moscow region 62
-#DESCRIPTION Moscow region 62
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/63/hls/stream.m3u8:Moscow region 63
-#DESCRIPTION Moscow region 63
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/79/hls/stream.m3u8:Moscow region 79
-#DESCRIPTION Moscow region 79
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/80/hls/stream.m3u8:Moscow region 80
-#DESCRIPTION Moscow region 80
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/84/hls/stream.m3u8:Moscow region 84
-#DESCRIPTION Moscow region 84
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/88/hls/stream.m3u8:Moscow region 88
-#DESCRIPTION Moscow region 88
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/90/hls/stream.m3u8:Moscow region 90
-#DESCRIPTION Moscow region 90
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/92/hls/stream.m3u8:Moscow region 92
-#DESCRIPTION Moscow region 92
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cam.indikom.ru/93/hls/stream.m3u8:Moscow region 93
-#DESCRIPTION Moscow region 93
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtsp2.videocam.online/live/Slava.stream/playlist.m3u8:Moscow Slava
-#DESCRIPTION Moscow Slava
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-avtomobilist-ptz/index.m3u8:Sochi Adler @
 #DESCRIPTION Sochi Adler @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-batumskoye14-ptz/index.m3u8:Sochi Batumskoe 14a PTZ @
@@ -3331,17 +3117,7 @@
 #DESCRIPTION Sochi Radisson Paradise
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-Electronic-ptz/index.m3u8:Sochi Sanatorium Elektronika @
 #DESCRIPTION Sochi Sanatorium Elektronika @
-#SERVICE 1:64:3E:0:0:0:0:0:0:0::=== San Marino ===
-#DESCRIPTION === San Marino ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/repubblica-di-san-marino/citta-di-san-marino/citta-di-san-marino/san-marino-chiesanuova.html:Chiesanuova
-#DESCRIPTION Chiesanuova
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/repubblica-di-san-marino/citta-di-san-marino/citta-di-san-marino/san-marino.html:City
-#DESCRIPTION City
-#SERVICE 1:64:3F:0:0:0:0:0:0:0::=== Senegal GMT ===
-#DESCRIPTION === Senegal GMT ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/senegal/thies/popenguine-ndayane/plage-popenguine.html:Popenguine-Ndayane
-#DESCRIPTION Popenguine-Ndayane
-#SERVICE 1:64:40:0:0:0:0:0:0:0::=== Seychelles GMT+4 ===
+#SERVICE 1:64:3D:0:0:0:0:0:0:0::=== Seychelles GMT+4 ===
 #DESCRIPTION === Seychelles GMT+4 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/seychelles/la-digue/anse-gaulettes/anse-gaulettes.html:Anse Gaulettes
 #DESCRIPTION Anse Gaulettes
@@ -3353,13 +3129,13 @@
 #DESCRIPTION Beau Vallon @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/seychelles/mahe/anse-etoile/quincy-village.html:Quincy Village
 #DESCRIPTION Quincy Village
-#SERVICE 1:64:41:0:0:0:0:0:0:0::=== Sint Maarten GMT-4 ===
+#SERVICE 1:64:3E:0:0:0:0:0:0:0::=== Sint Maarten GMT-4 ===
 #DESCRIPTION === Sint Maarten GMT-4 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/sint-maarten/saint-martin/simpson-bay/princess-juliana-international-airport.html:Princess Juliana International Airport ##0712 OFF
 #DESCRIPTION Princess Juliana International Airport ##0712 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/sint-maarten/saint-martin/simpson-bay/beacon-hill-beach.html:Simpson Bay - Beacon Hill Beach
 #DESCRIPTION Simpson Bay - Beacon Hill Beach
-#SERVICE 1:64:42:0:0:0:0:0:0:0::=== Slovakia ===
+#SERVICE 1:64:3F:0:0:0:0:0:0:0::=== Slovakia ===
 #DESCRIPTION === Slovakia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM2.stream/playlist.m3u8:2 @
 #DESCRIPTION 2 @
@@ -3469,7 +3245,7 @@
 #DESCRIPTION Tahanovce 110
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.212.15.20%3a17002/udp/239.239.111.111%3a6001:Tahanovce 111
 #DESCRIPTION Tahanovce 111
-#SERVICE 1:64:43:0:0:0:0:0:0:0::=== South Africa GMT+2 ===
+#SERVICE 1:64:40:0:0:0:0:0:0:0::=== South Africa GMT+2 ===
 #DESCRIPTION === South Africa GMT+2 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/south-africa/kwazulu-natal/kwadukuza/ballito-beach.html:Ballito ## 0501 OFF
 #DESCRIPTION Ballito ## 0501 OFF
@@ -3483,7 +3259,7 @@
 #DESCRIPTION Cape Town Zeekoevlei
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/south-africa/kwazulu-natal/kwadukuza/zinkwazi-beach.html:Zinkwazi Beach
 #DESCRIPTION Zinkwazi Beach
-#SERVICE 1:64:44:0:0:0:0:0:0:0::=== Spain ===
+#SERVICE 1:64:41:0:0:0:0:0:0:0::=== Spain ===
 #DESCRIPTION === Spain ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-alicante.html:Alicante Benidorm Playa de Levante @
 #DESCRIPTION Alicante Benidorm Playa de Levante @
@@ -3619,7 +3395,7 @@
 #DESCRIPTION Tarragona Calafell
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/cantabria/torrelavega/torrelavega.html:Torrelavega
 #DESCRIPTION Torrelavega
-#SERVICE 1:64:45:0:0:0:0:0:0:0::=== Switzerland ===
+#SERVICE 1:64:42:0:0:0:0:0:0:0::=== Switzerland ===
 #DESCRIPTION === Switzerland ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/schweiz/kanton-tessin/locarno/ascona.html:Ascona
 #DESCRIPTION Ascona
@@ -3647,11 +3423,11 @@
 #DESCRIPTION Unterseen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hotelalexander.it-wms.com/clip_current_720p.mp4:Zürich
 #DESCRIPTION Zürich
-#SERVICE 1:64:46:0:0:0:0:0:0:0::=== Tanzania ===
+#SERVICE 1:64:43:0:0:0:0:0:0:0::=== Tanzania ===
 #DESCRIPTION === Tanzania ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https:Kilimanjaro
 #DESCRIPTION Kilimanjaro
-#SERVICE 1:64:47:0:0:0:0:0:0:0::=== Turkey GMT+3 ===
+#SERVICE 1:64:44:0:0:0:0:0:0:0::=== Turkey GMT+3 ===
 #DESCRIPTION === Turkey GMT+3 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/turkey/anatolia-region/nevsehir/cappadocia-uchisar.html:Cappadocia Uçhisar
 #DESCRIPTION Cappadocia Uçhisar
@@ -3665,25 +3441,11 @@
 #DESCRIPTION DenizliLaodikeia @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbOtogar.stream/chunklist_w183105836.m3u8:DenizliUcgen Meydani @
 #DESCRIPTION DenizliUcgen Meydani @
-#SERVICE 1:64:48:0:0:0:0:0:0:0::=== United Arab Emirates GMT+4 ===
+#SERVICE 1:64:45:0:0:0:0:0:0:0::=== United Arab Emirates GMT+4 ===
 #DESCRIPTION === United Arab Emirates GMT+4 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-arab-emirates/dubai/dubai/dubai-marina.html:Dubai Marina
 #DESCRIPTION Dubai Marina
-#SERVICE 1:64:49:0:0:0:0:0:0:0::=== Uruguay GMT-3 ===
-#DESCRIPTION === Uruguay GMT-3 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/uruguay/maldonado/punta-del-este/punta-del-este-uruguay.html:Punta del Este
-#DESCRIPTION Punta del Este
-#SERVICE 1:64:4A:0:0:0:0:0:0:0::=== US Virgin Islands GMT-4 ===
-#DESCRIPTION === US Virgin Islands GMT-4 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/virginislands/stthomas/?cam=stthomas:Frenchman's Cove
-#DESCRIPTION Frenchman's Cove
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/virginislands/stthomas/overlook/?cam=stthomas_overlook:Mountain Top Overlook
-#DESCRIPTION Mountain Top Overlook
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/virginislands/stcroix/?cam=mmstcroix_hd:St. Croix
-#DESCRIPTION St. Croix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/us-virgin-islands/st-thomas/water-island/water-island.html:Water Island - USVI
-#DESCRIPTION Water Island - USVI
-#SERVICE 1:64:4B:0:0:0:0:0:0:0::=== USA GMT-5/-8 ===
+#SERVICE 1:64:46:0:0:0:0:0:0:0::=== USA GMT-5/-8 ===
 #DESCRIPTION === USA GMT-5/-8 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/arizona/prescott/?cam=prescott:Arizona Prescott
 #DESCRIPTION Arizona Prescott
@@ -3955,7 +3717,7 @@
 #DESCRIPTION Wisconsin Egg Harbor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live/madelineisland.stream/playlist.m3u8:Wisconsin Madeline Island @
 #DESCRIPTION Wisconsin Madeline Island @
-#SERVICE 1:64:4C:0:0:0:0:0:0:0::YOUTUBE
+#SERVICE 1:64:47:0:0:0:0:0:0:0::YOUTUBE
 #DESCRIPTION YOUTUBE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/gpFqI8DD9IA:Beograd @
 #DESCRIPTION Beograd @
@@ -4113,18 +3875,10 @@
 #DESCRIPTION Ukraine 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/R-qCsZ1obbc:Ukraine 4
 #DESCRIPTION Ukraine 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/t0GrpAgdBFI:USA LAX AIRPORT
-#DESCRIPTION USA LAX AIRPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/qHW8srS0ylo:USA New Orleans
 #DESCRIPTION USA New Orleans
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/0i_lTuIWf_A:USA New York Airport @
-#DESCRIPTION USA New York Airport @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/edz0ux7JClE:USA San Diego @
 #DESCRIPTION USA San Diego @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/rnXIjl_Rzy4:USA Times Square
-#DESCRIPTION USA Times Square
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/2heQSC2hqEg:Venezuela
-#DESCRIPTION Venezuela
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/z7SiAaN4ogw:World 1 @@
 #DESCRIPTION World 1 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/2BLqhS59Elc:World 2 @@
