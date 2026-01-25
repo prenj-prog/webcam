@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.824 - 24.01.26    @=is moving  @@=multiple link
+#NAME Prenj SF Ver.825 - 25.01.26    @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8:Bale Trg La Musa 403
@@ -1839,10 +1839,6 @@
 #DESCRIPTION Wittmund Nordseebad Carolinensiel-Harlesiel @
 #SERVICE 1:64:17:0:0:0:0:0:0:0::=== Hungary ===
 #DESCRIPTION === Hungary ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloudfront44.lexanetwork.com%3a1344/freerelay/keszthelyivcam.sdp/chunks.m3u8:2
-#DESCRIPTION 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//597898896a88d.streamlock.net/live/D1517508.stream/chunklist.m3u8:3
-#DESCRIPTION 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/hungary/budapest/?cam=hotelvictoria:Budapest
 #DESCRIPTION Budapest
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mms.iptv.unideb.hu/ipcam/ipcam.sport.stream/playlist.m3u8:Debrecen Universiteitsplein 4K
@@ -1873,50 +1869,6 @@
 #DESCRIPTION Kerry
 #SERVICE 1:64:1A:0:0:0:0:0:0:0::=== Italy ===
 #DESCRIPTION === Italy ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_alghero06.m3u8:Alghero Sardinija plaža Lazzaretto 706
-#DESCRIPTION Alghero Sardinija plaža Lazzaretto 706
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/marche/ancona/senigallia.html:Ancona Senigallia
-#DESCRIPTION Ancona Senigallia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/campania/avellino/montella.html:Avellino Montella
-#DESCRIPTION Avellino Montella
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/puglia/bari/locorotondo.html:Bari Locorotondo Valle d'Itria
-#DESCRIPTION Bari Locorotondo Valle d'Itria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/puglia/bari/polignano-a-mare.html:Bari Polignano a Mare
-#DESCRIPTION Bari Polignano a Mare
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/puglia/bari/marina-mola-di-bari.html:Bari Porto di Mola di Bari
-#DESCRIPTION Bari Porto di Mola di Bari
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/puglia/bari/spiaggia-di-bari.html:Bari Spiaggia di Pane e Pomodoro
-#DESCRIPTION Bari Spiaggia di Pane e Pomodoro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/alleghe.html:Belluno Alleghe
-#DESCRIPTION Belluno Alleghe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/chiesa-san-biagio.html:Belluno Alleghe Chiesa di San Biagio
-#DESCRIPTION Belluno Alleghe Chiesa di San Biagio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/arabba.html:Belluno Arabba
-#DESCRIPTION Belluno Arabba
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/arabba-dolomiti.html:Belluno Arabba 2
-#DESCRIPTION Belluno Arabba 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/canale-dagordo-belluno.html:Belluno Canale d'Agordo
-#DESCRIPTION Belluno Canale d'Agordo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/col-de-varda-misurina.html:Belluno Col De Varda Misurina
-#DESCRIPTION Belluno Col De Varda Misurina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/lago-di-alleghe.html:Belluno Lago di Alleghe
-#DESCRIPTION Belluno Lago di Alleghe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/lago-alleghe.html:Belluno Lago di Alleghe @
-#DESCRIPTION Belluno Lago di Alleghe @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/lago-di-alleghe-dolomiti.html:Belluno Lago di Alleghe Dolomiti
-#DESCRIPTION Belluno Lago di Alleghe Dolomiti
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/lago-di-alleghe-monte-civetta.html:Belluno Lago di Alleghe Dolomiti Bellunesi
-#DESCRIPTION Belluno Lago di Alleghe Dolomiti Bellunesi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/passo-campolongo-dolomiti.html:Belluno Passo Campolongo Dolomiti
-#DESCRIPTION Belluno Passo Campolongo Dolomiti
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/passo-campolongo.html:Belluno Passo Campolongo Sella Ronda @
-#DESCRIPTION Belluno Passo Campolongo Sella Ronda @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/piana-di-falcade.html:Belluno Piana di Falcade @
-#DESCRIPTION Belluno Piana di Falcade @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/belluno/sottoguda-marmolada.html:Belluno Sottoguda Marmolada Dolomites
-#DESCRIPTION Belluno Sottoguda Marmolada Dolomites
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/voltago-agordino.html:Belluno Voltago Agordino
-#DESCRIPTION Belluno Voltago Agordino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/bergamo/porto-lovere.html:Bergamo Porto turistico di Lovere
 #DESCRIPTION Bergamo Porto turistico di Lovere
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/bergamo/sarnico.html:Bergamo Sarnico
