@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.826 - 27.01.26    @=is moving  @@=multiple link
+#NAME Prenj SF Ver.827 - 29.01.26    @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8:Bale Trg La Musa 403
@@ -2053,8 +2053,6 @@
 #DESCRIPTION Latina Gaeta Piazza della Libertà
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/latina/gaeta.html:Latina Gaeta Serapo Beach
 #DESCRIPTION Latina Gaeta Serapo Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/gallipoli-spiaggia-della-purita.html:Lecce Gallipoli Purità Beach
-#DESCRIPTION Lecce Gallipoli Purità Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/porto-di-gallipoli.html:Lecce Port of Gallipoli
 #DESCRIPTION Lecce Port of Gallipoli
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/porto-cesareo.html:Lecce Porto Cesareo
@@ -2073,14 +2071,6 @@
 #DESCRIPTION Lecco Lake Como
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/livorno/cecina-acquavillage.html:Livorno Acqua Village in Cecina
 #DESCRIPTION Livorno Acqua Village in Cecina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/livorno/marina-di-bibbona.html:Livorno Marina di Bibbona ## 0501 OFF
-#DESCRIPTION Livorno Marina di Bibbona ## 0501 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/livorno/rosignano-solvay.html:Livorno Passage to the sea in Rosignano Solvay
-#DESCRIPTION Livorno Passage to the sea in Rosignano Solvay
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/lodi/santangelo-lodigiano.html:Lodi Sant'Angelo Lodigiano
-#DESCRIPTION Lodi Sant'Angelo Lodigiano
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/lucca/spiaggia-viareggio.html:Lucca Viareggio Beach
-#DESCRIPTION Lucca Viareggio Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/basilicata/matera/matera.html:Matera Sasso Caveoso
 #DESCRIPTION Matera Sasso Caveoso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/sicilia/messina/messina.html:Messina @
@@ -2091,16 +2081,10 @@
 #DESCRIPTION Messina Panarea
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/porto-di-lipari.html:Messina Port of Lipari
 #DESCRIPTION Messina Port of Lipari
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/stromboli.html:Messina Stromboli
-#DESCRIPTION Messina Stromboli
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/stromboli-sicilia.html:Messina Stromboli Sicily
 #DESCRIPTION Messina Stromboli Sicily
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/taormina.html:Messina Taormina
 #DESCRIPTION Messina Taormina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/vulcano-gran-cratere-della-fossa.html:Messina Vulcano Gran Cratere della Fossa
-#DESCRIPTION Messina Vulcano Gran Cratere della Fossa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/2/master.m3u8:meteoproject.eu 2
-#DESCRIPTION meteoproject.eu 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/24/master.m3u8:meteoproject.eu 24
 #DESCRIPTION meteoproject.eu 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/21/master.m3u8:meteoproject.eu 24 Cervinia Valtournenche
@@ -2111,8 +2095,6 @@
 #DESCRIPTION meteoproject.eu 45
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/50/master.m3u8:meteoproject.eu 50
 #DESCRIPTION meteoproject.eu 50
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/51/master.m3u8:meteoproject.eu 51
-#DESCRIPTION meteoproject.eu 51
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/57/master.m3u8:meteoproject.eu 57
 #DESCRIPTION meteoproject.eu 57
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/58/master.m3u8:meteoproject.eu 58
@@ -2125,18 +2107,14 @@
 #DESCRIPTION meteoproject.eu 68
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/69/master.m3u8:meteoproject.eu 69
 #DESCRIPTION meteoproject.eu 69
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/74/master.m3u8:meteoproject.eu 74
-#DESCRIPTION meteoproject.eu 74
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/80/master.m3u8:meteoproject.eu 80
 #DESCRIPTION meteoproject.eu 80
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-meteoproject.eu/data/83/master.m3u8:meteoproject.eu 83
 #DESCRIPTION meteoproject.eu 83
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/milano/duomo-milano.html:Milano Cathedral
 #DESCRIPTION Milano Cathedral
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/milano/piazza-cinque-giornate.html:Milano Piazza Cinque Giornate
-#DESCRIPTION Milano Piazza Cinque Giornate
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/milano/piazza-duca-dsosta.html:Milano Piazza Duca d'Aosta ## 0501 OFF
-#DESCRIPTION Milano Piazza Duca d'Aosta ## 0501 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/milano/piazza-duca-dsosta.html:Milano Piazza Duca d'Aosta
+#DESCRIPTION Milano Piazza Duca d'Aosta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/napoli/castel-nuovo-maschio-angioino.html:Napoli Castel Nuovo Maschio Angioino
 #DESCRIPTION Napoli Castel Nuovo Maschio Angioino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/campania/napoli/corso-umberto-i.html:Napoli Corso Umberto
@@ -2153,8 +2131,6 @@
 #DESCRIPTION Napoli Sant'Angelo d'Ischia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/napoli/sorrento.html:Napoli Sorrento Marina Grande
 #DESCRIPTION Napoli Sorrento Marina Grande
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/padova/padova-basilica-di-sant-antonio.html:Padova Basilica of Saint Anthony ## 0501 OFF
-#DESCRIPTION Padova Basilica of Saint Anthony ## 0501 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_palau05.m3u8:Palau Sardinija Isola dei Gabbiani 505 @
 #DESCRIPTION Palau Sardinija Isola dei Gabbiani 505 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/cattedrale-di-palermo.html:Palermo Cathedral
@@ -2169,8 +2145,6 @@
 #DESCRIPTION Palermo Mondello Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/porto-palermo.html:Palermo Port
 #DESCRIPTION Palermo Port
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/punta-celesi.html:Palermo Punta Celesi
-#DESCRIPTION Palermo Punta Celesi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/santa-flavia-baia-di-porticello.html:Palermo Santa Flavia
 #DESCRIPTION Palermo Santa Flavia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/marche/pesaro-urbino/fano.html:Pesaro-urbino Fano Piazza XX Settembre
@@ -2179,40 +2153,28 @@
 #DESCRIPTION Pesaro-urbino Panoramic view of Fano @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/pisa/pisa.html:Pisa @
 #DESCRIPTION Pisa @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/pisa/spiaggia-tirrenia.html:Pisa Beach of Tirrenia
-#DESCRIPTION Pisa Beach of Tirrenia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/ragusa/marina-ragusa.html:Ragusa Marina
 #DESCRIPTION Ragusa Marina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/ragusa/punta-secca.html:Ragusa Punta Secca ##2412 OFF
-#DESCRIPTION Ragusa Punta Secca ##2412 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/ragusa/punta-secca.html:Ragusa Punta Secca
+#DESCRIPTION Ragusa Punta Secca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/ravenna/milano-marittima.html:Ravenna Marittima Cervia
 #DESCRIPTION Ravenna Marittima Cervia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/rimini.html:Rimini
 #DESCRIPTION Rimini
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/bellaria-igea-marina.html:Rimini Bellaria-Igea Marina ##1711 OFF
-#DESCRIPTION Rimini Bellaria-Igea Marina ##1711 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/bellaria-igea-marina.html:Rimini Bellaria-Igea Marina
+#DESCRIPTION Rimini Bellaria-Igea Marina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/cattolica.html:Rimini Cattolica
 #DESCRIPTION Rimini Cattolica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/cattolica-rimini.html:Rimini Cattolica 2
-#DESCRIPTION Rimini Cattolica 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/miramare-di-rimini.html:Rimini Miramare @
 #DESCRIPTION Rimini Miramare @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/spiaggia-di-riccione.html:Rimini Riccione Beach
 #DESCRIPTION Rimini Riccione Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/torre-pedrera.html:Rimini Torre Pedrera
-#DESCRIPTION Rimini Torre Pedrera
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-san-giovanni.html:Roma Archbasilica of St. John Lateran ##2412 OFF
-#DESCRIPTION Roma Archbasilica of St. John Lateran ##2412 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/basilica-papale-santa-maria-maggiore.html:Roma Basilica di Santa Maria Maggiore
 #DESCRIPTION Roma Basilica di Santa Maria Maggiore
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/campo-de-fiori.html:Roma Campo de' Fiori
-#DESCRIPTION Roma Campo de' Fiori
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/roma-colosseo.html:Roma Colosseum
 #DESCRIPTION Roma Colosseum
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/pantheon.html:Roma Pantheon
 #DESCRIPTION Roma Pantheon
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-del-popolo.html:Roma Piazza del Popolo
-#DESCRIPTION Roma Piazza del Popolo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-di-spagna.html:Roma Piazza di Spagna
 #DESCRIPTION Roma Piazza di Spagna
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-navona-roma.html:Roma Piazza Navona
@@ -2231,20 +2193,14 @@
 #DESCRIPTION Roma Via del Corso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/via-frattina.html:Roma Via Frattina
 #DESCRIPTION Roma Via Frattina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/costiera-amalfi.html:Salerno Amalfi
-#DESCRIPTION Salerno Amalfi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/spiaggia-agropoli.html:Salerno Beach of Agropoli
 #DESCRIPTION Salerno Beach of Agropoli
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/spiaggia-positano.html:Salerno Beach of Positano
-#DESCRIPTION Salerno Beach of Positano
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/minori-spiaggia.html:Salerno Minori Amalfi Coast
 #DESCRIPTION Salerno Minori Amalfi Coast
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/centro-storico-salerno.html:Salerno Old Town
 #DESCRIPTION Salerno Old Town
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/palinuro-spiaggia.html:Salerno Palinuro ## 0501 OFF
-#DESCRIPTION Salerno Palinuro ## 0501 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/praiano-costiera-amalfitana.html:Salerno Praiano Amalfi Coast
-#DESCRIPTION Salerno Praiano Amalfi Coast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/palinuro-spiaggia.html:Salerno Palinuro
+#DESCRIPTION Salerno Palinuro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/praiano-costiera.html:Salerno Praiano Divina Costiera
 #DESCRIPTION Salerno Praiano Divina Costiera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sardegna/sassari/baja-sardinia-costa-smeralda.html:Sassari Baja Sardinia Costa Smeralda
@@ -2253,10 +2209,6 @@
 #DESCRIPTION Sassari Stintino La Pelosa @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/savona/spotorno.html:Savona Spotorno
 #DESCRIPTION Savona Spotorno
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/sondrio/pista-stelvio-ski-area-bormio.html:Sondria Stilfs' slopes Ski Area Bormio
-#DESCRIPTION Sondria Stilfs' slopes Ski Area Bormio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/sondrio/bormio-3000.html:Sondrio Bormio 3000 Cima Bianca
-#DESCRIPTION Sondrio Bormio 3000 Cima Bianca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/sondrio/livigno-ski-center.html:Sondrio Livigno
 #DESCRIPTION Sondrio Livigno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_livigno04.m3u8:Sondrio Livigno 504
@@ -2265,8 +2217,6 @@
 #DESCRIPTION Sondrio Livigno Hotel Primula 505
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/sondrio/livigno-ski-area-san-rocco.html:Sondrio Livigno Ski Area San Rocco
 #DESCRIPTION Sondrio Livigno Ski Area San Rocco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/sondrio/valdisotto.html:Sondrio Valdisotto ## 1212 OFF
-#DESCRIPTION Sondrio Valdisotto ## 1212 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/abruzzo/teramo/spiaggia-alba-adriatica.html:Teramo Alba Adriatica Beach
 #DESCRIPTION Teramo Alba Adriatica Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_pietracamela01.m3u8:Teramo Pietracamela Panorama 501
@@ -2301,8 +2251,8 @@
 #DESCRIPTION Trento Riva del Garda
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/trento/torbole-sul-garda-trento.html:Trento Torbole sul Garda
 #DESCRIPTION Trento Torbole sul Garda
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/trento/torbole-sul-garda.html:Trento Torbole sul Garda 2 ## 0501 OFF
-#DESCRIPTION Trento Torbole sul Garda 2 ## 0501 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/trento/torbole-sul-garda.html:Trento Torbole sul Garda 2
+#DESCRIPTION Trento Torbole sul Garda 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/trento/torbole-sul-garda-lago-di-garda.html:Trento Torbole sul Garda Lago di Garda
 #DESCRIPTION Trento Torbole sul Garda Lago di Garda
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e0add8153fcd.streamlock.net%3a1936/vedetta/colosseo.stream/playlist.m3u8:Trieste Colosseum
@@ -2321,8 +2271,6 @@
 #DESCRIPTION Varese Laveno Mombello
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/varese/maccagno-lago-maggiore.html:Varese Maccagno Lago Maggiore
 #DESCRIPTION Varese Maccagno Lago Maggiore
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/spiaggia-jesolo.html:Venezia Beach of Jesolo
-#DESCRIPTION Venezia Beach of Jesolo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/ponte-di-calatrava.html:Venezia Calatrava Bridge
 #DESCRIPTION Venezia Calatrava Bridge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/caorle.html:Venezia Caorle
@@ -2341,12 +2289,10 @@
 #DESCRIPTION Venezia Jesolo Lido Milano Square
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/piazza-san-marco.html:Venezia Piazza San Marco
 #DESCRIPTION Venezia Piazza San Marco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/it_ponza05.m3u8:Venezia Ponza luka 205
-#DESCRIPTION Venezia Ponza luka 205
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/canal-grande-rialto.html:Venezia Rialto Bridge
 #DESCRIPTION Venezia Rialto Bridge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/rialto-canal-grande.html:Venezia Rialto Bridge ## 1212 OFF
-#DESCRIPTION Venezia Rialto Bridge ## 1212 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/rialto-canal-grande.html:Venezia Rialto Bridge
+#DESCRIPTION Venezia Rialto Bridge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/rio-di-palazzo.html:Venezia Rio di Palazzo
 #DESCRIPTION Venezia Rio di Palazzo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_rosolinamare03.m3u8:Venezia Rosolina mare @
@@ -2363,10 +2309,6 @@
 #DESCRIPTION Verbania Lake Maggiore Baveno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/lago-maggiore-isola-san-giovanni.html:Verbania Lake Maggiore Isolino di San Giovanni
 #DESCRIPTION Verbania Lake Maggiore Isolino di San Giovanni
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/lago-maggiore.html:Verbania Lake Maggiore Pallanza ##2412 OFF
-#DESCRIPTION Verbania Lake Maggiore Pallanza ##2412 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/macugnaga-belvedere.html:Verbania Macugnaga Belvedere
-#DESCRIPTION Verbania Macugnaga Belvedere
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/arena-di-verona.html:Verona Arena
 #DESCRIPTION Verona Arena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/bosco-chiesanuova.html:Verona Bosco Chiesanuova
@@ -2385,8 +2327,6 @@
 #DESCRIPTION Vibo Valentia Tropea @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/capo-vaticano.html:Vibo-valentia Capo Vaticano @
 #DESCRIPTION Vibo-valentia Capo Vaticano @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/capo-vaticano-spiaggia-grotticelle.html:Vibo-valentia Capo Vaticano Grotticelle Beach @ ##2011 OFF
-#DESCRIPTION Vibo-valentia Capo Vaticano Grotticelle Beach @ ##2011 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/vicenza/isola-vicentina.html:Vicenza Isola Vicentina
 #DESCRIPTION Vicenza Isola Vicentina
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/vicenza/monte-di-malo-val-leogra.html:Vicenza Monte di Malo Val Leogra
@@ -3177,175 +3117,175 @@
 #DESCRIPTION Wisconsin Madeline Island @
 #SERVICE 1:64:26:0:0:0:0:0:0:0::YOUTUBE
 #DESCRIPTION YOUTUBE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/gpFqI8DD9IA:Beograd @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/gpFqI8DD9IA:Beograd @
 #DESCRIPTION Beograd @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/8_oxQplx7Xg:Crveni vrh @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/8_oxQplx7Xg:Crveni vrh @
 #DESCRIPTION Crveni vrh @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/rKhA-aECN18:Hvar @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtube.com/watch?v=JpE1ncw-xEA
 #DESCRIPTION Hvar @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/_Rr2Fs51v6A:Kopaonik @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/_Rr2Fs51v6A:Kopaonik @@
 #DESCRIPTION Kopaonik @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/58xgbwgamIA:Međugorje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/58xgbwgamIA:Međugorje
 #DESCRIPTION Međugorje
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/f_kvIQwpzWY:Plaški @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/f_kvIQwpzWY:Plaški @
 #DESCRIPTION Plaški @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/idr71oXmhdc:Primošten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/idr71oXmhdc:Primošten
 #DESCRIPTION Primošten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/iSbn8x3IUhs:Rogoznica @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/iSbn8x3IUhs:Rogoznica @
 #DESCRIPTION Rogoznica @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/FoNglL6eS6Y:Sjenica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/FoNglL6eS6Y:Sjenica
 #DESCRIPTION Sjenica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/NIuO6hrFTrg:Austria Feratel @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/NIuO6hrFTrg:Austria Feratel @@
 #DESCRIPTION Austria Feratel @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/F2-hJqSTaUk:Austria PanoCloud and EU @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/F2-hJqSTaUk:Austria PanoCloud and EU @@
 #DESCRIPTION Austria PanoCloud and EU @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/tMYtrEBNVAU:Entrada no Canal do Porto de Santos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/tMYtrEBNVAU:Entrada no Canal do Porto de Santos
 #DESCRIPTION Entrada no Canal do Porto de Santos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/I-7mv4-BJ7M:Canada Port de Quebec
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/I-7mv4-BJ7M:Canada Port de Quebec
 #DESCRIPTION Canada Port de Quebec
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/loHbMM9JfCs:Curaçao
-#DESCRIPTION Curaçao
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/0jUGiYZKAMg:Czech Republik Airport Prague
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/loHbMM9JfCs:Curaçao
+#DESCRIPTION Curaçao @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/0jUGiYZKAMg:Czech Republik Airport Prague
 #DESCRIPTION Czech Republik Airport Prague
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/ZOz5U5TDhlQ:Denmark @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/ZOz5U5TDhlQ:Denmark @@
 #DESCRIPTION Denmark @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/F0GOOP82094:Denmark Aarlborg Wildlife In The Forest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/F0GOOP82094:Denmark Aarlborg Wildlife In The Forest
 #DESCRIPTION Denmark Aarlborg Wildlife In The Forest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/IZhDwv4dz0g:Denmark Greenland Nuuk Airport North
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/IZhDwv4dz0g:Denmark Greenland Nuuk Airport North
 #DESCRIPTION Denmark Greenland Nuuk Airport North
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/MApnQlsX5AQ:Denmark Greenland Nuuk Airport South
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/MApnQlsX5AQ:Denmark Greenland Nuuk Airport South
 #DESCRIPTION Denmark Greenland Nuuk Airport South
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/rvtygG4n6ew:Earthquake Monitoring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/rvtygG4n6ew:Earthquake Monitoring
 #DESCRIPTION Earthquake Monitoring
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/QO-hO_kwwmY:England Ferry Southampton to Cowes Isle of Wight Red Funnel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/QO-hO_kwwmY:England Ferry Southampton to Cowes Isle of Wight Red Funnel
 #DESCRIPTION England Ferry Southampton to Cowes Isle of Wight Red Funnel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/w9ICwT2WZy8:Europe @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/w9ICwT2WZy8:Europe @@
 #DESCRIPTION Europe @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/JnJhFYhIjFs:Finnland Helsinki Port West harbour north
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/JnJhFYhIjFs:Finnland Helsinki Port West harbour north
 #DESCRIPTION Finnland Helsinki Port West harbour north
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/6hPWq2IG08M:Finnland Helsinki Port West harbour south @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/6hPWq2IG08M:Finnland Helsinki Port West harbour south @
 #DESCRIPTION Finnland Helsinki Port West harbour south @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/1k4DEIa2cuI:Finnland Iisalmi @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/1k4DEIa2cuI:Finnland Iisalmi @
 #DESCRIPTION Finnland Iisalmi @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/X7tdyNFpp1g:Finnland Kylänäkymä
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/X7tdyNFpp1g:Finnland Kylänäkymä
 #DESCRIPTION Finnland Kylänäkymä
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/CvOB-Is_yYU:Finnland Port of Helsinki @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/CvOB-Is_yYU:Finnland Port of Helsinki @@
 #DESCRIPTION Finnland Port of Helsinki @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Cp4RRAEgpeU:Finnland Santa Claus Village
-#DESCRIPTION Finnland Santa Claus Village
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/LwihxyJ4V20:Finnland Zero Point Levi Finland @
-#DESCRIPTION Finnland Zero Point Levi Finland @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Li3Dvqlo5uE:Germany @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/Cp4RRAEgpeU:Finnland Santa Claus Village
+#DESCRIPTION Finnland Rovaniemi Santa Claus Village
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/LwihxyJ4V20:Finnland Zero Point Levi Finland @
+#DESCRIPTION Finnland Zero Point Levi @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/Li3Dvqlo5uE:Germany @@
 #DESCRIPTION Germany @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/IRqboacDNFg:Germany Berlin Alexanderplatz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/IRqboacDNFg:Germany Berlin Alexanderplatz @
 #DESCRIPTION Germany Berlin Alexanderplatz @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/OmyDLXvaus4:Germany Hamburg Michel @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/OmyDLXvaus4:Germany Hamburg Michel @
 #DESCRIPTION Germany Hamburg Michel @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/R1bLDIW-IjA:Germany PanoCloud @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/R1bLDIW-IjA:Germany PanoCloud @@
 #DESCRIPTION Germany PanoCloud @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/aYtgGjMDagw:Germany Spotlight @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/aYtgGjMDagw:Germany Spotlight @@
 #DESCRIPTION Germany Spotlight @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/OkV0gyxx7Vk:Germany Spotlight Bodensee @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/OkV0gyxx7Vk:Germany Spotlight Bodensee @@
 #DESCRIPTION Germany Spotlight Bodensee @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/5p-s-1453Us:Greece @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/5p-s-1453Us:Greece @@
 #DESCRIPTION Greece @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Gzl2M_eGpfM:Greece Kos Island Harbour
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/Gzl2M_eGpfM:Greece Kos Island Harbour
 #DESCRIPTION Greece Kos Island Harbour
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/HRX3xrJ0tXo:Iceland Now @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/HRX3xrJ0tXo:Iceland Now @@
 #DESCRIPTION Iceland Now @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/4B-xBkUX4jM:Iceland Volcano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/4B-xBkUX4jM:Iceland Volcano
 #DESCRIPTION Iceland Volcano
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/oxx7MqjhOpw:Ireland Dublin Bay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/oxx7MqjhOpw:Ireland Dublin Bay
 #DESCRIPTION Ireland Dublin Bay
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/u4UZ4UvZXrg:Ireland Dublin Temple Bar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/u4UZ4UvZXrg:Ireland Dublin Temple Bar
 #DESCRIPTION Ireland Dublin Temple Bar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/wMT2aNcP4Wg:Italy @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/wMT2aNcP4Wg:Italy @@
 #DESCRIPTION Italy @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Y1qp-EVF_oU:Italy Nord @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/Y1qp-EVF_oU:Italy Nord @@
 #DESCRIPTION Italy Nord @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/4jx0xcRcM3U:Italy Südtirol @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/4jx0xcRcM3U:Italy Südtirol @@
 #DESCRIPTION Italy Südtirol @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/P6JA_YjHMZs:Italy Venice Grand Canal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/P6JA_YjHMZs:Italy Venice Grand Canal
 #DESCRIPTION Italy Venice Grand Canal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/gCu45mPX77Y:Japan @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/gCu45mPX77Y:Japan @@
 #DESCRIPTION Japan @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/ydYDqZQpim8:Namibia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/ydYDqZQpim8:Namibia
 #DESCRIPTION Namibia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/vytmBNhc9ig:NASA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/vytmBNhc9ig:NASA 1
 #DESCRIPTION NASA 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/fO9e9jnhYK8:NASA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/fO9e9jnhYK8:NASA 2
 #DESCRIPTION NASA 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/6erj7ooA6CM:Nepal ANNAPURNA BASE CAMP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/6erj7ooA6CM:Nepal ANNAPURNA BASE CAMP
 #DESCRIPTION Nepal ANNAPURNA BASE CAMP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/kaRVui_uXa8:Nepal LUKLA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/kaRVui_uXa8:Nepal LUKLA
 #DESCRIPTION Nepal LUKLA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/nFozEhYTEMo:Niederlande Rotterdam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/nFozEhYTEMo:Niederlande Rotterdam
 #DESCRIPTION Niederlande Rotterdam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/DP4vxBdgfGE:Norway @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/DP4vxBdgfGE:Norway @@
 #DESCRIPTION Norway @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/iXLaEkB3J0I:Norway Nordkapp @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/iXLaEkB3J0I:Norway Nordkapp @
 #DESCRIPTION Norway Nordkapp @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/tAWFO8_O_7M:Norway Railway Winter @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/tAWFO8_O_7M:Norway Railway Winter @
 #DESCRIPTION Norway Railway Winter @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/uxC7Gf0_MwM:Poland Beaches @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/uxC7Gf0_MwM:Poland Beaches @@
 #DESCRIPTION Poland Beaches @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Rn_ga4yXkME:Poland Cities @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/Rn_ga4yXkME:Poland Cities @@
 #DESCRIPTION Poland Cities @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/W3Y2T66t--Y:Poland Mountains @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/W3Y2T66t--Y:Poland Mountains @@
 #DESCRIPTION Poland Mountains @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/K07hd6RP8cw:Portugal Madeira Porto Moniz @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/K07hd6RP8cw:Portugal Madeira Porto Moniz @
 #DESCRIPTION Portugal Madeira Porto Moniz @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/jSmPUv48IYc:Portugal Porto @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/jSmPUv48IYc:Portugal Porto @
 #DESCRIPTION Portugal Porto @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/fUsJZTHeZn4:Russia St. Petersburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/fUsJZTHeZn4:Russia St. Petersburg
 #DESCRIPTION Russia St. Petersburg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/8miQ3QXA26Q:Scotland Fort William
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/8miQ3QXA26Q:Scotland Fort William
 #DESCRIPTION Scotland Fort William
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/6V39eDpTyas:Slovakia @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/6V39eDpTyas:Slovakia @@
 #DESCRIPTION Slovakia @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/NHRDdaH4LpU:Spain @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/NHRDdaH4LpU:Spain @@
 #DESCRIPTION Spain @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Ldl6olpY64s:Sweden @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/Ldl6olpY64s:Sweden @@
 #DESCRIPTION Sweden @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/agY6ZaM1G_o:Sweden Stockholm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/agY6ZaM1G_o:Sweden Stockholm
 #DESCRIPTION Sweden Stockholm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/enYFXf8u7Lc:Switzerland Feratel @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/enYFXf8u7Lc:Switzerland Feratel @@
 #DESCRIPTION Switzerland Feratel @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/jtLh8BdmHUU:Switzerland Hotel Basel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/jtLh8BdmHUU:Switzerland Hotel Basel
 #DESCRIPTION Switzerland Hotel Basel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/QIt1FaDMnQc:Switzerland Luzern @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/QIt1FaDMnQc:Switzerland Luzern @
 #DESCRIPTION Switzerland Luzern @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/C03Itx8iSC0:Taiwan 1 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/C03Itx8iSC0:Taiwan 1 @
 #DESCRIPTION Taiwan 1 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/Ndo_8RuefH4:Taiwan 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/Ndo_8RuefH4:Taiwan 2
 #DESCRIPTION Taiwan 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/z_fY1pj1VBw:Taiwan 3 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/z_fY1pj1VBw:Taiwan 3 @
 #DESCRIPTION Taiwan 3 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/fP4ecxfsJos:Taiwan 4 @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/fP4ecxfsJos:Taiwan 4 @
 #DESCRIPTION Taiwan 4 @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/LErLYhpJOZY:United Kingdom @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/LErLYhpJOZY:United Kingdom @@
 #DESCRIPTION United Kingdom @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/e2gC37ILQmk:Ukraine 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/e2gC37ILQmk:Ukraine 1
 #DESCRIPTION Ukraine 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/V_0az0lQ6Ww:Ukraine 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/V_0az0lQ6Ww:Ukraine 2
 #DESCRIPTION Ukraine 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/R-qCsZ1obbc:Ukraine 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/R-qCsZ1obbc:Ukraine 4
 #DESCRIPTION Ukraine 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/edz0ux7JClE:USA San Diego @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/edz0ux7JClE:USA San Diego @
 #DESCRIPTION USA San Diego @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/z7SiAaN4ogw:World 1 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/z7SiAaN4ogw:World 1 @@
 #DESCRIPTION World 1 @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/2BLqhS59Elc:World 2 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/2BLqhS59Elc:World 2 @@
 #DESCRIPTION World 2 @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/HVGwLboIdYc:World 3 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/HVGwLboIdYc:World 3 @@
 #DESCRIPTION World 3 @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/HfgIFGbdGJ0:World 4 Earth TV @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/HfgIFGbdGJ0:World 4 Earth TV @@
 #DESCRIPTION World 4 Earth TV @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/EFum1rGUdkk:World 5 Skyline top @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/EFum1rGUdkk:World 5 Skyline top @@
 #DESCRIPTION World 5 Skyline top @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/OMebkpnYJJo:World 6 Rolling Cams Beach @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/OMebkpnYJJo:World 6 Rolling Cams Beach @@
 #DESCRIPTION World 6 Rolling Cams Beach @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/TZikBxNaaQk:World 7 Cities 1 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/TZikBxNaaQk:World 7 Cities 1 @@
 #DESCRIPTION World 7 Cities 1 @@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//http%3a//youtu.be/_q0yBz6h4Lg:World 8 Cities 2 @@
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/_q0yBz6h4Lg:World 8 Cities 2 @@
 #DESCRIPTION World 8 Cities 2 @@
