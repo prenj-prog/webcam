@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.829 - 01.02.26    @=is moving  @@=multiple link
+#NAME Prenj SF Ver.830 - 02.02.26    @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8:Bale Trg La Musa 403
@@ -2355,285 +2355,13 @@
 #DESCRIPTION === United Arab Emirates GMT+4 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-arab-emirates/dubai/dubai/dubai-marina.html:Dubai Marina
 #DESCRIPTION Dubai Marina
-#SERVICE 1:64:24:0:0:0:0:0:0:0::=== USA GMT-5/-8 ===
-#DESCRIPTION === USA GMT-5/-8 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/arizona/prescott/?cam=prescott:Arizona Prescott
-#DESCRIPTION Arizona Prescott
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/arizona/sedona/sevenarches/?cam=sedona7:Arizona Sedona Seven Arches @
-#DESCRIPTION Arizona Sedona Seven Arches @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/california/encinitas/encinitas-california.html:California Encinitas @
-#DESCRIPTION California Encinitas @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/202594-1354528-1/playlist.m3u8:California Plaservil centar
-#DESCRIPTION California Plaservil centar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/california/losangeles/port/?cam=portofla:California Port of Las Angeles
-#DESCRIPTION California Port of Las Angeles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/california/losangeles/port/?cam=portofla2:California Port of Las Angeles 2
-#DESCRIPTION California Port of Las Angeles 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/california/sandiego/harbor/?cam=sandiego:California San Diego Harbor
-#DESCRIPTION California San Diego Harbor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/california/santa-barbara/santa-barbara.html:California Santa Barbara
-#DESCRIPTION California Santa Barbara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1-or.vdn.terrafox.net/live/sonoma/playlist.m3u8:California Sonoma ## 0801 OFF
-#DESCRIPTION California Sonoma ## 0801 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-4284358-1/playlist.m3u8:Colorado 64th & Sheridan Monkeys Tire & Chrome @
-#DESCRIPTION Colorado 64th & Sheridan Monkeys Tire & Chrome @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/colorado/breckenridge/mountain/?cam=breckenridge_mountain:Colorado Breckenridge
-#DESCRIPTION Colorado Breckenridge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-2266250-1/playlist.m3u8:Colorado Buena Vista East Main
-#DESCRIPTION Colorado Buena Vista East Main
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-1395438-1/playlist.m3u8:Colorado Buena Vista Main st  Mt Princenton  Mt Antero
-#DESCRIPTION Colorado Buena Vista Main st  Mt Princenton  Mt Antero
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-1301834-1/playlist.m3u8:Colorado Idaho Springs
-#DESCRIPTION Colorado Idaho Springs
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-1260510-1/playlist.m3u8:Colorado Ouray
-#DESCRIPTION Colorado Ouray
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//video1.earthcam.com/myearthcam/cde8cb75cce36e0e7d3c52c0197e92ee.flv/chunklist_w393112961.m3u8:Colorado Pagosa Peak
-#DESCRIPTION Colorado Pagosa Peak
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-5865602-1/playlist.m3u8:Colorado Silt Hogback @
-#DESCRIPTION Colorado Silt Hogback @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-1195916-1/playlist.m3u8:Colorado West Glenwood Springs Widland
-#DESCRIPTION Colorado West Glenwood Springs Widland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/connecticut/newlondon/?cam=newlondon:Connecticut New London Harbor Cam
-#DESCRIPTION Connecticut New London Harbor Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5e0add8153fcd.streamlock.net%3a1936/vedetta/brickell-bay.stream/playlist.m3u8:Florida Brickell Beach Miami
-#DESCRIPTION Florida Brickell Beach Miami
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/florida/destin/?cam=destin:Florida Destin
-#DESCRIPTION Florida Destin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/florida/fortlauderdale/everglades/?cam=everglades:Florida Everglades
-#DESCRIPTION Florida Everglades
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/florida/fortlauderdale/marina/?cam=lauderdalemarina:Florida Fort Lauderdale Marina
-#DESCRIPTION Florida Fort Lauderdale Marina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/florida/fort-myers-beach/fort-myers-beach.html:Florida Fort Myers Beach
-#DESCRIPTION Florida Fort Myers Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/florida/hillsboro/?cam=hillsboro:Florida Hillsboro Lighthouse
-#DESCRIPTION Florida Hillsboro Lighthouse
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/florida/lauderdalebythesea/?cam=windjammer:Florida Lauderdale Windjammer
-#DESCRIPTION Florida Lauderdale Windjammer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/florida/lauderdalebythesea/town/?cam=lbts_beach:Florida Lauderdale By The Sea Beach View
-#DESCRIPTION Florida Lauderdale By The Sea Beach View
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/florida/lauderdalebythesea/town/?cam=lbts_town:Florida Lauderdale By The Sea Town View
-#DESCRIPTION Florida Lauderdale By The Sea Town View
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/usa/florida/marcoisland/beach/?cam=marcoisland_beach:Florida Marco Island Beach
-#DESCRIPTION Florida Marco Island Beach
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//videos-3.earthcam.com/fecnetwork/8891.flv/chunklist_w796582151.m3u8?t=82J1EfLnjug9P2bfgSnpge5qcBEEf3p0flRliFkJ+WLns4hot9ZEheY54aZ+5mbv:Florida Marina 1 +
-#DESCRIPTION Florida Marina 1 +
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/usa/florida/fortlauderdale/marina/?cam=lauderdalemarina:Florida Marina 2
-#DESCRIPTION Florida Marina 2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/usa/florida/naples/?cam=naplespier:Florida Naples Panorama Pier ## 0801 OFF
-#DESCRIPTION Florida Naples Panorama Pier ## 0801 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer2.brownrice.com/coralsands1/coralsands1.stream/main_playlist.m3u8:Florida Ormond
-#DESCRIPTION Florida Ormond
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/usa/florida/manalapan/palmbeach/?cam=manalapan_palmbeach:Florida Palmbeach
-#DESCRIPTION Florida Palmbeach
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/usa/florida/panamacitybeach/?cam=panamacitybeach:Florida Panama City Beach
-#DESCRIPTION Florida Panama City Beach
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/usa/florida/pensacola/beach/?cam=pensacolabeach:Florida Pensacola Beach
-#DESCRIPTION Florida Pensacola Beach
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/usa/florida/destin/sandestinbeach/?cam=sandestin:Florida Sandestin Beach
-#DESCRIPTION Florida Sandestin Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/florida/st-james-city/sanibel-island.html:Florida St. James City
-#DESCRIPTION Florida St. James City
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/florida/stuart/sunset-bay-marina.html:Florida Sunset Bay Marina Stuart
-#DESCRIPTION Florida Sunset Bay Marina Stuart
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/usa/florida/tampa/skyline/?cam=tampa_skyline:Florida Tampa Skyline
-#DESCRIPTION Florida Tampa Skyline
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/florida/miami/venetian-marina-biscayne-bay.html:Florida Venetian Marina Miami
-#DESCRIPTION Florida Venetian Marina Miami
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.earthcam.com/usa/georgia/atlanta/skyline/?cam=mainsailatlanta:Georgia Atlanta
-#DESCRIPTION Georgia Atlanta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/butternut.stream/playlist.m3u8:Georgia Blairsville Butternut Creek Golf Course @
-#DESCRIPTION Georgia Blairsville Butternut Creek Golf Course @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/state-of-georgia/dawsonville/dawsonville.html:Georgia Dawsonville ## 0501 OFF
-#DESCRIPTION Georgia Dawsonville ## 0501 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5c864aa99ee04.streamlock.net%3a1935/surfcam/live.stream/playlist.m3u8:Georgia Warm Winds
-#DESCRIPTION Georgia Warm Winds
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/hawaii/maui/kahului.html:Hawaii Kahului
-#DESCRIPTION Hawaii Kahului
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/hawaii/waikiki/?cam=waikiki:Hawaii Waikiki ## 0801 OFF
-#DESCRIPTION Hawaii Waikiki ## 0801 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/hawaii/waikiki/beach/?cam=waikiki_kuhio:Hawaii Waikiki Beach
-#DESCRIPTION Hawaii Waikiki Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/hawaii/bigisland/waikoloa/?cam=waikoloa:Hawaii Waikoloa ## 0801 OFF
-#DESCRIPTION Hawaii Waikoloa ## 0801 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1-or.vdn.terrafox.net/live/downtown-silver.stream/playlist.m3u8:Idaho Silver city
-#DESCRIPTION Idaho Silver city
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/illinois/chicago/field/?cam=fieldmuseum:Illinois Chigago
-#DESCRIPTION Illinois Chigago
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/illinois/chicago/skydeck/?cam=chicagoskydeck:Illinois Chigago Skydeck
-#DESCRIPTION Illinois Chigago Skydeck
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/Channels101/default.stream/playlist.m3u8:Illinois Downtown 1
-#DESCRIPTION Illinois Downtown 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/Channels301/default.stream/playlist.m3u8:Illinois Downtown 2
-#DESCRIPTION Illinois Downtown 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/illinois/chicago/midwayairport/?cam=midwayairport:Illinois Midway International Airport Chicago
-#DESCRIPTION Illinois Midway International Airport Chicago
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/illinois/winthropharbor/?cam=northpointmarina1:Illinois Northpoint Marina ##1212 OFF
-#DESCRIPTION Illinois Northpoint Marina ##1212 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/indiana/notredame/?cam=notredame:Indiana University of Notre Dame
-#DESCRIPTION Indiana University of Notre Dame
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-2059940-1/playlist.m3u8:Iowa Elkader Turkey River
-#DESCRIPTION Iowa Elkader Turkey River
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/kentucky/covington/?cam=covington:Kentucky Cincinnati Covington
-#DESCRIPTION Kentucky Cincinnati Covington
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=catsmeow2:Louisiana New Orleans Bourbon St.Cats Meow Balcony
-#DESCRIPTION Louisiana New Orleans Bourbon St.Cats Meow Balcony
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=bourbonstreet:Louisiana New Orleans Bourbon Street
-#DESCRIPTION Louisiana New Orleans Bourbon Street
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/maryland/baltimore/?cam=baltimoreharbor:Maryland Baltimore Inner Harbor
-#DESCRIPTION Maryland Baltimore Inner Harbor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/maryland/northeast/sandycove/?cam=sandycove:Maryland North East Sandy Cove
-#DESCRIPTION Maryland North East Sandy Cove
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/wispresortmountainpark.stream/playlist.m3u8:Maryland McHenry Wisp Resort
-#DESCRIPTION Maryland McHenry Wisp Resort
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/railey1.stream/playlist.m3u8:Maryland Oakland Deep Creek Lake @
-#DESCRIPTION Maryland Oakland Deep Creek Lake @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-2.streamhoster.com/pl_126/200612-2092228-1/playlist.m3u8:Michigan Crystal Falls HWY East
-#DESCRIPTION Michigan Crystal Falls HWY East
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/michigan/grand-rapids/thornapple-river.html:Michigan Grand Rapids
-#DESCRIPTION Michigan Grand Rapids
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland4/cityofholland4.stream/playlist.m3u8:Michigan Holland Civic Center
-#DESCRIPTION Michigan Holland Civic Center
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland6/cityofholland6.stream/playlist.m3u8:Michigan Holland Downtown ##1212 OFF
-#DESCRIPTION Michigan Holland Downtown ##1212 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland5/cityofholland5.stream/playlist.m3u8:Michigan Holland Energy Park
-#DESCRIPTION Michigan Holland Energy Park
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland7/cityofholland7.stream/playlist.m3u8:Michigan Holland Panoramaview
-#DESCRIPTION Michigan Holland Panoramaview
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f4ad95bcff44.streamlock.net%3a444/cityofholland8/cityofholland8.stream/playlist.m3u8:Michigan Holland State Park @
-#DESCRIPTION Michigan Holland State Park @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/michigan/stjoseph/lakemichigan/?cam=lakemichiganbeach:Michigan Lake Michigan Beach
-#DESCRIPTION Michigan Lake Michigan Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/michigan/brighton/?cam=brighton:Michigan Mill Pond
-#DESCRIPTION Michigan Mill Pond
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ddd47d64e730.streamlock.net%3a444/westland/westland.stream/playlist.m3u8:Michigan Westland
-#DESCRIPTION Michigan Westland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/spiritmtn.stream/playlist.m3u8:Minnesota Duluth Spirit Mountain
-#DESCRIPTION Minnesota Duluth Spirit Mountain
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/minnesota/saintpaul/?cam=stpaul:Minesota Saint Paul @
-#DESCRIPTION Minesota Saint Paul @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/missouri/hannibal/?cam=mtmuseum:Missouri Hannibal Mark Twain
-#DESCRIPTION Missouri Hannibal Mark Twain
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/missouri/stlouis/?cam=arch_riverview:Missouri St.Louis Arch
-#DESCRIPTION Missouri St.Louis Arch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newjersey/atlantichighlands/?cam=atlantichighlands:New Jersey Atlantic Highlands
-#DESCRIPTION New Jersey Atlantic Highlands
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newjersey/seasideheights/?cam=seasideheights3:New Jersey Seaside Heights Cam Amusement Park View
-#DESCRIPTION New Jersey Seaside Heights Cam Amusement Park View
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newjersey/seasideheights/?cam=seasideheights:New Jersey Seaside Heights Cam North View
-#DESCRIPTION New Jersey Seaside Heights Cam North View
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newjersey/seasideheights/?cam=seasideheights2:New Jersey Seaside Heights Cam South View
-#DESCRIPTION New Jersey Seaside Heights Cam South View
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newjersey/wildwood/?cam=wildwood:New Jersey Wildwood
-#DESCRIPTION New Jersey Wildwood
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/nevada/lasvegas/skyline/?cam=lasvegas:New Mexico South Las Vegas
-#DESCRIPTION New Mexico South Las Vegas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/nevada/las-vegas/las-vegas.html:Nevada Las Vegas
-#DESCRIPTION Nevada Las Vegas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/nevada/lasvegas/stadium/?cam=lvstadium:Nevada Las Vegas Allegiant Stadium
-#DESCRIPTION Nevada Las Vegas Allegiant Stadium
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/nevada/lasvegas/index.php?cam=wedding:Nevada Las Vegas Elvis Wedding Chapel
-#DESCRIPTION Nevada Las Vegas Elvis Wedding Chapel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/indianlake/bluemountainlake/?cam=bluemountainlake2:New York Blue Mountain Lake Pond View
-#DESCRIPTION New York Blue Mountain Lake Pond View
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/brooklynbridge/?cam=gzcchd:New York Brooklyn Bridge ## 2812 OFF
-#DESCRIPTION New York Brooklyn Bridge ## 2812 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/new-york/new-york/new-york-skyline.html:New York City @
-#DESCRIPTION New York City @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8:New York City Times Square
-#DESCRIPTION New York City Times Square
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/empirestatebuilding/?cam=esb37:New York Empire
-#DESCRIPTION New York Empire
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/highline/?cam=highline:New York High Line
-#DESCRIPTION New York High Line
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/newyorkharbor/?cam=nyharbor:New York New York Harbor
-#DESCRIPTION New York New York Harbor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_str:New York Statue of Liberty
-#DESCRIPTION New York Statue of Liberty
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_crown:New York Statue of Liberty Crown
-#DESCRIPTION New York Statue of Liberty Crown
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_hd:New York Statue of Liberty Harbor
-#DESCRIPTION New York Statue of Liberty Harbor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/timessquare/?cam.m3u8robo3:New York Times Square Crossroads
-#DESCRIPTION New York Times Square Crossroads
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/timessquare/?cam.m3u8two_hd2:New York Times Square South
-#DESCRIPTION New York Times Square South
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/timessquare/?cam=tsstreet:New York Times Square Street
-#DESCRIPTION New York Times Square Street
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/northcarolina/belmont/?cam=belmont:North Carolina Belmont
-#DESCRIPTION North Carolina Belmont
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f9f690034fb0.streamlock.net%3a444/highlands1/highlands1.stream/playlist.m3u8:North Carolina Highlands Dillard
-#DESCRIPTION North Carolina Highlands Dillard
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5a5f765a4fcc2.streamlock.net%3a1935/live/kbstreet.stream/playlist.m3u8:North Carolina Kure Beach Street
-#DESCRIPTION North Carolina Kure Beach Street
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5a5f765a4fcc2.streamlock.net%3a1936/live/spp.stream/chunklist.m3u8:North Carolina Southport @
-#DESCRIPTION North Carolina Southport @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/northdakota/cavalier/?cam=cavalier:North Dakota City of Cavalier
-#DESCRIPTION North Dakota City of Cavalier
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/ohio/cincinnati/?cam=cincinnati:Ohio Cincinati
-#DESCRIPTION Ohio Cincinati
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/ohio/cincinnati/skyline/?cam=cincinnatiskyline:Ohio Cincinatiskyline
-#DESCRIPTION Ohio Cincinatiskyline
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/ohio/cleveland/?cam=pierw:Ohio Cleveland
-#DESCRIPTION Ohio Cleveland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58bdb48e25cf1.streamlock.net%3a19350/live/vcde002.stream/playlist.m3u8:Ohio Delaware Rehoboth Beach @ ##1212 OFF
-#DESCRIPTION Ohio Delaware Rehoboth Beach @ ##1212 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/oregon/newport/yaquina-bay-newport-oregon-coast.html:Oregon Yaquina Bay Newport Coast
-#DESCRIPTION Oregon Yaquina Bay Newport Coast
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/pennsylvania/pittsburgh/warhol/?cam=warhol_figmentstream:Pennsylvania Andy Warhol Figment
-#DESCRIPTION Pennsylvania Andy Warhol Figment
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/pennsylvania/philadelphia/?cam=philly:Pennsylvania Philadelphia
-#DESCRIPTION Pennsylvania Philadelphia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/rhode-island/east-greenwich/greenwich-cove-marina.html:Rhode Island Greenwich Cove Marina
-#DESCRIPTION Rhode Island Greenwich Cove Marina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//reservations.palmettodunes.com/live/SCMBasin.stream/playlist.m3u8:South Carolina Hilton Hed Pier
-#DESCRIPTION South Carolina Hilton Hed Pier
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/southcarolina/kiawahisland/?cam=kiawahisland:South Carolina Kiawah Island Beach
-#DESCRIPTION South Carolina Kiawah Island Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/southcarolina/myrtlebeach/?cam=myrtlebeach_hd2:South Carolina Myrtle Beach Cam North View
-#DESCRIPTION South Carolina Myrtle Beach Cam North View
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/southcarolina/myrtlebeach/?cam=myrtlebeach_hd:South Carolina Myrtle Beach Cam Volleyball
-#DESCRIPTION South Carolina Myrtle Beach Cam Volleyball
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/southcarolina/spartanburg/?cam=pacoletriver:South Carolina Pacolet River
-#DESCRIPTION South Carolina Pacolet River
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/tennessee/gatlinburg/tennessee-gatlinburg.html:Tennessee Gatlinburg ##2811 OFF
-#DESCRIPTION Tennessee Gatlinburg ##2811 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/lafollette.stream/playlist.m3u8:Tennessee LaFollette West Central Avenue @
-#DESCRIPTION Tennessee LaFollette West Central Avenue @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/tennessee/nashville/?cam=nashville:Tennessee Nashville
-#DESCRIPTION Tennessee Nashville
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/tennessee/pigeon-forge/outdoor-gravity-park.html:Tennessee Pigeon Forge Outdoor Gravity Park
-#DESCRIPTION Tennessee Pigeon Forge Outdoor Gravity Park
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/texas/southlake/?cam=southlake:Texas City of Southlake
-#DESCRIPTION Texas City of Southlake
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/texas/dallas/dealeyplaza/?cam=dealeyplaza:Texas Dallas Dealey Plaza
-#DESCRIPTION Texas Dallas Dealey Plaza
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/texas/houston/?cam=houston:Texas Houston
-#DESCRIPTION Texas Houston
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/virginia/charlottesville/?cam=charlottesville_airport:Virginia Charlottesville Airport
-#DESCRIPTION Virginia Charlottesville Airport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.citynet.net/Snowshoe/smil%3avillage.smil/playlist.m3u8:Virginia Dunmore Snowshoe Mountain Skidder Slope @
-#DESCRIPTION Virginia Dunmore Snowshoe Mountain Skidder Slope @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com%3a80/live/massresort3.stream/playlist.m3u8:Virginia Massanutten Resort Tubing @
-#DESCRIPTION Virginia Massanutten Resort Tubing @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.resortcams.com/live/bryceresort.stream/playlist.m3u8:Virginia Mount Jackson Bryce Resort
-#DESCRIPTION Virginia Mount Jackson Bryce Resort
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.citynet.net/Snowshoe/smil%3aboathouse.smil/playlist.m3u8:Virginia Snowshoe Boathouse @
-#DESCRIPTION Virginia Snowshoe Boathouse @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/dc/cherryblossoms/?cam=cherryblossoms2:Washington Bloom
-#DESCRIPTION Washington Bloom
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/dc/washingtonmonument/?cam=wamo:Washington WAMO
-#DESCRIPTION Washington WAMO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/wisconsin/egg-harbor/green-bay.html:Wisconsin Egg Harbor
-#DESCRIPTION Wisconsin Egg Harbor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live/madelineisland.stream/playlist.m3u8:Wisconsin Madeline Island @
-#DESCRIPTION Wisconsin Madeline Island @
-#SERVICE 1:64:25:0:0:0:0:0:0:0::YOUTUBE
+#SERVICE 1:64:24:0:0:0:0:0:0:0::YOUTUBE
 #DESCRIPTION YOUTUBE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/gpFqI8DD9IA:Beograd @
 #DESCRIPTION Beograd @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/8_oxQplx7Xg:Crveni vrh @
 #DESCRIPTION Crveni vrh @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtube.com/watch?v=JpE1ncw-xEA:Hvar @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtube.com/watch?v=0wHWHAFnNh0:Hvar @
 #DESCRIPTION Hvar @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/_Rr2Fs51v6A:Kopaonik @@
 #DESCRIPTION Kopaonik @@
@@ -2694,7 +2422,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/OmyDLXvaus4:Germany Hamburg Michel @
 #DESCRIPTION Germany Hamburg Michel @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/R1bLDIW-IjA:Germany PanoCloud @@
-#DESCRIPTION Germany PanoCloud @@
+#DESCRIPTION Germany PanoCloud @@ ## 0501 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/aYtgGjMDagw:Germany Spotlight @@
 #DESCRIPTION Germany Spotlight @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/OkV0gyxx7Vk:Germany Spotlight Bodensee @@
@@ -2783,8 +2511,6 @@
 #DESCRIPTION Ukraine 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/R-qCsZ1obbc:Ukraine 4
 #DESCRIPTION Ukraine 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/edz0ux7JClE:USA San Diego @
-#DESCRIPTION USA San Diego @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/z7SiAaN4ogw:World 1 @@
 #DESCRIPTION World 1 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/2BLqhS59Elc:World 2 @@
