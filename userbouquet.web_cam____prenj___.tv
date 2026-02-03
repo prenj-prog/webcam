@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.830 - 02.02.26    @=is moving  @@=multiple link
+#NAME Prenj SF Ver.831 - 03.02.26    @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8:Bale Trg La Musa 403
@@ -670,7 +670,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/konjic_cam2.m3u8:Konjic 2 @
 #DESCRIPTION Konjic 2 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/ba_ljubuski01.m3u8:Ljubuški Paragliding 601 ## 2601 OFF
-#DESCRIPTION Ljubuški Paragliding 601 ## 2601 OFF
+#DESCRIPTION Ljubuški Paragliding 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/maglaj_cam.m3u8:Maglaj @
 #DESCRIPTION Maglaj @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/ba_mostar01.m3u8:Mostar 501 ##2712 OFF
@@ -2173,143 +2173,7 @@
 #DESCRIPTION Tahanovce 110
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.212.15.20%3a17002/udp/239.239.111.111%3a6001:Tahanovce 111
 #DESCRIPTION Tahanovce 111
-#SERVICE 1:64:20:0:0:0:0:0:0:0::=== Spain ===
-#DESCRIPTION === Spain ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-alicante.html:Alicante Benidorm Playa de Levante @
-#DESCRIPTION Alicante Benidorm Playa de Levante @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/comunidad-valenciana/alicante/calpe-penon-de-ifach.html:Alicante Calp Peñón de Ifach @
-#DESCRIPTION Alicante Calp Peñón de Ifach @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/orihuela-costa.html:Alicante Orihuela Costa @
-#DESCRIPTION Alicante Orihuela Costa @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/comunidad-valenciana/alicante/alicante-playa-almadraba.html:Alicante Playa de la Almadraba @
-#DESCRIPTION Alicante Playa de la Almadraba @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/cataluna/barcelona/playa-sant-sebastia.html:Barcelona Sant Sebastià Beach ## 0501 OFF
-#DESCRIPTION Barcelona Sant Sebastià Beach ## 0501 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/cataluna/barcelona/catamaran.html:Barcelona Tur Tur Catamaran Tour Port Olímpic
-#DESCRIPTION Barcelona Tur Tur Catamaran Tour Port Olímpic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/andalucia/cadiz/barbate-andalucia.html:Cadiz Barbate
-#DESCRIPTION Cadiz Barbate
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/andalucia/cadiz/barbate-playa-del-carmen.html:Cadiz Barbate Playa del Carmen ## 0501 OFF
-#DESCRIPTION Cadiz Barbate Playa del Carmen ## 0501 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/andalucia/cadiz/benamahoma.html:Cadiz Benamahoma ##1212 OFF
-#DESCRIPTION Cadiz Benamahoma ##1212 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/andalucia/cadiz/chiclana-de-la-frontera-fiume-iro.html:Cadiz Chiclana de la Frontera Iro River
-#DESCRIPTION Cadiz Chiclana de la Frontera Iro River
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/andalucia/cadiz/el-bosque.html:Cadiz El Bosque
-#DESCRIPTION Cadiz El Bosque
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/andalucia/cadiz/zahara.html:Cadiz Zahara
-#DESCRIPTION Cadiz Zahara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/andalucia/cadiz/grazalema.html:Cadiz Grazalema
-#DESCRIPTION Cadiz Grazalema
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/comunidad-valenciana/castellon/benicasim.html:Castellon Benicàssim @
-#DESCRIPTION Castellon Benicàssim @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/islas-baleares/formentera/playa-es-pujols.html:Formentera Beach of Es Pujols ##0712 OFF
-#DESCRIPTION Formentera Beach of Es Pujols ##0712 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/cataluna/gerona/lloret-de-mar-costa-brava.html:Gerona Lloret De Mar
-#DESCRIPTION Gerona Lloret De Mar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/cataluna/gerona/puente-eiffel.html:Gerona Puente Eiffel
-#DESCRIPTION Gerona Puente Eiffel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/andalucia/granada/alhambra-de-granada.html:Granada The Alhambra @
-#DESCRIPTION Granada The Alhambra @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/aragon/huesca/huesca.html:Huesca
-#DESCRIPTION Huesca
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/playa-las-canteras.html:Las Palmas Beach of Las Canteras
-#DESCRIPTION Las Palmas Beach of Las Canteras
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/anfi-del-mar.html:Las palmas gran canaria Anfi del Mar
-#DESCRIPTION Las palmas gran canaria Anfi del Mar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/castilla-y-leon/leon/villafranca-del-bierzo.html:Leon Villafranca del Bierzo
-#DESCRIPTION Leon Villafranca del Bierzo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/calle-alcala.html:Madrid Calle de Alcalá
-#DESCRIPTION Madrid Calle de Alcalá
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/puerta-del-sol-tio-pepe.html:Madrid Puerta del Sol Tío Pepe
-#DESCRIPTION Madrid Puerta del Sol Tío Pepe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/andalucia/malaga/marbella.html:Malaga Marbella @
-#DESCRIPTION Malaga Marbella @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/region-de-murcia/murcia/bullas-plaza-de-espana.html:Murcia Bullas
-#DESCRIPTION Murcia Bullas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/andalucia/malaga/benalmadena.html:Málaga Benalmádena
-#DESCRIPTION Málaga Benalmádena
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/punta-del-hidalgo.html:Santa Cruz de Tenerife  Punta del Hidalgo
-#DESCRIPTION Santa Cruz de Tenerife  Punta del Hidalgo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/avenida-tres-de-mayo.html:Santa Cruz de Tenerife Avenida Tres de Mayo
-#DESCRIPTION Santa Cruz de Tenerife Avenida Tres de Mayo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/bahia-los-cristianos.html:Santa cruz de tenerife Bahía de Los Cristianos @
-#DESCRIPTION Santa cruz de tenerife Bahía de Los Cristianos @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/callao-salvaje.html:Santa Cruz de Tenerife Callao Salvaje Playa de Ajabo
-#DESCRIPTION Santa Cruz de Tenerife Callao Salvaje Playa de Ajabo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/candelaria.html:Santa Cruz de Tenerife Candelaria
-#DESCRIPTION Santa Cruz de Tenerife Candelaria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/candelaria-plaza-patrona-canarias.html:Santa Cruz de Tenerife Candelaria Plaza de la Patrona de Canarias
-#DESCRIPTION Santa Cruz de Tenerife Candelaria Plaza de la Patrona de Canarias
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/catamarano-royal-delfin.html:Santa Cruz de Tenerife Catamaran Royal Delfin
-#DESCRIPTION Santa Cruz de Tenerife Catamaran Royal Delfin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/costa-adeje.html:Santa Cruz de Tenerife Costa Adeje
-#DESCRIPTION Santa Cruz de Tenerife Costa Adeje
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/costa-adeje-playa-del-bobo.html:Santa Cruz de Tenerife Costa Adeje Playa del Bobo
-#DESCRIPTION Santa Cruz de Tenerife Costa Adeje Playa del Bobo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/playa-la-pinta.html:Santa Cruz de Tenerife Costa Adeje Playa La Pinta
-#DESCRIPTION Santa Cruz de Tenerife Costa Adeje Playa La Pinta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/playa-de-el-medano.html:Santa Cruz de Tenerife El Médano Beach Canary Islands
-#DESCRIPTION Santa Cruz de Tenerife El Médano Beach Canary Islands
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/la-caleta-costa-adeje.html:Santa Cruz de Tenerife La Caleta Costa Adeje
-#DESCRIPTION Santa Cruz de Tenerife La Caleta Costa Adeje
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/playa-las-vistas.html:Santa Cruz de Tenerife Las Vistas Beach
-#DESCRIPTION Santa Cruz de Tenerife Las Vistas Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/los-realejos.html:Santa Cruz de Tenerife Los Realejos
-#DESCRIPTION Santa Cruz de Tenerife Los Realejos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/mogan.html:Santa Cruz de Tenerife Mogán
-#DESCRIPTION Santa Cruz de Tenerife Mogán
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/mogan-playa-de-puerto-rico.html:Santa Cruz de Tenerife Mogán Playa de Puerto Rico
-#DESCRIPTION Santa Cruz de Tenerife Mogán Playa de Puerto Rico
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/patalavaca.html:Santa Cruz de Tenerife Patalavaca Anfi del Mar
-#DESCRIPTION Santa Cruz de Tenerife Patalavaca Anfi del Mar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/playa-de-fanabe.html:Santa Cruz de Tenerife Playa de Fañabé
-#DESCRIPTION Santa Cruz de Tenerife Playa de Fañabé
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/playa-los-cristianos.html:Santa Cruz de Tenerife Playa de Los Cristianos
-#DESCRIPTION Santa Cruz de Tenerife Playa de Los Cristianos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/playa-troya.html:Santa Cruz de Tenerife Playa de Troya Las Americas
-#DESCRIPTION Santa Cruz de Tenerife Playa de Troya Las Americas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/playa-del-duque.html:Santa Cruz de Tenerife Playa del Duque @
-#DESCRIPTION Santa Cruz de Tenerife Playa del Duque @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/playa-del-duque-el-beril.html:Santa Cruz de Tenerife Playa del Duque El Beril
-#DESCRIPTION Santa Cruz de Tenerife Playa del Duque El Beril
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/playa-grande-las-canteras.html:Santa Cruz de Tenerife Playa Grande in Las Canteras Gran Canaria
-#DESCRIPTION Santa Cruz de Tenerife Playa Grande in Las Canteras Gran Canaria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/plaza-de-la-candelaria.html:Santa Cruz de Tenerife Plaza de la Candelaria @
-#DESCRIPTION Santa Cruz de Tenerife Plaza de la Candelaria @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/puerto-de-la-cruz.html:Santa Cruz de Tenerife Puerto de la Cruz
-#DESCRIPTION Santa Cruz de Tenerife Puerto de la Cruz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/puerto-de-la-cruz-tenerife.html:Santa Cruz de Tenerife Puerto de la Cruz
-#DESCRIPTION Santa Cruz de Tenerife Puerto de la Cruz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/tenerife-puerto-de-la-cruz.html:Santa Cruz de Tenerife Puerto de la Cruz
-#DESCRIPTION Santa Cruz de Tenerife Puerto de la Cruz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/puerto-de-la-cruz-lago-martianez.html:Santa Cruz de Tenerife Puerto de la Cruz Lago Martiánez
-#DESCRIPTION Santa Cruz de Tenerife Puerto de la Cruz Lago Martiánez
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/puerto-de-la-cruz-playa-san-telmo.html:Santa Cruz de Tenerife Puerto de la Cruz Playa San Telmo
-#DESCRIPTION Santa Cruz de Tenerife Puerto de la Cruz Playa San Telmo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/san-cristobal-de-la-laguna.html:Santa Cruz de Tenerife San Cristóbal de La Laguna
-#DESCRIPTION Santa Cruz de Tenerife San Cristóbal de La Laguna
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/santiago-del-teide-puerto-de-santiago.html:Santa Cruz de Tenerife Santiago del Teide Puerto de Santiago
-#DESCRIPTION Santa Cruz de Tenerife Santiago del Teide Puerto de Santiago
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/santa-cruz-de-tenerife-torre-1-cabo-llanos.html:Santa Cruz de Tenerife Torre 1 Cabo Llanos @
-#DESCRIPTION Santa Cruz de Tenerife Torre 1 Cabo Llanos @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/santa-pola/gran-playa.html:Santa Pola Gran Playa
-#DESCRIPTION Santa Pola Gran Playa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/santa-pola/paseo-maritimo.html:Santa Pola Valencian Community
-#DESCRIPTION Santa Pola Valencian Community
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/cantabria/santander/playa-del-sardinero.html:Santander Playa del Sardinero
-#DESCRIPTION Santander Playa del Sardinero
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/santiago-del-teide-centro.html:Santiago del Teide Santa Cruz de Tenerife
-#DESCRIPTION Santiago del Teide Santa Cruz de Tenerife
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/andalucia/sevilla/siviglia-plaza-san-francisco.html:Seville Plaza de San Francisco
-#DESCRIPTION Seville Plaza de San Francisco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/cantabria/suances/bahia-de-suances.html:Suances Bahía
-#DESCRIPTION Suances Bahía
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/cataluna/tarragona/calafell.html:Tarragona Calafell
-#DESCRIPTION Tarragona Calafell
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/cantabria/torrelavega/torrelavega.html:Torrelavega
-#DESCRIPTION Torrelavega
-#SERVICE 1:64:21:0:0:0:0:0:0:0::=== Switzerland ===
+#SERVICE 1:64:20:0:0:0:0:0:0:0::=== Switzerland ===
 #DESCRIPTION === Switzerland ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/schweiz/kanton-tessin/locarno/ascona.html:Ascona
 #DESCRIPTION Ascona
@@ -2337,7 +2201,7 @@
 #DESCRIPTION Unterseen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hotelalexander.it-wms.com/clip_current_720p.mp4:Zürich
 #DESCRIPTION Zürich
-#SERVICE 1:64:22:0:0:0:0:0:0:0::=== Turkey GMT+3 ===
+#SERVICE 1:64:21:0:0:0:0:0:0:0::=== Turkey GMT+3 ===
 #DESCRIPTION === Turkey GMT+3 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/turkey/anatolia-region/nevsehir/cappadocia-uchisar.html:Cappadocia Uçhisar
 #DESCRIPTION Cappadocia Uçhisar
@@ -2351,16 +2215,16 @@
 #DESCRIPTION DenizliLaodikeia @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbOtogar.stream/chunklist_w183105836.m3u8:DenizliUcgen Meydani @
 #DESCRIPTION DenizliUcgen Meydani @
-#SERVICE 1:64:23:0:0:0:0:0:0:0::=== United Arab Emirates GMT+4 ===
+#SERVICE 1:64:22:0:0:0:0:0:0:0::=== United Arab Emirates GMT+4 ===
 #DESCRIPTION === United Arab Emirates GMT+4 ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-arab-emirates/dubai/dubai/dubai-marina.html:Dubai Marina
 #DESCRIPTION Dubai Marina
-#SERVICE 1:64:24:0:0:0:0:0:0:0::YOUTUBE
+#SERVICE 1:64:23:0:0:0:0:0:0:0::YOUTUBE
 #DESCRIPTION YOUTUBE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/gpFqI8DD9IA:Beograd @
 #DESCRIPTION Beograd @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/8_oxQplx7Xg:Crveni vrh @
-#DESCRIPTION Crveni vrh @
+#DESCRIPTION Crveni vrh @ ## 0501 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtube.com/watch?v=0wHWHAFnNh0:Hvar @
 #DESCRIPTION Hvar @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/_Rr2Fs51v6A:Kopaonik @@
@@ -2421,8 +2285,8 @@
 #DESCRIPTION Germany Berlin Alexanderplatz @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/OmyDLXvaus4:Germany Hamburg Michel @
 #DESCRIPTION Germany Hamburg Michel @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/R1bLDIW-IjA:Germany PanoCloud @@
-#DESCRIPTION Germany PanoCloud @@ ## 0501 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/R1bLDIW-IjA:Germany PanoCloud @@ ## 0501 OFF
+#DESCRIPTION Germany PanoCloud @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/aYtgGjMDagw:Germany Spotlight @@
 #DESCRIPTION Germany Spotlight @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:YT-DLP%3a//youtu.be/OkV0gyxx7Vk:Germany Spotlight Bodensee @@
