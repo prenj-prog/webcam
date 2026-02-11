@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.835 - 10.02.26    @=is moving  @@=multiple link
+#NAME Prenj SF Ver.836 - 11.02.26    @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8:Bale Trg La Musa 403
@@ -13,8 +13,8 @@
 #DESCRIPTION Baška Voda panorama 22
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_baskavoda1.m3u8:Baška Voda plaža Nikolina 51
 #DESCRIPTION Baška Voda plaža Nikolina 51
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_baskavoda6.m3u8:Baška Voda plaža Podluka 46
-#DESCRIPTION Baška Voda plaža Podluka 46
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_baskavoda6.m3u8:Baška Voda plaža Podluka 46 ## 1102 OFF
+#DESCRIPTION Baška Voda plaža Podluka 46 ## 1102 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_promajna01.m3u8:Baška Voda Promajna 201
 #DESCRIPTION Baška Voda Promajna 201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bednja01.m3u8:Bednja centar 401
@@ -43,8 +43,8 @@
 #DESCRIPTION Cres Mali Lošinj marina 701
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_osor01.m3u8:Cres Mali Lošinj Osor 401
 #DESCRIPTION Cres Mali Lošinj Osor 401
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mlosinj02.m3u8:Cres Mali Lošinj panorama 702
-#DESCRIPTION Cres Mali Lošinj panorama 702
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mlosinj02.m3u8:Cres Mali Lošinj panorama 702 ## 1102 OFF
+#DESCRIPTION Cres Mali Lošinj panorama 702 ## 1102 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_mlosinj06.m3u8:Cres Mali Lošinj panorama Škverić 406 ## 0402 OFF
 #DESCRIPTION Cres Mali Lošinj panorama Škverić 406 ## 0402 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_mlosinj08.m3u8:Cres Mali Lošinj Riva lošinjskih kapetana 408 ## 2601 OFF
@@ -69,8 +69,6 @@
 #DESCRIPTION Crikvenica Trg Stjepana Radića 41 @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_cazma01.m3u8:Čazma centar 601
 #DESCRIPTION Čazma centar 601
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_evecazma01.m3u8:Čazma klizalište 601
-#DESCRIPTION Čazma klizalište 601
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hrdaruvar.m3u8:Daruvar Trg kralja Tomislava 10
 #DESCRIPTION Daruvar Trg kralja Tomislava 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_delnice01.m3u8:Delnice panorama Petehovac 401
@@ -367,8 +365,8 @@
 #DESCRIPTION Požega Trg Svetog Trojstva 201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-003.whatsupcams.com/hls/hr_prizna01.m3u8:Prizna trajektno pristanište 301
 #DESCRIPTION Prizna trajektno pristanište 301
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pula03.m3u8:Pula Arena Amfiteatar 203 ## 0402 OFF
-#DESCRIPTION Pula Arena Amfiteatar 203 ## 0402 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pula03.m3u8:Pula Arena Amfiteatar 203
+#DESCRIPTION Pula Arena Amfiteatar 203
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_buildpula03.m3u8:Pula Gradilište Sveučilište 103 ## 2601 OFF
 #DESCRIPTION Pula Gradilište Sveučilište 103 ## 2601 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pula01.m3u8:Pula Korzo Giardini 401
@@ -441,7 +439,7 @@
 #DESCRIPTION Rijeka Žabica autobusni kolodvor ## 0502 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/cabar/nacionalni-park-risnjak.html:Risnjak
 #DESCRIPTION Risnjak
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/rogoznica/rogoznica.html:Rogoznica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/rogoznica/rogoznica.html:Rogoznica ## 1002 OFF
 #DESCRIPTION Rogoznica ## 1002 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_rogoznica02.m3u8:Rogoznica otok 602 ## 0502 OFF
 #DESCRIPTION Rogoznica otok 602 ## 0502 OFF
@@ -661,8 +659,8 @@
 #DESCRIPTION Ljubuški Paragliding 601 ## 1002 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/maglaj_cam.m3u8:Maglaj @
 #DESCRIPTION Maglaj @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/ba_mostar01.m3u8:Mostar 501 ## 2712 OFF
-#DESCRIPTION Mostar 501 ## 2712 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/ba_mostar01.m3u8:Mostar 501
+#DESCRIPTION Mostar 501
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/mostar_cam.m3u8:Mostar @
 #DESCRIPTION Mostar @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/mostar_cam_pan.m3u8:Mostar panorama @
@@ -709,12 +707,12 @@
 #DESCRIPTION Zenica @
 #SERVICE 1:64:3:0:0:0:0:0:0:0::=== Montenegro ===
 #DESCRIPTION === Montenegro ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s58.ipcamlive.com/streams/3asbi0pcuho56xjpz/stream.m3u8:Montenegro Mateševo
-#DESCRIPTION Montenegro Mateševo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s148.ipcamlive.com/streams/942dalfjbcenf43qs/stream.m3u8:Montenegro Smokovac
-#DESCRIPTION Montenegro Smokovac
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s104.ipcamlive.com/streams/68avfcdcqovixbaxt/stream.m3u8:Montenegro Sozina
-#DESCRIPTION Montenegro Sozina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s58.ipcamlive.com/streams/3asbi0pcuho56xjpz/stream.m3u8:Mateševo
+#DESCRIPTION Mateševo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s148.ipcamlive.com/streams/942dalfjbcenf43qs/stream.m3u8:Smokovac
+#DESCRIPTION Smokovac
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s104.ipcamlive.com/streams/68avfcdcqovixbaxt/stream.m3u8:Sozina
+#DESCRIPTION Sozina
 #SERVICE 1:64:4:0:0:0:0:0:0:0::=== North Macedonia ===
 #DESCRIPTION === North Macedonia ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/mk_ohrid01.m3u8:Ohrid Stari grad i centar 701
@@ -935,8 +933,8 @@
 #DESCRIPTION Beograd Bulevar Mihajla Pupina @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/ada.m3u8:Beograd Bulevar Milutina Milankovica ~ Most na Adi
 #DESCRIPTION Beograd Bulevar Milutina Milankovica ~ Most na Adi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/gagarina.m3u8:Beograd Jurija Gagarina
-#DESCRIPTION Beograd Jurija Gagarina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/gagarina.m3u8:Beograd Jurija Gagarina ## 1102 OFF
+#DESCRIPTION Beograd Jurija Gagarina ## 1102 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/opstinanbg.m3u8:Beograd Kružni tok Novi Beograd ~ Opština NBG @
 #DESCRIPTION Beograd Kružni tok Novi Beograd ~ Opština NBG @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/gazela.m3u8:Beograd Most Gazela
@@ -987,8 +985,8 @@
 #DESCRIPTION Novi Sad Trg Slobode
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/petrovaradin/playlist.m3u8:Novi Sad Varadinski most Most Duga
 #DESCRIPTION Novi Sad Varadinski most Most Duga
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/japanX/japanX.m3u8:Vrnjačka Banja Japanski vrt ## 0902 OFF
-#DESCRIPTION Vrnjačka Banja Japanski vrt ## 0902 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/japanX/japanX.m3u8:Vrnjačka Banja Japanski vrt
+#DESCRIPTION Vrnjačka Banja Japanski vrt
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/tocak4/jezero.m3u8:Vrnjačka Banja Jezero
 #DESCRIPTION Vrnjačka Banja Jezero
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.banja.top/tocak3/tocak.m3u8:Vrnjačka Banja Panoramski točak
@@ -1087,8 +1085,8 @@
 #DESCRIPTION Velden - Wörthersee
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/austria/vienna/vienna/kohlmarkt.html:Vienna Kohlmarkt
 #DESCRIPTION Vienna Kohlmarkt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//img.kbit.pro/vilavita/fmp4/livestream/index_1080p.m3u8:Vila Vita Pannonia @ ## 1002 OFF
-#DESCRIPTION Vila Vita Pannonia @ ## 1002 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//img.kbit.pro/vilavita/fmp4/livestream/index_1080p.m3u8:Vila Vita Pannonia @
+#DESCRIPTION Vila Vita Pannonia @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//villach.it-wms.com/clip_current_720p.mp4:Villach-Draubrücke @
 #DESCRIPTION Villach-Draubrücke @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/99nmes50/ami84d84.m3u8:Wagrain Markt @
@@ -1101,30 +1099,16 @@
 #DESCRIPTION Storebaelt 2
 #SERVICE 1:64:9:0:0:0:0:0:0:0::=== England GMT ===
 #DESCRIPTION === England GMT ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Bedford1_25194/tracks-v1a1/mono.m3u8:Bedford
-#DESCRIPTION Bedford
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/brighton/brighton-pier.html:Brighton Pier
 #DESCRIPTION Brighton Pier
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Buckfastleigh_68389/tracks-v1/mono.m3u8:Buckfastleigh
-#DESCRIPTION Buckfastleigh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/wales/cardiff/cardiff.html:Cardiff
 #DESCRIPTION Cardiff
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a80/Corfe_14435/tracks-v1a1/mono.m3u8:Corfe Station
 #DESCRIPTION Corfe Station
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Cramlington_54382/tracks-v1a1/mono.m3u8:Cramlington
-#DESCRIPTION Cramlington
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Crewe2_16754/tracks-v1a1/mono.m3u8:Crewe
-#DESCRIPTION Crewe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/dover/dover-beach-kent.html:Dover Beach - Kent @
 #DESCRIPTION Dover Beach - Kent @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Glyndyfrdwy_389573/tracks-v1a1/mono.m3u8:Glyndyfrdwy
-#DESCRIPTION Glyndyfrdwy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Groombridge_20182/tracks-v1/mono.m3u8:Groom bridge
-#DESCRIPTION Groom bridge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/hawes/hawes.html:Hawes
 #DESCRIPTION Hawes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Hebden_41043/tracks-v1a1/mono.m3u8:Hebden
-#DESCRIPTION Hebden
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Hensall_12532/tracks-v1/mono.m3u8:Hensall ## 0502 OFF
 #DESCRIPTION Hensall ## 0502 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/hereford/hereford-high-town.html:Hereford - High Town
@@ -1132,19 +1116,15 @@
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:streamlink%3a//videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/.m3u8:London - Abbey Road OK
 #DESCRIPTION London - Abbey Road OK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/hereford/old-wye-bridge-hereford.html:Old Wye Bridge - Hereford
-#DESCRIPTION Old Wye Bridge - Hereford ## 1002 OFF
+#DESCRIPTION Old Wye Bridge - Hereford
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Ribblehead_Viaduct/tracks-v1a1/mono.m3u8:Ribblehead
 #DESCRIPTION Ribblehead
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//camsecure.co/HLS/sagressholidays.m3u8:Sagress Holidays ## 0502 OFF
 #DESCRIPTION Sagress Holidays ## 0502 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Shrewsbury_10933/tracks-v1a1/mono.m3u8:Shrewsbury
-#DESCRIPTION Shrewsbury
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/st-ives/st-ives.html:St. Ives Live
-#DESCRIPTION St. Ives Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/st-ives/porthmeor-beach.html:St. Ives - Porthmeor Beach @
-#DESCRIPTION St. Ives - Porthmeor Beach @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a80/Swanage_43965/tracks-v1a1/mono.m3u8:Swanage Station
-#DESCRIPTION Swanage Station
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/st-ives/st-ives.html:St.Ives Live
+#DESCRIPTION St.Ives Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/st-ives/porthmeor-beach.html:St.Ives - Porthmeor Beach @
+#DESCRIPTION St.Ives - Porthmeor Beach @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//camsecure.co/HLS/boatq1.m3u8:Torquay
 #DESCRIPTION Torquay
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//camsecure.co/HLS/westho.m3u8:Westward
@@ -1167,8 +1147,6 @@
 #DESCRIPTION === France ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/arbusigny/les-aravis-mont-blanc.html:Arbusigny
 #DESCRIPTION Arbusigny
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/occitanie/boutx/station-de-ski-le-mourtis.html:Boutx Ski Center of Le Mourtis
-#DESCRIPTION Boutx Ski Center of Le Mourtis
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/occitanie/collioure/chateau-royal.html:Collioure
 #DESCRIPTION Collioure
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/provence-alpes-cote-dazur/frejus/plage-de-frejus.html:Fréjus Beach @
@@ -1187,12 +1165,12 @@
 #DESCRIPTION Pantheon ## 0502 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//visionenvironnement.quanteec.com/contents/encodings/live/6d6a84d6-1f60-4fe8-746c-7561-6665-64-8686-4c545fab07c7d/master.m3u8:Paris 4K
 #DESCRIPTION Paris 4K
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/nouvelle-aquitaine/saint-pierre-d-oleron/port-de-la-cotiniere.html:Saint-Pierre-d'Oléron
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/nouvelle-aquitaine/saint-pierre-d-oleron/port-de-la-cotiniere.html:Saint-Pierre-d'Oléron ## 1002 OFF
 #DESCRIPTION Saint-Pierre-d'Oléron ## 1002 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/occitanie/sete/port-de-plaisance.html:Sète
 #DESCRIPTION Sète
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/vallorcine/vallorcine-mont-blanc.html:Vallorcine
-#DESCRIPTION Vallorcine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/vallorcine/vallorcine-mont-blanc.html:Vallorcine ## 1102 OFF
+#DESCRIPTION Vallorcine ## 1102 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/normandie/veulettes-sur-mer/veulettes-sur-mer.html:Veulettes-sur-Mer ## 0502 OFF
 #DESCRIPTION Veulettes-sur-Mer ## 0502 OFF
 #SERVICE 1:64:E:0:0:0:0:0:0:0::=== Greece GMT+2 ===
@@ -1201,9 +1179,9 @@
 #DESCRIPTION Acharavi Beach - Corfu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/kyklades/amorgos.html:Aegiali Beach Amorgos
 #DESCRIPTION Aegiali Beach Amorgos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/afionas.html:Afionas Corfu ## 0502 OFF
-#DESCRIPTION Afionas Corfu ## 0502 OFF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/makedonia/chalkidiki/afitos.html:Afitos - Chalkidiki
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/afionas.html:Afionas Corfu
+#DESCRIPTION Afionas Corfu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/makedonia/chalkidiki/afitos.html:Afitos - Chalkidiki ## 1002 OFF
 #DESCRIPTION Afitos - Chalkidiki ## 1002 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/chania/agia-marina-beach.html:Agia Marina Beach ## 0502 OFF
 #DESCRIPTION Agia Marina Beach ## 0502 OFF
@@ -1213,7 +1191,7 @@
 #DESCRIPTION Agios Nikolaos - Evrytania
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/lasithi/agios-nikolaos-schisma-eloundas-beach.html:Agios Nikolaos - Schisma Eloundas Beach
 #DESCRIPTION Agios Nikolaos - Schisma Eloundas Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/agios-stefanos-avliotes.html:Agios Stefanos Avliotes - Corfu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/agios-stefanos-avliotes.html:Agios Stefanos Avliotes - Corfu ## 1002 OFF
 #DESCRIPTION Agios Stefanos Avliotes - Corfu ## 1002 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/ellada/atiki/athina/eo-thessalonikis-athina.html:Athen-Thessaloniki
 #DESCRIPTION Athen-Thessaloniki
@@ -1228,7 +1206,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/heraklion/hersonissos-stalida.html:Hersonissos - Stalida ## 0502 OFF
 #DESCRIPTION Hersonissos - Stalida ## 0502 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/hippocrates-square.html:Hippocrates Square - Rhodes
-#DESCRIPTION Hippocrates Square - Rhodes ## 1002 OFF
+#DESCRIPTION Hippocrates Square - Rhodes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/chania/georgioupoli.html:Georgioupoli
 #DESCRIPTION Georgioupoli
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/heraklion/kalamaki.html:Kalamaki - Heraklion
@@ -1246,9 +1224,9 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livecameras.gr%3a30443/live/kala7/chunks.m3u8:Kalathi Kalamata NE
 #DESCRIPTION Kalathi Kalamata NE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/kanoni-corfu-airstrip.html:Kanoni Corfu Airstrip
-#DESCRIPTION Kanoni Corfu Airstrip ## 1002 OFF
+#DESCRIPTION Kanoni Corfu Airstrip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/thessalia/larissa/kato-sotiritsa.html:Kato Sotiritsa @
-#DESCRIPTION Kato Sotiritsa @ ## 1002 OFF
+#DESCRIPTION Kato Sotiritsa @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/lasithi/mount-dikti.html:Lasithi Mount Dikti
 #DESCRIPTION Lasithi Mount Dikti
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/livadi-astypalaia.html:Livadi Beach - Astypalaia ## 0502 OFF
@@ -1296,9 +1274,9 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/north-aegean/chios/port-of-chios.html:Port of Chios
 #DESCRIPTION Port of Chios
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/ionian-islands/kefalonia/fiskardo.html:Port of Fiskardo - Kefalonia
-#DESCRIPTION Port of Fiskardo - Kefalonia ## 1002 OFF
+#DESCRIPTION Port of Fiskardo - Kefalonia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/chania/port-gavdos.html:Port of Gavdos Chania
-#DESCRIPTION Port of Gavdos Chania ## 1002 OFF
+#DESCRIPTION Port of Gavdos Chania
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/heraklion/port-of-heraklion.html:Port of Heraklion
 #DESCRIPTION Port of Heraklion
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/chania/hora-sfakion.html:Port of Hora Sfakion - Crete
@@ -1317,8 +1295,8 @@
 #DESCRIPTION Rhodes @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-international-airport.html:Rhodes International Airport
 #DESCRIPTION Rhodes International Airport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-faliraki-beach.html:Rhodes - Faliraki Beach ## 0502 OFF
-#DESCRIPTION Rhodes - Faliraki Beach ## 0502 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-faliraki-beach.html:Rhodes - Faliraki Beach
+#DESCRIPTION Rhodes - Faliraki Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-lindos-beach.html:Rhodes - Lindos Beach
 #DESCRIPTION Rhodes - Lindos Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-mandraki-harbour.html:Rhodes - Mandraki Harbour
@@ -1367,8 +1345,8 @@
 #DESCRIPTION Bad Wildbad im Schwarzwald
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/qzlr74we/wk5ju0m2.m3u8:Bad Wildbad Sommerberg
 #DESCRIPTION Bad Wildbad Sommerberg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/kuih506k/i4gpp4ev.m3u8:Bad Zwischenahn Auf dem Hohen Ufer @ ## 0401 OFF
-#DESCRIPTION Bad Zwischenahn Auf dem Hohen Ufer @ ## 0401 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/kuih506k/i4gpp4ev.m3u8:Bad Zwischenahn Auf dem Hohen Ufer @
+#DESCRIPTION Bad Zwischenahn Auf dem Hohen Ufer @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/deutschland/baden-wurttemberg/baden-baden/baden-baden.html:Baden-Baden
 #DESCRIPTION Baden-Baden
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/tchyk5bd/wvzw07rb.m3u8:Barth Hafenstraße @
@@ -1397,12 +1375,8 @@
 #DESCRIPTION Binz Strand @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//osltv.stream24.net/osltv4/_definst_/mp4%3aboltenhagen.stream/playlist.m3u8:Boltenhagen @
 #DESCRIPTION Boltenhagen @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8:Bonn Aerodrom 1
-#DESCRIPTION Bonn Aerodrom 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/playlist.m3u8:Bonn Aerodrom 3
-#DESCRIPTION Bonn Aerodrom 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/t811tdat/77cg6wgw.m3u8:Bonn Rheinaustraße ## 0502 OFF
-#DESCRIPTION Bonn Rheinaustraße ## 0502 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/t811tdat/77cg6wgw.m3u8:Bonn Rheinaustraße
+#DESCRIPTION Bonn Rheinaustraße
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/yoobmx27/2u3imco2.m3u8:Borkum Strandstraße @
 #DESCRIPTION Borkum Strandstraße @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/jieh1q7f/1257o3y4.m3u8:Borkum Viktoriastraße @
@@ -1463,22 +1437,16 @@
 #DESCRIPTION Dohna Köttewitz @ ## 0502 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.livespotting.com/vpu/kis8j7hy/wqlm4q95.m3u8:Donaueschingen
 #DESCRIPTION Donaueschingen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8:Düsseldorf Aerodrom 3
-#DESCRIPTION Düsseldorf Aerodrom 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8:Düsseldorf Aerodrom 4
-#DESCRIPTION Düsseldorf Aerodrom 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de%3a1935/cupertino/dused0c.stream/playlist.m3u8:Düsseldorf Aerodrom 5
-#DESCRIPTION Düsseldorf Aerodrom 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/a6mam24n/4xbp4z1f.m3u8:Düsseldorf Marktplatz
 #DESCRIPTION Düsseldorf Marktplatz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/a6mam24n/hvasmdro.m3u8:Düsseldorf Marktplatz
 #DESCRIPTION Düsseldorf Marktplatz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/a6mam24n/fxmwsxp6.m3u8:Düsseldorf Stadtbezirk  ## 0902 OFF
-#DESCRIPTION Düsseldorf Stadtbezirk  ## 0902 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/a6mam24n/fxmwsxp6.m3u8:Düsseldorf Stadtbezirk
+#DESCRIPTION Düsseldorf Stadtbezirk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/fbwo6fqy/remzxs6s.m3u8:Eckernförde Preußerstraße @
 #DESCRIPTION Eckernförde Preußerstraße @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//video1.earthcam.com/myearthcam/cd70a0c7e180019851c5b23b294d1f3f.flv/playlist.m3u8:Elbtalblick
-#DESCRIPTION Elbtalblick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//video1.earthcam.com/myearthcam/cd70a0c7e180019851c5b23b294d1f3f.flv/playlist.m3u8:Elbtalblick ## 1102 OFF
+#DESCRIPTION Elbtalblick ## 1102 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/gzj536t0/6hqi120m.m3u8:Eriskirch Schussenstraße @
 #DESCRIPTION Eriskirch Schussenstraße @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f27cc8163c2e.streamlock.net/1044/1044.stream/playlist.m3u8:Eschwege Markt
@@ -1496,7 +1464,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/cfibaxwe/v4z1vtoe.m3u8:Greetsiel Am Neuen Deich @
 #DESCRIPTION Greetsiel Am Neuen Deich @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/deutschland/bayern/gunzenhausen/frankisches-seenland.html:Gunzenhausen Franconian Lake District
-#DESCRIPTION Gunzenhausen Franconian Lake District ## 1002 OFF
+#DESCRIPTION Gunzenhausen Franconian Lake District
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/46whfv4n/z44s8a8m.m3u8:Hamburg Bei den St. Pauli Landungsbrücken
 #DESCRIPTION Hamburg Bei den St. Pauli Landungsbrücken
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livespotting.tv/deutschland/hamburg/l2mucuq9:Hamburg Englische Planke @
@@ -1559,12 +1527,12 @@
 #DESCRIPTION Livespotting TV De @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/8dm5nqqa/9qp6s1tl.m3u8:Ludwigsburg Posilipostraße @
 #DESCRIPTION Ludwigsburg Posilipostraße @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/r40g1a4o/i96ff7e1.m3u8:Markgrafenheide Budentannenweg @ ## 0502 OFF
-#DESCRIPTION Markgrafenheide Budentannenweg @ ## 0502 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/r40g1a4o/i96ff7e1.m3u8:Markgrafenheide Budentannenweg @
+#DESCRIPTION Markgrafenheide Budentannenweg @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/tb930ow2/dklf7joy.m3u8:Meersburg Bodensee @
 #DESCRIPTION Meersburg Bodensee @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/3wun1esc/597ws9p8.m3u8:Melle @ ## 0401 OFF
-#DESCRIPTION Melle @ ## 0401 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/3wun1esc/597ws9p8.m3u8:Melle @
+#DESCRIPTION Melle @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5f27cc8163c2e.streamlock.net/833/833.stream/playlist.m3u8:Münster Prinzipalmarkt @
 #DESCRIPTION Münster Prinzipalmarkt @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/ialdzk0q/92q9gnt6.m3u8:Neuharlingersiel Hafen Ost
@@ -1617,8 +1585,8 @@
 #DESCRIPTION Scharbeutz Strandallee
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/deutschland/bayern/schwangau/schloss-neuschwanstein.html:Schwangau - Neuschwanstein Castle @
 #DESCRIPTION Schwangau - Neuschwanstein Castle @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/7lbxz75q/w4gnqsqx.m3u8:Sipplingen Seestraße @ ## 0502 OFF
-#DESCRIPTION Sipplingen Seestraße @ ## 0502 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/7lbxz75q/w4gnqsqx.m3u8:Sipplingen Seestraße @
+#DESCRIPTION Sipplingen Seestraße @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/deutschland/baden-wurttemberg/st-blasien/st-blasien.html:St. Blasien
 #DESCRIPTION St. Blasien
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/pc00u42u/3h4he01n.m3u8:Stade Hansastraße
@@ -1643,8 +1611,8 @@
 #DESCRIPTION Tanne im Harz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/qjkdtjva/4ctm3g1a.m3u8:Torfhaus Harz @
 #DESCRIPTION Torfhaus Harz @
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/6w5928fd/kz3gcwmh.m3u8:Uhldingen-Mühlhofen Strandpromenade @ ## 0401 OFF
-#DESCRIPTION Uhldingen-Mühlhofen Strandpromenade @ ## 0401 OFF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/6w5928fd/kz3gcwmh.m3u8:Uhldingen-Mühlhofen Strandpromenade @
+#DESCRIPTION Uhldingen-Mühlhofen Strandpromenade @
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/deutschland/bayern/kochel-am-see/walchensee.html:Walchensee Lake
 #DESCRIPTION Walchensee Lake
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/g6106xv4/hbh26r3r.m3u8:Wangerooge Strand @
@@ -1735,8 +1703,8 @@
 #DESCRIPTION Sochi Panoramic Camera with San Mys Vidny @ ## 0502 OFF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-redisson-ptz/index.m3u8:Sochi Radisson Paradise
 #DESCRIPTION Sochi Radisson Paradise
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-Electronic-ptz/index.m3u8:Sochi Sanatorium Elektronika @
-#DESCRIPTION Sochi Sanatorium Elektronika @
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-Electronic-ptz/index.m3u8:Sochi Sanatorium Elektronika @ ## 1102 OFF
+#DESCRIPTION Sochi Sanatorium Elektronika @ ## 1102 OFF
 #SERVICE 1:64:15:0:0:0:0:0:0:0::=== Switzerland ===
 #DESCRIPTION === Switzerland ===
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/schweiz/kanton-tessin/locarno/ascona.html:Ascona
