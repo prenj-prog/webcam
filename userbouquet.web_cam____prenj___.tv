@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.844 - 06.03.26    @=is moving  @@=multiple link
+#NAME Prenj SF Ver.845 - 08.03.26    @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8
@@ -238,7 +238,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Medveja/Medveja.stream/playlist.m3u8
 #DESCRIPTION Opatija Lovran Medveja luka @ 3t
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Lucica/Lovran_Lucica.stream/playlist.m3u8
-#DESCRIPTION Opatija Lovran luka @ 3t
+#DESCRIPTION Opatija Lovran luka @ 3t ## 080326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Centar2/Lovran_Centar2.stream/playlist.m3u8
 #DESCRIPTION Opatija Lovran stari grad 3t
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Zert_Mul/Zert_Mul.stream/playlist.m3u8
@@ -352,11 +352,11 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pirovac01.m3u8
 #DESCRIPTION Pirovac centar i riva 401 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakPark/PlatakPark.stream/playlist.m3u8
-#DESCRIPTION Platak Parking 3t ## 060326 OFF
+#DESCRIPTION Platak Parking 3t
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakBaby/PlatakBaby.stream/playlist.m3u8
 #DESCRIPTION Platak Pribenis dolina 3t ## 060326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevo/PlatakRadesevo.stream/playlist.m3u8
-#DESCRIPTION Platak Radeševo dno 3t
+#DESCRIPTION Platak Radeševo dno 3t ## 080326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevoVrh/PlatakRadesevoVrh.stream/playlist.m3u8
 #DESCRIPTION Platak Radeševo vrh 3t
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/hrvatska/licko-senjska-zupanija/plitvicka-jezera/plitvice-lakes-national-park.html
@@ -434,7 +434,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Kresimir_Tesla/RiProm_Kresimir_Tesla.stream/chunklist.m3u8
 #DESCRIPTION Rijeka Krešimirova Nikole Tesle 3t
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Osjecka_Tizian/RiProm_Osjecka_Tizian.stream/chunklist.m3u8
-#DESCRIPTION Rijeka Osječka Tizianova 3t
+#DESCRIPTION Rijeka Osječka Tizianova 3t ## 080326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Osjecka_Obilaz/RiProm_Osjecka_Obilaz.stream/chunklist.m3u8
 #DESCRIPTION Rijeka Osječka Zaobilaznica 3t
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Palazzo/RiProm_Palazzo.stream/chunklist.m3u8
@@ -651,6 +651,8 @@
 #DESCRIPTION Jablaničko jezero @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/jahorina.m3u8
 #DESCRIPTION Jahorina @ bx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/jajce_cam.m3u8:Jajce
+#DESCRIPTION Jajce @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/kakanj_cam.m3u8
 #DESCRIPTION Kakanj @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/kladanj_cam.m3u8
@@ -685,10 +687,14 @@
 #DESCRIPTION Sarajevo @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/malta.m3u8
 #DESCRIPTION Sarajevo Dolac Malta @ bx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/rtv_dom_cam.m3u8:Sarajevo Novi Grad 
+#DESCRIPTION Sarajevo Novi Grad @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/skenderija_cam.m3u8
 #DESCRIPTION Sarajevo Skenderija @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/trg_bih_cam.m3u8
 #DESCRIPTION Sarajevo Trg BiH @ bx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/tuzla_cam.m3u8:Tuzla 
+#DESCRIPTION Tuzla @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/vjecna_vatra_cam.m3u8
 #DESCRIPTION Sarajevo Vječna vatra bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/stolac_cam.m3u8
@@ -711,6 +717,8 @@
 #DESCRIPTION Zavidovići @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/zenica_cam.m3u8
 #DESCRIPTION Zenica @ bx ## 060326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/smetovi_cam.m3u8:Zenica Smetovi
+#DESCRIPTION Zenica Smetovi @ bx
 #SERVICE 1:64:3:0:0:0:0:0:0:0::=== North Macedonia ===
 #DESCRIPTION === North Macedonia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/mk_ohrid01.m3u8
@@ -1761,8 +1769,6 @@
 #DESCRIPTION Golyazi sx
 #SERVICE 1:64:1D:0:0:0:0:0:0:0::YOUTUBE
 #DESCRIPTION YOUTUBE
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=udyiOtUaBbA
-#DESCRIPTION Brač Bol @ yx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=0wHWHAFnNh0
 #DESCRIPTION Hvar @ yx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=_Rr2Fs51v6A
@@ -1796,7 +1802,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=w9ICwT2WZy8
 #DESCRIPTION Europe @@ yx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=X7tdyNFpp1g
-#DESCRIPTION Finnland Kylänäkymä yx
+#DESCRIPTION Finnland Kylanakyma yx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=Cp4RRAEgpeU
 #DESCRIPTION Finnland Rovaniemi Santa Claus Village yx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=LwihxyJ4V20
@@ -1868,9 +1874,9 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=o4cBKRjcqs4
 #DESCRIPTION Russia Perm 2 @ yx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=fUsJZTHeZn4
-#DESCRIPTION Russia St. Petersburg yx
+#DESCRIPTION Russia St Petersburg yx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=dhVzWNos718
-#DESCRIPTION Russia St. Petersburg 2 @ yx
+#DESCRIPTION Russia St Petersburg 2 @ yx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=8miQ3QXA26Q
 #DESCRIPTION Scotland Fort William yx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=6V39eDpTyas
