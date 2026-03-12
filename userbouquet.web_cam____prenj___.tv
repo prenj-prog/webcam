@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.847 - 11.03.26    @=is moving  @@=multiple link
+#NAME Prenj SF Ver.848 - 12.03.26    @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8
@@ -162,7 +162,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webcam.marina-punat.hr/webcam/B6South/stream.m3u8
 #DESCRIPTION Krk Punat marina B6South mx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_krk02.m3u8
-#DESCRIPTION Krk riva 302 wx
+#DESCRIPTION Krk riva 302 wx ## 120326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_krk03.m3u8
 #DESCRIPTION Krk Vela Placa 603 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_labin01.m3u8
@@ -180,7 +180,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/hrvatska/krapinsko-zagorska-zupanija/marija-bistrica/svetiste-majke-bozje-bistricke.html
 #DESCRIPTION Marija Bistrica sx ## 060326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_medulin01.m3u8
-#DESCRIPTION Medulin šetnica 401 wx ## 060326 OFF
+#DESCRIPTION Medulin šetnica 401 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_metkovic01.m3u8
 #DESCRIPTION Metković VK Neretvanski Gusar 201 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_mlini01.m3u8
@@ -198,7 +198,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_novivinodolski3.m3u8
 #DESCRIPTION Novi Vinodolski gradska plaža 33 wx ## 060326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_novivinodolski2.m3u8
-#DESCRIPTION Novi Vinodolski marina i lučica 62 wx
+#DESCRIPTION Novi Vinodolski marina i lučica 62 wx ## 120326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_klenovica1.m3u8
 #DESCRIPTION Novi Vinodolski Marina Klenovica 31 wx ## 060326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_buildnavitech02.m3u8
@@ -320,11 +320,11 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_povljana01.m3u8
 #DESCRIPTION Pag Povljana riva i lučica 201 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_povljana02.m3u8
-#DESCRIPTION Pag Povljana Trg 402 wx
+#DESCRIPTION Pag Povljana Trg 402 wx ## 120326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pakos4.m3u8
 #DESCRIPTION Pakoštane Drage Vransko jezero 24 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_pakos1.m3u8
-#DESCRIPTION Pakoštane Panorama 11 wx ## 110326 OFF
+#DESCRIPTION Pakoštane Panorama 11 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pakos2.m3u8
 #DESCRIPTION Pakoštane Villa Ljubica 22 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pasman01.m3u8
@@ -428,7 +428,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Guver/RiProm_Guver.stream/chunklist.m3u8
 #DESCRIPTION Rijeka Guvernerova palača 3t
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_JadranskiTrg/RiProm_JadranskiTrg.stream/chunklist.m3u8
-#DESCRIPTION Rijeka Jadranski trg Adamićeva 3t
+#DESCRIPTION Rijeka Jadranski trg Adamićeva 3t ## 010126 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Kantrida/RiProm_Kantrida.stream/chunklist.m3u8
 #DESCRIPTION Rijeka Kantrida 3t
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Kresimir_Tesla/RiProm_Kresimir_Tesla.stream/chunklist.m3u8
@@ -436,9 +436,9 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Osjecka_Tizian/RiProm_Osjecka_Tizian.stream/chunklist.m3u8
 #DESCRIPTION Rijeka Osječka Tizianova 3t
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Osjecka_Obilaz/RiProm_Osjecka_Obilaz.stream/chunklist.m3u8
-#DESCRIPTION Rijeka Osječka Zaobilaznica 3t
+#DESCRIPTION Rijeka Osječka Zaobilaznica 3t ## 010126 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Palazzo/RiProm_Palazzo.stream/chunklist.m3u8
-#DESCRIPTION Rijeka Palazzo Modello 3t
+#DESCRIPTION Rijeka Palazzo Modello 3t ## 010126 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Strossmayer/RiProm_Strossmayer.stream/chunklist.m3u8
 #DESCRIPTION Rijeka Strossmayerova 3t
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/RiProm_Zajca/RiProm_Zajca.stream/chunklist.m3u8
@@ -464,7 +464,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_rovinj3.m3u8
 #DESCRIPTION Rovinj Trg Maršala Tita 43 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_samobor2.m3u8
-#DESCRIPTION Samobor centar 32 wx ## 090326 OFF
+#DESCRIPTION Samobor centar 32 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_samobor1.m3u8
 #DESCRIPTION Samobor Trg kralja Tomislava 81 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/crikvenica/selce.html
@@ -478,7 +478,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_senj03.m3u8
 #DESCRIPTION Senj centar riva 703 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_raca02.m3u8
-#DESCRIPTION Senj Jadranska magistrala D8 uživo 202 wx
+#DESCRIPTION Senj Jadranska magistrala D8 uživo 202 wx ## 120326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_senj05.m3u8
 #DESCRIPTION Senj Nehaj plaža 705 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_senj01.m3u8
@@ -526,7 +526,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildsibenik01.m3u8
 #DESCRIPTION Šibenik Trg Poljana 601 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/hrvatska/medimurje/strigova/strigova.html
-#DESCRIPTION Štrigova sx
+#DESCRIPTION Štrigova sx ## 120326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/hrvatska/varazdinska/varazdin/dvorac-trakoscan-bednja.html
 #DESCRIPTION Trakošćan Dvorac sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_trakoscan01.m3u8
@@ -610,7 +610,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildzagreb23.m3u8
 #DESCRIPTION Zagreb Zgrada Zagorska ulica kamera 2 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_sljeme1.m3u8
-#DESCRIPTION Zagreb Sljeme 2 wx
+#DESCRIPTION Zagreb Sljeme wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_sljeme3.m3u8
 #DESCRIPTION Zagreb Sljeme Bistra Gornja i Donja 73 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_sljeme2.m3u8
@@ -625,23 +625,23 @@
 #DESCRIPTION Živogošće Lučica 40 wx
 #SERVICE 1:64:2:0:0:0:0:0:0:0::=== Croatia Highways ===
 #DESCRIPTION === Croatia Highways ===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_azm07.m3u8:%C4%90urmanec%20sjever%20A2%20207
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_azm07.m3u8
 #DESCRIPTION Đurmanec sjever A2 207 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_azm03.m3u8:Krapina%20jug%20A2%20403
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_azm03.m3u8
 #DESCRIPTION Krapina jug A2 403 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_azm04.m3u8:Krapina%20sjever%20A2%20604
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_azm04.m3u8
 #DESCRIPTION Krapina sjever A2 604 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_azm05.m3u8:Trako%C5%A1%C4%87an%20jug%20A2%20205
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_azm05.m3u8
 #DESCRIPTION Trakošćan jug A2 205 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_azm06.m3u8:Trako%C5%A1%C4%87an%20sjever%20A2%20406
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_azm06.m3u8
 #DESCRIPTION Trakošćan sjever A2 406 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_azm09.m3u8:Zabok%20jug%20A2%20609
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_azm09.m3u8
 #DESCRIPTION Zabok jug A2 609 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_azm08.m3u8:Za%C4%8Dretje%20Jug%20A2%20408
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_azm08.m3u8
 #DESCRIPTION Začretje Jug A2 408 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_azm02.m3u8:Zapre%C5%A1i%C4%87%20sjever%20A2%20302
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_azm02.m3u8
 #DESCRIPTION Zaprešić sjever A2 302 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_azm01.m3u8:Zapre%C5%A1i%C4%87%20jug%20A2%20201
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_azm01.m3u8
 #DESCRIPTION Zaprešić jug A2 201 wx
 #SERVICE 1:64:3:0:0:0:0:0:0:0::=== Bosnia and Herzegovina ===
 #DESCRIPTION === Bosnia and Herzegovina ===
@@ -671,7 +671,7 @@
 #DESCRIPTION Jablaničko jezero @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/jahorina.m3u8
 #DESCRIPTION Jahorina @ bx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/jajce_cam.m3u8:Jajce
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/jajce_cam.m3u8
 #DESCRIPTION Jajce @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/kakanj_cam.m3u8
 #DESCRIPTION Kakanj @ bx
@@ -707,7 +707,7 @@
 #DESCRIPTION Sarajevo @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/malta.m3u8
 #DESCRIPTION Sarajevo Dolac Malta @ bx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/rtv_dom_cam.m3u8:Sarajevo Novi Grad
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/rtv_dom_cam.m3u8
 #DESCRIPTION Sarajevo Novi Grad @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/skenderija_cam.m3u8
 #DESCRIPTION Sarajevo Skenderija @ bx
@@ -725,7 +725,7 @@
 #DESCRIPTION Trebević žičara @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/trebinje_cam.m3u8
 #DESCRIPTION Trebinje @ bx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/tuzla_cam.m3u8:Tuzla
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/tuzla_cam.m3u8
 #DESCRIPTION Tuzla @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/kanjon_une_cam.m3u8
 #DESCRIPTION Una kanjon @ bx
@@ -736,9 +736,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/zavidovici_cam.m3u8
 #DESCRIPTION Zavidovići @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/zenica_cam.m3u8
-#DESCRIPTION Zenica @ bx ## 281125 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/smetovi_cam.m3u8:Zenica Smetovi
-#DESCRIPTION Zenica Smetovi @ bx
+#DESCRIPTION Zenica @ bx ## 121225 OFF
 #SERVICE 1:64:4:0:0:0:0:0:0:0::=== North Macedonia ===
 #DESCRIPTION === North Macedonia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/mk_ohrid01.m3u8
@@ -760,7 +758,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_logmangart01.m3u8
 #DESCRIPTION Bovec Log pod Mangartom 301 wx ## 060326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_logmangart02.m3u8
-#DESCRIPTION Bovec Log pod Mangartom 502 wx
+#DESCRIPTION Bovec Log pod Mangartom 502 wx ## 120326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_hse4_2.m3u8
 #DESCRIPTION Brežice Hidroelektrarna HSE 54_2 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_cerkno04.m3u8
@@ -808,7 +806,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_krvavec2.m3u8
 #DESCRIPTION Krvavec 42 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_krvavec7.m3u8
-#DESCRIPTION Krvavec RTC 67 @ wx ## 110326 OFF
+#DESCRIPTION Krvavec RTC 67 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_krvavec3.m3u8
 #DESCRIPTION Krvavec vrh gore 53 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_ljzoo10.m3u8
@@ -1027,19 +1025,19 @@
 #DESCRIPTION Vrnjačka Banja ZOO Vrt u Vrnjcima vx
 #SERVICE 1:64:7:0:0:0:0:0:0:0::=== Argentina GMT-3 ===
 #DESCRIPTION === Argentina GMT-3 ===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/argentina/provincia-de-mendoza/san-rafael/canon-del-atuel.html:San%20Rafael%20Atuel%20Canyon%20@
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/argentina/provincia-de-mendoza/san-rafael/canon-del-atuel.html
 #DESCRIPTION San Rafael Atuel Canyon @ sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/argentina/provincia-de-mendoza/san-rafael/valle-grande-rio-atuel.html:San%20Rafael%20Valle%20Grande%20Atuel%20River
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/argentina/provincia-de-mendoza/san-rafael/valle-grande-rio-atuel.html
 #DESCRIPTION San Rafael Valle Grande Atuel River sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/argentina/tierra-del-fuego/ushuaia/ushuaia.html:Ushuaia
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/argentina/tierra-del-fuego/ushuaia/ushuaia.html
 #DESCRIPTION Ushuaia sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/argentina/tierra-del-fuego/ushuaia/tren-del-fin-del-mundo.html:Ushuaia%20Train%20of%20the%20End%20of%20the%20World
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/argentina/tierra-del-fuego/ushuaia/tren-del-fin-del-mundo.html
 #DESCRIPTION Ushuaia Train of the End of the World sx
 #SERVICE 1:64:8:0:0:0:0:0:0:0::=== Australia (Sydney GMT+10)===
 #DESCRIPTION === Australia (Sydney GMT+10)===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/australia/queensland/brisbane/brisbane-river.html:Brisbane%20River
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/australia/queensland/brisbane/brisbane-river.html
 #DESCRIPTION Brisbane River sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/australia/new-south-wales/sydney/sydney.html:Sydney
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/australia/new-south-wales/sydney/sydney.html
 #DESCRIPTION Sydney sx
 #SERVICE 1:64:9:0:0:0:0:0:0:0::=== Austria ===
 #DESCRIPTION === Austria ===
@@ -1111,111 +1109,111 @@
 #DESCRIPTION Wagrain Markt @ lx
 #SERVICE 1:64:A:0:0:0:0:0:0:0::=== Barbados GMT-4 ===
 #DESCRIPTION === Barbados GMT-4 ===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/barbados/christ-church/silver-rock-beach/silver-rock-beach.html:Silver%20Rock%20Beach
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/barbados/christ-church/silver-rock-beach/silver-rock-beach.html
 #DESCRIPTION Silver Rock Beach sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/barbados/christ-church/silver-sands/silver-sands.html:Silver%20Sands
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/barbados/christ-church/silver-sands/silver-sands.html
 #DESCRIPTION Silver Sands sx
 #SERVICE 1:64:B:0:0:0:0:0:0:0::=== Belize GMT-6 ===
 #DESCRIPTION === Belize GMT-6 ===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/belize/stann-creek-district/placencia/hummingbird-marina.html:Hummingbird%20Marina
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/belize/stann-creek-district/placencia/hummingbird-marina.html
 #DESCRIPTION Hummingbird Marina sx
 #SERVICE 1:64:C:0:0:0:0:0:0:0::=== Bermuda GMT-4 ===
 #DESCRIPTION === Bermuda GMT-4 ===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/bermuda/st-george-s-parish/st-george-s-parish/st-george-s-town-square-bermuda.html:St.%20George%27s%20Town%20Square
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/bermuda/st-george-s-parish/st-george-s-parish/st-george-s-town-square-bermuda.html
 #DESCRIPTION St. George's Town Square sx
 #SERVICE 1:64:D:0:0:0:0:0:0:0::=== Bolivia GMT-4 ===
 #DESCRIPTION === Bolivia GMT-4 ===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/bolivia/cercado/cochabamba/plaza-14-de-septiembre.html:Cercado%20Cochabamba
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/bolivia/cercado/cochabamba/plaza-14-de-septiembre.html
 #DESCRIPTION Cercado Cochabamba sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/bolivia/manco-kapac/copacabana/lago-titicaca.html:Copacabana%20lago-titicaca
-#DESCRIPTION Copacabana lago-titicaca sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/bolivia/manco-kapac/copacabana/lago-titicaca.html
+#DESCRIPTION Copacabana lago-titicaca sx ## 120326 OFF
 #SERVICE 1:64:E:0:0:0:0:0:0:0::=== Brazil GMT-3 ===
 #DESCRIPTION === Brazil GMT-3 ===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/sao-paulo/aparecida/basilica-of-national-shrine-of-our-lady-aperecida.html:Basilica%20of%20National%20Shrine%20of%20Our%20Lady%20Aperecida
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/sao-paulo/aparecida/basilica-of-national-shrine-of-our-lady-aperecida.html
 #DESCRIPTION Basilica of National Shrine of Our Lady Aperecida sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/santa-catarina/governador-celso-ramos/emerald-coast.html:Governador%20Celso%20Ramos%20Emerald%20Coast
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/santa-catarina/governador-celso-ramos/emerald-coast.html
 #DESCRIPTION Governador Celso Ramos Emerald Coast sx ## 090326 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/alagoas/maceio/pajucara.html:Macei%C3%B3
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/alagoas/maceio/pajucara.html
 #DESCRIPTION Maceió sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/bahia/cairu/morro-de-sao-paulo-beach.html:Morro%20de%20S%C3%A3o%20Paulo
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/bahia/cairu/morro-de-sao-paulo-beach.html
 #DESCRIPTION Morro de São Paulo sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/bahia/cairu/morro-de-sao-paulo-gamboa.html:Morro%20de%20S%C3%A3o%20Paulo%20Gamboa
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/bahia/cairu/morro-de-sao-paulo-gamboa.html
 #DESCRIPTION Morro de São Paulo Gamboa sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/bahia/porto-seguro/porto-seguro.html:Porto%20Seguro
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/bahia/porto-seguro/porto-seguro.html
 #DESCRIPTION Porto Seguro sx ## 090326 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/bahia/prado/praia-de-guaratiba.html:Prado%20Bahia
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/bahia/prado/praia-de-guaratiba.html
 #DESCRIPTION Prado Bahia sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/copacabana-beach.html:Rio%20de%20Janeiro%20Copacabana%20View%20of%20promenade
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/copacabana-beach.html
 #DESCRIPTION Rio de Janeiro Copacabana View of promenade sx ## 090326 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/copacabana.html:Rio%20de%20Janeiro%20Copacabana%20View%20of%20promenade%202
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/copacabana.html
 #DESCRIPTION Rio de Janeiro Copacabana View of promenade 2 sx ## 090326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/brasil/sao-paulo/sao-paulo/sao-paulo.htm:S%C3%A3o%20Paulo%20@
 #DESCRIPTION São Paulo @ sx ## 090326 OFF
 #SERVICE 1:64:F:0:0:0:0:0:0:0::=== Canada GMT-4/-5 ===
 #DESCRIPTION === Canada GMT-4/-5 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/campbell-river.html:Campbell%20River%20British%20Columbia
-#DESCRIPTION Campbell River British Columbia sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/discovery-passage.html:Campbell%20River%20Discovery%20Passage
-#DESCRIPTION Campbell River Discovery Passage sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/discovery-pier.html:Campbell%20River%20Discovery%20Pier
-#DESCRIPTION Campbell River Discovery Pier sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/canada/niagarafalls/thefalls/?cam=niagarafalls2:Niagara%20Falls
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/campbell-river.html
+#DESCRIPTION Campbell River British Columbia sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/discovery-passage.html
+#DESCRIPTION Campbell River Discovery Passage sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/discovery-pier.html
+#DESCRIPTION Campbell River Discovery Pier sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/canada/niagarafalls/thefalls/?cam=niagarafalls2
 #DESCRIPTION Niagara Falls sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/canada/niagarafalls/?cam=niagarafalls_str:Niagara%20Falls%202
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/canada/niagarafalls/?cam=niagarafalls_str
 #DESCRIPTION Niagara Falls 2 sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/canada/new-brunswick/fundy-st-martins/orange-hill.html:St.%20Martins%20Sea%20Caves%20Orange%20Hill
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/canada/new-brunswick/fundy-st-martins/orange-hill.html
 #DESCRIPTION St. Martins Sea Caves Orange Hill sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/canada/toronto/cntower/?cam=towerview:Toronto%20Tower%20Cam
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/canada/toronto/cntower/?cam=towerview
 #DESCRIPTION Toronto Tower Cam sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/canada/toronto/cntower/?cam=cntower1:Toronto%20Tower%20Ost%20Blick
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/canada/toronto/cntower/?cam=cntower1
 #DESCRIPTION Toronto Tower Ost Blick sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/canada/toronto/cntower/?cam=cntower2:Toronto%20Tower%20West%20Blick
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/canada/toronto/cntower/?cam=cntower2
 #DESCRIPTION Toronto Tower West Blick sx
 #SERVICE 1:64:10:0:0:0:0:0:0:0::=== Caribbean Netherlands GMT-4 ===
 #DESCRIPTION === Caribbean Netherlands GMT-4 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/caribbean-netherlands/bonaire/kralendijk/bonaire.html:Bonaire%20Kralendijk
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/caribbean-netherlands/bonaire/kralendijk/bonaire.html
 #DESCRIPTION Bonaire Kralendijk sx
 #SERVICE 1:64:11:0:0:0:0:0:0:0::=== Chile GMT-3 ===
 #DESCRIPTION === Chile GMT-3 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/chile/valparaiso/algarrobo/algarrobo-chile.html:Algarrobo%20San%20Antonio
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/chile/valparaiso/algarrobo/algarrobo-chile.html
 #DESCRIPTION Algarrobo San Antonio sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/chile/valparaiso/algarrobo/islote-pajaros-ninos.html:Algarrobo%20Valparaiso
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/chile/valparaiso/algarrobo/islote-pajaros-ninos.html
 #DESCRIPTION Algarrobo Valparaiso sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/chile/valparaiso/easter-island/easter-island.html:Easter%20Island
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/chile/valparaiso/easter-island/easter-island.html
 #DESCRIPTION Easter Island sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/chile/magallanes-region/torres-del-paine/patagonia.html:Patagonia
-#DESCRIPTION Patagonia sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/chile/magallanes-region/punta-arenas/punta-arenas.html:Punta%20Arenas
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/chile/magallanes-region/torres-del-paine/patagonia.html
+#DESCRIPTION Patagonia sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/chile/magallanes-region/punta-arenas/punta-arenas.html
 #DESCRIPTION Punta Arenas sx
 #SERVICE 1:64:12:0:0:0:0:0:0:0::=== China GMT+8 ===
 #DESCRIPTION === China GMT+8 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/china/shandong/qingdao/panorama-of-qingdao.html:Downtown%20Qingdao
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/china/shandong/qingdao/panorama-of-qingdao.html
 #DESCRIPTION Downtown Qingdao sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/china/shandong/qingdao/qingdao.html:Qingdao
-#DESCRIPTION Qingdao sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/china/shanghai/shanghai/skyline-of-shanghai.html:Shanghai%20@
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/china/shandong/qingdao/qingdao.html
+#DESCRIPTION Qingdao sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/china/shanghai/shanghai/skyline-of-shanghai.html
 #DESCRIPTION Shanghai @ sx
 #SERVICE 1:64:13:0:0:0:0:0:0:0::=== Costa Rica GMT-6 ===
 #DESCRIPTION === Costa Rica GMT-6 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/guanacaste/la-cruz/bahia-salinas.html:Bahia%20Salinas%20-%20Nandel%20Beach
-#DESCRIPTION Bahia Salinas Nandel Beach sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/puntarenas/puntarenas/cobano.html:C%C3%B3bano%20Airport
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/guanacaste/la-cruz/bahia-salinas.html
+#DESCRIPTION Bahia Salinas Nandel Beach sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/puntarenas/puntarenas/cobano.html
 #DESCRIPTION Cóbano Airport sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/irazu.html:Iraz%C3%BA
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/irazu.html
 #DESCRIPTION Irazú sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/heredia-braulio-carrillo.html:Panorama%20of%20Braulio%20Carrillo
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/heredia-braulio-carrillo.html
 #DESCRIPTION Panorama of Braulio Carrillo sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/panorama-san-jose.html:Panorama%20of%20San%20Jos%C3%A9
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/panorama-san-jose.html
 #DESCRIPTION Panorama of San José sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/perez-zeledon/san-isidro.html:San%20Isidro%20de%20El%20General
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/perez-zeledon/san-isidro.html
 #DESCRIPTION San Isidro de El General sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/san-vicente.html:San%20Vicente
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/san-vicente.html
 #DESCRIPTION San Vicente sx
 #SERVICE 1:64:14:0:0:0:0:0:0:0::=== Cyprus GMT+2 ===
 #DESCRIPTION === Cyprus GMT+2 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-promenade.html:Larnaca
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-promenade.html
 #DESCRIPTION Larnaca sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-seafront.html:Larnaca%20seafront
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-seafront.html
 #DESCRIPTION Larnaca seafront sx
 #SERVICE 1:64:15:0:0:0:0:0:0:0::=== Denmark ===
 #DESCRIPTION === Denmark ===
@@ -1225,18 +1223,26 @@
 #DESCRIPTION Storebaelt 2 xx
 #SERVICE 1:64:16:0:0:0:0:0:0:0::=== Ecuador GMT-5 ===
 #DESCRIPTION === Ecuador GMT-5 ===
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/montanita.html:Beach%20of%20Monta%C3%B1ita
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/montanita.html
 #DESCRIPTION Beach of Montañita sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/ayangue-beach.html:Ecuador%20-%20Ayangue%20Beach
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/ayangue-beach.html
 #DESCRIPTION Ecuador - Ayangue Beach sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/montanita-santa-elena.html:Monta%C3%B1ita%20-%20Santa%20Elena
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/montanita-santa-elena.html
 #DESCRIPTION Montañita - Santa Elena sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/olon-santa-elena.html:Olon%20-%20Santa%20Elena
-#DESCRIPTION Olon - Santa Elena sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/playa-de-ballenita-capaes.html:Playa%20de%20Ballenita%20-%20Capaes
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/olon-santa-elena.html
+#DESCRIPTION Olon - Santa Elena sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/playa-de-ballenita-capaes.html
 #DESCRIPTION Playa de Ballenita Capaes sx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/salinas/paco-illescas.html:Salinas%20-%20Santa%20Elena
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/salinas/paco-illescas.html
 #DESCRIPTION Salinas - Santa Elena sx
+#SERVICE 1:64:1C:0:0:0:0:0:0:0::=== El Salvador GMT-6 ===
+#DESCRIPTION === El Salvador GMT-6 ===
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/la-libertad/playa-conchalio.html
+#DESCRIPTION La Libertad sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/la-libertad/playa-conchalio-el-salvador.html
+#DESCRIPTION La Libertad Playa Conchalio sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/tamanique/playa-el-tunco.html
+#DESCRIPTION Tamanique sx
 #SERVICE 1:64:17:0:0:0:0:0:0:0::=== Egypt GMT+2/+3 ===
 #DESCRIPTION === Egypt GMT+2/+3 ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/egypt/cairo/cairo/great-pyramid-of-giza.html
@@ -1256,7 +1262,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/arbusigny/les-aravis-mont-blanc.html
 #DESCRIPTION Arbusigny sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/occitanie/collioure/chateau-royal.html
-#DESCRIPTION Collioure sx
+#DESCRIPTION Collioure sx ## 120326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/provence-alpes-cote-dazur/frejus/plage-de-frejus.html
 #DESCRIPTION Fréjus Beach @ sx ## 060326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/hauteluce/domaine-skiable-des-contamines-montjoie.html
@@ -1274,7 +1280,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//visionenvironnement.quanteec.com/contents/encodings/live/6d6a84d6-1f60-4fe8-746c-7561-6665-64-8686-4c545fab07c7d/master.m3u8
 #DESCRIPTION Paris 4K xx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/nouvelle-aquitaine/saint-pierre-d-oleron/port-de-la-cotiniere.html
-#DESCRIPTION Saint-Pierre-d'Oléron sx
+#DESCRIPTION Saint-Pierre-d'Oléron sx ## 120326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/occitanie/sete/port-de-plaisance.html
 #DESCRIPTION Sète sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/vallorcine/vallorcine-mont-blanc.html
@@ -1332,9 +1338,9 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//livecameras.gr%3a30443/live/kala7/chunks.m3u8
 #DESCRIPTION Kalathi Kalamata NE xx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/kanoni-corfu-airstrip.html
-#DESCRIPTION Kanoni Corfu Airstrip sx
+#DESCRIPTION Kanoni Corfu Airstrip sx ## 120326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/thessalia/larissa/kato-sotiritsa.html
-#DESCRIPTION Kato Sotiritsa @ sx ## 100326 OFF
+#DESCRIPTION Kato Sotiritsa @ sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/lasithi/mount-dikti.html
 #DESCRIPTION Lasithi Mount Dikti sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/livadi-astypalaia.html
@@ -1356,7 +1362,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/kyklades/naxos-agios-prokopios.html
 #DESCRIPTION Naxos - Agios Prokopios sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/nisaki.html
-#DESCRIPTION Nisaki - Corfu sx
+#DESCRIPTION Nisaki - Corfu sx ## 120326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/nisyros.html
 #DESCRIPTION Nisyros - Dodecanese sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/chania/old-port-chania.html
@@ -1402,7 +1408,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes.html
 #DESCRIPTION Rhodes @ sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-international-airport.html
-#DESCRIPTION Rhodes International Airport sx
+#DESCRIPTION Rhodes International Airport sx ## 120326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-faliraki-beach.html
 #DESCRIPTION Rhodes - Faliraki Beach sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-lindos-beach.html
@@ -1708,7 +1714,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/6w5928fd/kz3gcwmh.m3u8
 #DESCRIPTION Uhldingen-Mühlhofen Strandpromenade @ lx ## 060326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/deutschland/bayern/kochel-am-see/walchensee.html
-#DESCRIPTION Walchensee Lake sx ## 110326 OFF
+#DESCRIPTION Walchensee Lake sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/g6106xv4/hbh26r3r.m3u8
 #DESCRIPTION Wangerooge Strand @ lx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//osltv.stream24.net/osltv5/_definst_/mp4%3awaren.stream/playlist.m3u8
@@ -1727,6 +1733,22 @@
 #DESCRIPTION Wittmund Flugplatz Harle lx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//cdn.livespotting.com/vpu/4br14zyk/b96keym9.m3u8
 #DESCRIPTION Wittmund Nordseebad Carolinensiel-Harlesiel @ lx
+#SERVICE 1:64:24:0:0:0:0:0:0:0::=== Grenada ===
+#DESCRIPTION === Grenada ===
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/grenada/saint-georges/grand-anse-beach/grand-anse-beach-caribbean-sea.html
+#DESCRIPTION Saint George's sx
+#SERVICE 1:64:25:0:0:0:0:0:0:0::=== Honduras ===
+#DESCRIPTION === Honduras ===
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/honduras/bay-islands/roatan/west-bay.html
+#DESCRIPTION West Bay sx 
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/honduras/bay-islands/roatan/west-end.html
+#DESCRIPTION West End Beach Roatán sx
+#SERVICE 1:64:26:0:0:0:0:0:0:0::=== Hungary ===
+#DESCRIPTION === Hungary ===
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/hungary/budapest/?cam=hotelvictoria
+#DESCRIPTION Budapest sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/hungary/central-transdanubia/papa/ungheria-papa.html
+#DESCRIPTION Pápa sx
 #SERVICE 1:64:1D:0:0:0:0:0:0:0::=== Iceland ===
 #DESCRIPTION === Iceland ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//bang.snerpa.is/live/live/holtabrun2.stream/playlist.m3u8
@@ -1747,6 +1769,578 @@
 #DESCRIPTION Fenit Marina 401 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ireland/munster/kerry/kerry.html
 #DESCRIPTION Kerry sx
+#SERVICE 1:64:29:0:0:0:0:0:0:0::=== Israel GMT+2 ===
+#DESCRIPTION === Israel GMT+2 ===
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/israel/jerusalem-district/jerusalem/western-wall.html
+#DESCRIPTION Jerusalem Western Wall sx
+#SERVICE 1:64:2A:0:0:0:0:0:0:0::=== Italy ===
+#DESCRIPTION === Italy ===
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_alghero06.m3u8
+#DESCRIPTION Alghero Sardinija plaža Lazzaretto 706 wx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/marche/ancona/senigallia.html
+#DESCRIPTION Ancona Senigallia sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/campania/avellino/montella.html
+#DESCRIPTION Avellino Montella sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/puglia/bari/locorotondo.html
+#DESCRIPTION Bari Locorotondo Valle d'Itria sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/puglia/bari/polignano-a-mare.html
+#DESCRIPTION Bari Polignano a Mare sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/puglia/bari/marina-mola-di-bari.html
+#DESCRIPTION Bari Porto di Mola di Bari sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/puglia/bari/spiaggia-di-bari.html
+#DESCRIPTION Bari Spiaggia di Pane e Pomodoro sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/alleghe.html
+#DESCRIPTION Belluno Alleghe sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/chiesa-san-biagio.html
+#DESCRIPTION Belluno Alleghe Chiesa di San Biagio sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/arabba.html
+#DESCRIPTION Belluno Arabba sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/arabba-dolomiti.html
+#DESCRIPTION Belluno Arabba 2 sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/canale-dagordo-belluno.html
+#DESCRIPTION Belluno Canale d'Agordo sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/col-de-varda-misurina.html
+#DESCRIPTION Belluno Col De Varda Misurina sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/lago-di-alleghe.html
+#DESCRIPTION Belluno Lago di Alleghe sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/lago-alleghe.html
+#DESCRIPTION Belluno Lago di Alleghe @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/lago-di-alleghe-dolomiti.html
+#DESCRIPTION Belluno Lago di Alleghe Dolomiti sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/lago-di-alleghe-monte-civetta.html
+#DESCRIPTION Belluno Lago di Alleghe Dolomiti Bellunesi sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/passo-campolongo-dolomiti.html
+#DESCRIPTION Belluno Passo Campolongo Dolomiti sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/passo-campolongo.html
+#DESCRIPTION Belluno Passo Campolongo Sella Ronda @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/piana-di-falcade.html
+#DESCRIPTION Belluno Piana di Falcade @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/belluno/sottoguda-marmolada.html
+#DESCRIPTION Belluno Sottoguda Marmolada Dolomites sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/veneto/belluno/voltago-agordino.html
+#DESCRIPTION Belluno Voltago Agordino sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/bergamo/porto-lovere.html
+#DESCRIPTION Bergamo Porto turistico di Lovere sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/bergamo/sarnico.html
+#DESCRIPTION Bergamo Sarnico sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/bergamo/solto-collina.html
+#DESCRIPTION Bergamo Solto Collina sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/bergamo/zambla-alta.html
+#DESCRIPTION Bergamo Zambla Alta sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/bergamo/zogno-bergamo.html
+#DESCRIPTION Bergamo Zogno sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/bergamo/zogno.html
+#DESCRIPTION Bergamo Zogno 2 sx 
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/badia-san-leonardo.html
+#DESCRIPTION Bolzano Badia San Leonardo sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/badia-santa-croce.html
+#DESCRIPTION Bolzano Badia Santa Croce sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/cadipietra-valle-aurina.html
+#DESCRIPTION Bolzano Cadipietra Valle Aurina sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/colfosco.html
+#DESCRIPTION Bolzano Colfosco @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/colfosco-bolzano.html
+#DESCRIPTION Bolzano Colfosco 2 @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/colfosco-alta-badia.html
+#DESCRIPTION Bolzano Colfosco in Alta Badia sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/colfosco-alta-badia-dolomiti.html
+#DESCRIPTION Bolzano Colfosco in Alta Badia Dolomiti sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/corvara-alta-badia-dolomiti.html
+#DESCRIPTION Bolzano Corvara Alta Badia Dolomites sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/chiesa-di-santa-caterina-di-alessandria.html
+#DESCRIPTION Bolzano Corvara Chiesa di Santa Caterina d'Alessandria sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/corvara-in-badia-dolomiti.html
+#DESCRIPTION Bolzano Corvara in Badia Dolomiti Superski Meteo sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/corvara-sassongher.html
+#DESCRIPTION Bolzano Corvara Sassongher sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/innichen-haunoldgebirge.html
+#DESCRIPTION Bolzano Dolomites Innichen sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/dolomiti-alta-badia.html
+#DESCRIPTION Bolzano Dolomiti La Villa sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/dolomiti-san-vigilio-di-marebbe.html
+#DESCRIPTION Bolzano Dolomiti San Vigilio di Marebbe sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/san-vigilio-marebbe.html
+#DESCRIPTION Bolzano Dolomiti San Vigilio di Marebbe 2 sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/san-candido.html
+#DESCRIPTION Bolzano Innichen South Tyrol sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/la-valle-alta-badia.html
+#DESCRIPTION Bolzano La Valle Alta Badia sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/badia-bolzano.html
+#DESCRIPTION Bolzano La Villa Bolzano sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/la-villa.html
+#DESCRIPTION Bolzano La Villa di Badia Dolomiti @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/laces-sud-tirolo.html
+#DESCRIPTION Bolzano Laces Sud Tirolo sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/mareo-san-vigilio-di-marebbe.html
+#DESCRIPTION Bolzano Mareo San Vigilio di Marebbe sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/merano-tappeiner.html
+#DESCRIPTION Bolzano Merano sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/panorama-di-colfosco.html
+#DESCRIPTION Bolzano Panorama di Colfosco sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/san-cassiano.html
+#DESCRIPTION Bolzano Panoramica di San Cassiano @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/selva-di-val-gardena-alpe-di-siusi.html
+#DESCRIPTION Bolzano Selva di Val Gardena sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/selva-di-val-gardena-dolomiti.html
+#DESCRIPTION Bolzano Selva di Val Gardena Dolomiti sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/selva-di-val-gardena-gruppo-sella.html
+#DESCRIPTION Bolzano Selva di Val Gardena Gruppo Sella sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/sesto.html
+#DESCRIPTION Bolzano Sesto Sud-Tirolo sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/sonnklar-sudtirol.html
+#DESCRIPTION Bolzano Sonnklar Südtirol @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/speikboden.html
+#DESCRIPTION Bolzano Speikboden @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/ski-stelvio.html
+#DESCRIPTION Bolzano Summer ski area in Stelvio pass Weather sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/selva-di-val-gardena-dolomiti.html
+#DESCRIPTION Bolzano Sëlva Dolomites sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/selva-di-val-gardena-gruppo-sella.html
+#DESCRIPTION Bolzano Sëlva Sella Group sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/val-badia-longiaru.html
+#DESCRIPTION Bolzano Val Badia Longiarù sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/valle-aurina.html
+#DESCRIPTION Bolzano Valle Aurina sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/ahrntal.html
+#DESCRIPTION Bolzano Valle Aurina 2 @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/villandro.html
+#DESCRIPTION Bolzano Villandro @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/brescia/clusane.html
+#DESCRIPTION Brescia Iseo Clusane sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/brescia/passo-del-tonale.html
+#DESCRIPTION Brescia Passo del Tonale @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/brescia/ponte-di-legno-passo-tonale.html
+#DESCRIPTION Brescia Ponte di Legno Passo del Tonale sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/brescia/salo-lago-di-garda.html
+#DESCRIPTION Brescia Salò Lake Garda sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/brescia/sulzano.html
+#DESCRIPTION Brescia Sulzano sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/puglia/brindisi/ostuni-la-citta-bianca.html
+#DESCRIPTION Brindisi Panorama di Ostuni sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//cdn-002.whatsupcams.com/hls/it_cagliari01.m3u8
+#DESCRIPTION Cagliari Poetto sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/caltanissetta/sommatino.html
+#DESCRIPTION Caltanissetta Sommatino sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/molise/campobasso/termoli-borgo-medievale.html
+#DESCRIPTION Campobasso Termoli Medieval village sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-versante-nord.html
+#DESCRIPTION Catania Etna North @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/catania/etna-eruzioni-crateri-sud.html
+#DESCRIPTION Catania Etna Southern Crater Eruptions sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-sud.html
+#DESCRIPTION Catania Etna Summit craters sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-nord.html
+#DESCRIPTION Catania Mount Etna Piano Provenzana sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/catania/etna-piazzale-rifugio-sapienza.html
+#DESCRIPTION Catania Volcano Etna Piazzale Rifugio Sapienza sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/catania/vulcano-etna-sud-est.html
+#DESCRIPTION Catania Volcano Etna Southeast sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/calabria/catanzaro/gizzeria.html
+#DESCRIPTION Catanzaro Gizzeria Lido sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/calabria/catanzaro/catanzaro-lido.html
+#DESCRIPTION Catanzaro Lido sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/como/lago-di-como.html
+#DESCRIPTION Como Lake sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/como/tremezzina-lago-di-como.html
+#DESCRIPTION Como Tremezzina Lake sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/calabria/cosenza/panorama-di-bianchi.html
+#DESCRIPTION Cosenza Panorama of Bianchi sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/cremona/duomo.html
+#DESCRIPTION Cremona Crema Cathedral sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/calabria/crotone/isola-capo-rizzuto-le-castella.html
+#DESCRIPTION Crotone Porto di Le Castella a Isola Capo Rizzuto sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/piemonte/cuneo/artesina-ski.html
+#DESCRIPTION Cuneo Artesina Mondolè Ski Piste del Colletto @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/piemonte/cuneo/artesina-mondole-ski.html
+#DESCRIPTION Cuneo Artesina Mondolè Ski Piste del Pian della Turra sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/piemonte/cuneo/frabosa-sottana-prato-nevoso.html
+#DESCRIPTION Cuneo Frabosa Sottana Prato Nevoso sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/marche/fermo/porto-san-giorgio.html
+#DESCRIPTION Fermo Porto San Giorgio Beach Adriatic Sea sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/firenze/lungarno.html
+#DESCRIPTION Firenze Lungarno sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/firenze/piazza-signoria.html
+#DESCRIPTION Firenze Piazza della Signoria sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/firenze/ponte-vecchio.html
+#DESCRIPTION Firenze Ponte Vecchio sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/firenze/ponte-vecchio-lungarno.html
+#DESCRIPTION Firenze Ponte Vecchio Lungarno sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/firenze/firenze-santa-maria-novella.html
+#DESCRIPTION Firenze Santa Maria Novella sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/foggia/padre-pio-santuario.html
+#DESCRIPTION Foggia Padre Pio Pilgrimage sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/foggia/meteo-santagata-di-puglia.html
+#DESCRIPTION Fogia Sant'Agata di Puglia Weather sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/emilia-romagna/forli-cesena/cesenatico.html
+#DESCRIPTION Forli-cesena cesenatico sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/emilia-romagna/forli-cesena/spiaggia-di-cesenatico.html
+#DESCRIPTION Forli-cesena spiaggia-di-cesenatico sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/emilia-romagna/forli-cesena/spiaggia-cesenatico.html
+#DESCRIPTION Forli-cesena spiaggia-cesenatico sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/genova/spiaggia-genova.html
+#DESCRIPTION Genova sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/genova/spiaggia-di-zoagli.html
+#DESCRIPTION Genova Beach of Zoagli sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/genova/camogli.html
+#DESCRIPTION Genova Camogli sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/genova/porto-santa-margherita-ligure.html
+#DESCRIPTION Genova Harbour of Santa Margherita Ligure sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/genova/quinto-al-mare.html
+#DESCRIPTION Genova Quinto al Mare sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/genova/sestri-levante.html
+#DESCRIPTION Genova Sestri Levante sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/genova/vernazzola.html
+#DESCRIPTION Genova Vernazzola sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/genova/borgo-bogliasco.html
+#DESCRIPTION Genova Village of Bogliasco sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/it_giba01.m3u8
+#DESCRIPTION Giba Sardinija Porto Botte plaža 701 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/it_riopusteria02.m3u8
+#DESCRIPTION Gitschberg Jochtal 602 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_riopusteria01.m3u8
+#DESCRIPTION Gitschberg Jochtal skijališta 501 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/grosseto/porto-ercole-monte-argentario.html
+#DESCRIPTION Grosseto Porto Ercole Monte Argentario sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/grosseto/porto-santo-stefano-argentario.html
+#DESCRIPTION Grosseto Porto Santo Stefano Argentario sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/grosseto/porto-santo-stefano.html
+#DESCRIPTION Grosseto Porto Santo Stefano Monte Argentario sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/imperia/bordighera.html
+#DESCRIPTION Imperia Bordighera sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/imperia/festival-sanremo-ariston.html
+#DESCRIPTION Imperia Sanremo Teatro Ariston sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/molise/isernia/santangelo-in-grotte.html
+#DESCRIPTION Isernia Sant'Angelo in Grotte sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/isola-elba/isola-elba-cavoli.html
+#DESCRIPTION Isola Elba Cavoli sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/isola-elba/isola-d-elba-portoferraio.html
+#DESCRIPTION Isola Elba Portoferraio sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/isola-elba/portoferraio.html
+#DESCRIPTION Isola Elba Portoferraio 2 sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/isola-elba/rio-marina.html
+#DESCRIPTION Isola Elba Rio Marina sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/isola-elba/spiaggia-innamorata.html
+#DESCRIPTION Isola Elba Spiaggia dell'Innamorata sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/la-spezia/bonassola.html
+#DESCRIPTION La Spezia Bonassola @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/la-spezia/fiascherino-lerici.html
+#DESCRIPTION La Spezia Fiascherino Lerici sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/la-spezia/porto-venere.html
+#DESCRIPTION La Spezia Portovenere sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/la-spezia/riomaggiore.html
+#DESCRIPTION La Spezia Riomaggiore Cinque Terre sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/latina/gaeta-piazza-della-liberta.html
+#DESCRIPTION Latina Gaeta Piazza della Libertà sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/latina/gaeta.html
+#DESCRIPTION Latina Gaeta Serapo Beach sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/gallipoli-spiaggia-della-purita.html
+#DESCRIPTION Lecce Gallipoli Purità Beach sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/porto-di-gallipoli.html
+#DESCRIPTION Lecce Port of Gallipoli sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/porto-cesareo.html
+#DESCRIPTION Lecce Porto Cesareo sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/lungomare-di-otranto.html
+#DESCRIPTION Lecce Promenade of Otranto sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/santa-cesarea-terme.html
+#DESCRIPTION Lecce Santa Cesarea Terme sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/santa-cesarea-terme-lecce.html
+#DESCRIPTION Lecce Santa Cesarea Terme 2 sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/torre-san-giovanni-ugento.html
+#DESCRIPTION Lecce Torre San Giovanni Ugento sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/lecco/lecco.html
+#DESCRIPTION Lecco sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/lecco/lecco-lago-di-como.html
+#DESCRIPTION Lecco Lake Como sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/livorno/cecina-acquavillage.html
+#DESCRIPTION Livorno Acqua Village in Cecina sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/livorno/marina-di-bibbona.html
+#DESCRIPTION Livorno Marina di Bibbona sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/livorno/rosignano-solvay.html
+#DESCRIPTION Livorno Passage to the sea in Rosignano Solvay sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/lodi/santangelo-lodigiano.html
+#DESCRIPTION Lodi Sant'Angelo Lodigiano sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/lucca/spiaggia-viareggio.html
+#DESCRIPTION Lucca Viareggio Beach sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/basilicata/matera/matera.html
+#DESCRIPTION Matera Sasso Caveoso sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/sicilia/messina/messina.html
+#DESCRIPTION Messina @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/panarea-stromboli.html
+#DESCRIPTION Messina Panarea sx 
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/panarea.html
+#DESCRIPTION Messina Panarea 2 sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/porto-di-lipari.html
+#DESCRIPTION Messina Port of Lipari sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/stromboli.html
+#DESCRIPTION Messina Stromboli sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/stromboli-sicilia.html
+#DESCRIPTION Messina Stromboli Sicily sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/taormina.html
+#DESCRIPTION Messina Taormina sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/messina/vulcano-gran-cratere-della-fossa.html
+#DESCRIPTION Messina Vulcano Gran Cratere della Fossa sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/milano/duomo-milano.html
+#DESCRIPTION Milano Cathedral sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/milano/piazza-cinque-giornate.html
+#DESCRIPTION Milano Piazza Cinque Giornate sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/milano/piazza-duca-dsosta.html
+#DESCRIPTION Milano Piazza Duca d'Aosta sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/napoli/castel-nuovo-maschio-angioino.html
+#DESCRIPTION Napoli Castel Nuovo Maschio Angioino sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/campania/napoli/corso-umberto-i.html
+#DESCRIPTION Napoli Corso Umberto sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/campania/napoli/napoli-vesuvio.html
+#DESCRIPTION Napoli Etna Volcano sx sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/napoli/napoli-piazza-garibaldi.html
+#DESCRIPTION Napoli Garibaldi Square sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/napoli/napoli-maschio-angioino.html
+#DESCRIPTION Napoli Maschio Angioino sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/napoli/procida-porto.html
+#DESCRIPTION Napoli Procida sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/napoli/santangelo-dischia.html
+#DESCRIPTION Napoli Sant'Angelo d'Ischia sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/napoli/sorrento.html
+#DESCRIPTION Napoli Sorrento Marina Grande sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/padova/padova-basilica-di-sant-antonio.html
+#DESCRIPTION Padova Basilica of Saint Anthony sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_palau05.m3u8
+#DESCRIPTION Palau Sardinija Isola dei Gabbiani 505 @ wx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/cattedrale-di-palermo.html
+#DESCRIPTION Palermo Cathedral sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/cefalu-piazza-duomo.html
+#DESCRIPTION Palermo Cathedral Square in Cefalù sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/ustica-porto.html
+#DESCRIPTION Palermo Island of Ustica sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/isola-delle-femmine.html
+#DESCRIPTION Palermo Isola delle Femmine sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/spiaggia-mondello.html
+#DESCRIPTION Palermo Mondello Beach sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/porto-palermo.html
+#DESCRIPTION Palermo Port sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/punta-celesi.html
+#DESCRIPTION Palermo Punta Celesi sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/palermo/santa-flavia-baia-di-porticello.html
+#DESCRIPTION Palermo Santa Flavia sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/marche/pesaro-urbino/fano.html
+#DESCRIPTION Pesaro-urbino Fano Piazza XX Settembre sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/marche/pesaro-urbino/panoramica-fano.html
+#DESCRIPTION Pesaro-urbino Panoramic view of Fano @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/pisa/pisa.html
+#DESCRIPTION Pisa @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/toscana/pisa/spiaggia-tirrenia.html
+#DESCRIPTION Pisa Beach of Tirrenia sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/ragusa/marina-ragusa.html
+#DESCRIPTION Ragusa Marina sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/ragusa/punta-secca.html
+#DESCRIPTION Ragusa Punta Secca sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/ravenna/milano-marittima.html
+#DESCRIPTION Ravenna Marittima Cervia sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/rimini.html
+#DESCRIPTION Rimini sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/bellaria-igea-marina.html
+#DESCRIPTION Rimini Bellaria-Igea Marina sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/cattolica.html
+#DESCRIPTION Rimini Cattolica sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/cattolica-rimini.html
+#DESCRIPTION Rimini Cattolica 2 sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/miramare-di-rimini.html
+#DESCRIPTION Rimini Miramare @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/spiaggia-di-riccione.html
+#DESCRIPTION Rimini Riccione Beach sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/torre-pedrera.html
+#DESCRIPTION Rimini Torre Pedrera sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-san-giovanni.html
+#DESCRIPTION Roma Archbasilica of St. John Lateran sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/basilica-papale-santa-maria-maggiore.html
+#DESCRIPTION Roma Basilica di Santa Maria Maggiore sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/campo-de-fiori.html
+#DESCRIPTION Roma Campo de' Fiori sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/roma-colosseo.html
+#DESCRIPTION Roma Colosseum sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/pantheon.html
+#DESCRIPTION Roma Pantheon sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-del-popolo.html
+#DESCRIPTION Roma Piazza del Popolo sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-di-spagna.html
+#DESCRIPTION Roma Piazza di Spagna sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-navona-roma.html
+#DESCRIPTION Roma Piazza Navona sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/trastevere.html
+#DESCRIPTION Roma Piazza Santa Maria in Trastevere sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-venezia.html
+#DESCRIPTION Roma Piazza Venezia Altare della Patria sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/roma-skyline.html
+#DESCRIPTION Roma Skyline sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/chiesa-trinita-dei-monti.html
+#DESCRIPTION Roma The Spanish Steps sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/fontana-di-trevi.html
+#DESCRIPTION Roma Trevi Fountain sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/via-del-corso.html
+#DESCRIPTION Roma Via del Corso sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/via-frattina.html
+#DESCRIPTION Roma Via Frattina sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/costiera-amalfi.html
+#DESCRIPTION Salerno Amalfi sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/spiaggia-agropoli.html
+#DESCRIPTION Salerno Beach of Agropoli sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/spiaggia-positano.html
+#DESCRIPTION Salerno Beach of Positano sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/minori-spiaggia.html
+#DESCRIPTION Salerno Minori Amalfi Coast sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/centro-storico-salerno.html
+#DESCRIPTION Salerno Old Town sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/palinuro-spiaggia.html
+#DESCRIPTION Salerno Palinuro sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/praiano-costiera-amalfitana.html
+#DESCRIPTION Salerno Praiano Amalfi Coast sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/campania/salerno/praiano-costiera.html
+#DESCRIPTION Salerno Praiano Divina Costiera sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sardegna/sassari/baja-sardinia-costa-smeralda.html
+#DESCRIPTION Sassari Baja Sardinia Costa Smeralda sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sardegna/sassari/stintino.html
+#DESCRIPTION Sassari Stintino La Pelosa @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/liguria/savona/spotorno.html
+#DESCRIPTION Savona Spotorno sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/sondrio/pista-stelvio-ski-area-bormio.html
+#DESCRIPTION Sondria Stilfs' slopes Ski Area Bormio sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/sondrio/bormio-3000.html
+#DESCRIPTION Sondrio Bormio 3000 Cima Bianca sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/sondrio/livigno-ski-center.html
+#DESCRIPTION Sondrio Livigno sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_livigno04.m3u8
+#DESCRIPTION Sondrio Livigno 504 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_livigno05.m3u8
+#DESCRIPTION Sondrio Livigno Hotel Primula 505 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/sondrio/livigno-ski-area-san-rocco.html
+#DESCRIPTION Sondrio Livigno Ski Area San Rocco sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/sondrio/valdisotto.html
+#DESCRIPTION Sondrio Valdisotto sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/abruzzo/teramo/spiaggia-alba-adriatica.html
+#DESCRIPTION Teramo Alba Adriatica Beach sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_pietracamela01.m3u8
+#DESCRIPTION Teramo Pietracamela Panorama 501 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/it_pratiditivo02.m3u8
+#DESCRIPTION Teramo Pietracamela Prati di Tivo Gran Sasso 202 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/abruzzo/teramo/prati-di-tivo-gran-sasso.html
+#DESCRIPTION Teramo Prati di Tivo Corno Piccolo Gran Sasso sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/umbria/terni/duomo-orvieto.html
+#DESCRIPTION Terni Orvieto Cathedral sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/torino/sestriere-seggiovia-cit-roc.html
+#DESCRIPTION Torino Sestriere Skilift Cit Roc sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/trapani/castello-pantelleria.html
+#DESCRIPTION Trapani Pantelleria sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/trapani/san-vito-lo-capo.html
+#DESCRIPTION Trapani San Vito Lo Capo sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/sicilia/trapani/san-vito-lo-capo-monte-monaco.html
+#DESCRIPTION Trapani San Vito lo Capo and Monte Monaco sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/trento/canazei.html
+#DESCRIPTION Trento Canazei sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/trento/canazei-pecol.html
+#DESCRIPTION Trento Canazei Pecol sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/trento/canazei-piazza-marconi.html
+#DESCRIPTION Trento Canazei Piazza Marconi sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/trento/folgaria.html
+#DESCRIPTION Trento Folgaria sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/trento/garda-torbole.html
+#DESCRIPTION Trento Lake Garda Torbole south side sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/trento/monte-paganella-trento.html
+#DESCRIPTION Trento Mount Paganella sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/trento/riva-del-garda.html
+#DESCRIPTION Trento Riva del Garda sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/trento/torbole-sul-garda-trento.html
+#DESCRIPTION Trento Torbole sul Garda sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/trento/torbole-sul-garda.html
+#DESCRIPTION Trento Torbole sul Garda 2 sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/trento/torbole-sul-garda-lago-di-garda.html
+#DESCRIPTION Trento Torbole sul Garda Lago di Garda sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/friuli-venezia-giulia/trieste/portopiccolo.html
+#DESCRIPTION Trieste Portopiccolo sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/friuli-venezia-giulia/trieste/piazza-unita-italia.html
+#DESCRIPTION Trieste Unity of Italy Square sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_trieste02.m3u8
+#DESCRIPTION Trieste view of Miramare Castle 502 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/friuli-venezia-giulia/udine/tarvisio-monte-lussari.html
+#DESCRIPTION Udine Mount Lussari Tarvisio sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/friuli-venezia-giulia/udine/tarvisio-mangart-coccau.html
+#DESCRIPTION Udine Tarvisio Mangart Coccau sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/varese/laveno-mombello.html
+#DESCRIPTION Varese Laveno Mombello sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/lombardia/varese/maccagno-lago-maggiore.html
+#DESCRIPTION Varese Maccagno Lago Maggiore sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/spiaggia-jesolo.html
+#DESCRIPTION Venezia Beach of Jesolo sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/ponte-di-calatrava.html
+#DESCRIPTION Venezia Calatrava Bridge sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/caorle.html
+#DESCRIPTION Venezia Caorle sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/it_caorle04.m3u8
+#DESCRIPTION Venezia Caorle 204 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_caorle01.m3u8
+#DESCRIPTION Venezia Caorle 501 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/it_caorle08.m3u8
+#DESCRIPTION Venezia Caorle beach @ wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/canal-grande.html
+#DESCRIPTION Venezia Grand Canal sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/jesolo.html
+#DESCRIPTION Venezia Jesolo - Beach of Piazza Mazzini @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/jesolo-piazza-milano.html
+#DESCRIPTION Venezia Jesolo Lido Milano Square sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/piazza-san-marco.html
+#DESCRIPTION Venezia Piazza San Marco sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/it_ponza05.m3u8
+#DESCRIPTION Venezia Ponza luka 205 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/canal-grande-rialto.html
+#DESCRIPTION Venezia Rialto Bridge sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/rialto-canal-grande.html
+#DESCRIPTION Venezia Rialto Bridge sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/rio-di-palazzo.html
+#DESCRIPTION Venezia Rio di Palazzo sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/it_rosolinamare03.m3u8
+#DESCRIPTION Venezia Rosolina mare @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/riva-schiavoni.html
+#DESCRIPTION Venezia St. Mark's Basin Riva degli Schiavoni sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/venezia/san-giorgio.html
+#DESCRIPTION Venezia St. Mark's Basin San Giorgio Island sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/piemonte/verbania/baveno-lago-maggiore.html
+#DESCRIPTION Verbania Baveno Lago Maggiore sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/feriolo.html
+#DESCRIPTION Verbania Feriolo sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/lago-maggiore-baveno.html
+#DESCRIPTION Verbania Lake Maggiore Baveno sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/lago-maggiore-isola-san-giovanni.html
+#DESCRIPTION Verbania Lake Maggiore Isolino di San Giovanni sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/lago-maggiore.html
+#DESCRIPTION Verbania Lake Maggiore Pallanza sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/macugnaga-belvedere.html
+#DESCRIPTION Verbania Macugnaga Belvedere sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/arena-di-verona.html
+#DESCRIPTION Verona Arena sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/bosco-chiesanuova.html
+#DESCRIPTION Verona Bosco Chiesanuova sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/ponte-castelvecchio.html
+#DESCRIPTION Verona Castelvecchio Bridge sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/balcone-giulietta-romeo.html
+#DESCRIPTION Verona Juliet's House sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/liston.html
+#DESCRIPTION Verona Liston sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/panorama-di-verona.html
+#DESCRIPTION Verona Panorama sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/verona.html
+#DESCRIPTION Verona Piazza Bra sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/tropea.html
+#DESCRIPTION Vibo Valentia Tropea @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/capo-vaticano.html
+#DESCRIPTION Vibo-valentia Capo Vaticano @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/capo-vaticano-spiaggia-grotticelle.html
+#DESCRIPTION Vibo-valentia Capo Vaticano Grotticelle Beach @ sx ## 120326 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/vicenza/isola-vicentina.html
+#DESCRIPTION Vicenza Isola Vicentina sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/vicenza/monte-di-malo-val-leogra.html
+#DESCRIPTION Vicenza Monte di Malo Val Leogra sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/vicenza/schio.html
+#DESCRIPTION Vicenza Schio sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/vicenza/campanile-del-duomo-di-thiene-vista-nord.html
+#DESCRIPTION Vicenza Thiene Cathedral's bell tower sx
 #SERVICE 1:64:1F:0:0:0:0:0:0:0::=== Norway ===
 #DESCRIPTION === Norway ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/Festplassen.stream/playlist.m3u8
@@ -1786,19 +2380,19 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//dvr.usinsknet.ru%3a18080/rtsp/716/eb2c2d5b05e93ba125ef
 #DESCRIPTION Church of the Resurrection of Christ in Usinsk xx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-avtomobilist-ptz/index.m3u8
-#DESCRIPTION Sochi Adler @ xx ## 110326 OFF
+#DESCRIPTION Sochi Adler @ xx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-batumskoye14-ptz/index.m3u8
-#DESCRIPTION Sochi Batumskoe 14a PTZ @ xx ## 110326 OFF
+#DESCRIPTION Sochi Batumskoe 14a PTZ @ xx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-moskovskaya20-ulica/index.m3u8
-#DESCRIPTION Sochi Intersection of Moskovskaya and Vorovskogo Streets xx ## 110326 OFF
+#DESCRIPTION Sochi Intersection of Moskovskaya and Vorovskogo Streets xx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-kukuruza-plyaz/index.m3u8
-#DESCRIPTION Sochi Mamaika Beach xx ## 110326 OFF
+#DESCRIPTION Sochi Mamaika Beach xx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-mysvidnyi-PTZ/index.m3u8
-#DESCRIPTION Sochi Panoramic Camera with San Mys Vidny @ xx ## 110326 OFF
+#DESCRIPTION Sochi Panoramic Camera with San Mys Vidny @ xx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-redisson-ptz/index.m3u8
 #DESCRIPTION Sochi Radisson Paradise xx ## 110326 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-Electronic-ptz/index.m3u8
-#DESCRIPTION Sochi Sanatorium Elektronika @ xx ## 110326 OFF
+#DESCRIPTION Sochi Sanatorium Elektronika @ xx
 #SERVICE 1:64:22:0:0:0:0:0:0:0::=== Switzerland ===
 #DESCRIPTION === Switzerland ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/schweiz/kanton-tessin/locarno/ascona.html
