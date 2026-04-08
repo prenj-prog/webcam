@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.860 - 07.04.26    @=is moving  @@=multiple link
+#NAME Prenj SF Ver.861 - 08.04.26  1.866cam  @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8
@@ -231,6 +231,8 @@
 #DESCRIPTION Opatija Ičići Privezište @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Ika_Boat/Ika_Boat.stream/playlist.m3u8
 #DESCRIPTION Opatija Ika luka @ tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_ika01.m3u8:Opatija Ika Pogled na lučicu i svjetla Opatije 601
+#DESCRIPTION Opatija Ika Pogled na lučicu i svjetla Opatije 601 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/M_Tita_101/M_Tita_101.stream/playlist.m3u8
 #DESCRIPTION Opatija Kvarner ulaz tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Centar/Lovran_Centar.stream/playlist.m3u8
@@ -483,6 +485,12 @@
 #DESCRIPTION Senj Jadranska magistrala D8 uživo 202 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_senj05.m3u8
 #DESCRIPTION Senj Nehaj plaža 705 @ wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_senj11.m3u8:Senj Park književnika uz more 711
+#DESCRIPTION Senj Park književnika uz more 711 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_senj10.m3u8:Senj Park književnika i Velebitski kanal 810
+#DESCRIPTION Senj Park književnika i Velebitski kanal 810 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_senj12.m3u8:Senj pogled na lukobran i svjetionik 612
+#DESCRIPTION Senj pogled na lukobran i svjetionik 612 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_senj01.m3u8
 #DESCRIPTION Senj Riva 201 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_senj07.m3u8
@@ -1198,29 +1206,29 @@
 #SERVICE 1:64:14:0:0:0:0:0:0:0::=== Czech ===
 #DESCRIPTION === Czech ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/roznov.m3u8:1
-#DESCRIPTION 1
+#DESCRIPTION 1 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/eroplan.m3u8:2
-#DESCRIPTION 2
+#DESCRIPTION 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//31.47.96.14%3a80/hls/DbecvaK.m3u8:3
-#DESCRIPTION 3
+#DESCRIPTION 3 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8082/hls/live.stream.m3u8:4
-#DESCRIPTION 4
+#DESCRIPTION 4 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8090/hls/live.stream.m3u8:6
-#DESCRIPTION 6
+#DESCRIPTION 6 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8091/hls/live.stream.m3u8:7
-#DESCRIPTION 7
+#DESCRIPTION 7 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/planespotting/playlist.m3u8:Аэропорт
-#DESCRIPTION Airport
+#DESCRIPTION Airport tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/hrosi/playlist.m3u8:Бегемоты
-#DESCRIPTION Hippos
+#DESCRIPTION Hippos tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/amc/playlist.m3u8:Прага
-#DESCRIPTION Prague
+#DESCRIPTION Prague tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/kralovstvizeleznic/playlist.m3u8:Ж/д королевство
-#DESCRIPTION Railway Kingdom
+#DESCRIPTION Railway Kingdom tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vytopna/playlist.m3u8:Ж/д вокзал Смихов
-#DESCRIPTION Smichov railway station
+#DESCRIPTION Smichov railway station tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vrsovice/playlist.m3u8:Ж/д вокзал Вршовице
-#DESCRIPTION Vršovice railway station
+#DESCRIPTION Vršovice railway station tx
 #SERVICE 1:64:15:0:0:0:0:0:0:0::=== Cyprus GMT+2 ===
 #DESCRIPTION === Cyprus GMT+2 ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-promenade.html
@@ -2516,7 +2524,7 @@
 #SERVICE 1:64:2B:0:0:0:0:0:0:0:: === Luxembourg ===
 #DESCRIPTION === Luxembourg ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live-edge.rtl.lu/cita/cita_a1/playlist.m3u8
-#DESCRIPTION Luxembourg @@
+#DESCRIPTION Luxembourg @@ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/luxembourg/grevenmacher/mertert/wasserbillig.html
 #DESCRIPTION Wasserbillig sx
 #SERVICE 1:64:2C:0:0:0:0:0:0:0:: === Maldives GMT+5 ===
@@ -3215,26 +3223,62 @@
 #DESCRIPTION Dubai Marina sx \c00ffff00 ## 02.04.26 OFF
 #SERVICE 1:64:3F:0:0:0:0:0:0:0::=== United Kingdom GMT ===
 #DESCRIPTION === United Kingdom GMT ===
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/ApperleyBridge_20194/tracks-v1/mono.m3u8
+#DESCRIPTION Apperley Bridge tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Bedford1_25194/tracks-v1a1/mono.m3u8
+#DESCRIPTION Bedford tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/brighton/brighton-pier.html
 #DESCRIPTION Brighton Pier sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Buckfastleigh_68389/tracks-v1/mono.m3u8
+#DESCRIPTION Buckfastleigh tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/wales/cardiff/cardiff.html
 #DESCRIPTION Cardiff sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a80/Corfe_14435/tracks-v1a1/mono.m3u8
+#DESCRIPTION Corfe Station tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Cramlington_54382/tracks-v1a1/mono.m3u8
+#DESCRIPTION Cramlington tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Crewe2_16754/tracks-v1a1/mono.m3u8
+#DESCRIPTION Crewe tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/dover/dover-beach-kent.html
 #DESCRIPTION Dover Beach Kent @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Glyndyfrdwy_389573/tracks-v1a1/mono.m3u8
+#DESCRIPTION Glyndyfrdwy tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Groombridge_20182/tracks-v1/mono.m3u8
+#DESCRIPTION Groom bridge tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/hawes/hawes.html
 #DESCRIPTION Hawes sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Hebden_41043/tracks-v1a1/mono.m3u8
+#DESCRIPTION Hebden tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/hereford/hereford-high-town.html
 #DESCRIPTION Hereford High Town sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Hythe_22835/tracks-v1a1/mono.m3u8
+#DESCRIPTION Hythe tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//89.16.164.68%3a80/SVR-Kidderminster-C2_094871/index.m3u8
+#DESCRIPTION Kidderminster 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/.m3u8
 #DESCRIPTION London Abbey Road tx \c00ffff00 ## 05.04.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/hereford/old-wye-bridge-hereford.html
 #DESCRIPTION Old Wye Bridge Hereford sx \c00ffff00 ## 05.04.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Princes-Risborough_95234/tracks-v1/mono.m3u8
+#DESCRIPTION Princes tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Ribblehead_Viaduct/tracks-v1a1/mono.m3u8
+#DESCRIPTION Ribblehead tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//camsecure.co/HLS/sagressholidays.m3u8
+#DESCRIPTION Sagress Holidays tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//paxman.railcam.co.uk/Shrewsbury_10933/tracks-v1a1/mono.m3u8
+#DESCRIPTION Shrewsbury tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/st-ives/st-ives.html
 #DESCRIPTION St.Ives sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/st-ives/porthmeor-beach.html
 #DESCRIPTION St.Ives Porthmeor Beach @ sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk%3a80/Swanage_43965/tracks-v1a1/mono.m3u8
+#DESCRIPTION Swanage Station tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//camsecure.co/HLS/boatq1.m3u8
+#DESCRIPTION Torquay tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//maybach.railcam.co.uk/Uphall_96341/tracks-v1a1/mono.m3u8
+#DESCRIPTION Uphall tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//camsecure.co/HLS/westho.m3u8
-#DESCRIPTION Westward
+#DESCRIPTION Westward tx
 #SERVICE 1:64:40:0:0:0:0:0:0:0::=== USA GMT-5/-8 ===
 #DESCRIPTION === USA GMT-5/-8 ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/arizona/prescott/?cam=prescott
