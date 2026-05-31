@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.885  31.05.26   2.918 cam   @=is moving  @@=multiple link
+#NAME Prenj SF Ver.886  31.05.26   2.918 cam   @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8
@@ -5835,3 +5835,5 @@
 #DESCRIPTION World 11 @@
 #SERVICE 1:64:49:0:0:0:0:0:0:0::=== TEST ===
 #DESCRIPTION === TEST ===
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3A//cdn.livespotting.com/vpu/6w5928fd/kz3gcwmh.m3u8
+#DESCRIPTION Uhldingen-Mühlhofen @ lx
