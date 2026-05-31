@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.884  28.05.26   2.866 cam   @=is moving  @@=multiple link
+#NAME Prenj SF Ver.885  31.05.26   2.918 cam   @=is moving  @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8
@@ -3199,114 +3199,140 @@
 #DESCRIPTION Palawan El Nido sx
 #SERVICE 1:64:37:0:0:0:0:0:0:0::=== Poland ===
 #DESCRIPTION === Poland ===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/aleksandrowlodzki/index.m3u8
-#DESCRIPTION Aleksandrów Łódzki  Plac Tadeusza Kościuszki tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/wiadukt/tracks-v1/mono.m3u8
+#DESCRIPTION Aleja Wojska Polskiego  droga krajowa tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/czarnygron_cam_c0df65/czarnygron_cam_c0df65.stream/chunks.m3u8
-#DESCRIPTION Andrychów Czarny Groń tx
+#DESCRIPTION Andrychów  Czarny Groń tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/dinolandia_cam_e38111/dinolandia_cam_e38111.stream/chunks.m3u8
+#DESCRIPTION Andrychów  Inwałd  Dinolandia tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/wgwidok/tracks-v1/mono.m3u8
-#DESCRIPTION Barania góra Widok na Gminę Węgierska Górka tx
+#DESCRIPTION Barania góra  Widok na Gminę Węgierska Górka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//kl7.tech5.pl%3a8005/hls/live.stream.m3u8
-#DESCRIPTION Barlinek Jezioro Barlineckie tx
+#DESCRIPTION Barlinek  Jezioro Barlineckie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/kotelnica_cam_0b240f/kotelnica_cam_0b240f.stream/chunks.m3u8
-#DESCRIPTION Białka Tatrzańska Kotelnica Białczańska  Stok narciarski tx
+#DESCRIPTION Białka Tatrzańska Kotelnica Białczańska Stok narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/kotelnica_cam_ea8e3d/kotelnica_cam_ea8e3d.stream/chunks.m3u8
 #DESCRIPTION Białka Tatrzańska Kotelnica Pasieka Express tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/litwinka_cam_4a98f8/litwinka_cam_4a98f8.stream/chunks.m3u8
-#DESCRIPTION Białka Tatrzańska Litwinka Grapa  Stok narcia tx
+#DESCRIPTION Białka Tatrzańska LitwinkaGrapa Stok narciarski *4K* tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/skywind_cam_6407df/skywind_cam_6407df.stream/chunks.m3u8
+#DESCRIPTION Białka Tatrzańska Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/skywind_cam_bfed73/skywind_cam_bfed73.stream/chunks.m3u8
 #DESCRIPTION Białka Tatrzańska Kaniówka Stok II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream4.webcamera.pl/kotelnica_cam_0b240f/kotelnica_cam_0b240f.stream/playlist.m3u8
 #DESCRIPTION Białka Tatrzańska Kaniówka Stok tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/bialogora_plaza_obrotowa.stream/chunklist_w1037696434.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream4.webcamera.pl/skywind_cam_4b0f1c/skywind_cam_4b0f1c.stream/playlist.m3u8
+#DESCRIPTION Białka TatrzańskaBania Pasaż tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/bialogora_plaza_obrotowa.stream/chunklist_w1096513179.m3u8
 #DESCRIPTION Białogóra Plaża tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/willawidokowa_cam_eefa62/willawidokowa_cam_eefa62.stream/chunks.m3u8
+#DESCRIPTION Biały DunajecPanorama Tatr tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/bielawa1/tracks-v1/mono.m3u8
 #DESCRIPTION Bielawa Jezioro Bielawskie Góry Sowie tx \c00ffff00 ## 14.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/bielsko_cam_cb7ff1/bielsko_cam_cb7ff1.stream/chunks.m3u8
 #DESCRIPTION Bielsko Biała Hałcnów rondo tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/neptun/tracks-v1/mono.m3u8
-#DESCRIPTION Bielsko Biała Mikuszowice Krakowskie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/bielsko_cam_1c4da5/bielsko_cam_1c4da5.stream/chunks.m3u8
 #DESCRIPTION Bielsko Biała Plac Bolesława Chrobrego tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.pbkomp.pl/hls2/bircza/index.m3u8
-#DESCRIPTION Bircza Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//37.131.166.52/Bledzew/tracks-v1/mono.m3u8
-#DESCRIPTION Bledzew Rynek tx
+#DESCRIPTION Bledzew  rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/bolkow_zamek/tracks-v1/mono.m3u8
-#DESCRIPTION Bolków Zamek tx
+#DESCRIPTION Bolków  Zamek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl/live/bozepole_kosciol_ttr_static.stream/chunklist_w933113808.m3u8
 #DESCRIPTION Bożepole Wielkie Parafia Św Piotra Apostoła tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//185.222.6.30/centrum2.m3u8
 #DESCRIPTION Brenna Amfiteatr tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//185.222.6.30/dolina1.m3u8
+#DESCRIPTION Brenna Stacja Narciarska SKIDOLINA tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//185.222.6.30/centrum1.m3u8
 #DESCRIPTION Brenna MiniGolf lodowisko tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/brzegk1/tracks-v1/mono.m3u8
 #DESCRIPTION Brzeg Plac Polonii Amerykańskiej tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Iwkowa/tracks-v1/mono.m3u8
 #DESCRIPTION Brzesko Iwkowa Centrum tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/porebaspytkowska/index.m3u8
-#DESCRIPTION Brzesko Poręba Spytkowska tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/brzozowrynek/index.m3u8
-#DESCRIPTION Brzozów Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/brzyno_przystan_j_zarnowieckie_static.stream/playlist.m3u8
 #DESCRIPTION Brzyno Przystań tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/bukovina_cam_7aa04f/bukovina_cam_7aa04f.stream/chunks.m3u8
+#DESCRIPTION Bukowina Tatrzańska  Hotel BUKOVINA tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//5d534d0532491.streamlock.net/live/grand.stream/chunklist_w495030228.m3u8
+#DESCRIPTION Bukowina Tatrzańska Panorama gór tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/olczan_cam_65ae74/olczan_cam_65ae74.stream/chunks.m3u8
+#DESCRIPTION Bukowina Tatrzańska UFO Ski Stok narciarskiy tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/olczan_cam_83c75a/olczan_cam_83c75a.stream/chunks.m3u8
+#DESCRIPTION Bukowina Tatrzańska Zwyrtlik OlczańSki Turnia tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/bukovina_cam_c632c4/bukovina_cam_c632c4.stream/chunks.m3u8
+#DESCRIPTION Bukowina Tatrzańska  termy  Bukovina Hotel tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/bukovina_cam_04f738/bukovina_cam_04f738.stream/chunks.m3u8
 #DESCRIPTION Bukowina Tatrzańska Bukovina Resort tx \c00ffff00 ## 28.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/bukovina_cam_7aa04f/bukovina_cam_7aa04f.stream/playlist.m3u8
-#DESCRIPTION Bukowina Tatrzańska Hotel Bukovina tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/bukovina_cam_7aa04f/bukovina_cam_7aa04f.stream/chunks.m3u8
-#DESCRIPTION Bukowina Tatrzańska Hotel Bukovina tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/bukovina_cam_c632c4/bukovina_cam_c632c4.stream/playlist.m3u8
 #DESCRIPTION Bukowina Tatrzańska Hotel Bukovina tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/olczan_cam_65ae74/olczan_cam_65ae74.stream/chunks.m3u8
-#DESCRIPTION Bukowina Tatrzańska UFO Ski Stok narciarski tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/olczan_cam_83c75a/olczan_cam_83c75a.stream/chunks.m3u8
-#DESCRIPTION Bukowina Tatrzańska Zwyrtlik Olczań Ski Turnia tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream4.webcamera.pl/skywind_cam_4b0f1c/skywind_cam_4b0f1c.stream/playlist.m3u8
-#DESCRIPTION Bukowina Tatrzańska - Hotel Bania tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/airnet_cam_d60f3c/airnet_cam_d60f3c.stream/playlist.m3u8
-#DESCRIPTION Bukowina Tatrzańska Rzepiska  Tatry tx
+#DESCRIPTION Bukowina Tatrzańska Rzepiska Tatry tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls7.webcamera.pl/skywind_cam_1f9295/skywind_cam_1f9295.stream/playlist.m3u8
 #DESCRIPTION Bukowina Tatrzańska tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/skywind_cam_3c5be6/skywind_cam_3c5be6.stream/playlist.m3u8
+#DESCRIPTION Bukowina TatrzańskaKurucowy Wierch *4K* tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//vm2.umig.busko.pl/webcam/cam12.m3u8
+#DESCRIPTION BuskoZdrój Dom Zdrojowy tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//vm2.umig.busko.pl/webcam/cam13.m3u8
+#DESCRIPTION BuskoZdrój Fontanna przy tężni tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//vm2.umig.busko.pl/webcam/cam1.m3u8
+#DESCRIPTION BuskoZdrój Plac Zwycięstwa tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//vm2.umig.busko.pl/webcam/cam11.m3u8
+#DESCRIPTION BuskoZdrój Tężnia tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//vm2.umig.busko.pl/webcam/cam4.m3u8
+#DESCRIPTION BuskoZdrój Wejście do parku zdrojowego tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//vm2.umig.busko.pl/webcam/cam2.m3u8
+#DESCRIPTION BuskoZdrój al. Mickiewicza tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//vm2.umig.busko.pl/webcam/cam3.m3u8
+#DESCRIPTION BuskoZdrój ul. Rzewuskiego tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.238.55.4%3a5080/LiveApp/streams/841513345602233255031370.m3u8
 #DESCRIPTION Bystrzyca Kłodzka Kościoł tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.238.55.4%3a5080/LiveApp/streams/617581079038760246618530.m3u8
 #DESCRIPTION Bystrzyca Kłodzka Panorama tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/cekcyn/tracks-v1/mono.m3u8
-#DESCRIPTION Cekcyn ul Wczasowa tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/unislaw/tracks-v1/mono.m3u8
-#DESCRIPTION Chełmno Unisław narciarska Unisław Stok tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream4.webcamera.pl/bytom_cam_10f2a9/bytom_cam_10f2a9.stream/chunks.m3u8
+#DESCRIPTION Bytom Sucha Góra  Sport Dolina  Stok narciarski tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/wladyslawowo_kemping_male_morze_molo_obrotowa.stream/chunklist_w858682347.m3u8
+#DESCRIPTION Chałupy Camping Małe Morze tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/chalupy_molo_obrotowa.stream/chunklist_w1744177842.m3u8
+#DESCRIPTION Chałupy Przystań tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/chelmno_cam_5e8601/chelmno_cam_5e8601.stream/chunks.m3u8
+#DESCRIPTION Chełmno Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//5d84fe297ee2b.streamlock.net/chrzanow/chrzanow2.stream/chunklist_w1070843094.m3u8
-#DESCRIPTION Chrzanów (woj. lubelskie) Rzetelski Stok narciarski tx \c00ffff00 ## 27.05.26 OFF
+#DESCRIPTION Chrzanów(woj.lubelskie) Rzetelski Stok narciarski tx \c00ffff00 ## 27.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/chlopy_cam_73ac3a/chlopy_cam_73ac3a.stream/playlist.m3u8
 #DESCRIPTION Chłopy tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/jelciepl2/tracks-v1/mono.m3u8
+#DESCRIPTION Cieplice  Plac Piastowski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/jelciepl1/tracks-v1/mono.m3u8
 #DESCRIPTION Cieplice Karkonosze tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/jelciepl2/tracks-v1/mono.m3u8
-#DESCRIPTION Cieplice Plac Piastowski tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.silesnet.net/webcams/cieszyn.m3u8
+#DESCRIPTION Cieszyn Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Ciezkowice_Rynek/tracks-v1/mono.m3u8
 #DESCRIPTION Ciężkowice Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream4.webcamera.pl/krakow_cam_c4feaa/krakow_cam_c4feaa.stream/playlist.m3u8
 #DESCRIPTION Cracow 1 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/wentzl_cam_be5c6c/wentzl_cam_be5c6c.stream/playlist.m3u8
 #DESCRIPTION Cracow 2 tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/koziniecski_cam_3b5810/koziniecski_cam_3b5810.stream/chunks.m3u8
+#DESCRIPTION Czarna Góra  KoziniecSki  stacja dolna tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/czerwienneski_cam_7f7a88/czerwienneski_cam_7f7a88.stream/chunks.m3u8
-#DESCRIPTION Czarny Dunajec Czerwienne  Stok narciarski tx
+#DESCRIPTION Czarny Dunajec Czerwienne Stok narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/czarnygron_cam_961902/czarnygron_cam_961902.stream/chunks.m3u8
 #DESCRIPTION Czarny Groń  Magiczna Osada tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/czaszyn/index.m3u8
 #DESCRIPTION Czaszyn Widok Bieszczady tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/czchow/tracks-v1/mono.m3u8
-#DESCRIPTION Czchów  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/czestochowa_cam_18cb12/czestochowa_cam_18cb12.stream/chunks.m3u8
-#DESCRIPTION Częstochowa  Jasna Góra tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/acz/index.m3u8
-#DESCRIPTION Częstochowa  Lotnisko Rudniki tx
+#DESCRIPTION Częstochowa  Jasna Góra  Błonia jasnogórskie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/jasnagora/tracks-v1/mono.m3u8
 #DESCRIPTION Częstochowa  Panorama na Jasną Górę tx \c00ffff00 ## 28.05.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/cisiec/tracks-v1/mono.m3u8
+#DESCRIPTION DK.m3u8 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/darlowo_cam_dc4e72/darlowo_cam_dc4e72.stream/playlist.m3u8
 #DESCRIPTION Darlowo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/gmina_darlowo_cam_2807ee/gmina_darlowo_cam_2807ee.stream/chunks.m3u8
 #DESCRIPTION Darłowo  Bobolin  Plaża i bunkry tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/darlowo_cam_1c6a5d/darlowo_cam_1c6a5d.stream/chunks.m3u8
+#DESCRIPTION Darłowo  Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream4.webcamera.pl/darlowo_cam_90431a/darlowo_cam_90431a.stream/playlist.m3u8
 #DESCRIPTION Darłowo  Plaża wschodnia tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/gmina_darlowo_cam_705510/gmina_darlowo_cam_705510.stream/chunks.m3u8
@@ -3317,66 +3343,74 @@
 #DESCRIPTION Dziwnów @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/playlist.m3u8
 #DESCRIPTION Dziwnów tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//kam1.dabrowa-gornicza.pl%3a4443/video-pogoria-hires/vi.m3u8
-#DESCRIPTION Dąbrowa Górnicza  Jezioro Pogoria tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls8.webcamera.pl/dab-bartek_cam_187c42/dab-bartek_cam_187c42.stream/playlist.m3u8
+#DESCRIPTION Dąb Bartek  Najstarszy dąb w Polsce tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//kam1.dabrowa-gornicza.pl%3a4443/video-pkz-hires/vi.m3u8
-#DESCRIPTION Dąbrowa Górnicza  Plac Wolności tx
+#DESCRIPTION Dąbrowa GórniczaPlac Wolności tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//212.244.142.80%3a1935/live/camera5.stream/chunklist_w83975183.m3u8
-#DESCRIPTION Dąbrowa Tarnowska  Piłsudskiego tx
+#DESCRIPTION Dąbrowa Tarnowska  Piłsudskiego  droga na Tarnów tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//online2.kamery24.org/cam/gosir2.m3u8
-#DESCRIPTION Dębica  Basen GOSIR tx
+#DESCRIPTION Dębica Basen GOSIR tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//online2.kamery24.org/cam/cam3.m3u8
-#DESCRIPTION Dębica  Głobikowa  Park dinozaurów tx
+#DESCRIPTION Dębica Głobikowa Park dinozaurów tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//online2.kamery24.org/cam/jodlowa2.m3u8
-#DESCRIPTION Dębica  Jodłowa  Centrum tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//online2.kamery24.org/cam/jodlowa.m3u8
-#DESCRIPTION Dębica  Jodłowa  Rynek tx
+#DESCRIPTION Dębica Jodłowa Centrum tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//online2.kamery24.org/cam/debica.m3u8
-#DESCRIPTION Dębica  Rynek tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/debki_plaza_obrotowa.stream/chunklist_w1547529943.m3u8
-#DESCRIPTION Dębki  Plaża tx
+#DESCRIPTION Dębica Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/debki_cam_284a24/debki_cam_284a24.stream/chunks.m3u8
+#DESCRIPTION Dębki Plaża (obrotowa) tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/debki_plaza_static.stream/chunklist_w230228968.m3u8
-#DESCRIPTION Dębki  Plaża tx
+#DESCRIPTION Dębki Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/debki_wieza_rybaczowka_obrotowa.stream/chunklist_w823732028.m3u8
-#DESCRIPTION Dębki  Widok z wieży tx
+#DESCRIPTION Dębki Widok z wieży tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/debki_ulica_morska_static.stream/chunklist_w755227118.m3u8
-#DESCRIPTION Dębki  ul Morska tx
+#DESCRIPTION Dębki ul Morska tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/debowieccn/index.m3u8
-#DESCRIPTION Dębowiec  Tężnia Solankowa tx
+#DESCRIPTION Dębowiec Tężnia Solankowa tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.elblag.net%3a18080/mosir/index.m3u8
+#DESCRIPTION Elbląg Lodowisko MOSIR tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/mosir-elblag/tracks-v1/mono.m3u8
-#DESCRIPTION Elbląg  Tor łyżwiarski Kalbar tx
+#DESCRIPTION Elbląg Tor łyżwiarski Kalbar tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.elblag.net%3a18080/1maja/index.m3u8
-#DESCRIPTION Elbląg  go Maja tx \c00ffff00 ## 27.05.26 OFF
+#DESCRIPTION Elbląg go Maja tx \c00ffff00 ## 27.05.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.elblag.net%3a18080/1maja_fontanna/index.m3u8
+#DESCRIPTION Elbląg 1go Maja fontanna tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/warmian-masurian-voivodeship/elblag/stare-miasto.html
 #DESCRIPTION Elbląg sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/wejherowo_rynek_fontanna_obrotowa.stream/playlist.m3u8
+#DESCRIPTION Fontanna tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/chunks.m3u8
-#DESCRIPTION Gdańsk  Motława tx
+#DESCRIPTION Gdańsk Motława tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//kamera.task.gda.pl%3a443/rtplive/k109.sdp/playlist.m3u8
+#DESCRIPTION Gdańsk Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/gdansk_cam_9e790c/gdansk_cam_9e790c.stream/playlist.m3u8
-#DESCRIPTION Gdańsk  Widok Na Stare Miasto tx
+#DESCRIPTION Gdańsk Widok Na Stare Miasto tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls11.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/playlist.m3u8
-#DESCRIPTION Gdańsk  Widok na kładkę przez Motławę tx
+#DESCRIPTION Gdańsk Widok na Motławę inne źródło tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/pomerania/gdansk/gdansk.html
 #DESCRIPTION Gdańsk sx \c00ffff00 ## 27.05.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/gdynia_cam_b3ccea/gdynia_cam_b3ccea.stream/playlist.m3u8
+#DESCRIPTION Gdynia Live tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/gdynia_cam_a7916a/gdynia_cam_a7916a.stream/chunks.m3u8
+#DESCRIPTION Gdynia Molo Południowe tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/gdynia_orlowo_plaza_obrotowa.stream/playlist.m3u8
-#DESCRIPTION Gdynia  Orłowo tx
+#DESCRIPTION Gdynia Orłowo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls8.webcamera.pl/gdynia_cam_b3ccea/gdynia_cam_b3ccea.stream/playlist.m3u8
-#DESCRIPTION Gdynia  Skwer Kościuszki tx
+#DESCRIPTION Gdynia Skwer Kościuszki tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/gdynia_cam_b3ccea/gdynia_cam_b3ccea.stream/playlist.m3u8
 #DESCRIPTION Gdynia 1 @ tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/gdynia_cam_a7916a/gdynia_cam_a7916a.stream/playlist.m3u8
-#DESCRIPTION Gdynia 2 tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream4.webcamera.pl/gizycko_cam_82df5c/gizycko_cam_82df5c.stream/playlist.m3u8
-#DESCRIPTION Gizycko  Most obrotowy tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_royal1/tracks-v1/mono.m3u8
-#DESCRIPTION Giżycko Jezioro Kisajno Port Royal tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream4.webcamera.pl/gizycko_cam_a96a04/gizycko_cam_a96a04.stream/playlist.m3u8
 #DESCRIPTION Giżycko  Jezioro Niegocin tx \c00ffff00 ## 28.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/skywind_cam_99451e/skywind_cam_99451e.stream/chunks.m3u8
 #DESCRIPTION Giżycko  Wilkasy  Jezioro Niegocin tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_tajty1/tracks-v1/mono.m3u8
 #DESCRIPTION Giżycko  Wilkasy  Przystań jachtowa tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_royal1/tracks-v1/mono.m3u8
+#DESCRIPTION Giżycko Jezioro Kisajno Port Royal tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_azswilkasy2/tracks-v1/mono.m3u8
 #DESCRIPTION Giżycko Wilkasy  Jezioro Niegocin tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_gizycko1/tracks-v1/mono.m3u8
+#DESCRIPTION GiżyckoKanał Łuczański tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/gniew_widok_rynek_wieza_kosciola_static.stream/chunklist_w152564088.m3u8
 #DESCRIPTION Gniew Panorama miasta tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/gniew_widok_zakole_wisly_obrotowa.stream/playlist.m3u8
@@ -3387,30 +3421,32 @@
 #DESCRIPTION Gniewino Kaszubskie Oko tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/gniezno3/index.m3u8
 #DESCRIPTION Gniezno  Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream4.webcamera.pl/gogolow_cam_f20d7a/gogolow_cam_f20d7a.stream/playlist.m3u8
+#DESCRIPTION Gogołówstok narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls.sat-kol.pl/hls/gor/channel5_high.m3u8
-#DESCRIPTION Gorlice  Centrum tx
+#DESCRIPTION Gorlice Centrum tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.238.55.4%3a5080/LiveApp/streams/822866102581200392045344.m3u8
-#DESCRIPTION Gorzanów  Widok z pałacu tx
+#DESCRIPTION Gorzanów Widok z pałacu tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/gorzow_cam_0039e8/gorzow_cam_0039e8.stream/chunks.m3u8
+#DESCRIPTION Gorzów Wielkopolski Katedra tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/gorzow_cam_0e7519/gorzow_cam_0e7519.stream/chunks.m3u8
-#DESCRIPTION Gorzów Wielkopolski  Panorama tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/grajewo/index.m3u8
-#DESCRIPTION Grajewo  Panorama tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/mwgmazury/tracks-v1/mono.m3u8
-#DESCRIPTION Grajewo Popowo Międzynarodowy Wspólny Gołębnik Mazury 2 tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/mwgmazury2/tracks-v1/mono.m3u8
-#DESCRIPTION Grajewo  Popowo Międzynarodowy Wspólny Gołębnik Mazury tx
+#DESCRIPTION Gorzów Wielkopolski Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//cam.tvsm.pl/live/Botaniczny.stream/chunklist_w1586451823.m3u8
-#DESCRIPTION Grudziądz  Ogród Botaniczny tx
+#DESCRIPTION Grudziądz Ogród Botaniczny tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/grudziadz_wisla_static.stream/playlist.m3u8
 #DESCRIPTION Grudziądz  Widok na Wisłę tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//cam.tvsm.pl/live/Klimek.stream/chunklist_w1661296438.m3u8
+#DESCRIPTION Grudziądz  Widok z wieży Klimek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/grzybowo_cam_31ad63/grzybowo_cam_31ad63.stream/playlist.m3u8
 #DESCRIPTION Grzybowo @ tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/glogow2/tracks-v1/mono.m3u8
-#DESCRIPTION Głogów  Panorama miasta tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/glogow/tracks-v1/mono.m3u8
-#DESCRIPTION Głogów  Stare miasto tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn.stream360.pl/ipcamstream360/AlarmService1/chunklist_w375149771.m3u8
+#DESCRIPTION Gródek nad Dunajcem  Jezioro Rożnowskie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/glubczyce3/tracks-v1/mono.m3u8
 #DESCRIPTION Głubczyce Panorama 2 tx \c00ffff00 ## 24.05.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/glubczyce2/tracks-v1/mono.m3u8
+#DESCRIPTION GłubczycePanorama tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/glubczyce1/tracks-v1/mono.m3u8
+#DESCRIPTION GłubczyceRynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//45.86.34.3%3a5080/LiveApp/streams/407397739934086275830599.m3u8
 #DESCRIPTION Głuszyca  Panorama II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//45.86.34.3%3a5080/LiveApp/streams/758703408042709250688583.m3u8
@@ -3438,11 +3474,15 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//video.itcom.pl/istebna3/tracks-v1/mono.m3u8
 #DESCRIPTION Istebna  Zagroń  stacja dolna tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.230.221.43%3a8081/hls/live.stream.m3u8
-#DESCRIPTION Iwonicz Zdrój  Panorama  Krosno tx
+#DESCRIPTION IwoniczZdrój  Panorama  Krosno tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Jantar_plaza_wscho/tracks-v1/mono.m3u8
+#DESCRIPTION Jantar  plaża wschód tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Jantar_Karmazyn/index.m3u8
 #DESCRIPTION Jantar Bar KARMAZYN tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/jaroslawiec_cam_bc9f03/jaroslawiec_cam_bc9f03.stream/chunks.m3u8
 #DESCRIPTION Jarosławiec  Sztuczna plaża tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/jaroslawiec_cam_40eca5/jaroslawiec_cam_40eca5.stream/chunks.m3u8
+#DESCRIPTION Jarosławiec  plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/jaroslawiec_cam_bc9f03/jaroslawiec_cam_bc9f03.stream/playlist.m3u8
 #DESCRIPTION Jarosławiec - Plaza 1 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/jaroslawiec_cam_40eca5/jaroslawiec_cam_40eca5.stream/playlist.m3u8
@@ -3456,7 +3496,9 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream2.webcamera.pl/jastarnia_cam_a14385/jastarnia_cam_a14385.stream/playlist.m3u8
 #DESCRIPTION Jastarnia  Zatoka Pucka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/jastrzebiagora_plaza_static.stream/chunklist_w1641669345.m3u8
-#DESCRIPTION Jastrzębia Góra  Plaża 2 tx
+#DESCRIPTION Jastrzębia Góra  Plaża tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/karpackatroja/tracks-v1/mono.m3u8
+#DESCRIPTION JasłoKarpacka Troja  Wieża widokowa tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/03jawor/tracks-v1/mono.m3u8
 #DESCRIPTION Jawor  Kościół Św Marcina i Kościół Pokoj tx \c00ffff00 ## 27.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/01jawor/tracks-v1/mono.m3u8
@@ -3469,14 +3511,12 @@
 #DESCRIPTION Jaworzno  Rynek 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//94.246.128.53%3a1935/mzdim/rynek1.stream/chunklist_w645472197.m3u8
 #DESCRIPTION Jaworzno  Rynek tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//94.246.128.53%3a1935/mckis/camera1.stream/playlist.m3u8
-#DESCRIPTION Jaworzno  Skrzyżowanie ul Grunwaldzka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//94.246.128.53%3a1935/mckis/camera2.stream/playlist.m3u8
 #DESCRIPTION Jaworzno  Skrzyżowanie ul Grunwaldzkiej i al Piłsudskiego tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/skywind_cam_77d44a/skywind_cam_77d44a.stream/chunks.m3u8
 #DESCRIPTION Jaworzyna Krynicka  Widok na szczyt tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/skywind_cam_0136d4/skywind_cam_0136d4.stream/chunks.m3u8
-#DESCRIPTION Jaworzyna Krynicka tx
+#DESCRIPTION Jaworzyna Krynicka trasa tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/jeleniagora_cam_377b56/jeleniagora_cam_377b56.stream/chunks.m3u8
 #DESCRIPTION Jelenia Góra  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/lower-silesian-voivodeship/jelenia-gora/plac-ratuszowy.html
@@ -3484,19 +3524,23 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//mcam.xyz/jelesnia-rynek/tracks-v1/mono.m3u8
 #DESCRIPTION Jeleśnia  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/jurata_cam_c060aa/jurata_cam_c060aa.stream/playlist.m3u8
-#DESCRIPTION Jurata  Molo tx
+#DESCRIPTION Jurata  Molo II tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/jurata_molo_static.stream/chunklist_w1490608147.m3u8
+#DESCRIPTION JurataMolo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/jurgow_cam_0042a7/jurgow_cam_0042a7.stream/chunks.m3u8
 #DESCRIPTION Jurgów  Stok narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/tv_cam_656df8/tv_cam_656df8.stream/chunks.m3u8
 #DESCRIPTION Kamery pogodowe 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8
 #DESCRIPTION Kamery pogodowe tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/03kamienna/tracks-v1/mono.m3u8
-#DESCRIPTION Kamienna Góra Kościół pw św Piotra i Pawła tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/01kamienna/tracks-v1/mono.m3u8
 #DESCRIPTION Kamienna Góra  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/02kamienna/tracks-v1/mono.m3u8
 #DESCRIPTION Kamienna Góra  Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/czarnow_cam_10a84a/czarnow_cam_10a84a.stream/chunks.m3u8
+#DESCRIPTION Kamienna Góra  Superstacja CzarnówSKI tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/03kamienna/tracks-v1/mono.m3u8
+#DESCRIPTION Kamienna GóraKościół pw. św. Piotra i Pawła tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/zieleniec_cam_fd1045/zieleniec_cam_fd1045.stream/playlist.m3u8
 #DESCRIPTION Karpacz  Biały Jar II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream4.webcamera.pl/zieleniec_cam_fbeae3/zieleniec_cam_fbeae3.stream/playlist.m3u8
@@ -3519,16 +3563,22 @@
 #DESCRIPTION Karpacz - Biały Jar Winterpol 2 @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/karpacz_cam_ab594f/karpacz_cam_ab594f.stream/playlist.m3u8
 #DESCRIPTION Karpacz Panorama KrummhÃ¼bel tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/wiezyca_cam_64129e/wiezyca_cam_64129e.stream/chunks.m3u8
+#DESCRIPTION Kartuzy  Wieżyca  Koszałkowo  Stok narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/karwia_plaza_static.stream/playlist.m3u8
 #DESCRIPTION Karwia  Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/snieznica_cam_9975a0/snieznica_cam_9975a0.stream/playlist.m3u8
 #DESCRIPTION Kasina Wielka  Kasina Ski tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls12.webcamera.pl/katowice_cam_2bcad5/katowice_cam_2bcad5.stream/playlist.m3u8
+#DESCRIPTION Katowice Spodek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//53c7d208964cd.streamlock.net/AM/kazimierz.stream/playlist.m3u8
 #DESCRIPTION Kazimierz Dolny  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls7.webcamera.pl/nocowanie_cam_0c89d6/nocowanie_cam_0c89d6.stream/playlist.m3u8
 #DESCRIPTION Kazimierz Dolny  Rynek tx \c00ffff00 ## 28.04.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/nocowanie_cam_edb146/nocowanie_cam_edb146.stream/playlist.m3u8
+#DESCRIPTION Kazimierz DolnyStok Narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/kielcerynek_cam_6913aa/kielcerynek_cam_6913aa.stream/chunks.m3u8
-#DESCRIPTION Kielce  Rynek tx
+#DESCRIPTION Kielce  rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/kluczbork_panorama/tracks-v1/mono.m3u8
 #DESCRIPTION Kluczbork  Panorama tx \c00ffff00 ## 28.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/czorsztynski_cam_27b967/czorsztynski_cam_27b967.stream/chunks.m3u8
@@ -3545,6 +3595,8 @@
 #DESCRIPTION Korbielów  Hala Rysianka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//video.itcom.pl/korbielow4/tracks-v1/mono.m3u8
 #DESCRIPTION Korbielów  Hala Walacowa tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//video.itcom.pl/korbielow2/tracks-v1/mono.m3u8
+#DESCRIPTION Korbielów  Kamienna Solisko tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//mcam.xyz/korbielow-kosciol/tracks-v1/mono.m3u8
 #DESCRIPTION Korbielów  Kościół NMP Królowej Aniołów tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//video.itcom.pl/korbielow3/tracks-v1/mono.m3u8
@@ -3552,11 +3604,13 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//mcam.xyz/andiamo/tracks-v1/mono.m3u8
 #DESCRIPTION Korbielów  Wyciąg naciarski Andiamo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//mcam.xyz/korbielow-beskidzka22/tracks-v1/mono.m3u8
-#DESCRIPTION Korbielów  ul Beskidzka tx
+#DESCRIPTION Korbielów  ul. Beskidzka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//video.itcom.pl/korbielow5/tracks-v1/mono.m3u8
 #DESCRIPTION Korbielów tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//koronowo.stream.inter-comp.pl/stream1.m3u8
 #DESCRIPTION Koronowo  Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//kl7.tech5.pl%3a7998/hls/live.stream.m3u8
+#DESCRIPTION Koszalin  Park Ks. Pom. (fontanna) tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//kl7.tech5.pl%3a7999/hls/live.stream.m3u8
 #DESCRIPTION Koszalin  Rynek Staromiejski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//play.gawex.pl/koszalin/koszalinrondo.stream/chunklist_w97383162.m3u8
@@ -3567,6 +3621,8 @@
 #DESCRIPTION Kozienice  Garbatka Letnisko  Skwer tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//online2.kamery24.org/cam/kolaczyce.m3u8
 #DESCRIPTION Kołaczyce  Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//kamery.kol-net.pl%3a5443/HIKVISION/streams/9bxEA1G5Yd4z1669129331116.m3u8:Koło  Stare Miasto & most
+#DESCRIPTION Koło  Stare Miasto & most
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/dzwirzyno_cam_59c728/dzwirzyno_cam_59c728.stream/chunks.m3u8
 #DESCRIPTION Kołobrzeg  Dźwirzyno  Plaża port tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/arkakolobrzeg_cam_94495e/arkakolobrzeg_cam_94495e.stream/chunks.m3u8
@@ -3579,18 +3635,28 @@
 #DESCRIPTION Kołobrzeg  Widok z latarni morskiej tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/kolobrzegmarina_cam_967ce0/kolobrzegmarina_cam_967ce0.stream/playlist.m3u8
 #DESCRIPTION Kołobrzeg tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream2.webcamera.pl/grzybowo_cam_31ad63/grzybowo_cam_31ad63.stream/playlist.m3u8
+#DESCRIPTION KołobrzegGrzybowo  Plaża tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/wdzydze_cam_8d77ee/wdzydze_cam_8d77ee.stream/chunks.m3u8
+#DESCRIPTION Kościerzyna  Wdzydze Kiszewskie  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/krakow/grodzka-kosciol-sw-apostolow-piotra-i-pawla.html
 #DESCRIPTION Krakow - Ulica Grodzka sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
 #DESCRIPTION Krakow 1 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8
 #DESCRIPTION Krakow rynek Podgórski tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/krakow_cam_c4feaa/krakow_cam_c4feaa.stream/playlist.m3u8
+#DESCRIPTION Kraków  Nowa Huta tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/krakow_cam_66c146/krakow_cam_66c146.stream/playlist.m3u8
 #DESCRIPTION Kraków  Panorama tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/krakow_cam_702b61/krakow_cam_702b61.stream/chunks.m3u8
+#DESCRIPTION Kraków  Rynek Główny  Sukiennice tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/krakow_cam_9a3b91/krakow_cam_9a3b91.stream/playlist.m3u8
+#DESCRIPTION Kraków  Rynek Główny tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/playlist.m3u8
 #DESCRIPTION Kraków  Rynek Podgórski tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/krakow_cam_702b61/krakow_cam_702b61.stream/chunks.m3u8
-#DESCRIPTION Kraków  Rynek główny  Sukiennice tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
+#DESCRIPTION Kraków  zakole Wisły tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/krakow/krakow.html
 #DESCRIPTION Kraków sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/krasocin_cam_42cdc1/krasocin_cam_42cdc1.stream/chunks.m3u8
@@ -3599,28 +3665,36 @@
 #DESCRIPTION Krokowa  Rondo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.230.221.43%3a8092/hls/live.stream.m3u8
 #DESCRIPTION Krosno  Kombornia  Bieszczady tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.230.221.43%3a8093/hls/live.stream.m3u8
-#DESCRIPTION Krosno  Miejsce Piastowe tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.230.221.43%3a8094/hls/live.stream.m3u8
 #DESCRIPTION Krosno  Miejsce Piastowe tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.230.221.43%3a8091/hls/live.stream.m3u8
 #DESCRIPTION Krosno  Rondo Honorowych Dawcow Krwi tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.230.221.43%3a8095/hls/live.stream.m3u8
 #DESCRIPTION Krosno  Winnica Widokowa Kombornia tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/krynicamorska_cam_b92412/krynicamorska_cam_b92412.stream/chunks.m3u8
+#DESCRIPTION Krynica Morska  Plaża tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/krynicamorska_cam_b92412/krynicamorska_cam_b92412.stream/playlist.m3u8
+#DESCRIPTION Krynica Morska  Port jachtowy tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/krynicamorska_cam_ba179a/krynicamorska_cam_ba179a.stream/chunks.m3u8
 #DESCRIPTION Krynica Morska  Zalew Wiślany tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/pkl_cam_2b18a1/pkl_cam_2b18a1.stream/playlist.m3u8
 #DESCRIPTION Krynica Zdroj tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/skywind_cam_449b41/skywind_cam_449b41.stream/chunks.m3u8
-#DESCRIPTION Krynica Zdrój  Jaworzyna Krynicka II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/skywind_cam_0d9bf2/skywind_cam_0d9bf2.stream/chunks.m3u8
 #DESCRIPTION Krynica Zdrój  Jaworzyna Krynicka tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/skywind_cam_8ee981/skywind_cam_8ee981.stream/chunks.m3u8
+#DESCRIPTION Krynica Zdrój  Słotwiny Arena  Dolna stacja tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/slotwiny_cam_9eda48/slotwiny_cam_9eda48.stream/chunks.m3u8
 #DESCRIPTION Krynica Zdrój  Słotwiny Arena tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/masterski_cam_94c295/masterski_cam_94c295.stream/chunks.m3u8
 #DESCRIPTION Krynica Zdrój  TYLICZ MASTER SKI 2 tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/masterski_cam_557832/masterski_cam_557832.stream/chunks.m3u8
+#DESCRIPTION Krynica Zdrój  TYLICZ MASTER SKI tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/pkl_cam_2b18a1/pkl_cam_2b18a1.stream/chunks.m3u8
 #DESCRIPTION Krynica Zdrój Góra Parkowa tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/henrykski_cam_4f1cdf/henrykski_cam_4f1cdf.stream/chunks.m3u8
+#DESCRIPTION KrynicaZdrój  HENRYK  Ski tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/szczeliniec/tracks-v1/mono.m3u8
+#DESCRIPTION KudowaZdrój  Szczeliniec Wielki tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/kutno/index.m3u8
 #DESCRIPTION Kutno  Plac Pilsudskiego tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//nebula.danar.net.pl%3a8080/Danar_Kwidzyn_Katedra/tracks-v1/mono.m3u8
@@ -3643,26 +3717,30 @@
 #DESCRIPTION Kłodzko  Panorama z Twierdzy tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hstream2.webcamera.pl/poreba_cam_e71a81/poreba_cam_e71a81.stream/playlist.m3u8
 #DESCRIPTION Lagoon Swinna Poreba tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hstream2.webcamera.pl/lanckorona_cam_fdeac0/lanckorona_cam_fdeac0.stream/chunks.m3u8
+#DESCRIPTION Lanckorona  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hstream2.webcamera.pl/lanckorona_cam_fdeac0/lanckorona_cam_fdeac0.stream/playlist.m3u8
 #DESCRIPTION Lanckorona tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/laskowa_cam_f684ab/laskowa_cam_f684ab.stream/chunks.m3u8
 #DESCRIPTION Laskowa  Laskowa Kamionna  Stok narciarski 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/laskowa_cam_6d4028/laskowa_cam_6d4028.stream/chunks.m3u8
 #DESCRIPTION Laskowa  Laskowa Kamionna  Stok narciarski II tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/laskowa_cam_fad086/laskowa_cam_fad086.stream/chunks.m3u8
-#DESCRIPTION Laskowa  Laskowa Kamionna  Stok narciarski tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/ustka_cam_4b0fca/ustka_cam_4b0fca.stream/chunks.m3u8
+#DESCRIPTION Latarnia morska (obrotowa) tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/informacjaturystycznacisna/tracks-v1/mono.m3u8
 #DESCRIPTION Lesko  Cisna  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/visionscew/tracks-v1/mono.m3u8
 #DESCRIPTION Lesko  Lesko Zwierzyń  Rzeka San tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//s1.worldcam.live%3a8081/lotniskoleszno/tracks-v1/mono.m3u8
-#DESCRIPTION Leszno  Lotnisko Leszno Strzyżewice tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/lotniskoleszno/tracks-v1/mono.m3u8
-#DESCRIPTION Leszno  Lotnisko Leszno Strzyżewice tx
+#DESCRIPTION Leszno  Lotnisko LesznoStrzyżewice *4K* tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/lipnicamurowana/tracks-v1a1/mono.m3u8
+#DESCRIPTION Lipnica Murowana  Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112%3a8181/lipowa/tracks-v1/mono.m3u8
+#DESCRIPTION Lipowa  widok z OSP tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112%3a8181/lipowa/index.m3u8
 #DESCRIPTION Lipowa tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/lubawka2/index.m3u8
-#DESCRIPTION Lubawka  Panorama tx \c00ffff00 ## 28.05.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/lubawka2/tracks-v1/mono.m3u8
+#DESCRIPTION Lubawka  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/lubkowo_przystan_wies_static.stream/chunklist_w69643376.m3u8
 #DESCRIPTION Lubkowo  Jezioro Żarnowieckie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream6.nadaje.com%3a36326/live/ZxL615.stream/chunklist_w219057199.m3u8
@@ -3670,7 +3748,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/lublin_cam_442bc7/lublin_cam_442bc7.stream/playlist.m3u8
 #DESCRIPTION Lublin  Marktplein tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/lublin/tracks-v1/mono.m3u8
-#DESCRIPTION Lublin  ul Turystyczna tx
+#DESCRIPTION Lublin  ul. Turystyczna tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/ladekzdroj_cam_da3f5d/ladekzdroj_cam_da3f5d.stream/chunks.m3u8
 #DESCRIPTION Lądek Zdrój  Ski 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/umlebork_cam_334171/umlebork_cam_334171.stream/chunks.m3u8
@@ -3679,16 +3757,22 @@
 #DESCRIPTION Malbork  Al Rodła  Mickiewicza tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Mainsoft_Plac_Slowianski/tracks-v1/mono.m3u8
 #DESCRIPTION Malbork  Al Rodła  Plac Słowiański tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Krakus_Rodla_17_Marca/tracks-v1/mono.m3u8
+#DESCRIPTION Malbork  Aleja Rodła / Marca tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Wojska_Polskiego_1/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Aleja Wojska Polskiego  DK  kierunek tx
+#DESCRIPTION Malbork  Aleja Wojska Polskiego  DK  kierunek Elbląg tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/MAT-POZ/tracks-v1/mono.m3u8
 #DESCRIPTION Malbork  Aleja Wojska Polskiego  Nogatowa  Kosz tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Dworzec_Taxi/tracks-v1/mono.m3u8
 #DESCRIPTION Malbork  Dworzec PKP  Rondo Przewodników Malborka tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//kamerki.malbork.pl/video/live-8.m3u8
+#DESCRIPTION Malbork  Lodowisko Miejskie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//kamerki.malbork.pl/video/live-4.m3u8
 #DESCRIPTION Malbork  Most nad rzeką Nogat tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Wiezowiec_Jasna/tracks-v1/mono.m3u8
 #DESCRIPTION Malbork  Panorama tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Wybickiego_strazpozarna/tracks-v1/mono.m3u8
+#DESCRIPTION Malbork  Państwowa Straż Pożarna tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Starostwo_urzad/tracks-v1/mono.m3u8
 #DESCRIPTION Malbork  Plac K Jagiellończyka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/przytans_malbork/tracks-v1/mono.m3u8
@@ -3703,6 +3787,10 @@
 #DESCRIPTION Malbork  Rzeka Nogat Stary Most tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//kamerki.malbork.pl/video/live-9.m3u8
 #DESCRIPTION Malbork  Skrzyżowanie DKz DK55 tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Zawisza/tracks-v1/mono.m3u8
+#DESCRIPTION Malbork  Skrzyżowanie Rodła  Mickiewicza tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Wybickiego_De_Gu_straz-pozarna/tracks-v1/mono.m3u8
+#DESCRIPTION Malbork  Skrzyżowanie z Wybickiego i Chodkiewicza tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls15.webcamera.pl/malbork_cam_0ffc99/malbork_cam_0ffc99.stream/playlist.m3u8
 #DESCRIPTION Malbork  Widok na zamek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Starostwo_wieza/tracks-v1/mono.m3u8
@@ -3713,6 +3801,12 @@
 #DESCRIPTION Malbork  ul Kościuszki tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Rydwan/tracks-v1/mono.m3u8
 #DESCRIPTION Malbork  ul WałowaBoczna tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_szymonka/tracks-v1/mono.m3u8
+#DESCRIPTION Marina Akademia Żeglarska Klub Mila tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_lester2/tracks-v1/mono.m3u8
+#DESCRIPTION Marina Lester Club tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/chlopy_cam_73ac3a/chlopy_cam_73ac3a.stream/chunks.m3u8
+#DESCRIPTION Mielno  Chłopy  Molo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/mielno_cam_0e2e7c/mielno_cam_0e2e7c.stream/chunks.m3u8
 #DESCRIPTION Mielno  Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/mielno_cam_0e2e7c/mielno_cam_0e2e7c.stream/playlist.m3u8
@@ -3737,10 +3831,14 @@
 #DESCRIPTION Miädzyzdroje plaza tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/gorazar_cam_3353f6/gorazar_cam_3353f6.stream/chunks.m3u8
 #DESCRIPTION Międzybrodzie Żywieckie  Góra Żar (dolna stacja) tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/gorazar_cam_2f2889/gorazar_cam_2f2889.stream/chunks.m3u8
+#DESCRIPTION Międzybrodzie Żywieckie  Góra Żar tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/jmiedzybrodzkie2/tracks-v1/mono.m3u8
 #DESCRIPTION Międzybrodzie Żywieckie  Jezioro Międzybrodzki tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/miedzylesie/tracks-v1/mono.m3u8
 #DESCRIPTION Międzylesie  Rynek tx \c00ffff00 ## 09.05.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/mwgmazury/tracks-v1/mono.m3u8
+#DESCRIPTION Międzynarodowy Wspólny Gołębnik Mazury tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream3.webcamera.pl/miedzywodzie_cam_6b6996/miedzywodzie_cam_6b6996.stream/chunks.m3u8
 #DESCRIPTION Międzywodzie  Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/apiconnect2_alejagwiazd/index.m3u8
@@ -3749,6 +3847,8 @@
 #DESCRIPTION Międzyzdroje  Aquamarina tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/apiconnect4_molo1/tracks-v1/mono.m3u8
 #DESCRIPTION Międzyzdroje  Molo plaża tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/miedzyzdroje_panorama/index.m3u8
+#DESCRIPTION Międzyzdroje  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/miedzyzdroje_cam_52898b/miedzyzdroje_cam_52898b.stream/chunks.m3u8
 #DESCRIPTION Międzyzdroje  Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/apiconnect2_alejagwiazd/tracks-v1/mono.m3u8
@@ -3757,26 +3857,20 @@
 #DESCRIPTION Międzyzdroje  Promenada Molo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/airnet_cam_4279f5/airnet_cam_4279f5.stream/playlist.m3u8
 #DESCRIPTION Mrzeäyno port 1 tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/mrzezyno_cam_905068/mrzezyno_cam_905068.stream/chunks.m3u8
-#DESCRIPTION Mrzeżyno  Plaża tx \c00ffff00 ## 28.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/mrzezyno_cam_9c9575/mrzezyno_cam_9c9575.stream/chunks.m3u8
 #DESCRIPTION Mrzeżyno  Plaża tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls15.webcamera.pl/mrzezyno_cam_905068/mrzezyno_cam_905068.stream/playlist.m3u8
-#DESCRIPTION Mrzeżyno Plaża tx \c00ffff00 ## 28.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/szklanagora_cam_3eccfd/szklanagora_cam_3eccfd.stream/chunks.m3u8
-#DESCRIPTION Myślenice  Harbutowice  Szklana Góra 2 tx
+#DESCRIPTION Myślenice  Harbutowice  Szklana Góra tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
+#DESCRIPTION Najpiękniejsze Polskie Plaże (playlista) tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_niegocin/tracks-v1/mono.m3u8
+#DESCRIPTION Nautica Marina tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/niechorzeplaza_cam_956637/niechorzeplaza_cam_956637.stream/chunks.m3u8
-#DESCRIPTION Niechorze  Plaża II tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls8.webcamera.pl/rewal_cam_003f77/rewal_cam_003f77.stream/playlist.m3u8
-#DESCRIPTION Niechorze  plaża tx
+#DESCRIPTION Niechorze  Plaża  tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/rewal_cam_003f77/rewal_cam_003f77.stream/playlist.m3u8
 #DESCRIPTION Niechorze tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hstream1.webcamera.pl/niedzica_cam_a6aff0/niedzica_cam_a6aff0.stream/playlist.m3u8
 #DESCRIPTION Niedzica  Jezioro i zamek w Czorsztynie tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/nowy-targ-county/niedzica.html
-#DESCRIPTION Niedzica sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/niemodlin2/tracks-v1/mono.m3u8
-#DESCRIPTION Niemodlin  Książęcy Zamek tx \c00ffff00 ## 21.04.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.hlg.com.pl/planty.m3u8
 #DESCRIPTION Nowa Dęba  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.238.55.4%3a5080/LiveApp/streams/357098515730062085695307.m3u8
@@ -3785,8 +3879,6 @@
 #DESCRIPTION Nowe Miasto Lubawskie  Kurzętnik  Ośrodek narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/ZOK_1/tracks-v1/mono.m3u8
 #DESCRIPTION Nowy Dwór Gdański  Plac przed Żuławskim Ośrokiem tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/ZOK_2/tracks-v1/mono.m3u8
-#DESCRIPTION Nowy Dwór Gdański  Plac za Żuławskim Ośrodkiem tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/NDG_urzad/tracks-v1/mono.m3u8
 #DESCRIPTION Nowy Dwór Gdański  ul Ernesta Wejhera tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/NDG_PKS/tracks-v1/mono.m3u8
@@ -3794,23 +3886,21 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Lososina_Dolna/index.m3u8
 #DESCRIPTION Nowy Sacz Łososina Dolna Lotnisko tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Kolegiata_NS/tracks-v1/mono.m3u8
-#DESCRIPTION Nowy Staw  Kolegiata Żuławska  ul Kościuszki tx
+#DESCRIPTION Nowy Staw  Kolegiata Żuławska  ul. Kościuszki tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//kamerki.malbork.pl/video/live-3.m3u8
 #DESCRIPTION Nowy Staw  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/cieniawa_cam_ad6e44/cieniawa_cam_ad6e44.stream/chunks.m3u8
 #DESCRIPTION Nowy Sącz  Cieniawa  Stok narciarski tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Grodek_Gmina/tracks-v1/mono.m3u8
+#DESCRIPTION Nowy Sącz  Gródek  Jezioro Rożnowskie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn.stream360.pl/ipcamstream360/AlarmService1/chunklist_w1803424601.m3u8
 #DESCRIPTION Nowy Sącz  Gródek nad Dunajcem  Jezioro Rożnowskie II tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Grodek_Gmina/tracks-v1/mono.m3u8
-#DESCRIPTION Nowy Sącz  Gródek nad Dunajcem Jezioro Rożnowskie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/nowy-sacz/streets.html
 #DESCRIPTION Nowy Sącz sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hstream1.webcamera.pl/nowytarg_cam_0f85a4/nowytarg_cam_0f85a4.stream/chunks.m3u8
 #DESCRIPTION Nowy Targ  Rynek tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//tvbrzesko.pl/CX3/tracks-v1/mono.m3u8
-#DESCRIPTION Okocim  Kościół tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//tvbrzesko.pl/CX4/tracks-v1/mono.m3u8
-#DESCRIPTION Okocim  Kościół tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream4.webcamera.pl/zadzial_cam_12a514/zadzial_cam_12a514.stream/chunks.m3u8
+#DESCRIPTION Nowy Targ  Zadział  Stok narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//tvbrzesko.pl/CX5/tracks-v1/mono.m3u8
 #DESCRIPTION Okocim  Kościół tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//tvbrzesko.pl/CX1/tracks-v1/mono.m3u8
@@ -3825,18 +3915,16 @@
 #DESCRIPTION Olsztyn  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream2.webcamera.pl/olsztyn_cam_b8151b/olsztyn_cam_b8151b.stream/playlist.m3u8
 #DESCRIPTION Olsztyn Słoneczna Polana tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/domecko2/tracks-v1/mono.m3u8
+#DESCRIPTION Opole  Domecko  Widok w kierunku Prószkowa tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/opolepanorama/tracks-v1/mono.m3u8
-#DESCRIPTION Opole  Panorama  Basen Błękitna Fala tx \c00ffff00 ## 27.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/turawa/tracks-v1/mono.m3u8
-#DESCRIPTION Opole  Turawa jezioro tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/tulowice/tracks-v1a1/mono.m3u8
-#DESCRIPTION Opole  Tułowice  Zespół Pałacowo Parkowy tx \c00ffff00 ## 09.05.26 OFF
+#DESCRIPTION Opole  Panorama  Basen Błękitna Fala tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/opole_cam_8b53d4/opole_cam_8b53d4.stream/playlist.m3u8
-#DESCRIPTION Opole tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/otmuchow3/tracks-v1/mono.m3u8
-#DESCRIPTION Otmuchów Kościół pw Św Mikołaja i Św Franciszka Ksawerego tx \c00ffff00 ## 22.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/otmuchow1/tracks-v1/mono.m3u8
-#DESCRIPTION Otmuchów Rynek tx \c00ffff00 ## 24.05.26 OFF
+#DESCRIPTION Opole  Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/turawa/tracks-v1/mono.m3u8
+#DESCRIPTION Opole  Turawa jezioro *4K* tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/systemri1/tracks-v1/mono.m3u8
+#DESCRIPTION Osieczna  Jezioro Łoniewskie *4K* tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/otmuchow2/tracks-v1/mono.m3u8
 #DESCRIPTION Otmuchów Rynek zamek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//live.kamera24.pl/umolawa/tracks-v1/mono.m3u8
@@ -3845,14 +3933,20 @@
 #DESCRIPTION Oświęcim Osiek Molo Resort tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/oswiecim_cam_f19b05/oswiecim_cam_f19b05.stream/chunks.m3u8
 #DESCRIPTION Oświęcim Rynek tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/paczkow/tracks-v1/mono.m3u8
-#DESCRIPTION Paczków Rynek tx \c00ffff00 ## 28.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/PIASKI_Glowne/tracks-v1/mono.m3u8
 #DESCRIPTION Piaski Sklep KONIK tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//online2.kamery24.org/cam/pilzno.m3u8
 #DESCRIPTION Pilzno  Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_pieknagora2/tracks-v1/mono.m3u8
+#DESCRIPTION Piękna Góra  Port Sailor tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_pieknybrzeg2/tracks-v1/mono.m3u8
+#DESCRIPTION Piękny Brzeg tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/koden/index.m3u8
 #DESCRIPTION Poland 1 tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//s1.worldcam.live%3a8081/mwgmazury/index.m3u8
+#DESCRIPTION Poland 13 tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/bacowka_gawel/index.m3u8
+#DESCRIPTION Poland 17 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/rabien/index.m3u8
 #DESCRIPTION Poland 3 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/mosir-elblag/index.m3u8
@@ -3861,20 +3955,22 @@
 #DESCRIPTION Poland 7 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//s1.worldcam.live%3a8081/rabien/index.m3u8
 #DESCRIPTION Poland 7a tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.elblag.net%3a18080/mosir/index.m3u8
-#DESCRIPTION Poland 8 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.kamera24.pl/umolawa/index.m3u8
 #DESCRIPTION Poland 8a tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/ciecina/index.m3u8
 #DESCRIPTION Poland 9 tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//s1.worldcam.live%3a8081/mwgmazury/index.m3u8
-#DESCRIPTION Poland 13 tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/bacowka_gawel/index.m3u8
-#DESCRIPTION Poland 17 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.238.55.4%3a5080/LiveApp/streams/316365458321580771001773.m3u8
 #DESCRIPTION Polanica Zdrój  Kościół tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/polanczyk_cam_aa8511/polanczyk_cam_aa8511.stream/chunks.m3u8
 #DESCRIPTION Polańczyk  Jezioro Solińskie II tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_ros1/tracks-v1/mono.m3u8
+#DESCRIPTION Port Euforia tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_wilkasy1/tracks-v1/mono.m3u8
+#DESCRIPTION Port PTTK tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_pieknagora1/tracks-v1/mono.m3u8
+#DESCRIPTION Port Sailor tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_staresady/tracks-v1/mono.m3u8
+#DESCRIPTION Port&Chillout Stare Sady tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/poznan_cam_a2ec1b/poznan_cam_a2ec1b.stream/chunks.m3u8
 #DESCRIPTION Poznań  Stary Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.prudnik.eu/kopabiskupia.m3u8
@@ -3882,29 +3978,39 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//streaming.prudnik.eu/Rynek.m3u8
 #DESCRIPTION Prudnik  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.prudnik.eu/piastowska.m3u8
-#DESCRIPTION Prudnik  Ul Piastowska tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.prudnik.eu/ratuszowa.m3u8
-#DESCRIPTION Prudnik  Ul Ratuszowa tx
+#DESCRIPTION Prudnik  Ul. Piastowska *4K* tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/01prusice/tracks-v1/mono.m3u8
-#DESCRIPTION Prusice Rynek Kościół pw św Jakuba Apostoła tx \c00ffff00 ## 22.05.26 OFF
+#DESCRIPTION Prusice  Rynek  Kościół pw. św. Jakuba Apostoła tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/02prusice/tracks-v1/mono.m3u8
+#DESCRIPTION Prusice  Rynek  ul. Ludowa tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//live.kamera24.pl/posir2/tracks-v1/mono.m3u8
 #DESCRIPTION Przemyśl  Stok narciarski  Stacja górna tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/brzyno_przystan_j_zarnowieckie_static.stream/chunklist_w62193867.m3u8
+#DESCRIPTION Puck  Brzyno  Jezioro Żarnowieckie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/gniezdzewo_rondo_obrotowa.stream/chunklist_w760292843.m3u8
 #DESCRIPTION Puck  Gnieżdżewo  Rondo tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/krokowa_rondo_obrotowa.stream/chunklist_w1283907358.m3u8
+#DESCRIPTION Puck  Krokowa  Rondo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/lubkowo_przystan_dps_obrotowa.stream/chunklist_w728414317.m3u8
 #DESCRIPTION Puck  Lubkowo  DPS Przystań tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/lubkowo_przystan_wies_static.stream/chunklist_w1085898377.m3u8
 #DESCRIPTION Puck  Lubkowo  Jezioro Żarnowieckie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/puck_molo_port_jachtowy_obrotowa.stream/chunklist_w1872608371.m3u8
 #DESCRIPTION Puck  Molo Port jachtowy tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/puck_molo_static.stream/chunklist_w1400657485.m3u8
+#DESCRIPTION Puck  Molo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/puck_stary_rynek_static.stream/chunklist_w868863369.m3u8
 #DESCRIPTION Puck  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/puck_wieza_kosciola_zatokapucka_obrotowa.stream/chunklist_w1363986708.m3u8
 #DESCRIPTION Puck Zatoka Pucka tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/bialogora_plaza_obrotowa.stream/chunklist_w1037696434.m3u8
+#DESCRIPTION PuckBiałogóra  Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/gminarewal_cam_95ef9b/gminarewal_cam_95ef9b.stream/playlist.m3u8
 #DESCRIPTION Pustkowo  Krzyż Nadziei tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn.stream360.pl/vigorcam/PyrzyceLive_aac/chunklist_w1719203165.m3u8
-#DESCRIPTION Pyrzyce  Panorama tx
+#DESCRIPTION Pyrzyce  Panorama miasta tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls1.webcamera.pl/pszow2_cam_4b93fa/pszow2_cam_4b93fa.stream/playlist.m3u8
+#DESCRIPTION Pyszów Lodowisko tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//video.raciborz24.pl/hls/straz_high/index.m3u8
 #DESCRIPTION Racibórz  Panorama 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//78.31.90.123/hls/polna.m3u8
@@ -3917,26 +4023,14 @@
 #DESCRIPTION Racibórz  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//video.raciborz24.pl/hls/strzybniczek_high/index.m3u8
 #DESCRIPTION Racibórz  Strzybniczek tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/raciborzstudzienna_krzyza/tracks-v1/mono.m3u8
-#DESCRIPTION Racibórz  Studzienna  Panorama tx \c00ffff00 ## 27.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//185.124.117.134%3a8080/hls/kam03.m3u8
 #DESCRIPTION Radków  Widok Urząd Gminy tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//media.radymno.org%3a8080/hls/stream9.m3u8
 #DESCRIPTION Radymno  EXTRA CARP 2 tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//media.radymno.org%3a8080/hls/stream4.m3u8
-#DESCRIPTION Radymno  Parafia tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//media.radymno.org%3a8080/hls/stream3.m3u8
 #DESCRIPTION Radymno  Rynek tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//media.radymno.org%3a8080/hls/stream10.m3u8
-#DESCRIPTION Radymno  SKT ZEK 2 tx \c00ffff00 ## 28.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//media.radymno.org%3a8080/hls/stream7.m3u8
-#DESCRIPTION Radymno  SKT ZEK tx \c00ffff00 ## 28.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//media.radymno.org%3a8080/hls/stream5.m3u8
-#DESCRIPTION Radymno  Zbiornik wodny ZEK 3 tx \c00ffff00 ## 28.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//media.radymno.org%3a8080/hls/stream1.m3u8
-#DESCRIPTION Radymno  Zbiornik wodny ZEK tx \c00ffff00 ## 28.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//media.radymno.org%3a8080/hls/stream2.m3u8
-#DESCRIPTION Radymno  Zbiornik wodny ZEK tx \c00ffff00 ## 28.05.26 OFF
+#DESCRIPTION Radymno  Zbiornik wodny ZEK tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/rajgrod/tracks-v1a1/mono.m3u8
 #DESCRIPTION Rajgród  Jezioro Rajgrodzkie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/rakoniewice_cam_e1c271/rakoniewice_cam_e1c271.stream/chunks.m3u8
@@ -3945,34 +4039,38 @@
 #DESCRIPTION Reda  Jara panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/reda_skrzyzowanie_pucka_k6_obrotowa.stream/chunklist_w1049386329.m3u8
 #DESCRIPTION Reda Skrzyżowanie tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/gminarewal_cam_a95d00/gminarewal_cam_a95d00.stream/chunks.m3u8
+#DESCRIPTION Rewal  Promenada tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls8.webcamera.pl/gminarewal_cam_a95d00/gminarewal_cam_a95d00.stream/playlist.m3u8
 #DESCRIPTION Rewal - Deptak tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/gminarewal_cam_95ef9b/gminarewal_cam_95ef9b.stream/playlist.m3u8
+#DESCRIPTION RewalPustkowo  Bałtycki Krzyż Nadziei tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls.r-ce.pl/Krzyz2.m3u8
-#DESCRIPTION Robczyce  Krzyż III Tysiaclecia Borki Chechelskie tx
+#DESCRIPTION Robczyce  Krzyż III Tysiaclecia Borki Chechelskie Galeria tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls.r-ce.pl/krzyzz.m3u8
-#DESCRIPTION Robczyce  Krzyż III Tysiaclecia Borki Chechelskie tx
+#DESCRIPTION Robczyce  Krzyż III Tysiaclecia Borki Chechelskie Wejście tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls.r-ce.pl/rynekk.m3u8
 #DESCRIPTION Robczyce  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_guziankaw1/tracks-v1/mono.m3u8
 #DESCRIPTION Ruciane Nida  Guzianka Wielka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_guziankaw2/tracks-v1/mono.m3u8
-#DESCRIPTION Ruciane Nida  Skarpa  Guzianka Wielka tx
+#DESCRIPTION RucianeNida  Skarpa  Guzianka Wielka tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/atvjet/tracks-v1/mono.m3u8
+#DESCRIPTION Rybnik  Jezioro Rybnickie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/kiczeraski_cam_82a692/kiczeraski_cam_82a692.stream/chunks.m3u8
 #DESCRIPTION Rymanów  Kiczera  Stok narciarski 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/kiczeraski_cam_73be2c/kiczeraski_cam_73be2c.stream/chunks.m3u8
 #DESCRIPTION Rymanów  Kiczera  Stok narciarski II tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/kiczeraski_cam_0b1dc1/kiczeraski_cam_0b1dc1.stream/chunks.m3u8
-#DESCRIPTION Rymanów  Kiczera  Stok narciarski tx \c00ffff00 ## 24.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/kiczeraski_cam_2b0ef4/kiczeraski_cam_2b0ef4.stream/chunks.m3u8
-#DESCRIPTION Rymanów  Kiczera  Stok narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/rymanow/tracks-v1a1/mono.m3u8
 #DESCRIPTION Rymanów  Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_ryn3/tracks-v1/mono.m3u8
+#DESCRIPTION Ryn  Ekomarina  Jezioro Ryńskie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/ryn_cam_540c92/ryn_cam_540c92.stream/chunks.m3u8
 #DESCRIPTION Ryn  Jezioro Ryńskie  Przystań żeglarska tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.profnet.com.pl%3a1936/liverec/nowyrynek.stream/playlist.m3u8
+#DESCRIPTION Rypin  Nowy Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.profnet.com.pl%3a1936/liverec/rondo.stream/chunklist_w815911512.m3u8
 #DESCRIPTION Rypin  Rondo tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112%3a80/rysianka1/index.m3u8
-#DESCRIPTION Rysianka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112%3a80/rysianka2/index.m3u8
 #DESCRIPTION Rysianka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls13.webcamera.pl/sopot_cam_7b9f92/sopot_cam_7b9f92.stream/chunks.m3u8
@@ -3983,8 +4081,6 @@
 #DESCRIPTION Sandomierz sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//str.metrosan.pl/basen.m3u8
 #DESCRIPTION Sanok  Basen tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//str.metrosan.pl/wierchy.m3u8
-#DESCRIPTION Sanok  Stadion sportowy tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//str.metrosan.pl/wierchy/hls/live.stream.m3u8
 #DESCRIPTION Sanok  Stadion sportowy tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/sarbinowo_cam_bd6ec8/sarbinowo_cam_bd6ec8.stream/chunks.m3u8
@@ -3992,11 +4088,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/sarbinowo_cam_bd6ec8/sarbinowo_cam_bd6ec8.stream/playlist.m3u8
 #DESCRIPTION Sarbinowo @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/umserock2/tracks-v1/mono.m3u8
-#DESCRIPTION Serock  Plaża tx \c00ffff00 ## 27.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/umserock1/tracks-v1/mono.m3u8
-#DESCRIPTION Serock  Rynek tx \c00ffff00 ## 27.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/siepraw_cam_f9c842/siepraw_cam_f9c842.stream/chunks.m3u8
-#DESCRIPTION Siepraw  Stok narciarski tx \c00ffff00 ## 27.05.26 OFF
+#DESCRIPTION Serock  Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/skala/tracks-v1/mono.m3u8
 #DESCRIPTION Skała  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/poronin/skisuche-stacja-narciarska.html
@@ -4004,71 +4096,77 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/skopanie/tracks-v1/mono.m3u8
 #DESCRIPTION Skopanie  Panorama miasta tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//37.131.166.52/Glinik-Remiza/tracks-v1/mono.m3u8
-#DESCRIPTION Skwierzyna  Glinik tx
+#DESCRIPTION Skwierzyna  Glinik plac zabaw tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//37.131.166.52/Lubikowo01/tracks-v1/mono.m3u8
-#DESCRIPTION Skwierzyna  Lubikowo plaża (okresowo) tx
+#DESCRIPTION Skwierzyna  Lubikowo plaża (okresowo).m3u8 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//37.131.166.52/Skwierzyna001/tracks-v1a1/mono.m3u8
 #DESCRIPTION Skwierzyna  Ratusz tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//37.131.166.52/SkwierzynaNS1/tracks-v1/mono.m3u8
 #DESCRIPTION Skwierzyna  Rzeka Warta tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//37.131.166.52/GlinikNS1/tracks-v1/mono.m3u8
-#DESCRIPTION Skwierzyna tx
+#DESCRIPTION Skwierzyna  widok północ Gorzów Wlkp tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/playlist.m3u8
+#DESCRIPTION Sopot  Molo II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
 #DESCRIPTION Sopot  Molo marina i plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/sopot_cam_7b9f92/sopot_cam_7b9f92.stream/chunks.m3u8
 #DESCRIPTION Sopot  Molo plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream2.webcamera.pl/sopot_cam_7b9f92/sopot_cam_7b9f92.stream/playlist.m3u8
 #DESCRIPTION Sopot  Monciak tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/sopot_plaza_male_molo_obrotowa.stream/chunklist_w1279333452.m3u8
+#DESCRIPTION Sopot  Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:rtmp%3a//kamera.task.gda.pl/rtplive playpath=molo.sdp swfUrl=http%3a//task.gda.pl/tech/uslugi/stream/kamera_player/player.swf?550 pageUrl=http%3a//www.task.gda.pl/uslugi/stream/kamera_sopot_molo live=1:Sopot%20-%20Molo%201%20+
 #DESCRIPTION Sopot - Molo 1 xx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/playlist.m3u8
-#DESCRIPTION Sopot - Molo 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/pomerania/sopot/sopot-beach.html
 #DESCRIPTION Sopot sx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/sopot_molo_meridian_obrotowa.stream/playlist.m3u8
+#DESCRIPTION SopotWidok z mola tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/spytkowice_cam_07050e/spytkowice_cam_07050e.stream/chunks.m3u8
+#DESCRIPTION Spytkowice  Stok narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/flisacy_cam_35a158/flisacy_cam_35a158.stream/playlist.m3u8
 #DESCRIPTION Spływ Dunajcem  Sromowce W tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//camsecure.co/HLS/tomasz.m3u8
-#DESCRIPTION Stalowa Wola  Turbia  Lotnisko tx \c00ffff00 ## 27.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/starachowice_cam_11ce7e/starachowice_cam_11ce7e.stream/chunks.m3u8
-#DESCRIPTION Starachowice  Skwer Halnego tx \c00ffff00 ## 28.05.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/flisacy_cam_35a158/flisacy_cam_35a158.stream/chunks.m3u8
+#DESCRIPTION Sromowce Wyżne  Przystań Flisacka tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Stegna_Klif/tracks-v1/mono.m3u8
+#DESCRIPTION Stegna  Klif pokoje w Stegnie przy plaży tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Stegna_Plaza_N/tracks-v1/mono.m3u8
 #DESCRIPTION Stegna  Morze Bałtyckie  Plaża tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/stegna_cam_c00d9b/stegna_cam_c00d9b.stream/chunks.m3u8
+#DESCRIPTION Stegna  Plaża tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Stegna_Plaza_Bulwar/tracks-v1/mono.m3u8
+#DESCRIPTION Stegna  Plaża: Bulwar Radiowej Jedynki tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Stegna_Live_urzad/tracks-v1/mono.m3u8
 #DESCRIPTION Stegna  Widok z Urzędu Gminy tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/czarnagora_cam_a8b6c4/czarnagora_cam_a8b6c4.stream/chunks.m3u8
-#DESCRIPTION Stronie Śląskie  Czarna Góra  Stok narciarski 6 tx \c00ffff00 ## 04.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/czarnagora_cam_a068a7/czarnagora_cam_a068a7.stream/chunks.m3u8
-#DESCRIPTION Stronie Śląskie  Czarna Góra  Stok narciarski II tx \c00ffff00 ## 04.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/czarnagora_cam_f9c7c1/czarnagora_cam_f9c7c1.stream/chunks.m3u8
-#DESCRIPTION Stronie Śląskie  Czarna Góra  Stok narciarski III tx \c00ffff00 ## 30.04.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/gsoftjg/tracks-v1/mono.m3u8
+#DESCRIPTION Stok narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//176.109.165.25%3a1935/live_cam/camera.stream/chunklist_w277417053.m3u8
 #DESCRIPTION Strzegom  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/strzelceopolskie/tracks-v1/mono.m3u8
-#DESCRIPTION Strzelce Opolskie  ul Marka Prawego tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/sulechow3/tracks-v1/mono.m3u8
-#DESCRIPTION Sulechów Panorama w kierunku południowym tx \c00ffff00 ## 25.05.26 OFF
+#DESCRIPTION Strzelce Opolskie  ul.Marka Prawego tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/sucha24_cam_ba962c/sucha24_cam_ba962c.stream/chunks.m3u8
+#DESCRIPTION Sucha Beskidzka  Rynek (obrotowa) tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/przyglow/tracks-v1/mono.m3u8
-#DESCRIPTION Sulejów  Przygłów  DK12 tx
+#DESCRIPTION Sulejów  Przygłów  DK.m3u8 tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/umsz/tracks-v1/mono.m3u8
+#DESCRIPTION SzczawnoZdrój  Góra Chełmiec *4K* tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/pazim2/index.m3u8
+#DESCRIPTION Szczecin  Aleja Wyzwolenia tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/lastadiabulwary/index.m3u8
 #DESCRIPTION Szczecin  Lastadia Bulwary tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/morzyczyn1/index.m3u8
 #DESCRIPTION Szczecin  Morzyczyn  Muszla tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/morzyczyn2/index.m3u8
+#DESCRIPTION Szczecin  Morzyczyn  Port tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/osreda/index.m3u8
 #DESCRIPTION Szczecin  Osiedle Reda tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/miedzyzdroje_panorama/index.m3u8
-#DESCRIPTION Szczecin  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/pazim1/index.m3u8
 #DESCRIPTION Szczecin  Pazim Plac Rodła tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/pazim2/index.m3u8
-#DESCRIPTION Szczecin  Pazim ul Wyzwolenia tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/sch/index.m3u8
 #DESCRIPTION Szczecin  Prawobrzeże  SCH tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/zuw/index.m3u8
-#DESCRIPTION Szczecin  Urząd Wojewódzki tx \c00ffff00 ## 17.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/cyryla/index.m3u8
-#DESCRIPTION Szczecin  ul Cyryla i Metodego tx
+#DESCRIPTION Szczecin  ul. Cyryla i Metodego tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream5.lantech.com.pl/hls/lasztownia/index.m3u8
-#DESCRIPTION Szczecin  Łasztownia  Marina tx
+#DESCRIPTION Szczecin  Łasztownia  Marina *4K* tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//play.gawex.pl/szczecinek/szczecinekdeptak.stream/chunklist_w1553781046.m3u8
 #DESCRIPTION Szczecinek  Deptak Ratusz tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//play.gawex.pl/szczecinek/szczecinekkoszalinska.stream/chunklist_w299100507.m3u8
@@ -4077,78 +4175,80 @@
 #DESCRIPTION Szczecinek  Strefa Aktywnego Wypoczynku tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//play.gawex.pl/szczecinek/wyciag.stream/chunklist_w1845596638.m3u8
 #DESCRIPTION Szczecinek  Wyciąg do nart wodnych tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/beskidsport_cam_df0e9e/beskidsport_cam_df0e9e.stream/chunks.m3u8
+#DESCRIPTION Szczyrk  Beskid Sport Arena  widok na dolną stację tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/beskidsport_cam_29875f/beskidsport_cam_29875f.stream/chunks.m3u8
 #DESCRIPTION Szczyrk  Beskid Sport Arena tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/beskidsport_cam_df0e9e/beskidsport_cam_df0e9e.stream/chunks.m3u8
-#DESCRIPTION Szczyrk  Beskid Sport Arena tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/cos_cam_877af9/cos_cam_877af9.stream/chunks.m3u8
-#DESCRIPTION Szczyrk  FIS tx
+#DESCRIPTION Szczyrk  FIS (obrotowa).m3u8 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/tmr_cam_fa206f/tmr_cam_fa206f.stream/chunks.m3u8
 #DESCRIPTION Szczyrk  Hala Pośrednia tx \c00ffff00 ## 21.04.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/tmr_cam_c488d9/tmr_cam_c488d9.stream/chunks.m3u8
 #DESCRIPTION Szczyrk  Hala Skrzyczeńska tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/tmr_cam_21195a/tmr_cam_21195a.stream/chunks.m3u8
-#DESCRIPTION Szczyrk  Solisko tx \c00ffff00 ## 21.04.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/tmr_cam_bbce85/tmr_cam_bbce85.stream/chunks.m3u8
 #DESCRIPTION Szczyrk  Zbójnicka Kopa tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/gsoftjg/tracks-v1/mono.m3u8
-#DESCRIPTION Szelment  Jezioro Szelment Wielki Stok narciarski tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_strzelce/tracks-v1/mono.m3u8
+#DESCRIPTION Szekla Camp Strzelce tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/szrenicka_cam_ae9568/szrenicka_cam_ae9568.stream/playlist.m3u8
 #DESCRIPTION Szklarska Poręba  Jural Sk tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/szprotawa1/tracks-v1/mono.m3u8
-#DESCRIPTION Szprotawa  Panorama miasta tx \c00ffff00 ## 09.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/szprotawa3/tracks-v1/mono.m3u8
-#DESCRIPTION Szprotawa  Rynek tx \c00ffff00 ## 09.05.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/szprotawa2/tracks-v1/mono.m3u8
+#DESCRIPTION Szprotawa  Skwer Jana Pawła II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Sztum_rondo_urzad/tracks-v1/mono.m3u8
 #DESCRIPTION Sztum  Rondo Pod Dębami tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Sztum_urzad_2/tracks-v1/mono.m3u8
-#DESCRIPTION Sztum  ul Adama Mickiewicza tx
+#DESCRIPTION Sztum  ul. Adama Mickiewicza tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Sztutowo_wydma/tracks-v1/mono.m3u8
+#DESCRIPTION Sztutowo  plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
 #DESCRIPTION TV Cam tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/rogowo_cam_c81371/rogowo_cam_c81371.stream/chunks.m3u8
+#DESCRIPTION Trzebiatów  Rogowo  Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Tegoborze/tracks-v1/mono.m3u8
 #DESCRIPTION Tęgoborze  ul św Floriana tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112%3a80/ujsoly/index.m3u8
 #DESCRIPTION Ujsoly tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/ustka_cam_4b0fca/ustka_cam_4b0fca.stream/chunks.m3u8
-#DESCRIPTION Ustka  Plaża Port latarnia morska tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//kamery.kol-net.pl%3a5443/HIKVISION/streams/va1O3NovRl1W1669376597373.m3u8:Uniejów  Termy
+#DESCRIPTION Uniejów  Termy
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/podrycerzemustka/tracks-v1a1/mono.m3u8
+#DESCRIPTION Ustka  ul.Chopina  Pod Rycerzem tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/ustka_cam_4feffd/ustka_cam_4feffd.stream/playlist.m3u8
-#DESCRIPTION Ustka plaza tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/umustronie_cam_8305a4/umustronie_cam_8305a4.stream/chunks.m3u8
-#DESCRIPTION Ustronie Morskie  Plaża tx
+#DESCRIPTION Ustka plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//play.gawex.pl/ustroniemorskie/ustronienaklifie.stream/chunklist_w1750453033.m3u8
-#DESCRIPTION Ustronie Morskie  Plaża tx
+#DESCRIPTION Ustronie Morskie  Plaża (gawex) tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/umustronie_cam_8305a4/umustronie_cam_8305a4.stream/chunks.m3u8
+#DESCRIPTION Ustronie Morskie  Plaża (obrotowa) tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/umustronie_cam_8305a4/umustronie_cam_8305a4.stream/playlist.m3u8
 #DESCRIPTION Ustronie Morskie plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//194.177.28.70%3a1935/live/stream/czantoria001.stream/chunklist_w279970943.m3u8
-#DESCRIPTION Ustroń  Czantoria II tx
+#DESCRIPTION Ustroń  Czantoria  wyciąg orczykowy „Faturka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//194.177.28.70%3a1935/live/stream/czantoria002.stream/chunklist_w1912781520.m3u8
-#DESCRIPTION Ustroń  Czantoria tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/poniwiec_cam_f8436f/poniwiec_cam_f8436f.stream/chunks.m3u8
-#DESCRIPTION Ustroń  Poniwiec  Stok narciarski tx \c00ffff00 ## 28.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/nocowanie_cam_a470d8/nocowanie_cam_a470d8.stream/playlist.m3u8
-#DESCRIPTION Ustroń - Rynek tx
+#DESCRIPTION Ustroń  Czantoria  wyciąg talerzykowy „Stokłosica” tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/nocowanie_cam_a470d8/nocowanie_cam_a470d8.stream/chunks.m3u8
+#DESCRIPTION Ustroń  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//streaming.ustrzyki-dolne.pl%3a60554/live/mp4%3aKamera_Deby.stream/chunklist_w1586820552.m3u8
 #DESCRIPTION Ustrzyki Dolne  Park pod Dębami tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//streaming.ustrzyki-dolne.pl%3a60554/live/mp4%3aKamera_Rynek2.stream/chunklist_w574170832.m3u8
 #DESCRIPTION Ustrzyki Dolne  Rynek II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//streaming.ustrzyki-dolne.pl%3a60554/live/mp4%3aKamera_Rynek.stream/chunklist_w2040157373.m3u8
 #DESCRIPTION Ustrzyki Dolne  Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.transmi.to/rtplive/carynust.stream/chunklist_w1762096024.m3u8
+#DESCRIPTION Ustrzyki Górne  Terebowiec tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream2.webcamera.pl/witanowice_cam_09d640/witanowice_cam_09d640.stream/playlist.m3u8
-#DESCRIPTION Wadowice  Kościół pw św Mikołaja tx
+#DESCRIPTION Wadowice Kościół pw. św. Mikołaja tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream2.webcamera.pl/warszawa_cam_d0fc4d/warszawa_cam_d0fc4d.stream/playlist.m3u8
 #DESCRIPTION Warszawa  Pałac Kultury i Nauki tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/warszawa_cam_5f3b1a/warszawa_cam_5f3b1a.stream/chunks.m3u8
 #DESCRIPTION Warszawa  Plac Zamkowy tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/warszawa_cam_78f5e6/warszawa_cam_78f5e6.stream/chunks.m3u8
-#DESCRIPTION Warszawa  Rynek Starego Miasta tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/warszawa_cam_f2b95c/warszawa_cam_f2b95c.stream/playlist.m3u8
 #DESCRIPTION Warszawa  Stadion Narodowy tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/chunks.m3u8
+#DESCRIPTION Wawel tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/walbrzychpa/tracks-v1/mono.m3u8
 #DESCRIPTION Wałbrzych  Plac Na Rozdrożu tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/jarko/tracks-v1/mono.m3u8
-#DESCRIPTION Wałbrzych  Rzeczka  Stok narciarski 2 tx \c00ffff00 ## 24.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/wdzydze_cam_8d77ee/wdzydze_cam_8d77ee.stream/playlist.m3u8
 #DESCRIPTION Wdzydze Kiszewskie tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/bolszewo_skrzyzowanie_k6_zamostna_static.stream/chunklist_w1471584037.m3u8
+#DESCRIPTION Wejherowo  Bolszewo  ul. Zamostna tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/bolszewo_skrzyzowanie_k6_zamostna_static.stream/playlist.m3u8
 #DESCRIPTION Wejherowo  Bolszewo Skrzyżowanie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/um_wejherowo_cam_85442c/um_wejherowo_cam_85442c.stream/chunks.m3u8
@@ -4167,18 +4267,18 @@
 #DESCRIPTION Wejherowo Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/wejherowo_plac_jakuba_obrotowa.stream/playlist.m3u8
 #DESCRIPTION Wejherowo Plac Jakuba Wejhera tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/wejherowo_rynek_fontanna_obrotowa.stream/playlist.m3u8
-#DESCRIPTION Wejherowo Plac Wejhera Fontanna tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/um_wejherowo_cam_47c4b7/um_wejherowo_cam_47c4b7.stream/playlist.m3u8
 #DESCRIPTION Wejherowo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/wejherowo_skrzyzowanie_rybacka_k6_static.stream/playlist.m3u8
 #DESCRIPTION Wejherowo ul Rybacka tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/wejherowo_skrzyzowanie_orzeszkowej_k6_static.stream/playlist.m3u8
+#DESCRIPTION Wejherowoul. Orzeszkowej tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112%3a80/wgwidok/index.m3u8
 #DESCRIPTION Widok tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/wierzchoslawice/wierzchoslawice-rondo.html
 #DESCRIPTION Wierzchosławice sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/wiezyca_cam_b79e09/wiezyca_cam_b79e09.stream/playlist.m3u8
-#DESCRIPTION Wieäyca stok tx
+#DESCRIPTION Wieżyca stok tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/wiezyca_cam_64129e/wiezyca_cam_64129e.stream/playlist.m3u8
 #DESCRIPTION Wieżyca tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/cienkow_cam_aaa4dd/cienkow_cam_aaa4dd.stream/chunks.m3u8
@@ -4187,80 +4287,70 @@
 #DESCRIPTION Wisła  Deptak tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/wisla_cam_3d639c/wisla_cam_3d639c.stream/chunks.m3u8
 #DESCRIPTION Wisła  Malinka  Skocznia tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/nowaosada_cam_92b220/nowaosada_cam_92b220.stream/chunks.m3u8
+#DESCRIPTION Wisła  Nowa Osada  Stacja pośrednia tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream3.webcamera.pl/hotelstok_cam_96120f/hotelstok_cam_96120f.stream/chunks.m3u8
 #DESCRIPTION Wisła  STOK  Stacja Narciarska 3 tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/hotelstok_cam_77f104/hotelstok_cam_77f104.stream/chunks.m3u8
-#DESCRIPTION Wisła  STOK  Stacja narciarska tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/wisla-soszow_cam_9d29ac/wisla-soszow_cam_9d29ac.stream/chunks.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/skolnity_cam_160b81/skolnity_cam_160b81.stream/chunks.m3u8
+#DESCRIPTION Wisła  Skolnity  Wyciąg narciarski tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/skolnity_cam_6cbbe6/skolnity_cam_6cbbe6.stream/chunks.m3u8
+#DESCRIPTION Wisła  Skolnity ski  widok z górnej stacji tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/wisla-soszow_cam_c01d70/wisla-soszow_cam_c01d70.stream/chunks.m3u8
 #DESCRIPTION Wisła  Stacja Narciarska Soszów tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/skorzecin/tracks-v1/mono.m3u8
 #DESCRIPTION Witkowo Skorzęcin Jezioro Niedzięgiel tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//188.137.113.170/hls/rynek/index.m3u8
 #DESCRIPTION Wodzisław Śląski  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//188.137.113.170/hls/kubsza/index.m3u8
-#DESCRIPTION Wodzisław Śląski  ul Kubsza tx
+#DESCRIPTION Wodzisław Śląski  ul. Kubsza tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/wolbrom/tracks-v1/mono.m3u8
+#DESCRIPTION Wolbrom  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/wolborz/tracks-v1/mono.m3u8
 #DESCRIPTION Wolbórz  Plac Władysława Jagiełły tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/dlugoleka2/tracks-v1/mono.m3u8
-#DESCRIPTION Wrocław  Długołęka  Panorama tx \c00ffff00 ## 09.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/dlugoleka1/tracks-v1/mono.m3u8
 #DESCRIPTION Wrocław  Kościół tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/wroclawpanorama/tracks-v1/mono.m3u8
 #DESCRIPTION Wrocław  Panorama 3 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/wroclaw_fabryczna_panorama/tracks-v1/mono.m3u8
-#DESCRIPTION Wrocław  Panorama tx
+#DESCRIPTION Wrocław  Panorama ul. Fabryczna tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/playlist.m3u8
+#DESCRIPTION Wrocław  Stare Miasto tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/05umigwrzesnia/tracks-v1/mono.m3u8
 #DESCRIPTION Września  Rondo 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/04umigwrzesnia/tracks-v1/mono.m3u8
 #DESCRIPTION Września  Rondo tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/03umigwrzesnia/tracks-v1/mono.m3u8
-#DESCRIPTION Września  Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/wschowa3/tracks-v1/mono.m3u8
+#DESCRIPTION Wschowa  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/obrotowa_chhuta/tracks-v1/mono.m3u8
 #DESCRIPTION Węgierska Górka  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112/pumptrack/tracks-v1/mono.m3u8
-#DESCRIPTION Węgierska Górka  Pumptrack tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/pumptrack/tracks-v1/mono.m3u8
 #DESCRIPTION Węgierska Górka  Pumptrack tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/wgrondo/tracks-v1/mono.m3u8
 #DESCRIPTION Węgierska Górka  Rondo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/TSMetalWG/tracks-v1/mono.m3u8
 #DESCRIPTION Węgierska Górka  Stadion TS METAL tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112/zielona_kosciuszki/tracks-v1/mono.m3u8
-#DESCRIPTION Węgierska Górka  ul Zielona tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/zielona_kosciuszki/tracks-v1/mono.m3u8
-#DESCRIPTION Węgierska Górka  ul Zielona tx
+#DESCRIPTION Węgierska Górka  ul. Zielona tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_pieknagora3/tracks-v1/mono.m3u8
 #DESCRIPTION Węgorzewo  Basen portowy Sailor jezioro Kisajno tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_sonata/tracks-v1/mono.m3u8
 #DESCRIPTION Węgorzewo  Harsz  Kemping Sonata tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_harsz/tracks-v1/mono.m3u8
 #DESCRIPTION Węgorzewo  Harsz  Przystań U Henia tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_szymonka/tracks-v1/mono.m3u8
-#DESCRIPTION Węgorzewo  Jezioro Bełdany II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_mila1/tracks-v1/mono.m3u8
 #DESCRIPTION Węgorzewo  Jezioro Bełdany tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_bogaczewo/tracks-v1/mono.m3u8
 #DESCRIPTION Węgorzewo  Jezioro Boczne II tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_lester2/tracks-v1/mono.m3u8
-#DESCRIPTION Węgorzewo  Jezioro Boczne Marina Lester Club tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_mamrymix2/tracks-v1/mono.m3u8
 #DESCRIPTION Węgorzewo  Jezioro Mamry tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_strzelce/tracks-v1/mono.m3u8
-#DESCRIPTION Węgorzewo  Jezioro Niegocin Szekla Camp Strzelce tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_rydzewo1/tracks-v1/mono.m3u8
 #DESCRIPTION Węgorzewo  Jezioro Niegocin marina Lester Club tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_niegocin/tracks-v1/mono.m3u8
-#DESCRIPTION Węgorzewo  Jezioro Niegocin tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_ryn2/tracks-v1/mono.m3u8
 #DESCRIPTION Węgorzewo  Jezioro Ryńskie port Bocianie Gniazdo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_mila2/tracks-v1/mono.m3u8
 #DESCRIPTION Węgorzewo  Jezioro Szymoneckie przystań Szymonka tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_staresady/tracks-v1/mono.m3u8
-#DESCRIPTION Węgorzewo  Jezioro Tałty Port&Chillout Stare Sady tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_pieknybrzeg1/tracks-v1/mono.m3u8
 #DESCRIPTION Węgorzewo  Jezioro Święcajty Piękny Brzeg tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_pieknybrzeg2/tracks-v1/mono.m3u8
-#DESCRIPTION Węgorzewo  Jezioro Święcajty tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_nowyharsz1/tracks-v1/mono.m3u8
 #DESCRIPTION Węgorzewo  Nowy Harsz  Jezioro Dargin 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_nowyharsz/tracks-v1/mono.m3u8
@@ -4273,10 +4363,16 @@
 #DESCRIPTION Węgorzewo  Sztynort  Jezioro Sztynorckie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/wladyslawowo_aleja_gwiazd.stream/playlist.m3u8
 #DESCRIPTION Władysławowo  Aleja Gwiazd Sportu tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/wladyslawowo_cam_459a14/wladyslawowo_cam_459a14.stream/playlist.m3u8
+#DESCRIPTION Władysławowo  Chałupy  Plaża tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/chalupy_molo_obrotowa.stream/chunklist_w312814460.m3u8
+#DESCRIPTION Władysławowo  Chałupy  Przystań tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/wladyslawowo_kemping_male_morze_molo_obrotowa.stream/playlist.m3u8
 #DESCRIPTION Władysławowo  Małe Morze tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/wladyslawowo_plaza_obrotowa.stream/playlist.m3u8
 #DESCRIPTION Władysławowo  Plaża II tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/wladyslawowo_cam_459a14/wladyslawowo_cam_459a14.stream/chunks.m3u8
+#DESCRIPTION Władysławowo  Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/wladyslawowo_port_nabrzeze_static.stream/playlist.m3u8
 #DESCRIPTION Władysławowo  Port tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/wladyslawowo_widok_na_polwysep_helski_z_wiezy_static.stream/playlist.m3u8
@@ -4289,8 +4385,6 @@
 #DESCRIPTION Włodawa  Okuninka  Jezioro Białe tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hstream1.webcamera.pl/dab-bartek_cam_187c42/dab-bartek_cam_187c42.stream/chunks.m3u8
 #DESCRIPTION Zagnansk Dab Bartek  ( niedaleko Kielc) tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls8.webcamera.pl/dab-bartek_cam_187c42/dab-bartek_cam_187c42.stream/playlist.m3u8
-#DESCRIPTION Zagnansk Dąb Bartek  Najstarszy dąb w Polsce tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/dab-bartek_cam_187c42/dab-bartek_cam_187c42.stream/playlist.m3u8
 #DESCRIPTION Zagnansk Dąb Bartek  Najstarszy dąb w Polsce tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Luslawice_ECM/tracks-v1/mono.m3u8
@@ -4299,54 +4393,50 @@
 #DESCRIPTION Zakliczyn  Melsztyn  Widok na Dunajec z Ruin Zamku tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Zakliczyn_Rondo/tracks-v1/mono.m3u8
 #DESCRIPTION Zakliczyn  Rondo tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Zakliczyn_Rynek/tracks-v1/mono.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Zakliczyn_Rynek_3/tracks-v1/mono.m3u8
 #DESCRIPTION Zakliczyn  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Zakliczyn_Rynek2/tracks-v1/mono.m3u8
 #DESCRIPTION Zakliczyn Rynek 2 tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Zakliczyn_Rynek_3/tracks-v1/mono.m3u8
-#DESCRIPTION Zakliczyn Rynek 3 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Zakliczyn_Stadion/tracks-v1/mono.m3u8
 #DESCRIPTION Zakliczyn Stadion LKS Dunajec tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls8.webcamera.pl/pkl_cam_c9ee88/pkl_cam_c9ee88.stream/playlist.m3u8
+#DESCRIPTION Zakopane  Kasprowy Hala Gąsienicowa tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/zakopane_cam_cd5b2d/zakopane_cam_cd5b2d.stream/chunks.m3u8
+#DESCRIPTION Zakopane  Krupówki środkowe tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/pkl_cam_473633/pkl_cam_473633.stream/chunks.m3u8
+#DESCRIPTION Zakopane  Kuźnice  Dolna stacja kolejki na Kasprowy Wierch tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/maleciche_cam_46a963/maleciche_cam_46a963.stream/chunks.m3u8
+#DESCRIPTION Zakopane  Stacja Narciarska  Małe Ciche  Górna Stacja tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/maleciche_cam_76acbe/maleciche_cam_76acbe.stream/chunks.m3u8
+#DESCRIPTION Zakopane  Stacja Narciarska  Małe Ciche  Kolej Krzesełkowa tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/maleciche_cam_ab9e0d/maleciche_cam_ab9e0d.stream/chunks.m3u8
+#DESCRIPTION Zakopane  Stacja Narciarska  Małe Ciche  Punkt widokowy tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/maleciche_cam_779cbc/maleciche_cam_779cbc.stream/chunks.m3u8
+#DESCRIPTION Zakopane  Stacja Narciarska  Małe Ciche tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/skisuche_cam_ac936c/skisuche_cam_ac936c.stream/chunks.m3u8
+#DESCRIPTION Zakopane  Suche  Stok narciarski  Dolna stacja tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/wielka-krokiew_cam_4adb77/wielka-krokiew_cam_4adb77.stream/chunks.m3u8
+#DESCRIPTION Zakopane  Wielka Krokiew tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/skywind_cam_0e8c2a/skywind_cam_0e8c2a.stream/chunks.m3u8
+#DESCRIPTION Zakopane  Witów  Stok narciarski  dolna stacja tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream2.webcamera.pl/krupowki2_cam_305cd7/krupowki2_cam_305cd7.stream/playlist.m3u8
 #DESCRIPTION Zakopane Dolna stacja kolejki na Gubałówkę tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls8.webcamera.pl/pkl_cam_c9ee88/pkl_cam_c9ee88.stream/playlist.m3u8
-#DESCRIPTION Zakopane Kasprowy Hala Gąsienicowa @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/pkl_cam_fa9db5/pkl_cam_fa9db5.stream/chunks.m3u8
 #DESCRIPTION Zakopane Kasprowy Wierch II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/pkl_cam_419293/pkl_cam_419293.stream/chunks.m3u8
 #DESCRIPTION Zakopane Kasprowy Wierch III tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/pkl_cam_823d20/pkl_cam_823d20.stream/chunks.m3u8
 #DESCRIPTION Zakopane Kasprowy Wierch IV tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls13.webcamera.pl/pkl_cam_72b29d/pkl_cam_72b29d.stream/playlist.m3u8
-#DESCRIPTION Zakopane Kasprowy Wierch tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/pkl_cam_c9ee88/pkl_cam_c9ee88.stream/chunks.m3u8
 #DESCRIPTION Zakopane Kasprowy Wierch tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/zakopane_cam_cd5b2d/zakopane_cam_cd5b2d.stream/chunks.m3u8
-#DESCRIPTION Zakopane Krupówki środkowe tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/maleciche_cam_76acbe/maleciche_cam_76acbe.stream/chunks.m3u8
-#DESCRIPTION Zakopane Stacja narciarska Małe Ciche  Kolej krzesełkowa tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/maleciche_cam_46a963/maleciche_cam_46a963.stream/chunks.m3u8
-#DESCRIPTION Zakopane Stacja narciarska Małe Ciche II tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/maleciche_cam_ab9e0d/maleciche_cam_ab9e0d.stream/chunks.m3u8
-#DESCRIPTION Zakopane Stacja narciarska Małe Ciche Punkt widokowy tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/maleciche_cam_779cbc/maleciche_cam_779cbc.stream/chunks.m3u8
-#DESCRIPTION Zakopane Stacja narciarska Małe Ciche tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/skisuche_cam_ac936c/skisuche_cam_ac936c.stream/chunks.m3u8
-#DESCRIPTION Zakopane Suche Stok narciarski Dolna stacja tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/jedrol_cam_fc279f/jedrol_cam_fc279f.stream/chunks.m3u8
-#DESCRIPTION Zakopane Suche Stok narciarski Dyzio tx \c00ffff00 ## 05.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/wielka-krokiew_cam_4adb77/wielka-krokiew_cam_4adb77.stream/chunks.m3u8
-#DESCRIPTION Zakopane Wielka Krokiew tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/skywind_cam_0e8c2a/skywind_cam_0e8c2a.stream/chunks.m3u8
-#DESCRIPTION Zakopane Witów Stok narciarski dolna stacja tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hstream2.webcamera.pl/poreba_cam_e71a81/poreba_cam_e71a81.stream/chunks.m3u8
+#DESCRIPTION Zalew Świnna Poręba tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/zamosc_cam_7cc632/zamosc_cam_7cc632.stream/chunks.m3u8
 #DESCRIPTION Zamość  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/pkl_cam_24d5c8/pkl_cam_24d5c8.stream/chunks.m3u8
-#DESCRIPTION Zawoja  Mosorny Groń II tx \c00ffff00 ## 28.05.26 OFF
+#DESCRIPTION Zawoja  Mosorny Groń tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/beskidzkiraj_cam_e512d7/beskidzkiraj_cam_e512d7.stream/chunks.m3u8
 #DESCRIPTION Zawoja  Stryszawa  Beskidy tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/zegrzynskie/tracks-v1/mono.m3u8
-#DESCRIPTION Zegrze  Jezioro tx \c00ffff00 ## 24.04.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/zgierzlive2/index.m3u8
 #DESCRIPTION Zgierz  Osiedle  Staffa  Droga S14 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/zgierzlive2/tracks-v1/mono.m3u8
@@ -4364,13 +4454,17 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/zielonagora_cam_ed9042/zielonagora_cam_ed9042.stream/chunks.m3u8
 #DESCRIPTION Zielona Góra  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/henrykow_panorama/tracks-v1/mono.m3u8
-#DESCRIPTION Ziębice  Henryków  Opactwo Cystersów tx \c00ffff00 ## 27.05.26 OFF
+#DESCRIPTION Ziębice  Henryków  Opactwo Cystersów tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/zab-potoczki_cam_1145be/zab-potoczki_cam_1145be.stream/chunks.m3u8
 #DESCRIPTION Ząb  Ośrodek narciarski Potoczki tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/lozabkowice/tracks-v1/mono.m3u8
-#DESCRIPTION Ząbkowice Śląskie  Panorama tx \c00ffff00 ## 28.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/umzlotow/tracks-v1/mono.m3u8
-#DESCRIPTION Złotów  Plac Stycznia  Rondo tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/willa_cam_922439/willa_cam_922439.stream/chunks.m3u8
+#DESCRIPTION Ząb  Panorama Zakopanego oraz Tatr tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_azswilkasy1/tracks-v1/mono.m3u8
+#DESCRIPTION Basen portowy AZS Wilkasy tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_kal1/tracks-v1/mono.m3u8
+#DESCRIPTION Port Unia  Niebieska Tawerna tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Sztutowo_urzad_/tracks-v1/mono.m3u8
+#DESCRIPTION Ul. Gdańska tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mat-sat.pl/str/zamek.m3u8
 #DESCRIPTION Łańcut  Zamek Lubomirskich tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/leba_cam_0d3c03/leba_cam_0d3c03.stream/playlist.m3u8
@@ -4379,42 +4473,40 @@
 #DESCRIPTION Łeba  Widok na plażę z Hotelu Neptun tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/rybno_cam_1bbabb/rybno_cam_1bbabb.stream/chunks.m3u8
 #DESCRIPTION Łomża  Rybno  Stok narciarski tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Lososina_Dolna/tracks-v1/mono.m3u8
+#DESCRIPTION Łososina Dolna  Lotnisko Aeroklub Podhalański tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//109.196.152.7%3a8081/kamsr/kamera1/chunks.m3u8
 #DESCRIPTION Łowicz  Stary Rynek tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/lukow/tracks-v1/mono.m3u8
+#DESCRIPTION Łuków  ul. Przemysłowa tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/lodz-voivodeship/lodz/lodz.html
 #DESCRIPTION Łódź sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/sroda_panorama/tracks-v1/mono.m3u8
-#DESCRIPTION Środa Śląska  Plac Wolności tx \c00ffff00 ## 27.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/02swidnica/tracks-v1/mono.m3u8
-#DESCRIPTION Świdnica  Panorama tx \c00ffff00 ## 28.05.26 OFF
+#DESCRIPTION Świdnica  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/swidnik/tracks-v1a1/mono.m3u8
 #DESCRIPTION Świdnik  Plac Konstytucji Maja tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/swidnik2/tracks-v1/mono.m3u8
 #DESCRIPTION Świdnik  Pupmtrack i Skatepark tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/swidnik3/tracks-v1/mono.m3u8
 #DESCRIPTION Świdnik  Rondo tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112/swinna2/tracks-v1/mono.m3u8
-#DESCRIPTION Świnna  Centrum  Kierunek Żywiec tx \c00ffff00 ## 22.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112/swinna/tracks-v1/mono.m3u8
 #DESCRIPTION Świnna  ul Żywiecka tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/swinoujscie_cam_3be0ba/swinoujscie_cam_3be0ba.stream/chunks.m3u8
+#DESCRIPTION Świnoujście  Plaża (obrotowa) tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/swinoujscie_cam_7eca1e/swinoujscie_cam_7eca1e.stream/chunks.m3u8
 #DESCRIPTION Świnoujście  Plaża II tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/swinoujscie_cam_3be0ba/swinoujscie_cam_3be0ba.stream/chunks.m3u8
-#DESCRIPTION Świnoujście  Plaża III tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/zary_cam_3f70e5/zary_cam_3f70e5.stream/chunks.m3u8
-#DESCRIPTION Żary  Rynek  ul Bolesława Chrobrego tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/cisiec/tracks-v1/mono.m3u8
-#DESCRIPTION Żywiec  Cisiec  Kościół   DK69 tx
+#DESCRIPTION Żary  Rynek  ul. Bolesława Chrobrego tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/zabnica/tracks-v1/mono.m3u8
+#DESCRIPTION Żywiec   Żabnica  ul. Śmiecha  tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112/xxx_wyciag_II/tracks-v1/mono.m3u8
 #DESCRIPTION Żywiec  Cisiec  Wyciąg Narciarski Za Groniem II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.224.104.112/xxx_wyciag_III/tracks-v1/mono.m3u8
-#DESCRIPTION Żywiec  Cisiec  Wyciąg narciarski za Groniem III tx
+#DESCRIPTION Żywiec  Cisiec  Wyciąg Narciarski Za Groniem tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/juszczyna/tracks-v1/mono.m3u8
 #DESCRIPTION Żywiec  Juszczyna  ul Widokowa tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/lipowa/tracks-v1/mono.m3u8
 #DESCRIPTION Żywiec  Lipowa  OSP tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/zywiec_tower/tracks-v1/mono.m3u8
-#DESCRIPTION Żywiec  Panorama tx \c00ffff00 ## 25.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/rajcza/tracks-v1/mono.m3u8
 #DESCRIPTION Żywiec  Rajcza  Centrum tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/zywiec_cam_f0027b/zywiec_cam_f0027b.stream/chunks.m3u8
@@ -4425,14 +4517,16 @@
 #DESCRIPTION Żywiec  Ujsoły  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/bacowka_gawel/tracks-v1/mono.m3u8
 #DESCRIPTION Żywiec  Węgierska Górka  Bacówka na Bukowinie tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/wgjaz/tracks-v1/mono.m3u8
+#DESCRIPTION Żywiec  Węgierska Górka  Bulwary i jaz na Sole tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/pumptrack/tracks-v1/mono.m3u8
+#DESCRIPTION Żywiec  Węgierska Górka  Pumptrack tx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/zielona_kosciuszki/tracks-v1/mono.m3u8
+#DESCRIPTION Żywiec  Węgierska Górka  ul. Zielona tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/zarzecze_cam_242439/zarzecze_cam_242439.stream/chunks.m3u8
 #DESCRIPTION Żywiec  Zarzecze  Jezioro Żywieckie tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/swinna2/tracks-v1/mono.m3u8
-#DESCRIPTION Żywiec  Świnna  Centrum tx \c00ffff00 ## 22.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/swinna/tracks-v1/mono.m3u8
-#DESCRIPTION Żywiec  Świnna  ul Żywiecka tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/zabnica/tracks-v1/mono.m3u8
-#DESCRIPTION Żywiec  Żabnica  ul Śmiecha tx
+#DESCRIPTION Żywiec  Świnna  ul. Żywiecka tx
 #SERVICE 1:64:38:0:0:0:0:0:0:0::=== Portugal ===
 #DESCRIPTION === Portugal ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/portugal/algarve/faro/faro-portugal.html
@@ -5655,6 +5749,14 @@
 #DESCRIPTION Poland Cities @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=W3Y2T66t--Y
 #DESCRIPTION Poland Mountains @@
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=VbDwJxGlZ5k
+#DESCRIPTION Portugal Lisbon @
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=f6D3Zq6J5A8
+#DESCRIPTION Portugal Madeira Island @
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=LSR8zU4uVv0
+#DESCRIPTION Portugal Madeira Island 2 @
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=45wxTsNFPXw
+#DESCRIPTION Portugal Porto @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=tHf8xbUNlTU
 #DESCRIPTION Russia @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=fUsJZTHeZn4
@@ -5685,6 +5787,8 @@
 #DESCRIPTION Switzerland Hotel Basel
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=QIt1FaDMnQc
 #DESCRIPTION Switzerland Luzern @
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=UCgLr29bxO8
+#DESCRIPTION Switzerland Rheinfall @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=C03Itx8iSC0
 #DESCRIPTION Taiwan 1 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=Ndo_8RuefH4
