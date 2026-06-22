@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.894 - 21.06.26 - 2.910 cam - @=is moving - @@=multiple link
+#NAME Prenj SF Ver.895 - 22.06.26 - 2.897 cam - @=is moving - @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8
@@ -51,8 +51,8 @@
 #DESCRIPTION Cres Mali Lošinj centar 705 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_ilovik01.m3u8
 #DESCRIPTION Cres Mali Lošinj Ilovik Sveti Petar 601 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mlosinj01.m3u8
-#DESCRIPTION Cres Mali Lošinj marina 701 wx \c00ffff00 ## 16.05.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_mlosinj01.m3u8
+#DESCRIPTION Cres Mali Lošinj marina 601 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_osor01.m3u8
 #DESCRIPTION Cres Mali Lošinj Osor 401 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mlosinj02.m3u8
@@ -142,11 +142,11 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_koprivnica01.m3u8
 #DESCRIPTION Koprivnica 701 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_lumbarda01.m3u8
-#DESCRIPTION Korčula plaža Prvi Žal Lumbarda 501 wx \c00ffff00 ## 19.06.26 OFF
+#DESCRIPTION Korčula plaža Prvi Žal Lumbarda 501 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_racisce01.m3u8
 #DESCRIPTION Korčula Račišće 401 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_korc3.m3u8
-#DESCRIPTION Korčula Tri Žala 53 wx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Korčula Tri Žala 53 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_vluka01.m3u8
 #DESCRIPTION Korčula Vela Luka 601 wx \c00ffff00 ## 19.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_korcula.m3u8
@@ -164,7 +164,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webcam.marina-punat.hr/webcam/B6South/stream.m3u8
 #DESCRIPTION Krk Punat marina B6South tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_krk02.m3u8
-#DESCRIPTION Krk riva 302 wx
+#DESCRIPTION Krk riva 302 wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_krk03.m3u8
 #DESCRIPTION Krk Vela Placa 603 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_labin01.m3u8
@@ -198,11 +198,11 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_novivinodolski2.m3u8
 #DESCRIPTION Novi Vinodolski marina i lučica 62 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_klenovica1.m3u8
-#DESCRIPTION Novi Vinodolski Marina Klenovica 31 wx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Novi Vinodolski Marina Klenovica 31 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_buildnavitech02.m3u8
-#DESCRIPTION Novi Vinodolski Mitan Marina 302 wx
+#DESCRIPTION Novi Vinodolski Mitan Marina 302 wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_buildnavitech01.m3u8
-#DESCRIPTION Novi Vinodolski Mitan Marina 401 wx
+#DESCRIPTION Novi Vinodolski Mitan Marina 401 wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_novivinodolski4.m3u8
 #DESCRIPTION Novi Vinodolski panoramska 34 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_povile01.m3u8
@@ -334,7 +334,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_tkon02.m3u8
 #DESCRIPTION Pašman Tkon lučica 102 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_tkon01.m3u8
-#DESCRIPTION Pašman Tkon marina 601 wx \c00ffff00 ## 16.05.26 OFF
+#DESCRIPTION Pašman Tkon marina 601 wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_tkon05.m3u8
 #DESCRIPTION Pašman Tkon panoramska kamera 605 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_tkon08.m3u8
@@ -362,7 +362,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevoVrh/PlatakRadesevoVrh.stream/playlist.m3u8
 #DESCRIPTION Platak Radeševo vrh tx \c00ffff00 ## 02.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/hrvatska/licko-senjska-zupanija/plitvicka-jezera/plitvice-lakes-national-park.html
-#DESCRIPTION Plitvice sx
+#DESCRIPTION Plitvice sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_ploce02.m3u8
 #DESCRIPTION Ploče Sportski centar Močvara 202 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_drasnice01.m3u8
@@ -375,8 +375,8 @@
 #DESCRIPTION Požega Trg Svetog Trojstva 201 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//cdn-003.whatsupcams.com/hls/hr_prizna01.m3u8
 #DESCRIPTION Prizna trajektno pristanište 301 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_pula03.m3u8
-#DESCRIPTION Pula Arena Amfiteatar 203 wx \c00ffff00 ## 16.05.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_pula03.m3u8
+#DESCRIPTION Pula Arena Amfiteatar 703 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pula01.m3u8
 #DESCRIPTION Pula Korzo Giardini 401 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pula06.m3u8
@@ -512,11 +512,11 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_split04.m3u8
 #DESCRIPTION Split Riva Hrvatskog preporoda 404 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_buildznjan02.m3u8
-#DESCRIPTION Split Žnjan 702 wx
+#DESCRIPTION Split Žnjan 702 wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildznjan01.m3u8
 #DESCRIPTION Split Žnjan 601 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_svfjakov01.m3u8
-#DESCRIPTION Sveti Filip i Jakov 801 @ wx \c00ffff00 ## 16.05.26 OFF
+#DESCRIPTION Sveti Filip i Jakov 801 @ wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_svetvincenat01.m3u8
 #DESCRIPTION Svetvinčenat Gradski Trg panorama 601 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_svetvincenat02.m3u8
@@ -562,7 +562,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_vgorica01.m3u8
 #DESCRIPTION Velika Gorica centar 401 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_vir1.m3u8
-#DESCRIPTION Vir glavni trg 71 @ wx
+#DESCRIPTION Vir glavni trg 71 @ wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_vir3.m3u8
 #DESCRIPTION Vir plaža HD 33 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_vir2.m3u8
@@ -570,7 +570,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_visnjan01.m3u8
 #DESCRIPTION Višnjan zvjezdarnica 201 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_visnjan02.m3u8
-#DESCRIPTION Višnjan zvjezdarnica nebo 402 wx
+#DESCRIPTION Višnjan zvjezdarnica nebo 402 wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_vodice4.m3u8
 #DESCRIPTION Vodice HD 44 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_vodice3.m3u8
@@ -614,9 +614,9 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_sljeme3.m3u8
 #DESCRIPTION Zagreb Sljeme Bistra Gornja i Donja 73 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_sljeme2.m3u8
-#DESCRIPTION Zagreb Sljeme Vidikovac 52 wx
+#DESCRIPTION Zagreb Sljeme Vidikovac 52 wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildsljeme01.m3u8
-#DESCRIPTION Zagreb Sljeme žičara 1.030m 601 wx
+#DESCRIPTION Zagreb Sljeme žičara 1.030m 601 wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_zlarin1.m3u8
 #DESCRIPTION Zlarin marina 61 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_blatozivogosce.m3u8
@@ -740,7 +740,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/zenica_cam.m3u8
 #DESCRIPTION Zenica bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/zenica_panorama.m3u8
-#DESCRIPTION Zenica panorama bx
+#DESCRIPTION Zenica panorama bx @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/smetovi_cam.m3u8
 #DESCRIPTION Zenica Smetovi bx
 #SERVICE 1:64:4:0:0:0:0:0:0:0::=== North Macedonia ===
@@ -810,7 +810,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_krvavec7.m3u8
 #DESCRIPTION Krvavec RTC 67 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_krvavec3.m3u8
-#DESCRIPTION Krvavec vrh gore 53 wx
+#DESCRIPTION Krvavec vrh gore 53 wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/si_ljzoo10.m3u8
 #DESCRIPTION Ljubljana zoološki vrt lavovi 510 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/si_mbpohorje11.m3u8
@@ -852,7 +852,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_piran05.m3u8
 #DESCRIPTION Piran Villa Piranesi 205 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_rogla1.m3u8
-#DESCRIPTION Planja 31 wx \c00ffff00 ## 19.06.26 OFF
+#DESCRIPTION Planja 31 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/si_polhovgradec01.m3u8
 #DESCRIPTION Polhov Gradec 601 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/slovenija/primorska/portoroz/portoroz-plaza.html
@@ -864,7 +864,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_ljpz1.m3u8
 #DESCRIPTION Portorož Zračna luka 41 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/si_predjama01.m3u8
-#DESCRIPTION Postojna Predjamski dvorac 201 wx
+#DESCRIPTION Postojna Predjamski dvorac 201 wx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/si_dandi01.m3u8
 #DESCRIPTION Rogla apartmani Dandi Jurgovo @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/si_rogla9.m3u8
@@ -1042,7 +1042,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//badbleiberg.it-wms.com/clip_current_720p.mp4
 #DESCRIPTION Bad Bleiberg @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/austria/tyrol/ebbs/ebbs.html
-#DESCRIPTION Ebbs @ sx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Ebbs @ sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/austria/tyrol/ebbs/eislaufplatz.html
 #DESCRIPTION Ebbs Funpark sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/austria/tyrol/ebbs/ebbs-zahmer-kaiser.html
@@ -1124,7 +1124,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/bolivia/cercado/cochabamba/plaza-14-de-septiembre.html
 #DESCRIPTION Cercado Cochabamba sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/bolivia/manco-kapac/copacabana/lago-titicaca.html
-#DESCRIPTION Copacabana lago-titicaca sx \c00ffff00 ## 16.06.26 OFF
+#DESCRIPTION Copacabana lago-titicaca sx
 #SERVICE 1:64:F:0:0:0:0:0:0:0::=== Brazil GMT-3 ===
 #DESCRIPTION === Brazil GMT-3 ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/distrito-federal/brasilia/brasilia.html
@@ -1222,7 +1222,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8091/hls/live.stream.m3u8
 #DESCRIPTION Czech 7 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/hrosi/playlist.m3u8
-#DESCRIPTION Hippos cx
+#DESCRIPTION Hippos cx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/amc/playlist.m3u8
 #DESCRIPTION Prague cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/kralovstvizeleznic/playlist.m3u8
@@ -1230,7 +1230,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vytopna/playlist.m3u8
 #DESCRIPTION Smichov railway station cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vrsovice/playlist.m3u8
-#DESCRIPTION Vršovice railway station cx
+#DESCRIPTION Vršovice railway station cx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 1:64:17:0:0:0:0:0:0:0::=== Cyprus GMT+2 ===
 #DESCRIPTION === Cyprus GMT+2 ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-promenade.html
@@ -1240,9 +1240,9 @@
 #SERVICE 1:64:18:0:0:0:0:0:0:0::=== Denmark ===
 #DESCRIPTION === Denmark ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.sob.m-dn.net/live/sb1/index.m3u8
-#DESCRIPTION Storebaelt 1 tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Storebaelt 1 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.sob.m-dn.net/live/sb2/index.m3u8
-#DESCRIPTION Storebaelt 2 tx
+#DESCRIPTION Storebaelt 2 tx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 1:64:19:0:0:0:0:0:0:0::=== Ecuador GMT-5 ===
 #DESCRIPTION === Ecuador GMT-5 ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/montanita.html
@@ -1606,7 +1606,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/makedonia/chalkidiki/afitos.html
 #DESCRIPTION Afitos - Chalkidiki sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/chania/agia-marina-beach.html
-#DESCRIPTION Agia Marina Beach sx
+#DESCRIPTION Agia Marina Beach sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/chania/agia-roumeli-sfakia.html
 #DESCRIPTION Agia Roumeli Sfakia - Crete sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/central-greece/evrytania/karpenisi.html
@@ -1644,7 +1644,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/hippocrates-square.html
 #DESCRIPTION Hippocrates Square Rhodes sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/epirus/ioannina/central-square-court-house.html
-#DESCRIPTION Ioannina - Central Square sx
+#DESCRIPTION Ioannina - Central Square sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/heraklion/kalamaki.html
 #DESCRIPTION Kalamaki Heraklion sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/kalami.html
@@ -1682,7 +1682,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/kyklades/naxos-agios-prokopios.html
 #DESCRIPTION Naxos agios sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/ionian-islands/corfu/nisaki.html
-#DESCRIPTION Nisaki - Corfu sx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Nisaki - Corfu sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/nisyros.html
 #DESCRIPTION Nisyros - Dodecanese sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/crete/chania/old-port-chania.html
@@ -1718,7 +1718,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/kyklades/port-kamares-sifnos.html
 #DESCRIPTION Port of Kamares - Sifnos sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/atiki/piraeus/port-of-piraeus.html
-#DESCRIPTION Port of Piraeus sx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Port of Piraeus sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/central-greece/skyros/skyros.html
 #DESCRIPTION Port of Skyros sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/atiki/athina/porto-rafti.html
@@ -1730,7 +1730,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-boat-tour.html
 #DESCRIPTION Rhodes Boat Tour - Kallithea Springs @ sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-international-airport.html
-#DESCRIPTION Rhodes International Airport sx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Rhodes International Airport sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-faliraki-beach.html
 #DESCRIPTION Rhodes - Faliraki Beach sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/ellada/naigaio/dodecanisa/rhodes-lindos-beach.html
@@ -1887,8 +1887,6 @@
 #DESCRIPTION Bolzano Cadipietra Valle Aurina sx \c00ffff00 ## 14.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/colfosco.html
 #DESCRIPTION Bolzano Colfosco @ sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/colfosco-bolzano.html
-#DESCRIPTION Bolzano Colfosco 2 @ sx \c00ffff00 ## 24.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/colfosco-alta-badia.html
 #DESCRIPTION Bolzano Colfosco in Alta Badia sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/colfosco-alta-badia-dolomiti.html
@@ -1930,7 +1928,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/selva-di-val-gardena-alpe-di-siusi.html
 #DESCRIPTION Bolzano Selva di Val Gardena sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/selva-di-val-gardena-dolomiti.html
-#DESCRIPTION Bolzano Selva di Val Gardena Dolomiti sx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Bolzano Selva di Val Gardena Dolomiti sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/selva-di-val-gardena-gruppo-sella.html
 #DESCRIPTION Bolzano Selva di Val Gardena Gruppo Sella sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/sesto.html
@@ -1940,7 +1938,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/speikboden.html
 #DESCRIPTION Bolzano Speikboden @ sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/selva-di-val-gardena-dolomiti.html
-#DESCRIPTION Bolzano Sëlva Dolomites sx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Bolzano Sëlva Dolomites sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/trentino-alto-adige/bolzano/selva-di-val-gardena-gruppo-sella.html
 #DESCRIPTION Bolzano Sëlva Sella Group sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/trentino-alto-adige/bolzano/val-badia-longiaru.html
@@ -2077,8 +2075,6 @@
 #DESCRIPTION Lecce Santa Cesarea Terme sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/santa-cesarea-terme-lecce.html
 #DESCRIPTION Lecce Santa Cesarea Terme 2 sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/puglia/lecce/torre-san-giovanni-ugento.html
-#DESCRIPTION Lecce Torre San Giovanni Ugento sx \c00ffff00 ## 22.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/lecco/lecco.html
 #DESCRIPTION Lecco sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lombardia/lecco/lecco-lago-di-como.html
@@ -2272,7 +2268,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/rimini.html
 #DESCRIPTION Rimini sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/bellaria-igea-marina.html
-#DESCRIPTION Rimini Bellaria-Igea Marina sx \c00ffff00 ## 19.06.26 OFF
+#DESCRIPTION Rimini Bellaria-Igea Marina sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/cattolica.html
 #DESCRIPTION Rimini Cattolica sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/emilia-romagna/rimini/cattolica-rimini.html
@@ -2292,7 +2288,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/pantheon.html
 #DESCRIPTION Roma Pantheon sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-di-spagna.html
-#DESCRIPTION Roma Piazza di Spagna sx
+#DESCRIPTION Roma Piazza di Spagna sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-navona-roma.html
 #DESCRIPTION Roma Piazza Navona sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/lazio/roma/trastevere.html
@@ -2430,7 +2426,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/it/webcam/italia/piemonte/verbania/baveno-lago-maggiore.html
 #DESCRIPTION Verbania Baveno Lago Maggiore sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/feriolo.html
-#DESCRIPTION Verbania Feriolo sx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Verbania Feriolo sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/lago-maggiore-baveno.html
 #DESCRIPTION Verbania Lake Maggiore Baveno sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/lago-maggiore-isola-san-giovanni.html
@@ -2440,19 +2436,19 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/piemonte/verbania/macugnaga-belvedere.html
 #DESCRIPTION Verbania Macugnaga Belvedere sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/arena-di-verona.html
-#DESCRIPTION Verona Arena sx
+#DESCRIPTION Verona Arena sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/bosco-chiesanuova.html
 #DESCRIPTION Verona Bosco Chiesanuova sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/ponte-castelvecchio.html
 #DESCRIPTION Verona Castelvecchio Bridge sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/balcone-giulietta-romeo.html
-#DESCRIPTION Verona Juliet s House sx
+#DESCRIPTION Verona Juliet s House sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/liston.html
-#DESCRIPTION Verona Liston sx
+#DESCRIPTION Verona Liston sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/panorama-di-verona.html
-#DESCRIPTION Verona Panorama sx
+#DESCRIPTION Verona Panorama sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/veneto/verona/verona.html
-#DESCRIPTION Verona Piazza Bra sx
+#DESCRIPTION Verona Piazza Bra sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/tropea.html
 #DESCRIPTION Vibo Valentia Tropea @ sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/italia/calabria/vibo-valentia/capo-vaticano.html
@@ -2532,7 +2528,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//213.145.140.162/cam35/stream.m3u8
 #DESCRIPTION Kyrgyzstan 35 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//213.145.140.162/cam36/stream.m3u8
-#DESCRIPTION Kyrgyzstan 36 cx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Kyrgyzstan 36 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//213.145.140.162/cam37/stream.m3u8
 #DESCRIPTION Kyrgyzstan 37 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//213.145.140.162/cam39/stream.m3u8
@@ -2559,8 +2555,6 @@
 #DESCRIPTION Ignalina cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//s1.worldcam.live%3a8081/kaunas/index.m3u8
 #DESCRIPTION Kaunas 1 4k cx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//s1.dcdn.lt/livecam/vl147.stream/playlist.m3u8
-#DESCRIPTION Katedrala cx \c00ffff00 ## 22.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//s1.dcdn.lt/live/vilnius.stream/playlist.m3u8
 #DESCRIPTION Vilnius 1 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//s1.dcdn.lt/livecam/vl108.stream/playlist.m3u8
@@ -2582,7 +2576,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/maldives/haa-dhaalu-atoll/hanimaadhoo/hanimaadhoo-maldives.html
 #DESCRIPTION Hanimaadhoo sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/maldives/lhaviyani-atoll/kurendhoo/maldives-kuredu.html
-#DESCRIPTION Kuredu sx
+#DESCRIPTION Kuredu sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/maldives/noonu-atoll/manadhoo/robinson-maldives.html
 #DESCRIPTION Manadhoo Robinson Noonu sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/maldives/alif-alif-atoll/kudafolhudhoo/kudafolhudhoo-nika-island.html
@@ -2655,14 +2649,12 @@
 #DESCRIPTION Qormi, Mdina Road Roundabout from S. Curmi & Sons sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/malta/malta/sliema/sacro-cuor-parish-church.html
 #DESCRIPTION Sliema - Sanctuary of our Lady sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam7.html
-#DESCRIPTION Sliema, Tower Road from It-Torri sx \c00ffff00 ## 16.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/malta/malta/birzebbuga/st-georges-bay-birzebbuga.html
 #DESCRIPTION St. George s Bay - Birzebbuga sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/malta/malta/st-julians/st-george-beach.html
 #DESCRIPTION St. George s Beach, St. Julian s sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/malta/malta/st-paul-s-bay/malta-st-paul-s-bay.html
-#DESCRIPTION St. Paul Bay sx
+#DESCRIPTION St. Paul Bay sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/malta/malta/valletta/grand-harbour-entrance.html
 #DESCRIPTION Valletta - Grand Harbour Entrance sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/malta/malta/valletta/st-george-square-valletta.html
@@ -3162,7 +3154,7 @@
 #SERVICE 1:64:3A:0:0:0:0:0:0:0::=== Poland ===
 #DESCRIPTION === Poland ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/wiadukt/tracks-v1/mono.m3u8
-#DESCRIPTION Aleja Wojska Polskiego  droga krajowa tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Aleja Wojska Polskiego  droga krajowa tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/czarnygron_cam_c0df65/czarnygron_cam_c0df65.stream/chunks.m3u8
 #DESCRIPTION Andrychów  Czarny Groń tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/dinolandia_cam_e38111/dinolandia_cam_e38111.stream/chunks.m3u8
@@ -3240,7 +3232,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//vm2.umig.busko.pl/webcam/cam2.m3u8
 #DESCRIPTION BuskoZdrój al. Mickiewicza tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//vm2.umig.busko.pl/webcam/cam3.m3u8
-#DESCRIPTION BuskoZdrój ul. Rzewuskiego tx
+#DESCRIPTION BuskoZdrój ul. Rzewuskiego tx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.238.55.4%3a5080/LiveApp/streams/841513345602233255031370.m3u8
 #DESCRIPTION Bystrzyca Kłodzka Kościoł tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.238.55.4%3a5080/LiveApp/streams/617581079038760246618530.m3u8
@@ -3274,7 +3266,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/czarnygron_cam_961902/czarnygron_cam_961902.stream/chunks.m3u8
 #DESCRIPTION Czarny Groń  Magiczna Osada tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/czaszyn/index.m3u8
-#DESCRIPTION Czaszyn Widok Bieszczady tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Czaszyn Widok Bieszczady tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/czestochowa_cam_18cb12/czestochowa_cam_18cb12.stream/chunks.m3u8
 #DESCRIPTION Częstochowa  Jasna Góra  Błonia jasnogórskie tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.arkomnet.eu/cisiec/tracks-v1/mono.m3u8
@@ -3300,7 +3292,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//kam1.dabrowa-gornicza.pl%3a4443/video-pkz-hires/vi.m3u8
 #DESCRIPTION Dąbrowa GórniczaPlac Wolności tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//212.244.142.80%3a1935/live/camera5.stream/chunklist_w83975183.m3u8
-#DESCRIPTION Dąbrowa Tarnowska  Piłsudskiego  droga na Tarnów tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Dąbrowa Tarnowska  Piłsudskiego  droga na Tarnów tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//online2.kamery24.org/cam/gosir2.m3u8
 #DESCRIPTION Dębica Basen GOSIR tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//online2.kamery24.org/cam/cam3.m3u8
@@ -3337,8 +3329,6 @@
 #DESCRIPTION Gdańsk Widok Na Stare Miasto tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls11.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/playlist.m3u8
 #DESCRIPTION Gdańsk Widok na Motławę inne źródło tx \c00ffff00 ## 11.06.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/poland/pomerania/gdansk/gdansk.html
-#DESCRIPTION Gdańsk sx \c00ffff00 ## 27.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/gdynia_cam_b3ccea/gdynia_cam_b3ccea.stream/playlist.m3u8
 #DESCRIPTION Gdynia Live tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/gdynia_cam_a7916a/gdynia_cam_a7916a.stream/chunks.m3u8
@@ -3390,7 +3380,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn.stream360.pl/ipcamstream360/AlarmService1/chunklist_w375149771.m3u8
 #DESCRIPTION Gródek nad Dunajcem  Jezioro Rożnowskie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/glubczyce3/tracks-v1/mono.m3u8
-#DESCRIPTION Głubczyce Panorama 2 tx
+#DESCRIPTION Głubczyce Panorama 2 tx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/glubczyce2/tracks-v1/mono.m3u8
 #DESCRIPTION GłubczycePanorama tx \c00ffff00 ## 19.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/glubczyce1/tracks-v1/mono.m3u8
@@ -3424,9 +3414,9 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.230.221.43%3a8081/hls/live.stream.m3u8
 #DESCRIPTION IwoniczZdrój  Panorama  Krosno tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Jantar_plaza_wscho/tracks-v1/mono.m3u8
-#DESCRIPTION Jantar  plaża wschód tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Jantar  plaża wschód tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Jantar_Karmazyn/index.m3u8
-#DESCRIPTION Jantar Bar KARMAZYN tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Jantar Bar KARMAZYN tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/jaroslawiec_cam_bc9f03/jaroslawiec_cam_bc9f03.stream/chunks.m3u8
 #DESCRIPTION Jarosławiec  Sztuczna plaża tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/jaroslawiec_cam_40eca5/jaroslawiec_cam_40eca5.stream/chunks.m3u8
@@ -3448,11 +3438,11 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/karpackatroja/tracks-v1/mono.m3u8
 #DESCRIPTION JasłoKarpacka Troja  Wieża widokowa tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/03jawor/tracks-v1/mono.m3u8
-#DESCRIPTION Jawor  Kościół Św Marcina i Kościół Pokoj tx \c00ffff00 ## 04.06.26 OFF
+#DESCRIPTION Jawor  Kościół Św Marcina i Kościół Pokoj tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/01jawor/tracks-v1/mono.m3u8
 #DESCRIPTION Jawor  Muzeum Regionalne tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/02jawor/tracks-v1/mono.m3u8
-#DESCRIPTION Jawor  Zamek Piastowski tx \c00ffff00 ## 04.06.26 OFF
+#DESCRIPTION Jawor  Zamek Piastowski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//6034e09794f07.streamlock.net/mckis/camera1.stream/chunklist_w1178325365.m3u8
 #DESCRIPTION Jaworzno  Obrońców września  Orląt Lwowskich tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//94.246.128.53%3a1935/mzdim/rynek2.stream/chunklist_w1713931109.m3u8
@@ -3642,17 +3632,13 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//nebula.danar.net.pl%3a8080/Danar_Kwidzyn_Plac/tracks-v1/mono.m3u8
 #DESCRIPTION Kwidzyn  Plac Jana Pawła II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Katy_Rybackie_Przekopik/tracks-v1/mono.m3u8
-#DESCRIPTION Kąty Rybackie  Przekop Mierzei Wiślanej tx \c00ffff00 ## 19.06.26 OFF
+#DESCRIPTION Kąty Rybackie  Przekop Mierzei Wiślanej tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/kedzierzynkozleplwolnosci/tracks-v1/mono.m3u8
 #DESCRIPTION Kędzierzyn Koźle  Plac Wolności tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/kety_cam_f5ce13/kety_cam_f5ce13.stream/chunks.m3u8
 #DESCRIPTION Kęty  Rynek tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/klobuck/tracks-v1/mono.m3u8
 #DESCRIPTION Kłobuck  Panorama miasta tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.238.55.4%3a5080/LiveApp/streams/565130831612622131462488.m3u8
-#DESCRIPTION Kłodzko  Panorama z Twierdzy 2 tx \c00ffff00 ## 28.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.238.55.4%3a5080/LiveApp/streams/736299437384757407792000.m3u8
-#DESCRIPTION Kłodzko  Panorama z Twierdzy 3 tx \c00ffff00 ## 28.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.238.55.4%3a5080/LiveApp/streams/434217407069384942460878.m3u8
 #DESCRIPTION Kłodzko  Panorama z Twierdzy tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hstream2.webcamera.pl/poreba_cam_e71a81/poreba_cam_e71a81.stream/playlist.m3u8
@@ -3694,53 +3680,53 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/umlebork_cam_334171/umlebork_cam_334171.stream/chunks.m3u8
 #DESCRIPTION Lębork  Rynek tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Rodla_Mickiewicza_Statoil/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Al Rodła  Mickiewicza tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Al Rodła  Mickiewicza tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Mainsoft_Plac_Slowianski/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Al Rodła  Plac Słowiański tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Al Rodła  Plac Słowiański tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Krakus_Rodla_17_Marca/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Aleja Rodła / Marca tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Aleja Rodła / Marca tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Wojska_Polskiego_1/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Aleja Wojska Polskiego  DK  kierunek Elbląg tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Aleja Wojska Polskiego  DK  kierunek Elbląg tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/MAT-POZ/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Aleja Wojska Polskiego  Nogatowa  Kosz tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Aleja Wojska Polskiego  Nogatowa  Kosz tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Dworzec_Taxi/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Dworzec PKP  Rondo Przewodników Malborka tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Dworzec PKP  Rondo Przewodników Malborka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//kamerki.malbork.pl/video/live-8.m3u8
 #DESCRIPTION Malbork  Lodowisko Miejskie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//kamerki.malbork.pl/video/live-4.m3u8
 #DESCRIPTION Malbork  Most nad rzeką Nogat tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Wiezowiec_Jasna/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Panorama tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Panorama tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Wybickiego_strazpozarna/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Państwowa Straż Pożarna tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Państwowa Straż Pożarna tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Starostwo_urzad/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Plac K Jagiellończyka tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Plac K Jagiellończyka tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/przytans_malbork/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Przystań żeglarska Park Północny tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Przystań żeglarska Park Północny tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Rondo_Sienkiewicza_Wiezowiec/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Rondo Jasna  Henryka Sienkiewicza tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Rondo Jasna  Henryka Sienkiewicza tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Lotnikow/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Rondo Lotników Polskich tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Rondo Lotników Polskich tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/MC-Rondo_Solidarnosci/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Rondo Solidarności tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Rondo Solidarności tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Mainsoft_Stary_Most/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Rzeka Nogat Stary Most tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Rzeka Nogat Stary Most tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//kamerki.malbork.pl/video/live-9.m3u8
 #DESCRIPTION Malbork  Skrzyżowanie DKz DK55 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Zawisza/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Skrzyżowanie Rodła  Mickiewicza tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Skrzyżowanie Rodła  Mickiewicza tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Wybickiego_De_Gu_straz-pozarna/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Skrzyżowanie z Wybickiego i Chodkiewicza tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Skrzyżowanie z Wybickiego i Chodkiewicza tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls15.webcamera.pl/malbork_cam_0ffc99/malbork_cam_0ffc99.stream/playlist.m3u8
 #DESCRIPTION Malbork  Widok na zamek tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Starostwo_wieza/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  Wieża Ciśnień tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  Wieża Ciśnień tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//kamerki.malbork.pl/video/live-7.m3u8
 #DESCRIPTION Malbork  Zamek Krzyżacki tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//kamerki.malbork.pl/video/live-2.m3u8
 #DESCRIPTION Malbork  ul Kościuszki tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Rydwan/tracks-v1/mono.m3u8
-#DESCRIPTION Malbork  ul WałowaBoczna tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Malbork  ul WałowaBoczna tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_szymonka/tracks-v1/mono.m3u8
 #DESCRIPTION Marina Akademia Żeglarska Klub Mila tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_lester2/tracks-v1/mono.m3u8
@@ -3818,15 +3804,15 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/kurzagora_cam_32863f/kurzagora_cam_32863f.stream/chunks.m3u8
 #DESCRIPTION Nowe Miasto Lubawskie  Kurzętnik  Ośrodek narciarski tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/ZOK_1/tracks-v1/mono.m3u8
-#DESCRIPTION Nowy Dwór Gdański  Plac przed Żuławskim Ośrokiem tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Nowy Dwór Gdański  Plac przed Żuławskim Ośrokiem tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/NDG_urzad/tracks-v1/mono.m3u8
-#DESCRIPTION Nowy Dwór Gdański  ul Ernesta Wejhera tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Nowy Dwór Gdański  ul Ernesta Wejhera tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/NDG_PKS/tracks-v1/mono.m3u8
-#DESCRIPTION Nowy Dwór Gdański  ul Morska  Michała Drzymały tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Nowy Dwór Gdański  ul Morska  Michała Drzymały tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Lososina_Dolna/index.m3u8
 #DESCRIPTION Nowy Sacz Łososina Dolna Lotnisko tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Kolegiata_NS/tracks-v1/mono.m3u8
-#DESCRIPTION Nowy Staw  Kolegiata Żuławska  ul. Kościuszki tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Nowy Staw  Kolegiata Żuławska  ul. Kościuszki tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//kamerki.malbork.pl/video/live-3.m3u8
 #DESCRIPTION Nowy Staw  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/cieniawa_cam_ad6e44/cieniawa_cam_ad6e44.stream/chunks.m3u8
@@ -3874,7 +3860,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/oswiecim_cam_f19b05/oswiecim_cam_f19b05.stream/chunks.m3u8
 #DESCRIPTION Oświęcim Rynek tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/PIASKI_Glowne/tracks-v1/mono.m3u8
-#DESCRIPTION Piaski Sklep KONIK tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Piaski Sklep KONIK tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//online2.kamery24.org/cam/pilzno.m3u8
 #DESCRIPTION Pilzno  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_pieknagora2/tracks-v1/mono.m3u8
@@ -3922,7 +3908,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/lubkowo_przystan_wies_static.stream/chunklist_w1085898377.m3u8
 #DESCRIPTION Puck  Lubkowo  Jezioro Żarnowieckie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/puck_molo_port_jachtowy_obrotowa.stream/chunklist_w1872608371.m3u8
-#DESCRIPTION Puck  Molo Port jachtowy tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Puck  Molo Port jachtowy tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/puck_molo_static.stream/chunklist_w1400657485.m3u8
 #DESCRIPTION Puck  Molo tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//ls.tkchopin.pl%3a9043/live/puck_stary_rynek_static.stream/chunklist_w868863369.m3u8
@@ -3952,11 +3938,11 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//185.124.117.134%3a8080/hls/kam03.m3u8
 #DESCRIPTION Radków  Widok Urząd Gminy tx \c00ffff00 ## 02.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//media.radymno.org%3a8080/hls/stream9.m3u8
-#DESCRIPTION Radymno  EXTRA CARP 2 tx \c00ffff00 ## 19.06.26 OFF
+#DESCRIPTION Radymno  EXTRA CARP 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//media.radymno.org%3a8080/hls/stream3.m3u8
-#DESCRIPTION Radymno  Rynek tx \c00ffff00 ## 19.06.26 OFF
+#DESCRIPTION Radymno  Rynek tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//media.radymno.org%3a8080/hls/stream5.m3u8
-#DESCRIPTION Radymno  Zbiornik wodny ZEK tx \c00ffff00 ## 19.06.26 OFF
+#DESCRIPTION Radymno  Zbiornik wodny ZEK tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//s1.worldcam.live%3a8082/rajgrod/tracks-v1a1/mono.m3u8
 #DESCRIPTION Rajgród  Jezioro Rajgrodzkie tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hoktastream1.webcamera.pl/rakoniewice_cam_e1c271/rakoniewice_cam_e1c271.stream/chunks.m3u8
@@ -4018,7 +4004,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//37.131.166.52/Glinik-Remiza/tracks-v1/mono.m3u8
 #DESCRIPTION Skwierzyna  Glinik plac zabaw tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//37.131.166.52/Lubikowo01/tracks-v1/mono.m3u8
-#DESCRIPTION Skwierzyna  Lubikowo plaża (okresowo).m3u8 tx
+#DESCRIPTION Skwierzyna  Lubikowo plaża (okresowo).m3u8 tx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//37.131.166.52/Skwierzyna001/tracks-v1a1/mono.m3u8
 #DESCRIPTION Skwierzyna  Ratusz tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//37.131.166.52/SkwierzynaNS1/tracks-v1/mono.m3u8
@@ -4050,13 +4036,13 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Stegna_Klif/tracks-v1/mono.m3u8
 #DESCRIPTION Stegna  Klif pokoje w Stegnie przy plaży tx \c00ffff00 ## 21.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Stegna_Plaza_N/tracks-v1/mono.m3u8
-#DESCRIPTION Stegna  Morze Bałtyckie  Plaża tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Stegna  Morze Bałtyckie  Plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/stegna_cam_c00d9b/stegna_cam_c00d9b.stream/chunks.m3u8
 #DESCRIPTION Stegna  Plaża tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Stegna_Plaza_Bulwar/tracks-v1/mono.m3u8
-#DESCRIPTION Stegna  Plaża: Bulwar Radiowej Jedynki tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Stegna  Plaża: Bulwar Radiowej Jedynki tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Stegna_Live_urzad/tracks-v1/mono.m3u8
-#DESCRIPTION Stegna  Widok z Urzędu Gminy tx \c00ffff00 ## 19.06.26 OFF
+#DESCRIPTION Stegna  Widok z Urzędu Gminy tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/gsoftjg/tracks-v1/mono.m3u8
 #DESCRIPTION Stok narciarski tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//176.109.165.25%3a1935/live_cam/camera.stream/chunklist_w277417053.m3u8
@@ -4112,11 +4098,11 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streaming.airmax.pl/szprotawa2/tracks-v1/mono.m3u8
 #DESCRIPTION Szprotawa  Skwer Jana Pawła II tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Sztum_rondo_urzad/tracks-v1/mono.m3u8
-#DESCRIPTION Sztum  Rondo Pod Dębami tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Sztum  Rondo Pod Dębami tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Sztum_urzad_2/tracks-v1/mono.m3u8
-#DESCRIPTION Sztum  ul. Adama Mickiewicza tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Sztum  ul. Adama Mickiewicza tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Sztutowo_wydma/tracks-v1/mono.m3u8
-#DESCRIPTION Sztutowo  plaża tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Sztutowo  plaża tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/rogowo_cam_c81371/rogowo_cam_c81371.stream/chunks.m3u8
 #DESCRIPTION Trzebiatów  Rogowo  Plaża tx \c00ffff00 ## 11.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//videocdn.km-net.pl/Tegoborze/tracks-v1/mono.m3u8
@@ -4380,7 +4366,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mazury24.eu/m_kal1/tracks-v1/mono.m3u8
 #DESCRIPTION Port Unia  Niebieska Tawerna tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.malborskieswiatlowody.pl%3a18850/Sztutowo_urzad_/tracks-v1/mono.m3u8
-#DESCRIPTION Ul. Gdańska tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Ul. Gdańska tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//stream.mat-sat.pl/str/zamek.m3u8
 #DESCRIPTION Łańcut  Zamek Lubomirskich tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hoktastream4.webcamera.pl/leba_cam_0d3c03/leba_cam_0d3c03.stream/playlist.m3u8
@@ -4709,8 +4695,6 @@
 #DESCRIPTION Murino 25 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.202.44.216%3a8080/cam58/index.m3u8
 #DESCRIPTION Murino 58 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.202.44.216%3a8080/cam109/index.m3u8
-#DESCRIPTION Murino 109 wx \c00ffff00 ## 27.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//91.202.44.216%3a8080/cam194/index.m3u8
 #DESCRIPTION Murino 194 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cam.sibmf.ru%3a8081/hls/123684/1157313fa8717cdda7cb/playlist.m3u8
@@ -4841,8 +4825,6 @@
 #DESCRIPTION Yeysk 9 cx
 #SERVICE 1:64:3F:0:0:0:0:0:0:0::Seychelles GMT+4
 #DESCRIPTION === Seychelles GMT+4 ===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/seychelles/la-digue/anse-gaulettes/anse-gaulettes.html
-#DESCRIPTION Anse Gaulettes sx \c00ffff00 ## 04.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/seychelles/mahe/takamaka/seychelles-takamaka.html
 #DESCRIPTION Anse Parnel Takamaka sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/seychelles/mahe/takamaka/anse-parnel-takamaka.html
@@ -4915,8 +4897,6 @@
 #DESCRIPTION Slovakia 29 @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM31.stream/playlist.m3u8
 #DESCRIPTION Slovakia 31 @ tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM32.stream/playlist.m3u8
-#DESCRIPTION Slovakia 32 @ tx \c00ffff00 ## 05.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM33.stream/playlist.m3u8
 #DESCRIPTION Slovakia 33 @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM34.stream/playlist.m3u8
@@ -4932,7 +4912,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM46.stream/playlist.m3u8
 #DESCRIPTION Slovakia 46 @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM47.stream/playlist.m3u8
-#DESCRIPTION Slovakia 47 @ tx
+#DESCRIPTION Slovakia 47 @ tx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM48.stream/playlist.m3u8
 #DESCRIPTION Slovakia 48 @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//stream.profi-net.sk%3a1935/tmr/STREAM50.stream/playlist.m3u8
@@ -5065,12 +5045,10 @@
 #DESCRIPTION Alicante Playa de la Almadraba @ sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/cataluna/barcelona/playa-sant-sebastia.html
 #DESCRIPTION Barcelona Sant Sebastià Beach sx \c00ffff00 ## 21.06.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/cataluna/barcelona/catamaran.html
-#DESCRIPTION Barcelona Tur Tur Catamaran Tour Port Olímpic sx \c00ffff00 ## 22.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/andalucia/cadiz/barbate-playa-del-carmen.html
-#DESCRIPTION Cadiz Barbate Playa del Carmen sx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Cadiz Barbate Playa del Carmen sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/de/webcam/espana/andalucia/cadiz/benamahoma.html
-#DESCRIPTION Cadiz Benamahoma sx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Cadiz Benamahoma sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/andalucia/cadiz/chiclana-de-la-frontera-fiume-iro.html
 #DESCRIPTION Cadiz Chiclana de la Frontera Iro River sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/espana/andalucia/cadiz/el-bosque.html
@@ -5235,8 +5213,6 @@
 #DESCRIPTION Cappadocia Uçhisar sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBelediye2.stream/chunklist_w1167113497.m3u8
 #DESCRIPTION Denizli @ tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBozdagUst.stream/chunklist_w945652344.m3u8
-#DESCRIPTION Denizli Kayak MerkeziMUst Istasyon tx \c00ffff00 ## 22.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbBelediye1.stream/chunklist_w282188282.m3u8
 #DESCRIPTION DenizliTemmuz Deliklicinar Sehitler Meydani2 @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/dbbLaodikya.stream/chunklist_w1187384935.m3u8
@@ -5280,7 +5256,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-kingdom/england/hereford/hereford-high-town.html
 #DESCRIPTION Hereford High Town sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//maybach.railcam.co.uk/Hythe_22835/tracks-v1a1/mono.m3u8
-#DESCRIPTION Hythe tx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Hythe tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//89.16.164.68%3a80/SVR-Kidderminster-C2_094871/index.m3u8
 #DESCRIPTION Kidderminster 2 tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/england/london/abbeyroad/?cam=abbeyroad_uk
@@ -5350,7 +5326,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/florida/fortlauderdale/everglades/?cam=everglades
 #DESCRIPTION Florida Everglades sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/florida/fortlauderdale/marina/?cam=lauderdalemarina
-#DESCRIPTION Florida Fort Lauderdale Marina sx
+#DESCRIPTION Florida Fort Lauderdale Marina sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/florida/fort-myers-beach/fort-myers-beach.html
 #DESCRIPTION Florida Fort Myers Beach sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/florida/hillsboro/?cam=hillsboro
@@ -5416,9 +5392,9 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/kentucky/covington/?cam=covington
 #DESCRIPTION Kentucky Cincinnati Covington sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=catsmeow2
-#DESCRIPTION Louisiana New Orleans t.Cats Meow Balcony sx \c00ffff00 ## 19.06.26 OFF
+#DESCRIPTION Louisiana New Orleans t.Cats Meow Balcony sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/?cam=bourbonstreet
-#DESCRIPTION Louisiana New Orleans Bourbon Street sx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Louisiana New Orleans Bourbon Street sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/maryland/baltimore/?cam=baltimoreharbor
 #DESCRIPTION Maryland Baltimore Inner Harbor sx \c00ffff00 ## 02.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/maryland/northeast/sandycove/?cam=sandycove
@@ -5458,21 +5434,19 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/nevada/las-vegas/las-vegas.html
 #DESCRIPTION Nevada Las Vegas sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/nevada/lasvegas/stadium/?cam=lvstadium
-#DESCRIPTION Nevada Las Vegas Allegiant Stadium sx \c00ffff00 ## 21.06.26 OFF
+#DESCRIPTION Nevada Las Vegas Allegiant Stadium sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/nevada/lasvegas/index.php?cam=wedding
-#DESCRIPTION Nevada Las Vegas Elvis Wedding Chapel sx
+#DESCRIPTION Nevada Las Vegas Elvis Wedding Chapel sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newjersey/atlantichighlands/?cam=atlantichighlands
 #DESCRIPTION New Jersey Atlantic Highlands sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newjersey/seasideheights/?cam=seasideheights3
-#DESCRIPTION New Jersey Cam Amusement Park View sx \c00ffff00 ## 27.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newjersey/seasideheights/?cam=seasideheights
 #DESCRIPTION New Jersey Seaside Heights Cam North View sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newjersey/seasideheights/?cam=seasideheights2
 #DESCRIPTION New Jersey Seaside Heights Cam South View sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newjersey/wildwood/?cam=wildwood
-#DESCRIPTION New Jersey Wildwood sx
+#DESCRIPTION New Jersey Wildwood sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/nevada/lasvegas/skyline/?cam=lasvegas
-#DESCRIPTION New Mexico South Las Vegas sx
+#DESCRIPTION New Mexico South Las Vegas sx \c00ffff00 ## 22.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/indianlake/bluemountainlake/?cam=bluemountainlake2
 #DESCRIPTION New York Blue Mountain Lake Pond View sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/brooklynbridge/?cam=gzcchd
@@ -5493,10 +5467,6 @@
 #DESCRIPTION New York Statue of Liberty Crown sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/statueofliberty/?cam=liberty_hd
 #DESCRIPTION New York Statue of Liberty Harbor sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/timessquare/?cam.m3u8
-#DESCRIPTION New York Times Square Crossroads sx \c00ffff00 ## 05.05.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/newyork/timessquare/?cam=tsstreet
-#DESCRIPTION New York Times Square Street sx \c00ffff00 ## 14.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//5a5f765a4fcc2.streamlock.net%3a1935/live/kbstreet.stream/playlist.m3u8
 #DESCRIPTION North Carolina Kure Beach Street cx \c00ffff00 ## 02.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//5a5f765a4fcc2.streamlock.net%3a1936/live/spp.stream/chunklist.m3u8
@@ -5511,8 +5481,6 @@
 #DESCRIPTION Oregon Yaquina Bay Newport Coast sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/pennsylvania/pittsburgh/warhol/?cam=warhol_figmentstream
 #DESCRIPTION Pennsylvania Andy Warhol Figment sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/usa/pennsylvania/philadelphia/?cam=philly
-#DESCRIPTION Pennsylvania Philadelphia sx \c00ffff00 ## 14.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/united-states/rhode-island/east-greenwich/greenwich-cove-marina.html
 #DESCRIPTION Rhode Island Greenwich Cove Marina sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//reservations.palmettodunes.com/live/SCMBasin.stream/playlist.m3u8
@@ -5569,8 +5537,6 @@
 #DESCRIPTION === Zanzibar GMT+3 ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-north/kiwengwa/kiwengwa.html
 #DESCRIPTION Kiwengwa sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-north/kiwengwa/kiwengwa-beach.html
-#DESCRIPTION Kiwengwa Beach sx \c00ffff00 ## 22.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-central-south/michamvi/michamvi-pingwe.html
 #DESCRIPTION Michamvi-Pingwe Beach sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-north/nungwi/zanzibar-nungwi.html
@@ -5580,33 +5546,33 @@
 #SERVICE 1:64:4E:0:0:0:0:0:0:0::=== YOUTUBE ===
 #DESCRIPTION === YOUTUBE ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=p3GyODpWR-M
-#DESCRIPTION Brela @@
+#DESCRIPTION Brela
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=0wHWHAFnNh0
-#DESCRIPTION Hvar @ @@
+#DESCRIPTION Hvar @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=JPahVtdQLu8
-#DESCRIPTION Jahorina TV @@
+#DESCRIPTION Jahorina TV @ \c00ffff00 ## 21.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=_Rr2Fs51v6A
 #DESCRIPTION Kopaonik @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=-Huu1iNTpfk
-#DESCRIPTION Kranjska Gora @@
+#DESCRIPTION Kranjska Gora
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=t_Lx1stFaXE
-#DESCRIPTION Međugorje @@
+#DESCRIPTION Međugorje
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=1ISGOTKsCDE
-#DESCRIPTION Ohridsko jezero @@
+#DESCRIPTION Ohridsko jezero
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=SIihW0koOZw
-#DESCRIPTION Planica @@
+#DESCRIPTION Planica
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=f_kvIQwpzWY
 #DESCRIPTION Plaški @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=upOiG0CMlnw
-#DESCRIPTION Primošten @@
+#DESCRIPTION Primošten
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=FoNglL6eS6Y
-#DESCRIPTION Sjenica @@
+#DESCRIPTION Sjenica
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=yO5FU_n0e3E
-#DESCRIPTION Skopje Vodno @@
+#DESCRIPTION Skopje Vodno
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=hYQlXd6eM1Y
 #DESCRIPTION Vrnjačka Banja @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=5uZa3-RMFos
-#DESCRIPTION Australia Sydney @@
+#DESCRIPTION Australia Sydney
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=NIuO6hrFTrg
 #DESCRIPTION Austria Feratel @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=G_PCMh479tE
@@ -5616,41 +5582,43 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=-Xtz0Jo5Ln8
 #DESCRIPTION Brazil @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=rxyNjFKwzJA
-#DESCRIPTION Canada Vancouver @ @@
+#DESCRIPTION Canada Vancouver
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=5YdpSJN0G0s
+#DESCRIPTION Chile San Antonio
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=q9mvsNeDAh4
 #DESCRIPTION Denmark @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=F0GOOP82094
-#DESCRIPTION Denmark Aarlborg Wildlife In The Forest @@
+#DESCRIPTION Denmark Aarlborg Wildlife In The Forest
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=IZhDwv4dz0g
-#DESCRIPTION Denmark Greenland Nuuk Airport North @@
+#DESCRIPTION Denmark Greenland Nuuk Airport North
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=MApnQlsX5AQ
-#DESCRIPTION Denmark Greenland Nuuk Airport South @@
+#DESCRIPTION Denmark Greenland Nuuk Airport South
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=uR_XJZ6L0PI
-#DESCRIPTION Denmark Greenland Sisimiut Airport Southeast @@
+#DESCRIPTION Denmark Greenland Sisimiut Airport Southeast
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=rvtygG4n6ew
-#DESCRIPTION Earthquake Monitoring @@
+#DESCRIPTION Earthquake Monitoring
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=QO-hO_kwwmY
-#DESCRIPTION England Ferry Southampton to Cowes Isle @@
+#DESCRIPTION England Ferry Southampton to Cowes Isle
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=VhVgZi2lGv0
-#DESCRIPTION Estonia Talin @@
+#DESCRIPTION Estonia Talin
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=zmv6NPLg91U
 #DESCRIPTION Europe @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=Ss4UMyrvNYM
 #DESCRIPTION Finnland @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=LMZQ7eFhm58
-#DESCRIPTION Finnland Helsinki @ @@
+#DESCRIPTION Finnland Helsinki @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=X7tdyNFpp1g
-#DESCRIPTION Finnland Kylanakyma @@
+#DESCRIPTION Finnland Kylanakyma
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=Cp4RRAEgpeU
-#DESCRIPTION Finnland Rovaniemi Santa Claus Village @@
+#DESCRIPTION Finnland Rovaniemi Santa Claus Village
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=LwihxyJ4V20
-#DESCRIPTION Finnland Zero Point Levi @ @@
+#DESCRIPTION Finnland Zero Point Levi @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=IRqboacDNFg
-#DESCRIPTION Germany Berlin Alexanderplatz @ @@
+#DESCRIPTION Germany Berlin Alexanderplatz @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=Li3Dvqlo5uE
 #DESCRIPTION Germany Feratel @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=OmyDLXvaus4
-#DESCRIPTION Germany Hamburg Michel @ @@
+#DESCRIPTION Germany Hamburg Michel @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=dLro-DLV9nA
 #DESCRIPTION Germany Now @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=aYtgGjMDagw
@@ -5660,21 +5628,21 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=5p-s-1453Us
 #DESCRIPTION Greece @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=Gzl2M_eGpfM
-#DESCRIPTION Greece Kos Island Harbour @@
+#DESCRIPTION Greece Kos Island Harbour
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=iws3rh5vLAQ
 #DESCRIPTION Hawaii Kilauea Volcano
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=gm2YafWT-pk
 #DESCRIPTION Iceland @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=qkSvU9j4kqM
-#DESCRIPTION Iceland Volcano @@
+#DESCRIPTION Iceland Volcano
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=oxx7MqjhOpw
-#DESCRIPTION Ireland Dublin Bay @@
+#DESCRIPTION Ireland Dublin Bay
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=K_ye7QHXosQ
-#DESCRIPTION Ireland Dublin Port City @@
+#DESCRIPTION Ireland Dublin Port City
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=jy3fkOBIolk
-#DESCRIPTION Ireland Dublin Port Poolbeg Lighthouse @@
+#DESCRIPTION Ireland Dublin Port Poolbeg Lighthouse
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=3nyPER2kzqk
-#DESCRIPTION Ireland Dublin Temple Bar @@
+#DESCRIPTION Ireland Dublin Temple Bar
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=wMT2aNcP4Wg
 #DESCRIPTION Italy @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=Y1qp-EVF_oU
@@ -5684,31 +5652,35 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=rVLCmSXhXtg
 #DESCRIPTION Japan @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=GrEEoEmmrKs
-#DESCRIPTION Japan Kusatsu Onsen @@
+#DESCRIPTION Japan Kusatsu Onsen
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=jLm26eRhrWg
 #DESCRIPTION Japan Now @@
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=DjdUEyjx8GM
+#DESCRIPTION Japan Tokyo Shinjuku Kabukicho
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=ydYDqZQpim8
 #DESCRIPTION Namibia 1
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=AeMUdOPFcXI
 #DESCRIPTION Namibia 2
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=vytmBNhc9ig
-#DESCRIPTION NASA 1 @@
+#DESCRIPTION NASA 1 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=fO9e9jnhYK8
-#DESCRIPTION NASA 2 @@
+#DESCRIPTION NASA 2 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=6erj7ooA6CM
-#DESCRIPTION Nepal Annapurna Base Camp @@
+#DESCRIPTION Nepal Annapurna Base Camp
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=kaRVui_uXa8
-#DESCRIPTION Nepal Lukla @@
+#DESCRIPTION Nepal Lukla
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=J4oNJrCzyzU
 #DESCRIPTION New Zealand Now @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=nFozEhYTEMo
-#DESCRIPTION Niederlande Rotterdam @@
+#DESCRIPTION Niederlande Rotterdam
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=z_5NCwXPSqM
 #DESCRIPTION Norway @@
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=yMSc-qqW3To
+#DESCRIPTION Norway Geirangerfjord cruise port
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=iXLaEkB3J0I
-#DESCRIPTION Norway Nordkapp @ @@
+#DESCRIPTION Norway Nordkapp @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=tAWFO8_O_7M
-#DESCRIPTION Norway Railway Winter @ @@
+#DESCRIPTION Norway Railway Winter @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=uxC7Gf0_MwM
 #DESCRIPTION Poland Beaches @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=Rn_ga4yXkME
@@ -5722,77 +5694,79 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=GoCh3Rw2fH4
 #DESCRIPTION Portugal Madeira Island 2 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=LSR8zU4uVv0
-#DESCRIPTION Portugal Madeira Island 3 @ @@
+#DESCRIPTION Portugal Madeira Island 3 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=45wxTsNFPXw
-#DESCRIPTION Portugal Porto @ @@
+#DESCRIPTION Portugal Porto @
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=UoqI-CdDGIs
+#DESCRIPTION Romania Codlea
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=tHf8xbUNlTU
 #DESCRIPTION Russia @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=fUsJZTHeZn4
-#DESCRIPTION Russia St Petersburg @@
+#DESCRIPTION Russia St Petersburg 1
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//rutube.ru/video/746aa7922a210086f18daff094a5e63d
-#DESCRIPTION Russia St Petersburg 2 @ @@
+#DESCRIPTION Russia St Petersburg 2
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//rutube.ru/video/d7e9422167f785e111c880e44ad76428
-#DESCRIPTION Russia St Petersburg 3 @ @@
+#DESCRIPTION Russia St Petersburg 3 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=dhVzWNos718
-#DESCRIPTION Russia St Petersburg 4 @ @@
+#DESCRIPTION Russia St Petersburg 4 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//rutube.ru/video/92e79cc0d122fb94647b79d4e7778773
-#DESCRIPTION Russia St Petersburg 5 @@
+#DESCRIPTION Russia St Petersburg 5
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=2occtpoOu_w
-#DESCRIPTION Scotland Fort William @@
+#DESCRIPTION Scotland Fort William
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=X7_o1eJmOLA
-#DESCRIPTION Scotland Fort William wide view @@
+#DESCRIPTION Scotland Fort William wide view
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=6V39eDpTyas
 #DESCRIPTION Slovakia @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=khhdEM2Q_68
-#DESCRIPTION South Africa @ @@
+#DESCRIPTION South Africa @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=IRnB5WLfcE0
 #DESCRIPTION South America @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=-7LdvUqVw50
 #DESCRIPTION South Korea Seoul @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=P28De9FyTrM
-#DESCRIPTION South Korea Seoul Namsan Tower 4K LIVE @@
+#DESCRIPTION South Korea Seoul Namsan Tower
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=NHRDdaH4LpU
 #DESCRIPTION Spain @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=S9KFOIA8uDQ
-#DESCRIPTION St.Maarten Maho Beach Plane Spotting Aitport @
+#DESCRIPTION St.Maarten Maho Beach Plane Spotting Airport @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=YlMYlOjhF9U
 #DESCRIPTION Sweden @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=agY6ZaM1G_o
-#DESCRIPTION Sweden Stockholm @@
+#DESCRIPTION Sweden Stockholm
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=DWr3Kga5InM
-#DESCRIPTION Sweden Travel by train @ @@
+#DESCRIPTION Sweden Travel by train @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=RXKT2POJbfY
-#DESCRIPTION Switzerland 🇨🇭 4K-Fahrt @ @@
+#DESCRIPTION Switzerland 🇨🇭 Fahrt @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=enYFXf8u7Lc
 #DESCRIPTION Switzerland Feratel @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=jtLh8BdmHUU
-#DESCRIPTION Switzerland Hotel Basel @@
+#DESCRIPTION Switzerland Hotel Basel
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=QIt1FaDMnQc
-#DESCRIPTION Switzerland Luzern @ @@
+#DESCRIPTION Switzerland Luzern @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=UCgLr29bxO8
-#DESCRIPTION Switzerland Rheinfall @ @@
+#DESCRIPTION Switzerland Rheinfall @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=C03Itx8iSC0
-#DESCRIPTION Taiwan 1 @ @@
+#DESCRIPTION Taiwan 1 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=Ndo_8RuefH4
-#DESCRIPTION Taiwan 2 @ @@
+#DESCRIPTION Taiwan 2 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=z_fY1pj1VBw
-#DESCRIPTION Taiwan 3 @ @@
+#DESCRIPTION Taiwan 3 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=fP4ecxfsJos
-#DESCRIPTION Taiwan 4 @ @@
+#DESCRIPTION Taiwan 4 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=Veq52FdYk0s
 #DESCRIPTION Turkey Relaxing Anatolian Mystic Music 7/24 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=K2gBg7jjhIc
 #DESCRIPTION United Kingdom @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=wDaV8EkYHmk
-#DESCRIPTION United Kingdom London Bus Rides 💫 DIGEST @ @@
+#DESCRIPTION United Kingdom London Bus Rides 💫 DIGEST @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=e2gC37ILQmk
-#DESCRIPTION Ukraine 1 @@
+#DESCRIPTION Ukraine 1
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=xXomJLcxWI8
-#DESCRIPTION Ukraine 2 @@
+#DESCRIPTION Ukraine 2
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=4qR2gThhpT0
-#DESCRIPTION Ukraine 3 @@
+#DESCRIPTION Ukraine 3
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=NKRsMov7s7s
-#DESCRIPTION Ukraine 4 @@
+#DESCRIPTION Ukraine 4
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=CIX9Epsgf4Q
 #DESCRIPTION USA @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=pisk_b_LjBU
