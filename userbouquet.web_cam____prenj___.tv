@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.896 - 24.06.26 - 2.909 cam - @=is moving - @@=multiple link
+#NAME Prenj SF Ver.897 - 26.06.26 - 2.911 cam - @=is moving - @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8
@@ -303,6 +303,8 @@
 #DESCRIPTION Pag lučica 103 wx \c00ffff00 ## 24.06.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mandre1.m3u8
 #DESCRIPTION Pag Mandre Kolan 71 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_mandre4.m3u8
+#DESCRIPTION Pag Mandre Plaža 84 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_mandre2.m3u8
 #DESCRIPTION Pag Mandre Villa Violeta 32 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_metajna01.m3u8
@@ -507,6 +509,8 @@
 #DESCRIPTION Split Matejuška 70 wx \c00ffff00 ## 04.05.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_splitbacvice01.m3u8
 #DESCRIPTION Split Plaža Bačvice 401 wx \c00ffff00 ## 09.06.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_podstrana01.m3u8
+#DESCRIPTION Split Podstrana 401 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_split07.m3u8
 #DESCRIPTION Split Prokurative Riva 607 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_split04.m3u8
@@ -5639,8 +5643,8 @@
 #DESCRIPTION Iceland @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=qkSvU9j4kqM
 #DESCRIPTION Iceland Volcano 1
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=2cuBHHFe0GU
-#DESCRIPTION Iceland Volcano 2
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=-nyXSeI0sBg
+#DESCRIPTION Iceland Volcano 2 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=oxx7MqjhOpw
 #DESCRIPTION Ireland Dublin Bay
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=K_ye7QHXosQ
@@ -5705,10 +5709,10 @@
 #DESCRIPTION Poland Cities @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=W3Y2T66t--Y
 #DESCRIPTION Poland Mountains @@
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=VbDwJxGlZ5k
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=MTczfN3ANUM
 #DESCRIPTION Portugal Lisbon @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=f6D3Zq6J5A8
-#DESCRIPTION Portugal Madeira Island @@
+#DESCRIPTION Portugal Madeira Island 1 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=GoCh3Rw2fH4
 #DESCRIPTION Portugal Madeira Island 2 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=LSR8zU4uVv0
