@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.900 - 05.07.26 - 2.915 cam - @=is moving - @@=multiple link
+#NAME Prenj SF Ver.901 - 08.07.26 - 2.923 cam - @=is moving - @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8
@@ -4827,7 +4827,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//195.110.52.71/cam8/stream.m3u8
 #DESCRIPTION Yeysk 8 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//195.110.52.71/cam9/stream.m3u8
-#DESCRIPTION Yeysk 9 cx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:Yeysk 9 cx
 #SERVICE 1:64:3F:0:0:0:0:0:0:0::Seychelles GMT+4
 #DESCRIPTION === Seychelles GMT+4 ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/seychelles/mahe/takamaka/seychelles-takamaka.html
@@ -5828,3 +5828,17 @@
 #DESCRIPTION World 10 Cities 2 @@
 #SERVICE 1:64:4F:0:0:0:0:0:0:0::=== TEST ===
 #DESCRIPTION === TEST ===
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=84a04qlFLU4
+#DESCRIPTION Redovi na crpki nakon napada na rafineriju Omsk
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=KxG8U3gJSmo
+#DESCRIPTION Snimke vozača koji čekaju u redovima na crpkama
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=eqdtrEZbJsA
+#DESCRIPTION Moskva - Gužve i redovi za gorivo na crpkama
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=8d2fd195-ddb6-4241-b515-36271912174b
+#DESCRIPTION Yakutsk Mozhayskyjeva ulica 31
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=3be6b20d-de8f-4cb2-898c-f4479e4141ae
+#DESCRIPTION Yakutsk Viljujski trakt, 4 km, 6G
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=aced4386-edb2-4fb7-b5af-62e1158e0aeb
+#DESCRIPTION Yakutsk Benzinska postaja u Zhataiju
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=01ff488c-3cd3-46fa-90a5-a59f7da10b06
+#DESCRIPTION Yakutsk Benzinska postaja br. 2: Avenija M. Nikolajeva 16a.
