@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.904 - 17.07.26 - 3.077 cam - @=is moving - @@=multiple link
+#NAME Prenj SF Ver.905 - 19.07.26 - 3.076 cam - @=is moving - @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8
@@ -187,9 +187,8 @@
 #DESCRIPTION Murter Centar Uvala Hramina 302 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_nasice01.m3u8
 #DESCRIPTION Našice 701 4K wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_nin.m3u8
-#DESCRIPTION Nin plaža pokojnog jajca 70 wx
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_nin.m3u8
+#DESCRIPTION Nin plaža pokojnog jajca 70 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_nin02.m3u8
 #DESCRIPTION Nin Spomenik knezu Branimiru 602 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_novivinodolski1.m3u8
@@ -4648,6 +4647,8 @@
 #DESCRIPTION Krasnoyarsk 7621 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//krkvideo7.orionnet.online/cam7622/index.m3u8
 #DESCRIPTION Krasnoyarsk 7622 cx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//cam.a-telecom.ru/Lensk/tracks-v1/index.fmp4.m3u8
+#DESCRIPTION Lensk ax
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls.m-ten.ru/hls/1/live.m3u8
 #DESCRIPTION Mezdurecensk 1 ax
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//hls.m-ten.ru/hls/2/live.m3u8
@@ -4862,10 +4863,6 @@
 #DESCRIPTION Vladikavkaz 3 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//catchup.videoline.ru/cam4/index.m3u8
 #DESCRIPTION Vladikavkaz 4 cx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//flussonic2.powernet.com.ru%3a444/user10588/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
-#DESCRIPTION Volgograd 10588 ax
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//flussonic2.powernet.com.ru%3a444/user10685/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
-#DESCRIPTION Volgograd 10685 ax
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//flussonic2.powernet.com.ru%3a444/user12070/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
 #DESCRIPTION Volgograd 12070 ax
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//flussonic2.powernet.com.ru%3a444/user12216/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
@@ -5134,14 +5131,8 @@
 #DESCRIPTION Volgograd 99228 ax
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//flussonic2.powernet.com.ru%3a444/user99987/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
 #DESCRIPTION Volgograd 99987 ax
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=8d2fd195-ddb6-4241-b515-36271912174b
-#DESCRIPTION Yakutsk Mozhayskyjeva ulica 31 ax
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=3be6b20d-de8f-4cb2-898c-f4479e4141ae
-#DESCRIPTION Yakutsk Viljujski trakt ax
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=aced4386-edb2-4fb7-b5af-62e1158e0aeb
-#DESCRIPTION Yakutsk Benzinska postaja u Zhataiju ax
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=01ff488c-3cd3-46fa-90a5-a59f7da10b06
-#DESCRIPTION Yakutsk Benzinska postaja br.2 Avenija M.Nikolajeva 16a ax
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//cam.a-telecom.ru/Ziryanka/tracks-v1/index.fmp4.m3u8
+#DESCRIPTION Ziryanka ax
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/d16c8e89-0ca1-4c5c-ad84-f657f93fb5ef/mono.m3u8
 #DESCRIPTION Yekaterinburg 1 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/a502c4d9-d320-4007-a03a-95158cd0ff34/mono.m3u8
@@ -5880,8 +5871,6 @@
 #DESCRIPTION Stone Town sx
 #SERVICE 1:64:4E:0:0:0:0:0:0:0::=== YOUTUBE ===
 #DESCRIPTION === YOUTUBE ===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=p3GyODpWR-M
-#DESCRIPTION Brela \c00ffff00 ## 14.07.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=0wHWHAFnNh0
 #DESCRIPTION Hvar @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=GSnw45j83WE
@@ -5916,7 +5905,7 @@
 #DESCRIPTION Austria PanoCloud and EU @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=-Xtz0Jo5Ln8
 #DESCRIPTION Brazil @@
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=yCeQueusZxs
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=fc3PVTtlQlI
 #DESCRIPTION Brazil Porto Alegre Airport
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=yCeQueusZxs
 #DESCRIPTION Brazil Porto Alegre GUAÍBA
@@ -6071,7 +6060,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=khhdEM2Q_68
 #DESCRIPTION South Africa @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=mn6uXpKIgDw
-#DESCRIPTION South America @@
+#DESCRIPTION South America @@ \c00ffff00 ## 19.07.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=-7LdvUqVw50
 #DESCRIPTION South Korea Seoul @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=0v8x5wyXeB8
@@ -6120,7 +6109,7 @@
 #DESCRIPTION Ukraine 2
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=IcZ-7sFi1HM
 #DESCRIPTION Ukraine 3
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=NKRsMov7s7s
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=AbBuSNMWBlQ
 #DESCRIPTION Ukraine 4
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=uY29Vmpptn4
 #DESCRIPTION USA @@
@@ -6152,3 +6141,13 @@
 #DESCRIPTION World 10 Cities 2 @@
 #SERVICE 1:64:4F:0:0:0:0:0:0:0::=== TEST ===
 #DESCRIPTION === TEST ===
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//flussonic2.powernet.com.ru%3a444/user10588/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
+#DESCRIPTION Volgograd 10588 ax
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=8d2fd195-ddb6-4241-b515-36271912174b
+#DESCRIPTION Yakutsk Mozhayskyjeva ulica 31 ax
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=3be6b20d-de8f-4cb2-898c-f4479e4141ae
+#DESCRIPTION Yakutsk Viljujski trakt ax
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=aced4386-edb2-4fb7-b5af-62e1158e0aeb
+#DESCRIPTION Yakutsk Benzinska postaja u Zhataiju ax
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=01ff488c-3cd3-46fa-90a5-a59f7da10b06
+#DESCRIPTION Yakutsk Benzinska postaja br.2 Avenija M.Nikolajeva 16a ax
