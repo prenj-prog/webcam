@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.907 - 25.07.26 - 3.106 cam - @=is moving - @@=multiple link
+#NAME Prenj SF Ver.908 - 27.07.26 - 3.092 cam - @=is moving - @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8
@@ -891,16 +891,8 @@
 #DESCRIPTION Šempeter pri Gorici 702 @ wx
 #SERVICE 1:64:6:0:0:0:0:0:0:0::=== Serbia ===
 #DESCRIPTION === Serbia ===
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/autobuska-stanica/playlist.m3u8
-#DESCRIPTION Beograd Autobuska Stanica tx \c00ffff00 ## 29.03.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/autokomanda/playlist.m3u8
-#DESCRIPTION Beograd Autokomanda tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/idea/playlist.m3u8
-#DESCRIPTION Beograd Bežanijska kosa tx \c00ffff00 ## 29.03.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zemun-glavna/playlist.m3u8
-#DESCRIPTION Beograd Glavna ulica u Zemunu tx \c00ffff00 ## 29.03.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/obilic/playlist.m3u8
-#DESCRIPTION Beograd Gospodara Vučića tx \c00ffff00 ## 29.03.26 OFF
+#DESCRIPTION Beograd Autokomanda(Franš) tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/adamost-mkonak/playlist.m3u8
 #DESCRIPTION Beograd Isključenje sa Mosta na Adi tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/jur1-gargarina/playlist.m3u8
@@ -913,38 +905,18 @@
 #DESCRIPTION Beograd Kneza Miloša tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/london-2/playlist.m3u8
 #DESCRIPTION Beograd Kralja Milana London tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/camera-sc2/playlist.m3u8
-#DESCRIPTION Beograd Kružni tok Opština Novi Beograd tx \c00ffff00 ## 29.03.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija/playlist.m3u8
-#DESCRIPTION Beograd Kružni tok Slavija tx \c00ffff00 ## 29.03.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/bip-pivara/playlist.m3u8
-#DESCRIPTION Beograd Mostarska petlja Gazela tx \c00ffff00 ## 24.07.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija2/playlist.m3u8
-#DESCRIPTION Beograd Nemanjina ulica tx \c00ffff00 ## 29.03.26 OFF
+#DESCRIPTION Beograd Mostarska petlja(Gazela) tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/posta-lakat/playlist.m3u8
 #DESCRIPTION Beograd Lakat krivina Nova Galenika tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/bubanj-potok/playlist.m3u8
 #DESCRIPTION Beograd Obilaznica Bubanj potok tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/pancevac/playlist.m3u8
-#DESCRIPTION Beograd Pančevački most tx \c00ffff00 ## 29.03.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/dobanovci-petlja/playlist.m3u8
-#DESCRIPTION Beograd Petlja Dobanovci tx \c00ffff00 ## 27.06.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/postanska-stedionica/playlist.m3u8
-#DESCRIPTION Beograd Poštanska štedionica tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/rakovica/playlist.m3u8
 #DESCRIPTION Beograd Rakovički bulevar tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/sc-usce/playlist.m3u8
 #DESCRIPTION Beograd Sava Centar Milentija Popovića tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/camera-sc/playlist.m3u8
 #DESCRIPTION Beograd Sava Centar most Gazela tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/savski-trg/playlist.m3u8
-#DESCRIPTION Beograd Savski Trg tx \c00ffff00 ## 29.03.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/trg-republike/playlist.m3u8
-#DESCRIPTION Beograd Trg Republike tx \c00ffff00 ## 29.03.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zarkovo/playlist.m3u8
-#DESCRIPTION Beograd Trgovačka ulica Žarkovo tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zeleni-venac/playlist.m3u8
-#DESCRIPTION Beograd Zeleni venac tx \c00ffff00 ## 29.03.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//srbija-nadlanu.ott.solutions/srbija-nadlanu/zmaj-pumpa/playlist.m3u8
 #DESCRIPTION Beograd Zmaj tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.devnet.rs/hls/autokomanda.m3u8
@@ -4878,7 +4850,7 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-Sanatoriy_Oktyabrskiy/playlist.m3u8
 #DESCRIPTION Sochi Oktyabrsky Sanatorium cx \c00ffff00 ## 24.07.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-mysvidnyi-PTZ/playlist.m3u8
-#DESCRIPTION Sochi Panoramic view from Sanatorium Mys Vidny cx
+#DESCRIPTION Sochi Panoramic view from Sanatorium Mys Vidny @ cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-parallelnaya9-1/playlist.m3u8
 #DESCRIPTION Sochi Parallel Street cx \c00ffff00 ## 24.07.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//fl.tvintel.info%3a8443/mix-pasechnaya45/playlist.m3u8
@@ -5929,14 +5901,14 @@
 #DESCRIPTION Sochi Batumskoye Shosse 69/5 cx \c00ffff00 ## 24.07.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//flussonic2.powernet.com.ru%3a444/user10588/tracks-v1/mono.m3u8
 #DESCRIPTION Volgograd 10588 ax \c00ffff00 ## 24.07.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8
-#DESCRIPTION Yakutsk Mozhayskyjeva ulica 31 ax \c00ffff00 ## 24.07.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8
-#DESCRIPTION Yakutsk Viljujski trakt ax \c00ffff00 ## 24.07.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8
-#DESCRIPTION Yakutsk Benzinska postaja u Zhataiju ax \c00ffff00 ## 24.07.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8
-#DESCRIPTION Yakutsk Benzinska postaja br.2 Avenija M.Nikolajeva 16a ax \c00ffff00 ## 24.07.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=8d2fd195-ddb6-4241-b515-36271912174b
+#DESCRIPTION Yakutsk Mozhayskyjeva ulica 31 1 ax
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=01ff488c-3cd3-46fa-90a5-a59f7da10b06
+#DESCRIPTION Yakutsk Benzinska postaja br.2 Avenija M.Nikolajeva 16a ax 
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=3be6b20d-de8f-4cb2-898c-f4479e4141ae
+#DESCRIPTION Yakutsk Benzinska postaja u Zhataiju 3 ax
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//streamer.camera.rt.ru/public/variant.m3u8?sid=aced4386-edb2-4fb7-b5af-62e1158e0aeb
+#DESCRIPTION Yakutsk Viljujski trakt 4 ax
 #SERVICE 1:64:4F:0:0:0:0:0:0:0::=== YOUTUBE ===
 #DESCRIPTION === YOUTUBE ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=0wHWHAFnNh0
@@ -5961,7 +5933,7 @@
 #DESCRIPTION Sjenica
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=yO5FU_n0e3E
 #DESCRIPTION Skopje Vodno
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=Z7EHjAV8bqs
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=uP_BjisBoec
 #DESCRIPTION Vrnjačka Banja @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//www.youtube.com/watch?v=5uZa3-RMFos
 #DESCRIPTION Australia Sydney
