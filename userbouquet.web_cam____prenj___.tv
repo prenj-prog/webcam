@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.915 - 10.08.26 - 3.079 cam - @=is moving - @@=multiple link
+#NAME Prenj SF Ver.916 - 12.08.26 - 3.073 cam - @=is moving - @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_bale03.m3u8
@@ -57,8 +57,8 @@
 #DESCRIPTION Cres Mali Lošinj Osor 401 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mlosinj02.m3u8
 #DESCRIPTION Cres Mali Lošinj panorama 702 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_mlosinj06.m3u8
-#DESCRIPTION Cres Mali Lošinj panorama Škverić 306 wx @
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3A//cdn-003.whatsupcams.com/hls/hr_mlosinj06.m3u8:Cres Mali Lošinj panorama Škverić 306 @ wx
+#DESCRIPTION Cres Mali Lošinj panorama Škverić 306 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_mlosinj08.m3u8
 #DESCRIPTION Cres Mali Lošinj Riva lošinjskih kapetana 308 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-005.whatsupcams.com/hls/hr_mlosinj04.m3u8
@@ -159,8 +159,8 @@
 #DESCRIPTION Križevci 401 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webcam.marina-punat.hr/webcam/A3North/stream.m3u8
 #DESCRIPTION Krk Punat marina A3North tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/hr_krk02.m3u8
-#DESCRIPTION Krk riva 302 wx \c00ffff00 ## 10.08.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3A//cdn-003.whatsupcams.com/hls/hr_krk02.m3u8:Krk riva 302 wx
+#DESCRIPTION Krk riva 302 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_krk03.m3u8
 #DESCRIPTION Krk Vela Placa 603 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_labin01.m3u8
@@ -221,31 +221,31 @@
 #DESCRIPTION Ogulin Đulin ponor 207 wx \c00ffff00 ## 04.08.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_omis01.m3u8
 #DESCRIPTION Omiš ušće Cetine 201 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Odbojka/Odbojka.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Odbojka/Odbojka.stream/chunklist.m3u8
 #DESCRIPTION Opatija Ičići Odbojka tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Icici/Icici.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Icici/Icici.stream/chunklist.m3u8
 #DESCRIPTION Opatija Ičići Privezište @ tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Ika_Boat/Ika_Boat.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Ika_Boat/Ika_Boat.stream/chunklist.m3u8
 #DESCRIPTION Opatija Ika luka @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_ika01.m3u8
 #DESCRIPTION Opatija Ika Pogled na lučicu i svjetla Opatije 601 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/M_Tita_101/M_Tita_101.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/M_Tita_101/M_Tita_101.stream/chunklist.m3u8
 #DESCRIPTION Opatija Kvarner ulaz tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Centar/Lovran_Centar.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Centar/Lovran_Centar.stream/chunklist.m3u8
 #DESCRIPTION Opatija Lovran centar tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Medveja/Medveja.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Medveja/Medveja.stream/chunklist.m3u8
 #DESCRIPTION Opatija Lovran Medveja luka @ tx \c00ffff00 ## 04.08.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Lucica/Lovran_Lucica.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Lucica/Lovran_Lucica.stream/chunklist.m3u8
 #DESCRIPTION Opatija Lovran luka @ tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Centar2/Lovran_Centar2.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Lovran_Centar2/Lovran_Centar2.stream/chunklist.m3u8
 #DESCRIPTION Opatija Lovran stari grad tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Zert_Mul/Zert_Mul.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Zert_Mul/Zert_Mul.stream/chunklist.m3u8
 #DESCRIPTION Opatija Luka @ tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Park_Jakov/Park_Jakov.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Park_Jakov/Park_Jakov.stream/chunklist.m3u8
 #DESCRIPTION Opatija Lungomare Park Sv. Jakov @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_mdraga04.m3u8
 #DESCRIPTION Opatija Mošćenička Draga centar 704 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/MDraga_Mul/MDraga_Mul.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/MDraga_Mul/MDraga_Mul.stream/chunklist.m3u8
 #DESCRIPTION Opatija Mošćenička Draga luka @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_brsec01.m3u8
 #DESCRIPTION Opatija Mošćenička Draga plaža Brseč 201 wx
@@ -255,29 +255,29 @@
 #DESCRIPTION Opatija Mošćenička Draga plaža Sv. Ivan 603 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_mdraga01.m3u8
 #DESCRIPTION Opatija Mošćenička Draga lučica i Sipar 401 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Advent_Opatija2/Advent_Opatija2.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Advent_Opatija2/Advent_Opatija2.stream/chunklist.m3u8
 #DESCRIPTION Opatija Park Angiolina muzički paviljon tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Ucka_Poklon/Ucka_Poklon.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Ucka_Poklon/Ucka_Poklon.stream/chunklist.m3u8
 #DESCRIPTION Opatija Poklon Učka @ tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Preluk/Preluk.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Preluk/Preluk.stream/chunklist.m3u8
 #DESCRIPTION Opatija Preluk Ribolovno društvo @ tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Slatina_Palace/Slatina_Palace.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Slatina_Palace/Slatina_Palace.stream/chunklist.m3u8
 #DESCRIPTION Opatija Slatina hotel Palace Bellevue tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Slatina_Promet/Slatina_Promet.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Slatina_Promet/Slatina_Promet.stream/chunklist.m3u8
 #DESCRIPTION Opatija Šetalište Lungomare Pančera tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Madona/Madona.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Madona/Madona.stream/chunklist.m3u8
 #DESCRIPTION Opatija Šetalište Lungomare Slatina tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Trznica_Op/Trznica_Op.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Trznica_Op/Trznica_Op.stream/chunklist.m3u8
 #DESCRIPTION Opatija Tržnica tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Veprinac/Veprinac.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Veprinac/Veprinac.stream/chunklist.m3u8
 #DESCRIPTION Opatija Veprinac crkva Sv.Marko tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Park_Angiolina/Park_Angiolina.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Park_Angiolina/Park_Angiolina.stream/chunklist.m3u8
 #DESCRIPTION Opatija Villa Angiolina tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/VoloskoSvjetionik/VoloskoSvjetionik.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/VoloskoSvjetionik/VoloskoSvjetionik.stream/chunklist.m3u8
 #DESCRIPTION Opatija Volosko Črnikovica @ tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/VoloskoMul/VoloskoMul.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/VoloskoMul/VoloskoMul.stream/chunklist.m3u8
 #DESCRIPTION Opatija Volosko luka @ tx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Volosko_Surfing/Volosko_Surfing.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Volosko_Surfing/Volosko_Surfing.stream/chunklist.m3u8
 #DESCRIPTION Opatija Volosko Preluk @ tx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/Preluk/Preluk.stream/chunklist.m3u8
 #DESCRIPTION Opatija Volosko Preluk privezište @ tx
@@ -351,13 +351,13 @@
 #DESCRIPTION Pelješac Viganj Surf plaža 44 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_pirovac01.m3u8
 #DESCRIPTION Pirovac centar i riva 401 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakPark/PlatakPark.stream/playlist.m3u8
-#DESCRIPTION Platak Parking cx \c00ffff00 ## 01.08.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakBaby/PlatakBaby.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3A//wowza.3tcable.hr/PlatakPark/PlatakPark.stream/chunklist.m3u8:Platak Parking cx
+#DESCRIPTION Platak Parking cx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakBaby/PlatakBaby.stream/chunklist.m3u8
 #DESCRIPTION Platak Pribenis dolina cx \c00ffff00 ## 30.07.26 OFF
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevo/PlatakRadesevo.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevo/PlatakRadesevo.stream/chunklist.m3u8
 #DESCRIPTION Platak Radeševo dno cx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevoVrh/PlatakRadesevoVrh.stream/playlist.m3u8
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//wowza.3tcable.hr/PlatakRadesevoVrh/PlatakRadesevoVrh.stream/chunklist.m3u8
 #DESCRIPTION Platak Radeševo vrh cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_ploce02.m3u8
 #DESCRIPTION Ploče Sportski centar Močvara 202 wx
@@ -507,10 +507,10 @@
 #DESCRIPTION Split Prokurative Riva 607 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_split04.m3u8
 #DESCRIPTION Split Riva Hrvatskog preporoda 804 wx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_buildznjan02.m3u8
-#DESCRIPTION Split Žnjan 702 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_buildznjan01.m3u8
 #DESCRIPTION Split Žnjan 601 wx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-007.whatsupcams.com/hls/hr_buildznjan02.m3u8
+#DESCRIPTION Split Žnjan 702 wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-008.whatsupcams.com/hls/hr_svfjakov01.m3u8
 #DESCRIPTION Sveti Filip i Jakov 801 @ wx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-006.whatsupcams.com/hls/hr_svetvincenat01.m3u8
@@ -707,6 +707,8 @@
 #DESCRIPTION Sarajevo Dolac Malta @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/rtv_dom_cam.m3u8
 #DESCRIPTION Sarajevo Novi Grad @ bx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/sff_rc_cam.m3u8
+#DESCRIPTION Sarajevo SFF Red Carpet @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/skenderija_cam.m3u8
 #DESCRIPTION Sarajevo Skenderija @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/trg_bih_cam.m3u8
@@ -733,8 +735,6 @@
 #DESCRIPTION Vogosca @ bx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/zavidovici_cam.m3u8
 #DESCRIPTION Zavidovici @ bx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/zenica_cam.m3u8
-#DESCRIPTION Zenica bx \c00ffff00 ## 22.03.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/zenica_panorama.m3u8
 #DESCRIPTION Zenica panorama bx @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//webtvstream.bhtelecom.ba/smetovi_cam.m3u8
@@ -1043,8 +1043,8 @@
 #DESCRIPTION === Bolivia GMT-4 ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/bolivia/cercado/cochabamba/plaza-14-de-septiembre.html
 #DESCRIPTION Cercado Cochabamba sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/bolivia/manco-kapac/copacabana/lago-titicaca.html
-#DESCRIPTION Copacabana lago-titicaca sx \c00ffff00 ## 08.08.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3A//127.0.0.1%3A8088/www.skylinewebcams.com/en/webcam/bolivia/manco-kapac/copacabana/lago-titicaca.html:Copacabana lago-titicaca sx
+#DESCRIPTION Copacabana lago-titicaca sx
 #SERVICE 1:64:F:0:0:0:0:0:0:0::=== Brazil GMT-3 ===
 #DESCRIPTION === Brazil GMT-3 ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/distrito-federal/brasilia/brasilia.html
@@ -1059,8 +1059,8 @@
 #DESCRIPTION Morro de São Paulo Gamboa sx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/bahia/porto-seguro/porto-seguro.html
 #DESCRIPTION Porto Seguro sx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/brasil/bahia/prado/praia-de-guaratiba.html
-#DESCRIPTION Prado Bahia sx \c00ffff00 ## 07.08.26 OFF
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3A//127.0.0.1%3A8088/www.skylinewebcams.com/en/webcam/brasil/bahia/prado/praia-de-guaratiba.html:Prado Bahia sx
+#DESCRIPTION Prado Bahia sx
 #SERVICE 1:64:10:0:0:0:0:0:0:0::=== British Virgin Islands ===
 #DESCRIPTION === British Virgin Islands ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.earthcam.com/world/britishvirginislands/tortola/?cam=scrubisland
@@ -1137,8 +1137,6 @@
 #DESCRIPTION Czech 6 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//185.15.109.62%3a8091/hls/live.stream.m3u8
 #DESCRIPTION Czech 7 cx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/hrosi/playlist.m3u8
-#DESCRIPTION Hippos cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/amc/playlist.m3u8
 #DESCRIPTION Prague cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//live.idnes.cz/slow/vrsovice/playlist.m3u8
@@ -4895,7 +4893,6 @@
 #DESCRIPTION Vladivostok 28512 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//hls7.vladlink.ru/live/vlcam_28516/playlist.m3u8
 #DESCRIPTION Vladivostok 28516 cx
-                                    https://flussonic2.powernet.com.ru:444/user89378/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//flussonic2.powernet.com.ru%3a444/user12070/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
 #DESCRIPTION Volgograd 12070 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//flussonic2.powernet.com.ru%3a444/user12216/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
@@ -5166,8 +5163,6 @@
 #DESCRIPTION Volgograd 99987 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//dvr.usinsknet.ru%3a8081/hls/716/eb2c2d5b05e93ba125ef/playlist.m3u8
 #DESCRIPTION Усинск Church of the Resurrection ax
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//cam.a-telecom.ru/Ziryanka/tracks-v1/index.m3u8
-#DESCRIPTION Ziryanka cx \c00ffff00 ## 24.07.26 OFF
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/d16c8e89-0ca1-4c5c-ad84-f657f93fb5ef/mono.m3u8
 #DESCRIPTION Yekaterinburg 1 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/a502c4d9-d320-4007-a03a-95158cd0ff34/mono.m3u8
@@ -5176,14 +5171,6 @@
 #DESCRIPTION Yekaterinburg 3 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/Polevskoj.2mkr-36bb48610c/mono.m3u8
 #DESCRIPTION Yekaterinburg 4 cx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//195.110.52.71/cam2/stream.m3u8
-#DESCRIPTION Yeysk 2 cx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//195.110.52.71/cam5/stream.m3u8
-#DESCRIPTION Yeysk 5 cx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//195.110.52.71/cam8/stream.m3u8
-#DESCRIPTION Yeysk 8 cx
-#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//195.110.52.71/cam9/stream.m3u8
-#DESCRIPTION Yeysk 9 cx
 #SERVICE 1:64:3D:0:0:0:0:0:0:0::=== Seychelles GMT+4 ===
 #DESCRIPTION === Seychelles GMT+4 ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/www.skylinewebcams.com/en/webcam/seychelles/mahe/takamaka/seychelles-takamaka.html
