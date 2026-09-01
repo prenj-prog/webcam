@@ -1,4 +1,4 @@
-#NAME Prenj SF Ver.923/01.09.26 - 3.126 cam - @=is moving - @@=multiple link
+#NAME Prenj SF Ver.923a/01.09.26 - 3.126 cam - @=is moving - @@=multiple link
 #SERVICE 1:64:1:0:0:0:0:0:0:0::=== Croatia ===
 #DESCRIPTION === Croatia ===
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/hr_baskavoda5.m3u8
@@ -5253,6 +5253,8 @@
 #DESCRIPTION Volgograd 99228 cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//flussonic2.powernet.com.ru%3a444/user99987/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
 #DESCRIPTION Volgograd 99987 cx
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//cam.a-telecom.ru/Ziryanka/tracks-v1/index.fmp4.m3u8
+#DESCRIPTION Ziryanka cx
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//dvr.usinsknet.ru%3a8081/hls/716/eb2c2d5b05e93ba125ef/playlist.m3u8
 #DESCRIPTION Усинск Church of the Resurrection ax
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/d16c8e89-0ca1-4c5c-ad84-f657f93fb5ef/mono.m3u8
@@ -6105,6 +6107,8 @@
 #DESCRIPTION Japan Now @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=DjdUEyjx8GM
 #DESCRIPTION Japan Tokyo Shinjuku Kabukicho
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=GQRnp3GLx1U
+#DESCRIPTION Kyrgyzstan Bishkek
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=ydYDqZQpim8
 #DESCRIPTION Namibia 1
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=AeMUdOPFcXI
@@ -6163,14 +6167,22 @@
 #DESCRIPTION Russia Samara @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=fUsJZTHeZn4
 #DESCRIPTION Russia St Petersburg 1
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//rutube.ru/video/746aa7922a210086f18daff094a5e63d
+#DESCRIPTION Russia St Petersburg 2
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//rutube.ru/video/d7e9422167f785e111c880e44ad76428
+#DESCRIPTION Russia St Petersburg 3 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=dhVzWNos718
 #DESCRIPTION Russia St Petersburg 4 @
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:YT-DLP%3a//https%3a//rutube.ru/video/92e79cc0d122fb94647b79d4e7778773
+#DESCRIPTION Russia St Petersburg 5
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=2occtpoOu_w
 #DESCRIPTION Scotland Fort William
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=X7_o1eJmOLA
 #DESCRIPTION Scotland Fort William wide view
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=6V39eDpTyas
 #DESCRIPTION Slovakia @@
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=qpukdDslCjk
+#DESCRIPTION South Africa Safari @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=-7LdvUqVw50
 #DESCRIPTION South Korea Seoul @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=0v8x5wyXeB8
@@ -6182,7 +6194,9 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=agY6ZaM1G_o
 #DESCRIPTION Sweden Stockholm
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=g9Rc_zZiEnI
-#DESCRIPTION Switzerland 4K @@
+#DESCRIPTION Switzerland @@
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=F2u-MIRhWBk
+#DESCRIPTION Switzerland 2 @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=enYFXf8u7Lc
 #DESCRIPTION Switzerland Feratel @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=iCxfe27HpaY
@@ -6203,6 +6217,10 @@
 #DESCRIPTION Taiwan 3 @
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=fP4ecxfsJos
 #DESCRIPTION Taiwan 4 @
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=B6eki-0-w0g
+#DESCRIPTION Taiwan Alishan Fenqihu
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=dY2cRNr5Buw
+#DESCRIPTION Taiwan Alishan Taiping Suspension Bridge
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=IYECFt__t2A
 #DESCRIPTION Turkey Istanbul @@
 #SERVICE 5002:0:1:0:0:0:0:0:0:0:streamlink%3a//https%3a//www.youtube.com/watch?v=K2gBg7jjhIc
